@@ -1896,10 +1896,10 @@ msgid "Back"
 msgstr "Tillbaka"
 
 msgid "Back to Support"
-msgstr ""
+msgstr "Tillbaka till support"
 
 msgid "Back to disks"
-msgstr ""
+msgstr "Tillbaka till diskar"
 
 msgid ""
 "Back up the encryption key now! If the key is lost, the data on the disks "
@@ -1910,7 +1910,7 @@ msgid ""
 msgstr "Säkerhetskopiera krypteringsnyckeln nu! Om nyckeln förloras går också data på diskarna förlorade utan möjlighet till återställning. Klicka på <b>Download Encryption Key</b> för att börja hämtningen. Denna kryptering är avsedd för användare som lagrar känsliga data. iXsystems, Inc. kan inte hållas ansvarigt för data som förloras eller inte kan återställas till följd av att funktionen används."
 
 msgid "Backend"
-msgstr ""
+msgstr "Backend"
 
 msgid ""
 "Backend used to map Windows security  identifiers (SIDs) to UNIX UIDs and "
@@ -1918,64 +1918,64 @@ msgid ""
 msgstr ""
 
 msgid "Background (lowest)"
-msgstr ""
+msgstr "Bakgrund (lägst)"
 
 msgid "Background 1"
-msgstr ""
+msgstr "Bakgrund 1"
 
 msgid "Background 2"
-msgstr ""
+msgstr "Bakgrund 2"
 
 msgid "Bandwidth"
-msgstr ""
+msgstr "Bandbredd"
 
 msgid "Bandwidth Limit"
-msgstr ""
+msgstr "Bandbreddsgräns"
 
 msgid "Base DN"
-msgstr ""
+msgstr "Bas-DN"
 
 msgid "Base Name"
-msgstr ""
+msgstr "Basnamn"
 
 msgid "Base64 encoded key for the Azure account."
 msgstr "Base64-kodad nyckel för Azure-kontot."
 
 msgid "Basejail"
-msgstr ""
+msgstr "Bas-jail"
 
 msgid "Basic"
-msgstr ""
+msgstr "Grundläggande"
 
 msgid "Basic Buttons"
-msgstr ""
+msgstr "Grundläggande knappar"
 
 msgid "Basic Constraints"
-msgstr ""
+msgstr "Grundläggande begränsningar"
 
 msgid "Basic Constraints Config"
-msgstr ""
+msgstr "Konfiguration av grundläggande begränsningar"
 
 msgid "Basic Info"
-msgstr ""
+msgstr "Grundläggande information"
 
 msgid "Basic Mode"
-msgstr ""
+msgstr "Grundläggande läge"
 
 msgid "Basic Options"
-msgstr ""
+msgstr "Grundläggande alternativ"
 
 msgid "Basic Properties"
-msgstr ""
+msgstr "Grundläggande egenskaper"
 
 msgid "Batch Operations"
-msgstr ""
+msgstr "Batchåtgärder"
 
 msgid "Before updating, please read the release notes."
-msgstr ""
+msgstr "Läs versionsanteckningarna innan du uppdaterar."
 
 msgid "Begin"
-msgstr ""
+msgstr "Börja"
 
 msgid ""
 "Beginning in 2013, Apple began using the SMB sharing protocol as the "
@@ -1985,28 +1985,28 @@ msgid ""
 msgstr ""
 
 msgid "Berkeley Packet Filter"
-msgstr ""
+msgstr "Berkeley Packet Filter"
 
 msgid "Best effort (default)"
-msgstr ""
+msgstr "Bästa möjliga (standard)"
 
 msgid "Bind"
-msgstr ""
+msgstr "Bind"
 
 msgid "Bind DN"
-msgstr ""
+msgstr "Bind-DN"
 
 msgid "Bind IP Addresses"
 msgstr "Bind IP-adresser"
 
 msgid "Bind Interfaces"
-msgstr ""
+msgstr "Bind gränssnitt"
 
 msgid "Bind Password"
 msgstr "Bindningslösenord"
 
 msgid "Bind to"
-msgstr ""
+msgstr "Bind till"
 
 msgid "Bind to Port"
 msgstr "Bind till port"
@@ -2015,13 +2015,13 @@ msgid "Block Shares (iSCSI)"
 msgstr "Blockdelningar (iSCSI)"
 
 msgid "Block Size"
-msgstr ""
+msgstr "Blockstorlek"
 
 msgid "Block size"
-msgstr ""
+msgstr "Blockstorlek"
 
 msgid "Blue"
-msgstr ""
+msgstr "Blå"
 
 msgid "Boot"
 msgstr "Start"
@@ -2061,16 +2061,16 @@ msgid ""
 msgstr ""
 
 msgid "Bridge Members"
-msgstr ""
+msgstr "Bryggmedlemmar"
 
 msgid "Bridge Settings"
-msgstr ""
+msgstr "Brygginställningar"
 
 msgid "Browsable to Network Clients"
 msgstr "Bläddringsbar för nätverksklienter"
 
 msgid "Browse a Collection"
-msgstr ""
+msgstr "Bläddra i en samling"
 
 msgid "Browse to a CD-ROM file present on the system storage."
 msgstr "Bläddra till en CD-ROM-fil i systemlagringen."
@@ -2129,10 +2129,10 @@ msgid "Browse to the installer image file and click <b>Upload</b>."
 msgstr "Bläddra till installationsavbildningen och klicka på <b>Ladda upp</b>."
 
 msgid "Browse to the keytab file to upload."
-msgstr ""
+msgstr "Bläddra till keytab-filen att ladda upp."
 
 msgid "Browse to the locally saved configuration file."
-msgstr ""
+msgstr "Bläddra till den lokalt sparade konfigurationsfilen."
 
 msgid "Browse to the operating system installer image file."
 msgstr "Bläddra till operativsystemets installationsavbildning."
@@ -2155,13 +2155,13 @@ msgid "Browse to the pool or dataset to store received  data."
 msgstr "Bläddra till poolen eller datamängden där mottagna data ska lagras."
 
 msgid "Bucket"
-msgstr ""
+msgstr "Bucket"
 
 msgid "Bug"
 msgstr ""
 
 msgid "Burst"
-msgstr ""
+msgstr "Burst"
 
 msgid ""
 "By default, Samba uses a hashing algorithm for NTFS illegal  characters. "
@@ -2205,7 +2205,7 @@ msgid "CC"
 msgstr ""
 
 msgid "CD-ROM"
-msgstr ""
+msgstr "CD-ROM"
 
 msgid "CD-ROM Path"
 msgstr "CD-ROM-sökväg"
@@ -2220,10 +2220,10 @@ msgid "CN Realm"
 msgstr "CN-realm"
 
 msgid "COLORS"
-msgstr ""
+msgstr "FÄRGER"
 
 msgid "CONNECT"
-msgstr ""
+msgstr "ANSLUT"
 
 msgid "COPY TO CLIPBOARD"
 msgstr "KOPIERA TILL URKLIPP"
@@ -2244,7 +2244,7 @@ msgid "CPUs and Memory"
 msgstr "CPU:er och minne"
 
 msgid "CRL Sign"
-msgstr ""
+msgstr "CRL-signering"
 
 msgid "CSR exists on this system"
 msgstr "CSR finns på detta system"
