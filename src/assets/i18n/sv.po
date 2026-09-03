@@ -58,10 +58,10 @@ msgid " and "
 msgstr ""
 
 msgid " and will be disrupted if the pool is detached:"
-msgstr ""
+msgstr " och påverkas om poolen kopplas från:"
 
 msgid " and will be disrupted if the pool is locked:"
-msgstr ""
+msgstr " och påverkas om poolen låses:"
 
 msgid " built-in groups (default setting is <i>hidden</i>)."
 msgstr ""
@@ -183,7 +183,7 @@ msgid "(Examples: 500 KiB, 500M, 2 TB)"
 msgstr ""
 
 msgid "(Legacy Encryption)"
-msgstr ""
+msgstr "(Äldre kryptering)"
 
 msgid "(No description)"
 msgstr ""
@@ -939,7 +939,7 @@ msgid "Add Kerberos SPN Entry"
 msgstr ""
 
 msgid "Add Mountpoint"
-msgstr ""
+msgstr "Lägg till monteringspunkt"
 
 msgid "Add NFS SPN"
 msgstr ""
@@ -948,13 +948,13 @@ msgid "Add Recovery Key"
 msgstr "Lägg till återställningsnyckel"
 
 msgid "Add Vdev"
-msgstr ""
+msgstr "Lägg till vdev"
 
 msgid "Add Vdevs"
-msgstr ""
+msgstr "Lägg till vdev-enheter"
 
 msgid "Add Zvol"
-msgstr ""
+msgstr "Lägg till zvol"
 
 msgid "Add a name for the new snapshot."
 msgstr ""
@@ -8768,7 +8768,7 @@ msgid "Optional. Enter a server description."
 msgstr ""
 
 msgid "Optional: Add passphrase and recovery key"
-msgstr ""
+msgstr "Valfritt: Lägg till lösenfras och återställningsnyckel"
 
 msgid "Optional: Choose installation media image"
 msgstr ""
@@ -10779,10 +10779,10 @@ msgid ""
 msgstr ""
 
 msgid "Select the disks to decrypt."
-msgstr ""
+msgstr "Välj diskarna som ska dekrypteras."
 
 msgid "Select the disks to monitor."
-msgstr ""
+msgstr "Välj diskarna som ska övervakas."
 
 msgid ""
 "Select the group to control the dataset. Groups created manually or "
@@ -10795,7 +10795,7 @@ msgid ""
 msgstr ""
 
 msgid "Select the level of severity."
-msgstr ""
+msgstr "Välj allvarlighetsgrad."
 
 msgid ""
 "Select the locale for the MSDOSFS device to see files of that locale "
