@@ -13688,13 +13688,13 @@ msgid ""
 msgstr ""
 
 msgid "Unshare"
-msgstr ""
+msgstr "Sluta dela"
 
 msgid "Until"
 msgstr ""
 
 msgid "Upcoming tasks"
-msgstr ""
+msgstr "Kommande uppgifter"
 
 msgid "Update"
 msgstr "Uppdatera"
@@ -13766,31 +13766,31 @@ msgid "Updates successfully downloaded"
 msgstr "Uppdateringar har hämtats"
 
 msgid "Updating "
-msgstr ""
+msgstr "Uppdaterar "
 
 msgid "Updating Dataset ACL"
 msgstr "Uppdaterar ACL för datamängd"
 
 msgid "Updating Plugin"
-msgstr ""
+msgstr "Uppdaterar insticksmodul"
 
 msgid "Updating group members"
 msgstr "Uppdaterar gruppmedlemmar"
 
 msgid "Updating production status..."
-msgstr ""
+msgstr "Uppdaterar produktionsstatus …"
 
 msgid "Updating selected plugins."
-msgstr ""
+msgstr "Uppdaterar valda insticksmoduler."
 
 msgid "Upgrade Pool"
-msgstr ""
+msgstr "Uppgradera pool"
 
 msgid "Upgrade Waiting to Finish"
-msgstr ""
+msgstr "Uppgradering väntar på att slutföras"
 
 msgid "Upgraded"
-msgstr ""
+msgstr "Uppgraderad"
 
 msgid ""
 "Upgrades both controllers. Files are downloaded to the Active Controller "
@@ -13839,16 +13839,16 @@ msgid ""
 msgstr ""
 
 msgid "Uptime"
-msgstr ""
+msgstr "Drifttid"
 
 msgid "Usage"
 msgstr "Användning"
 
 msgid "Usage collection"
-msgstr ""
+msgstr "Insamling av användningsdata"
 
 msgid "Usages"
-msgstr ""
+msgstr "Användningar"
 
 msgid ""
 "Use  <a href=\"https://rclone.org/crypt/\" target=\"_blank\">rclone "
@@ -14140,22 +14140,22 @@ msgid ""
 msgstr ""
 
 msgid "Using pool "
-msgstr ""
+msgstr "Använder poolen "
 
 msgid "VLAN Addresses"
-msgstr ""
+msgstr "VLAN-adresser"
 
 msgid "VLAN ID"
-msgstr ""
+msgstr "VLAN-ID"
 
 msgid "VLAN Parent Interface"
-msgstr ""
+msgstr "Överordnat gränssnitt för VLAN"
 
 msgid "VLAN Settings"
-msgstr ""
+msgstr "VLAN-inställningar"
 
 msgid "VLAN Tag"
-msgstr ""
+msgstr "VLAN-tagg"
 
 msgid "VLANs"
 msgstr ""
@@ -14167,10 +14167,10 @@ msgid "VM Snapshot"
 msgstr "Ögonblicksbild av virtuell dator"
 
 msgid "VM Summary"
-msgstr ""
+msgstr "VM-sammanfattning"
 
 msgid "VM system time. Default is <i>Local</i>."
-msgstr ""
+msgstr "VM-systemtid. Standardvärdet är <i>Lokal</i>."
 
 msgid "VMWare Sync"
 msgstr "VMWare-synkronisering"
@@ -14179,13 +14179,13 @@ msgid "VMware Sync"
 msgstr "VMware-synkronisering"
 
 msgid "VMware-Snapshots"
-msgstr ""
+msgstr "VMware-ögonblicksbilder"
 
 msgid "VNC"
 msgstr ""
 
 msgid "VNC Port"
-msgstr ""
+msgstr "VNC-port"
 
 msgid ""
 "VNC network interface IP address. The primary interface IP address is the "
@@ -14196,10 +14196,10 @@ msgid "VNET"
 msgstr ""
 
 msgid "VNET Virtual Networking"
-msgstr ""
+msgstr "Virtuella VNET-nätverk"
 
 msgid "VNET is required."
-msgstr ""
+msgstr "VNET krävs."
 
 msgid "Valid"
 msgstr ""
@@ -14208,10 +14208,10 @@ msgid "Validate Certificates"
 msgstr "Verifiera certifikat"
 
 msgid "Validate Connection"
-msgstr ""
+msgstr "Validera anslutning"
 
 msgid "Validate Remote Path"
-msgstr ""
+msgstr "Validera fjärrsökväg"
 
 msgid "Value"
 msgstr "Värde"
@@ -14220,10 +14220,10 @@ msgid "Value must be greater than "
 msgstr "Värdet måste vara större än "
 
 msgid "Variable"
-msgstr ""
+msgstr "Variabel"
 
 msgid "Verbose logging"
-msgstr ""
+msgstr "Utförlig loggning"
 
 msgid "Verify"
 msgstr "Verifiera"
@@ -14250,10 +14250,10 @@ msgid "Version"
 msgstr "Version"
 
 msgid "Video, < 100ms latency"
-msgstr ""
+msgstr "Video, < 100 ms fördröjning"
 
 msgid "Video, < 10ms latency"
-msgstr ""
+msgstr "Video, < 10 ms fördröjning"
 
 msgid "View"
 msgstr "Visa"
@@ -14265,7 +14265,7 @@ msgid "View Logs"
 msgstr "Visa loggar"
 
 msgid "Violet"
-msgstr ""
+msgstr "Violett"
 
 msgid "Virtual CPUs"
 msgstr "Virtuella processorer"
@@ -14292,7 +14292,7 @@ msgid "Virtualization"
 msgstr "Virtualisering"
 
 msgid "Vlan Tag"
-msgstr ""
+msgstr "VLAN-tagg"
 
 msgid "Volume size cannot be zero."
 msgstr "Volymstorleken kan inte vara noll."
@@ -14324,16 +14324,16 @@ msgid "WARNING: These unknown processes will be terminated while locking the poo
 msgstr "VARNING: Dessa okända processer avslutas när poolen låses."
 
 msgid "WS-Discovery"
-msgstr ""
+msgstr "WS-Discovery"
 
 msgid "Wait to start VM until VNC client connects."
-msgstr ""
+msgstr "Vänta med att starta den virtuella datorn tills VNC-klienten ansluter."
 
 msgid "Waiting for Active TrueNAS controller to come up..."
-msgstr ""
+msgstr "Väntar på att den aktiva TrueNAS-styrenheten ska starta …"
 
 msgid "Waiting for active TrueNAS controller to come up..."
-msgstr ""
+msgstr "Väntar på att den aktiva TrueNAS-styrenheten ska starta …"
 
 msgid "Wallclock time in seconds."
 msgstr ""
