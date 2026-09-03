@@ -4273,7 +4273,7 @@ msgid "Debug could not be downloaded."
 msgstr "Felsökningsinformationen kunde inte hämtas."
 
 msgid "Dec"
-msgstr ""
+msgstr "Dec"
 
 msgid "Decipher Only"
 msgstr "Endast dekryptering"
@@ -5669,7 +5669,7 @@ msgid "Encryption options for "
 msgstr "Krypteringsalternativ för "
 
 msgid "End"
-msgstr ""
+msgstr "Slut"
 
 msgid "End User License Agreement - TrueNAS"
 msgstr "Slutanvändarlicensavtal – TrueNAS"
@@ -6864,7 +6864,7 @@ msgid "Fix database"
 msgstr "Reparera databas"
 
 msgid "Flags"
-msgstr ""
+msgstr "Flaggor"
 
 msgid "Flags Type"
 msgstr "Flaggtyp"
@@ -6960,7 +6960,7 @@ msgid "Form Invalid"
 msgstr "Ogiltigt formulär"
 
 msgid "Free"
-msgstr ""
+msgstr "Ledigt"
 
 msgid "FreeBSD"
 msgstr "FreeBSD"
@@ -6981,10 +6981,10 @@ msgstr ""
 "värdsystemet. Nyare versioner visas inte."
 
 msgid "Fri"
-msgstr ""
+msgstr "Fre"
 
 msgid "From"
-msgstr ""
+msgstr "Från"
 
 msgid ""
 "From <a  href=\"https://www.samba.org/ftp/rsync/rsyncd.conf.html\"  "
@@ -7015,7 +7015,7 @@ msgid "From Name"
 msgstr "Avsändarnamn"
 
 msgid "Full"
-msgstr ""
+msgstr "Fullständig"
 
 msgid "Full Control"
 msgstr "Fullständig kontroll"
@@ -7250,7 +7250,7 @@ msgid "Guest Operating System"
 msgstr "Gästoperativsystem"
 
 msgid "Guide"
-msgstr ""
+msgstr "Guide"
 
 msgid "HA Disabled"
 msgstr "HA inaktiverad"
@@ -7311,7 +7311,7 @@ msgid ""
 msgstr ""
 
 msgid "Hide"
-msgstr ""
+msgstr "Dölj"
 
 msgid "Hide Extra Columns"
 msgstr "Dölj extra kolumner"
