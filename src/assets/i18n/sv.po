@@ -6627,10 +6627,10 @@ msgid ""
 msgstr ""
 
 msgid "IPMI"
-msgstr ""
+msgstr "IPMI"
 
 msgid "IPMI Configuration"
-msgstr ""
+msgstr "IPMI-konfiguration"
 
 msgid "IPMI Password Reset"
 msgstr "Återställning av IPMI-lösenord"
@@ -7002,10 +7002,10 @@ msgid "Interface Description"
 msgstr "Gränssnittsbeskrivning"
 
 msgid "Interface Settings"
-msgstr ""
+msgstr "Gränssnittsinställningar"
 
 msgid "Interface changes reverted."
-msgstr ""
+msgstr "Gränssnittsändringarna återställdes."
 
 msgid "Interfaces"
 msgstr "Gränssnitt"
@@ -7034,7 +7034,7 @@ msgid ""
 msgstr ""
 
 msgid "Internetwork control"
-msgstr ""
+msgstr "Internätstyrning"
 
 msgid "Interval"
 msgstr ""
@@ -7079,10 +7079,10 @@ msgid "Invalidate Existing Key"
 msgstr "Ogiltigförklara befintlig nyckel"
 
 msgid "Is Debug"
-msgstr ""
+msgstr "Är felsökning"
 
 msgid "Issuer"
-msgstr ""
+msgstr "Utfärdare"
 
 msgid ""
 "It is not recommended to create a pool with vdevs containing different "
@@ -7315,7 +7315,7 @@ msgid "LOG (Write Cache) Overprovision Size in GiB"
 msgstr "Överallokeringsstorlek i GiB för LOG (skrivcache)"
 
 msgid "LOGIN TO PROVIDER"
-msgstr ""
+msgstr "LOGGA IN HOS LEVERANTÖREN"
 
 msgid "LUN ID"
 msgstr ""
@@ -7434,10 +7434,10 @@ msgid "Limit replication speed to this number of  bytes per second."
 msgstr "Begränsa replikeringshastigheten till detta antal byte per sekund."
 
 msgid "Link"
-msgstr ""
+msgstr "Länk"
 
 msgid "Link State"
-msgstr ""
+msgstr "Länkstatus"
 
 msgid "Linked Service"
 msgstr "Länkad tjänst"
@@ -7464,13 +7464,13 @@ msgid "List of system services to restart when the pool is unlocked."
 msgstr "Lista över systemtjänster som ska startas om när poolen har låsts upp."
 
 msgid "Listen"
-msgstr ""
+msgstr "Lyssna"
 
 msgid "Load Previous Replication Task"
 msgstr "Läs in tidigare replikeringsuppgift"
 
 msgid "Load colors from existing theme"
-msgstr ""
+msgstr "Läs in färger från befintligt tema"
 
 msgid "Local"
 msgstr ""
@@ -7548,7 +7548,7 @@ msgid "Logging Level"
 msgstr "Loggnivå"
 
 msgid "Logical Block Size"
-msgstr ""
+msgstr "Logisk blockstorlek"
 
 msgid "Login Attempts"
 msgstr "Inloggningsförsök"
@@ -7586,7 +7586,7 @@ msgid "MAC Address"
 msgstr ""
 
 msgid "MANAGE"
-msgstr ""
+msgstr "HANTERA"
 
 msgid "MOTD Banner"
 msgstr ""
@@ -7610,10 +7610,10 @@ msgid "Make Destination Dataset Read-only?"
 msgstr "Göra måldatamängden skrivskyddad?"
 
 msgid "Manage"
-msgstr ""
+msgstr "Hantera"
 
 msgid "Manage Custom Themes"
-msgstr ""
+msgstr "Hantera anpassade teman"
 
 msgid "Manage Recovery Key"
 msgstr "Hantera återställningsnyckel"
@@ -7622,19 +7622,19 @@ msgid "Manage SED Passwords"
 msgstr "Hantera SED-lösenord"
 
 msgid "Manage Services and Continue"
-msgstr ""
+msgstr "Hantera tjänster och fortsätt"
 
 msgid "Manage ZFS Keys"
 msgstr "Hantera ZFS-nycklar"
 
 msgid "Manage members of"
-msgstr ""
+msgstr "Hantera medlemmar i"
 
 msgid "Management"
-msgstr ""
+msgstr "Hantering"
 
 msgid "Manual"
-msgstr ""
+msgstr "Manuell"
 
 msgid "Manual S.M.A.R.T. Test"
 msgstr "Manuellt S.M.A.R.T.-test"
@@ -7793,7 +7793,7 @@ msgid "Member disk"
 msgstr "Medlemsdisk"
 
 msgid "Members"
-msgstr ""
+msgstr "Medlemmar"
 
 msgid ""
 "Members of this group are local admins and automatically have privileges to "
@@ -7805,13 +7805,13 @@ msgid "Memory"
 msgstr "Minne"
 
 msgid "Memory Reports"
-msgstr ""
+msgstr "Minnesrapporter"
 
 msgid "Memory Size"
-msgstr ""
+msgstr "Minnesstorlek"
 
 msgid "Memory Size (MiB)"
-msgstr ""
+msgstr "Minnesstorlek (MiB)"
 
 msgid ""
 "Memory overcommitment allows multiple VMs to be launched when there is not "
@@ -7819,7 +7819,7 @@ msgid ""
 msgstr ""
 
 msgid "Memory:"
-msgstr ""
+msgstr "Minne:"
 
 msgid "Menu Label"
 msgstr ""
@@ -7831,13 +7831,13 @@ msgid "Message verbosity level in the replication  task log."
 msgstr "Detaljnivå för meddelanden i replikeringsuppgiftens logg."
 
 msgid "Metadata"
-msgstr ""
+msgstr "Metadata"
 
 msgid "Metadata (Special) Small Block Size"
-msgstr ""
+msgstr "Liten blockstorlek för metadata (särskild)"
 
 msgid "Metadata VDev"
-msgstr ""
+msgstr "Metadata-vdev"
 
 msgid "Method"
 msgstr ""
@@ -7917,7 +7917,7 @@ msgid "Minutes when this task will run."
 msgstr "Minuter då uppgiften körs."
 
 msgid "Mirror"
-msgstr ""
+msgstr "Spegel"
 
 msgid "Mixing disks of different sizes in a vdev is not allowed."
 msgstr ""
@@ -7926,10 +7926,10 @@ msgid "Mode"
 msgstr "Läge"
 
 msgid "Model"
-msgstr ""
+msgstr "Modell"
 
 msgid "Model:"
-msgstr ""
+msgstr "Modell:"
 
 msgid "Modify"
 msgstr ""
@@ -7971,7 +7971,7 @@ msgid "More info..."
 msgstr ""
 
 msgid "Mount Points of "
-msgstr ""
+msgstr "Monteringspunkter för "
 
 msgid ""
 "Mount a <a href=\"https://www.freebsd.org/cgi/man.cgi?query=devfs\" "
@@ -8086,19 +8086,19 @@ msgid "Name Jail and Choose FreeBSD Release"
 msgstr "Namnge jail-miljön och välj FreeBSD-version"
 
 msgid "Name and Method"
-msgstr ""
+msgstr "Namn och metod"
 
 msgid "Name and Naming Schema cannot be provided at the same time."
-msgstr ""
+msgstr "Namn och namnschema kan inte anges samtidigt."
 
 msgid "Name and Options"
-msgstr ""
+msgstr "Namn och alternativ"
 
 msgid "Name and Provider"
-msgstr ""
+msgstr "Namn och leverantör"
 
 msgid "Name and Type"
-msgstr ""
+msgstr "Namn och typ"
 
 msgid ""
 "Name and port of the server that reports the  external IP address. For "
@@ -8109,7 +8109,7 @@ msgid ""
 msgstr ""
 
 msgid "Name not found"
-msgstr ""
+msgstr "Namnet hittades inte"
 
 msgid "Name of NIS domain."
 msgstr "Namn på NIS-domän."
@@ -8123,7 +8123,7 @@ msgid ""
 msgstr ""
 
 msgid "Name of the InfluxDB database."
-msgstr ""
+msgstr "Namnet på InfluxDB-databasen."
 
 msgid "Name of the WebDAV site, service, or software being used."
 msgstr "Namn på den WebDAV-webbplats, tjänst eller programvara som används."
@@ -8145,7 +8145,7 @@ msgid "Name of the new dataset created from the  cloned snapshot."
 msgstr "Namn på den nya datamängden som skapas från den klonade ögonblicksbilden."
 
 msgid "Name of the room."
-msgstr ""
+msgstr "Namnet på rummet."
 
 msgid "Name of this SSH connection. SSH connection names  must be unique."
 msgstr "Namn på denna SSH-anslutning. SSH-anslutningsnamn måste vara unika."
@@ -8154,28 +8154,28 @@ msgid "Name of this replication configuration."
 msgstr "Namn på denna replikeringskonfiguration."
 
 msgid "Name or Naming Schema is required. Only one field can be used at a time."
-msgstr ""
+msgstr "Namn eller namnschema krävs. Endast ett fält kan användas åt gången."
 
 msgid "Name or Naming Schema must be provided."
-msgstr ""
+msgstr "Namn eller namnschema måste anges."
 
 msgid "Name servers not configured"
-msgstr ""
+msgstr "Namnservrar är inte konfigurerade"
 
 msgid "Name that was created with the SMB share."
 msgstr "Namn som skapades med SMB-delningen."
 
 msgid "Nameserver 1"
-msgstr ""
+msgstr "Namnserver 1"
 
 msgid "Nameserver 2"
-msgstr ""
+msgstr "Namnserver 2"
 
 msgid "Nameserver 3"
-msgstr ""
+msgstr "Namnserver 3"
 
 msgid "Nameservers"
-msgstr ""
+msgstr "Namnservrar"
 
 msgid "Naming Schema"
 msgstr ""
@@ -8333,7 +8333,7 @@ msgid ""
 msgstr ""
 
 msgid "Newer Clone"
-msgstr ""
+msgstr "Nyare klon"
 
 msgid "Newer Intermediate, Child, and Clone"
 msgstr ""
