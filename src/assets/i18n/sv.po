@@ -13382,19 +13382,19 @@ msgid ""
 msgstr ""
 
 msgid "Toggle Collapse"
-msgstr ""
+msgstr "Växla hopfällning"
 
 msgid "Toggle Display"
-msgstr ""
+msgstr "Växla visning"
 
 msgid "Toggle Hide/Open"
-msgstr ""
+msgstr "Växla dölj/öppna"
 
 msgid "Toggle built-in groups"
-msgstr ""
+msgstr "Växla inbyggda grupper"
 
 msgid "Toggle built-in users"
-msgstr ""
+msgstr "Växla inbyggda användare"
 
 msgid ""
 "Token created with  <a "
@@ -13419,7 +13419,7 @@ msgid ""
 msgstr ""
 
 msgid "Topology"
-msgstr ""
+msgstr "Topologi"
 
 msgid "Train"
 msgstr ""
@@ -13437,7 +13437,7 @@ msgid "Transfer Mode has been reset to <i>COPY</i>."
 msgstr "Överföringsläget har återställts till <i>COPY</i>."
 
 msgid "Transfers"
-msgstr ""
+msgstr "Överföringar"
 
 msgid ""
 "Transparently reuse a single copy of duplicated  data to save space. "
@@ -13448,16 +13448,16 @@ msgid ""
 msgstr ""
 
 msgid "Transport"
-msgstr ""
+msgstr "Transport"
 
 msgid "Transport Options"
-msgstr ""
+msgstr "Transportalternativ"
 
 msgid "Traverse"
-msgstr ""
+msgstr "Genomkorsa"
 
 msgid "TrueCommand"
-msgstr ""
+msgstr "TrueCommand"
 
 msgid "TrueCommand Cloud Service"
 msgstr "TrueCommand Cloud Service"
@@ -13469,34 +13469,34 @@ msgid "TrueCommand Cloud Service has been deregistered."
 msgstr "TrueCommand Cloud Service har avregistrerats."
 
 msgid "TrueNAS Community Forums"
-msgstr ""
+msgstr "TrueNAS communityforum"
 
 msgid "TrueNAS Controller"
-msgstr ""
+msgstr "TrueNAS-styrenhet"
 
 msgid "TrueNAS Controllers"
-msgstr ""
+msgstr "TrueNAS-styrenheter"
 
 msgid "TrueNAS Documentation Site"
-msgstr ""
+msgstr "TrueNAS dokumentationswebbplats"
 
 msgid "TrueNAS URL"
-msgstr ""
+msgstr "TrueNAS-URL"
 
 msgid "TrueNAS controller"
-msgstr ""
+msgstr "TrueNAS-styrenhet"
 
 msgid "TrueNAS controllers"
-msgstr ""
+msgstr "TrueNAS-styrenheter"
 
 msgid "Tue"
 msgstr ""
 
 msgid "Tunable"
-msgstr ""
+msgstr "Justerbar parameter"
 
 msgid "Tunables"
-msgstr ""
+msgstr "Justerbara parametrar"
 
 msgid ""
 "Turn off hardware offloading  for network traffic processing. WARNING: "
@@ -13546,10 +13546,10 @@ msgid ""
 msgstr ""
 
 msgid "UNINSTALL"
-msgstr ""
+msgstr "AVINSTALLERA"
 
 msgid "UNIX Charset"
-msgstr ""
+msgstr "UNIX-teckenuppsättning"
 
 msgid "UPDATE"
 msgstr "UPPDATERA"
@@ -13561,7 +13561,7 @@ msgid "UPDATE LICENSE"
 msgstr "UPPDATERA LICENS"
 
 msgid "UPS Mode"
-msgstr ""
+msgstr "UPS-läge"
 
 msgid ""
 "URI of the ACME Server Directory. Choose a preconfigured URI or enter a "
@@ -13572,7 +13572,7 @@ msgid "URL"
 msgstr ""
 
 msgid "URL of the HTTP host to connect to."
-msgstr ""
+msgstr "URL för HTTP-värden att ansluta till."
 
 msgid "UTC"
 msgstr ""
@@ -13589,13 +13589,13 @@ msgid "Unable to download key, check network connection."
 msgstr "Det gick inte att hämta nyckeln; kontrollera nätverksanslutningen."
 
 msgid "Unable to terminate processes which are using this pool: "
-msgstr ""
+msgstr "Det går inte att avsluta processer som använder denna pool: "
 
 msgid "Unencrypted pools can be imported directly."
-msgstr ""
+msgstr "Okrypterade pooler kan importeras direkt."
 
 msgid "Unique LUN ID. The default is generated from the MAC address of the system."
-msgstr ""
+msgstr "Unikt LUN-ID. Standardvärdet genereras från systemets MAC-adress."
 
 msgid ""
 "Unique Virtual Host ID on the broadcast  segment of the network. "
@@ -13612,7 +13612,7 @@ msgid "Unique snapshot name. Cannot be used with  a <i>Naming Schema</i>."
 msgstr "Unikt namn på ögonblicksbild. Kan inte användas med ett <i>namnschema</i>."
 
 msgid "Unix NSS Info"
-msgstr ""
+msgstr "Unix NSS-information"
 
 msgid "Unix Primary Group"
 msgstr "Unix primära grupp"
@@ -13621,16 +13621,16 @@ msgid "Unix Shares (NFS)"
 msgstr "Unix-delningar (NFS)"
 
 msgid "Unkeep"
-msgstr ""
+msgstr "Sluta behålla"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Okänd"
 
 msgid "Unlock"
 msgstr "Lås upp"
 
 msgid "Unlock "
-msgstr ""
+msgstr "Lås upp "
 
 msgid "Unlock Children"
 msgstr "Lås upp underordnade"
@@ -13661,22 +13661,22 @@ msgid "Unlocking Pool"
 msgstr "Låser upp pool"
 
 msgid "Unlocking datasets for "
-msgstr ""
+msgstr "Låser upp datamängder för "
 
 msgid "Unselect All"
-msgstr ""
+msgstr "Avmarkera alla"
 
 msgid "Unset <i>Generate Encryption Key</i> to instead import a custom Hex key."
 msgstr "Avmarkera <i>Generera krypteringsnyckel</i> för att i stället importera en anpassad hex-nyckel."
 
 msgid "Unset to add a login prompt to the system before the console menu is shown."
-msgstr ""
+msgstr "Avmarkera för att lägga till en inloggningsfråga innan konsolmenyn visas."
 
 msgid "Unset to disable the configuration without deleting it."
-msgstr ""
+msgstr "Avmarkera för att inaktivera konfigurationen utan att ta bort den."
 
 msgid "Unset to disable the scheduled scrub  without deleting it."
-msgstr ""
+msgstr "Avmarkera för att inaktivera den schemalagda scrub-uppgiften utan att ta bort den."
 
 msgid "Unset to disable this service without deleting it."
 msgstr "Avmarkera för att inaktivera denna tjänst utan att ta bort den."
