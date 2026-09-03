@@ -3786,13 +3786,13 @@ msgid "Define the path to an existing zvol for VM use."
 msgstr "Ange sökvägen till en befintlig zvolym för användning i en virtuell dator."
 
 msgid "Define the server where all changes to the database are performed."
-msgstr ""
+msgstr "Ange servern där alla ändringar i databasen utförs."
 
 msgid "Define the server where all password changes are performed."
 msgstr "Ange servern där alla lösenordsändringar utförs."
 
 msgid "Define the size of the raw file in GiB."
-msgstr ""
+msgstr "Ange storleken på råfilen i GiB."
 
 msgid "Define the target as *iSCSI*, *Fibre Channel*, or *Both*."
 msgstr "Ange målet som *iSCSI*, *Fibre Channel* eller *Båda*."
@@ -3806,7 +3806,7 @@ msgid ""
 msgstr ""
 
 msgid "Delay Updates"
-msgstr ""
+msgstr "Fördröj uppdateringar"
 
 msgid "Delay VM Boot Until VNC Connects"
 msgstr "Fördröj start av virtuell dator tills VNC ansluter"
@@ -3896,10 +3896,10 @@ msgid "Deleted"
 msgstr "Borttagen"
 
 msgid "Deleting Snapshots"
-msgstr ""
+msgstr "Tar bort ögonblicksbilder"
 
 msgid "Deleting interfaces while HA is enabled is not allowed."
-msgstr ""
+msgstr "Det är inte tillåtet att ta bort gränssnitt när HA är aktiverat."
 
 msgid "Deleting the <b>"
 msgstr ""
@@ -3908,10 +3908,10 @@ msgid "Deny"
 msgstr "Neka"
 
 msgid "Deny Hosts"
-msgstr ""
+msgstr "Neka värdar"
 
 msgid "Deny List"
-msgstr ""
+msgstr "Nekalista"
 
 msgid ""
 "Deny hostnames or IP addresses access to the share.   Click <i>ADD</i> to "
@@ -3927,7 +3927,7 @@ msgid ""
 msgstr ""
 
 msgid "Deregister"
-msgstr ""
+msgstr "Avregistrera"
 
 msgid "Deregister TrueCommand Cloud Service"
 msgstr "Avregistrera TrueCommand Cloud Service"
@@ -3944,19 +3944,19 @@ msgid "Describe the scrub task."
 msgstr "Beskriv skrubbningsuppgiften."
 
 msgid "Describe this module."
-msgstr ""
+msgstr "Beskriv denna modul."
 
 msgid "Describe this service."
 msgstr "Beskriv denna tjänst."
 
 msgid "Description"
-msgstr ""
+msgstr "Beskrivning"
 
 msgid "Description (max. 25 characters)"
-msgstr ""
+msgstr "Beskrivning (högst 25 tecken)"
 
 msgid "Description (optional)."
-msgstr ""
+msgstr "Beskrivning (valfri)."
 
 msgid "Description of the VLAN."
 msgstr "Beskrivning av VLAN:et."
@@ -4017,7 +4017,7 @@ msgid "Detach disk "
 msgstr "Koppla från disk "
 
 msgid "Details"
-msgstr ""
+msgstr "Detaljer"
 
 msgid ""
 "Determine how  <a href=\"https://www.freebsd.org/cgi/man.cgi?query=chmod\" "
@@ -4087,25 +4087,25 @@ msgid "Device detached "
 msgstr "Enheten har kopplats från "
 
 msgid "Devices"
-msgstr ""
+msgstr "Enheter"
 
 msgid "Difference"
-msgstr ""
+msgstr "Skillnad"
 
 msgid "Digest Algorithm"
-msgstr ""
+msgstr "Sammandragsalgoritm"
 
 msgid "Digital Signature"
-msgstr ""
+msgstr "Digital signatur"
 
 msgid "Direct the flow of data to the remote host."
 msgstr "Styr dataflödet till fjärrvärden."
 
 msgid "Direction"
-msgstr ""
+msgstr "Riktning"
 
 msgid "Directories and Permissions"
-msgstr ""
+msgstr "Kataloger och behörigheter"
 
 msgid "Directory"
 msgstr "Katalog"
@@ -4132,10 +4132,10 @@ msgid "Disable Endpoint Region"
 msgstr "Inaktivera slutpunktsregion"
 
 msgid "Disable Failover"
-msgstr ""
+msgstr "Inaktivera redundansväxling"
 
 msgid "Disable FreeNAS Cache"
-msgstr ""
+msgstr "Inaktivera FreeNAS-cache"
 
 msgid "Disable Hardware Offloading"
 msgstr "Inaktivera hårdvaruavlastning"
@@ -4165,7 +4165,7 @@ msgid "Disable Two-Factor Authentication"
 msgstr "Inaktivera tvåfaktorsautentisering"
 
 msgid "Disable automatic failover."
-msgstr ""
+msgstr "Inaktivera automatisk redundansväxling."
 
 msgid ""
 "Disable caching LDAP users and groups in large LDAP environments.  When "
@@ -4177,7 +4177,7 @@ msgid "Disabled"
 msgstr "Inaktiverad"
 
 msgid "Disabled (Not encrypted)"
-msgstr ""
+msgstr "Inaktiverad (inte krypterad)"
 
 msgid ""
 "Disabling hardware offloading can severely reduce network performance. "
@@ -4198,7 +4198,7 @@ msgid "Discovery Authentication Group"
 msgstr "Identifieringsautentiseringsgrupp"
 
 msgid "Discovery Authentication Method"
-msgstr ""
+msgstr "Identifieringsautentiseringsmetod"
 
 msgid "Disk"
 msgstr "Disk"
@@ -4243,16 +4243,16 @@ msgid "Disks to be edited:"
 msgstr "Diskar att redigera:"
 
 msgid "Dismiss"
-msgstr ""
+msgstr "Avfärda"
 
 msgid "Dismiss All Alerts"
-msgstr ""
+msgstr "Avfärda alla larm"
 
 msgid "Display Login"
 msgstr "Visa inloggning"
 
 msgid "Display Note"
-msgstr ""
+msgstr "Visa anteckning"
 
 msgid "Display System Processes"
 msgstr "Visa systemprocesser"
@@ -4261,7 +4261,7 @@ msgid "Display console messages in real time at the bottom of the browser."
 msgstr "Visa konsolmeddelanden i realtid längst ned i webbläsaren."
 
 msgid "Distinguished Name"
-msgstr ""
+msgstr "Distinguished Name"
 
 msgid ""
 "Do <b>NOT</b> change this setting when using Windows as the initiator. Only "
@@ -4279,7 +4279,7 @@ msgid "Does the pool have GELI Encryption from FreeNAS/TrueNAS 11.3 or earlier?"
 msgstr "Har poolen GELI-kryptering från FreeNAS/TrueNAS 11.3 eller tidigare?"
 
 msgid "Does your business need"
-msgstr ""
+msgstr "Behöver din verksamhet"
 
 msgid "Domain"
 msgstr "Domän"
@@ -4306,7 +4306,7 @@ msgid ""
 msgstr ""
 
 msgid "Done"
-msgstr ""
+msgstr "Klar"
 
 msgid "Download"
 msgstr "Hämta"
@@ -4367,7 +4367,7 @@ msgid ""
 msgstr ""
 
 msgid "Dry Run"
-msgstr ""
+msgstr "Testkörning"
 
 msgid "Dry Run Cloud Sync Task"
 msgstr "Testkör molnsynkroniseringsuppgift"
@@ -4376,7 +4376,7 @@ msgid "E-mail address that will receive SNMP service messages."
 msgstr "E-postadress som ska ta emot SNMP-tjänstmeddelanden."
 
 msgid "EC Curve"
-msgstr ""
+msgstr "EC-kurva"
 
 msgid "EDIT"
 msgstr "REDIGERA"
@@ -4388,13 +4388,13 @@ msgid "ERROR: Not Enough Memory"
 msgstr "FEL: Inte tillräckligt med minne"
 
 msgid "EULA"
-msgstr ""
+msgstr "EULA"
 
 msgid "EXPIRED"
-msgstr ""
+msgstr "UTGÅNGEN"
 
 msgid "EXPIRES TODAY  "
-msgstr ""
+msgstr "UPPHÖR I DAG  "
 
 msgid "Edit"
 msgstr "Redigera"
@@ -4445,7 +4445,7 @@ msgid "Edit Zvol"
 msgstr "Redigera zvolym"
 
 msgid "Editing interfaces while HA is enabled is not allowed."
-msgstr ""
+msgstr "Det är inte tillåtet att redigera gränssnitt när HA är aktiverat."
 
 msgid ""
 "Editing top-level datasets can prevent users from accessing data in child "
@@ -4474,7 +4474,7 @@ msgid ""
 msgstr ""
 
 msgid "Emergency"
-msgstr ""
+msgstr "Nödläge"
 
 msgid ""
 "Emulating an <i>Intel e82545 (e1000)</i> Ethernet card provides "
@@ -4511,19 +4511,19 @@ msgid "Enable Active Directory"
 msgstr "Aktivera Active Directory"
 
 msgid "Enable Alternate Data Streams"
-msgstr ""
+msgstr "Aktivera alternativa dataströmmar"
 
 msgid "Enable Apple SMB2/3 Protocol Extensions"
 msgstr "Aktivera Apple SMB2/3-protokollutökningar"
 
 msgid "Enable Atime"
-msgstr ""
+msgstr "Aktivera atime"
 
 msgid "Enable Autotune"
-msgstr ""
+msgstr "Aktivera automatisk optimering"
 
 msgid "Enable Browser"
-msgstr ""
+msgstr "Aktivera webbläsare"
 
 msgid "Enable Debug Kernel"
 msgstr ""
