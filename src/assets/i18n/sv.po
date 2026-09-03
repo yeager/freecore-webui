@@ -16590,7 +16590,7 @@ msgid "boot"
 msgstr ""
 
 msgid "bytes."
-msgstr ""
+msgstr "byte."
 
 msgid "children_max"
 msgstr ""
