@@ -5781,7 +5781,7 @@ msgid "Exporting Pool"
 msgstr "Exporterar pool"
 
 msgid "Exporting/disconnecting will continue after services have been managed."
-msgstr ""
+msgstr "Exporten/frånkopplingen fortsätter efter att tjänsterna har hanterats."
 
 msgid "Expose zilstat via SNMP"
 msgstr "Exponera zilstat via SNMP"
@@ -5889,19 +5889,19 @@ msgid "Fibre Channel Ports"
 msgstr ""
 
 msgid "File Information"
-msgstr ""
+msgstr "Filinformation"
 
 msgid "File Inherit"
-msgstr ""
+msgstr "Filärvning"
 
 msgid "File Mask"
-msgstr ""
+msgstr "Filmask"
 
 msgid "File Permissions"
-msgstr ""
+msgstr "Filbehörigheter"
 
 msgid "File upload complete"
-msgstr ""
+msgstr "Filuppladdningen är klar"
 
 msgid "Filename Encryption"
 msgstr "Filnamnskryptering"
@@ -5924,25 +5924,25 @@ msgid ""
 msgstr ""
 
 msgid "Filesize"
-msgstr ""
+msgstr "Filstorlek"
 
 msgid "Filesystem type"
-msgstr ""
+msgstr "Filsystemtyp"
 
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 msgid "Filter Groups"
-msgstr ""
+msgstr "Filtrera grupper"
 
 msgid "Filter Users"
-msgstr ""
+msgstr "Filtrera användare"
 
 msgid "Filter disks by capacity"
-msgstr ""
+msgstr "Filtrera diskar efter kapacitet"
 
 msgid "Filter disks by name"
-msgstr ""
+msgstr "Filtrera diskar efter namn"
 
 msgid "Find this information later by clicking"
 msgstr ""
@@ -5994,7 +5994,7 @@ msgid "Follow symlinks and copy the items to which they link."
 msgstr "Följ symboliska länkar och kopiera de objekt som de länkar till."
 
 msgid "Force"
-msgstr ""
+msgstr "Tvinga"
 
 msgid "Force Clear"
 msgstr "Tvinga rensning"
@@ -6006,13 +6006,13 @@ msgid "Force Delete?"
 msgstr "Tvinga borttagning?"
 
 msgid "Force HDD Standby"
-msgstr ""
+msgstr "Tvinga hårddisken till vänteläge"
 
 msgid "Force Stop After Timeout"
-msgstr ""
+msgstr "Tvinga stopp efter tidsgränsen"
 
 msgid "Force size"
-msgstr ""
+msgstr "Tvinga storlek"
 
 msgid ""
 "Force the VM to stop if it has not already  stopped within the specified "
@@ -6021,7 +6021,7 @@ msgid ""
 msgstr ""
 
 msgid "Force unmount "
-msgstr ""
+msgstr "Tvinga avmontering "
 
 msgid ""
 "Force using  <a "
@@ -6120,7 +6120,7 @@ msgid ""
 msgstr ""
 
 msgid "GENERAL"
-msgstr ""
+msgstr "ALLMÄNT"
 
 msgid "GID"
 msgstr ""
@@ -6147,16 +6147,16 @@ msgid "General"
 msgstr "Allmänt"
 
 msgid "General Options"
-msgstr ""
+msgstr "Allmänna alternativ"
 
 msgid "General Preferences"
-msgstr ""
+msgstr "Allmänna inställningar"
 
 msgid "General VM Settings"
 msgstr "Allmänna inställningar för virtuell dator"
 
 msgid "Generate Debug File"
-msgstr ""
+msgstr "Generera felsökningsfil"
 
 msgid "Generate Encryption Key"
 msgstr "Generera krypteringsnyckel"
@@ -6165,16 +6165,16 @@ msgid "Generate Key"
 msgstr "Generera nyckel"
 
 msgid "Generate Keypair"
-msgstr ""
+msgstr "Generera nyckelpar"
 
 msgid "Generate MAC Address"
-msgstr ""
+msgstr "Generera MAC-adress"
 
 msgid "Generate New"
-msgstr ""
+msgstr "Generera ny"
 
 msgid "Generate Reports"
-msgstr ""
+msgstr "Generera rapporter"
 
 msgid ""
 "Generate a name for the snapshot  using the naming schema from a previously "
@@ -6189,7 +6189,7 @@ msgid ""
 msgstr ""
 
 msgid "Generate idmap low range based on same algorithm that SSSD uses by default."
-msgstr ""
+msgstr "Generera det lägre idmap-intervallet med samma algoritm som SSSD använder som standard."
 
 msgid "Get Started"
 msgstr ""
@@ -6209,16 +6209,16 @@ msgid ""
 msgstr ""
 
 msgid "Global Auxiliary Parameters"
-msgstr ""
+msgstr "Globala hjälpparametrar"
 
 msgid "Global Configuration"
-msgstr ""
+msgstr "Global konfiguration"
 
 msgid "Global Preview"
-msgstr ""
+msgstr "Global förhandsvisning"
 
 msgid "Global Settings"
-msgstr ""
+msgstr "Globala inställningar"
 
 msgid "Global password to unlock SEDs."
 msgstr "Globalt lösenord för att låsa upp SED-diskar."
@@ -6449,7 +6449,7 @@ msgid "Host name or IP address of the central key server."
 msgstr "Värdnamn eller IP-adress för den centrala nyckelservern."
 
 msgid "HostName"
-msgstr ""
+msgstr "Värdnamn"
 
 msgid "Hostname"
 msgstr "Värdnamn"
@@ -6608,7 +6608,7 @@ msgid "IDMAP"
 msgstr ""
 
 msgid "INSTALL"
-msgstr ""
+msgstr "INSTALLERA"
 
 msgid "IP Address"
 msgstr "IP-adress"
@@ -6636,25 +6636,25 @@ msgid "IPMI Password Reset"
 msgstr "Återställning av IPMI-lösenord"
 
 msgid "IPv4"
-msgstr ""
+msgstr "IPv4"
 
 msgid "IPv4 Address"
-msgstr ""
+msgstr "IPv4-adress"
 
 msgid "IPv4 Default Gateway"
-msgstr ""
+msgstr "IPv4-standardgateway"
 
 msgid "IPv4 Default Router"
-msgstr ""
+msgstr "IPv4-standardrouter"
 
 msgid "IPv4 Interface"
-msgstr ""
+msgstr "IPv4-gränssnitt"
 
 msgid "IPv4 Netmask"
-msgstr ""
+msgstr "IPv4-nätmask"
 
 msgid "IPv4 interface"
-msgstr ""
+msgstr "IPv4-gränssnitt"
 
 msgid "IPv4 interface for the jail."
 msgstr "IPv4-gränssnitt för jail-miljön."
@@ -6663,31 +6663,31 @@ msgid "IPv4 netmask for the jail."
 msgstr "IPv4-nätmask för jail-miljön."
 
 msgid "IPv6"
-msgstr ""
+msgstr "IPv6"
 
 msgid "IPv6 Address"
-msgstr ""
+msgstr "IPv6-adress"
 
 msgid "IPv6 Auto Configure"
-msgstr ""
+msgstr "Konfigurera IPv6 automatiskt"
 
 msgid "IPv6 Default Gateway"
-msgstr ""
+msgstr "IPv6-standardgateway"
 
 msgid "IPv6 Default Router"
-msgstr ""
+msgstr "IPv6-standardrouter"
 
 msgid "IPv6 Interface"
-msgstr ""
+msgstr "IPv6-gränssnitt"
 
 msgid "IPv6 Prefix"
-msgstr ""
+msgstr "IPv6-prefix"
 
 msgid "IPv6 Prefix Length"
-msgstr ""
+msgstr "IPv6-prefixlängd"
 
 msgid "IPv6 addresses are not allowed for HA."
-msgstr ""
+msgstr "IPv6-adresser tillåts inte för HA."
 
 msgid "IPv6 interface for the jail."
 msgstr "IPv6-gränssnitt för jail-miljön."
@@ -6815,10 +6815,10 @@ msgid ""
 msgstr ""
 
 msgid "Ignore"
-msgstr ""
+msgstr "Ignorera"
 
 msgid "Ignore Builtin"
-msgstr ""
+msgstr "Ignorera inbyggda"
 
 msgid "Immediately connect to TrueCommand."
 msgstr ""
@@ -6898,7 +6898,7 @@ msgid "Info"
 msgstr ""
 
 msgid "Informational"
-msgstr ""
+msgstr "Informativ"
 
 msgid "Inherit"
 msgstr ""
@@ -6984,13 +6984,13 @@ msgid "Input the pre-defined container to use."
 msgstr "Ange den fördefinierade container som ska användas."
 
 msgid "Install"
-msgstr ""
+msgstr "Installera"
 
 msgid "Install Manual Update File"
 msgstr "Installera manuell uppdateringsfil"
 
 msgid "Installation Media"
-msgstr ""
+msgstr "Installationsmedium"
 
 msgid "Installing plugin..."
 msgstr "Installerar insticksprogram ..."
@@ -6999,7 +6999,7 @@ msgid "Interface"
 msgstr "Gränssnitt"
 
 msgid "Interface Description"
-msgstr ""
+msgstr "Gränssnittsbeskrivning"
 
 msgid "Interface Settings"
 msgstr ""
