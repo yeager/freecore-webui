@@ -6242,10 +6242,10 @@ msgid "Go to Portal"
 msgstr "Gå till portalen"
 
 msgid "Graph Age in Months"
-msgstr ""
+msgstr "Diagramålder i månader"
 
 msgid "Graphite Separate Instances"
-msgstr ""
+msgstr "Separata Graphite-instanser"
 
 msgid "Green"
 msgstr ""
@@ -6310,34 +6310,34 @@ msgid "Guide"
 msgstr ""
 
 msgid "HA Disabled"
-msgstr ""
+msgstr "HA inaktiverad"
 
 msgid "HA Enabled"
-msgstr ""
+msgstr "HA aktiverad"
 
 msgid "HA Status"
 msgstr "HA-status"
 
 msgid "HA is administratively disabled."
-msgstr ""
+msgstr "HA är administrativt inaktiverad."
 
 msgid "HA is enabled"
-msgstr ""
+msgstr "HA är aktiverad"
 
 msgid "HA is enabled."
-msgstr ""
+msgstr "HA är aktiverad."
 
 msgid "HA is in a faulted state"
-msgstr ""
+msgstr "HA är i feltillstånd"
 
 msgid "HA is reconnecting."
-msgstr ""
+msgstr "HA återansluter."
 
 msgid "HDD Standby"
-msgstr ""
+msgstr "Vänteläge för hårddisk"
 
 msgid "HTTP Authentication"
-msgstr ""
+msgstr "HTTP-autentisering"
 
 msgid "HTTP Port"
 msgstr "HTTP-port"
@@ -6346,7 +6346,7 @@ msgid "HTTP Port Listen Backlog"
 msgstr "Lyssningskö för HTTP-port"
 
 msgid "HTTP Proxy"
-msgstr ""
+msgstr "HTTP-proxy"
 
 msgid "HTTP host URL."
 msgstr "HTTP-värd-URL."
@@ -6371,19 +6371,19 @@ msgid "Hide"
 msgstr ""
 
 msgid "Hide Extra Columns"
-msgstr ""
+msgstr "Dölj extra kolumner"
 
 msgid "Hide Standard Error"
 msgstr "Dölj standardfel"
 
 msgid "Hide Standard Output"
-msgstr ""
+msgstr "Dölj standardutdata"
 
 msgid "Hide Stderr"
-msgstr ""
+msgstr "Dölj standardfel"
 
 msgid "Hide Stdout"
-msgstr ""
+msgstr "Dölj standardutdata"
 
 msgid ""
 "Hide error output (stderr) from the command.                When unset, any "
@@ -6398,10 +6398,10 @@ msgid ""
 msgstr ""
 
 msgid "Highest Usage"
-msgstr ""
+msgstr "Högsta användning"
 
 msgid "Highest Usage:"
-msgstr ""
+msgstr "Högsta användning:"
 
 msgid ""
 "Highest port number of the  active side listen address that is open to "
@@ -6410,13 +6410,13 @@ msgid ""
 msgstr ""
 
 msgid "HipChat base URL."
-msgstr ""
+msgstr "Bas-URL för HipChat."
 
 msgid "HipChat cluster name."
-msgstr ""
+msgstr "Klusternamn för HipChat."
 
 msgid "History"
-msgstr ""
+msgstr "Historik"
 
 msgid "Home Directory"
 msgstr "Hemkatalog"
@@ -6502,13 +6502,13 @@ msgid "Hosts Deny"
 msgstr "Nekade värdar"
 
 msgid "Hot Spare"
-msgstr ""
+msgstr "Reservdisk"
 
 msgid "Hottest"
-msgstr ""
+msgstr "Varmast"
 
 msgid "Hottest:"
-msgstr ""
+msgstr "Varmast:"
 
 msgid "Hour"
 msgstr ""
@@ -6522,7 +6522,7 @@ msgid "Hour and minute when the system can begin  taking snapshots."
 msgstr "Timme och minut då systemet kan börja ta ögonblicksbilder."
 
 msgid "Hourly"
-msgstr ""
+msgstr "Varje timme"
 
 msgid "Hours"
 msgstr ""
@@ -6531,10 +6531,10 @@ msgid "Hours when this task will run."
 msgstr "Timmar då uppgiften körs."
 
 msgid "Hours/Days"
-msgstr ""
+msgstr "Timmar/dagar"
 
 msgid "Hover to expand"
-msgstr ""
+msgstr "Hovra för att expandera"
 
 msgid ""
 "How long a snapshot remains on the  destination system. Enter a number and "
@@ -6593,13 +6593,13 @@ msgid ""
 msgstr ""
 
 msgid "I Agree"
-msgstr ""
+msgstr "Jag godkänner"
 
 msgid "I Understand"
-msgstr ""
+msgstr "Jag förstår"
 
 msgid "IBurst"
-msgstr ""
+msgstr "IBurst"
 
 msgid "ID"
 msgstr ""
@@ -6696,19 +6696,19 @@ msgid "IPv6 prefix for the jail."
 msgstr "IPv6-prefix för jail-miljön."
 
 msgid "ISNS Servers"
-msgstr ""
+msgstr "iSNS-servrar"
 
 msgid "ISO save location"
 msgstr "Plats för att spara ISO"
 
 msgid "ISO upload location"
-msgstr ""
+msgstr "Plats för ISO-uppladdning"
 
 msgid "Icon Buttons"
-msgstr ""
+msgstr "Ikonknappar"
 
 msgid "Icon URL"
-msgstr ""
+msgstr "Ikon-URL"
 
 msgid ""
 "Icon file to use as the profile  picture for new messages. Example:  "
@@ -6723,16 +6723,16 @@ msgid "Id"
 msgstr ""
 
 msgid "Identification"
-msgstr ""
+msgstr "Identifiering"
 
 msgid "Identifier"
-msgstr ""
+msgstr "Identifierare"
 
 msgid "Identifier and Type"
-msgstr ""
+msgstr "Identifierare och typ"
 
 msgid "Identify Light"
-msgstr ""
+msgstr "Identifieringslampa"
 
 msgid ""
 "Identify the purpose for this public key. Typically used for end entity "
@@ -6762,16 +6762,16 @@ msgid "Idmap"
 msgstr ""
 
 msgid "Idmap Backend"
-msgstr ""
+msgstr "Idmap-bakände"
 
 msgid "Idmap backend"
-msgstr ""
+msgstr "Idmap-bakände"
 
 msgid "If selected, sets several environment variables."
-msgstr ""
+msgstr "Om alternativet väljs anges flera miljövariabler."
 
 msgid "If set when troubleshooting a connection, logs more verbosely."
-msgstr ""
+msgstr "Om detta anges vid felsökning av en anslutning loggas mer utförligt."
 
 msgid ""
 "If set, AFP does not stat the pool path when enumerating the pools list. "
@@ -6821,7 +6821,7 @@ msgid "Ignore Builtin"
 msgstr "Ignorera inbyggda"
 
 msgid "Immediately connect to TrueCommand."
-msgstr ""
+msgstr "Anslut omedelbart till TrueCommand."
 
 msgid "Import"
 msgstr "Importera"
@@ -6862,7 +6862,7 @@ msgid "In"
 msgstr ""
 
 msgid "In KiBs or greater. A default of <i>0 KiB</i> means unlimited. "
-msgstr ""
+msgstr "I KiB eller mer. Standardvärdet <i>0 KiB</i> betyder obegränsat. "
 
 msgid "Include Dataset Properties"
 msgstr "Inkludera datamängdsegenskaper"
