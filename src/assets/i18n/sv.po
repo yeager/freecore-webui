@@ -6901,31 +6901,31 @@ msgid "Informational"
 msgstr "Informativ"
 
 msgid "Inherit"
-msgstr ""
+msgstr "Ärv"
 
 msgid "Inherit (encrypted)"
-msgstr ""
+msgstr "Ärv (krypterad)"
 
 msgid "Inherit (non-encrypted)"
-msgstr ""
+msgstr "Ärv (okrypterad)"
 
 msgid "Inherit Only"
-msgstr ""
+msgstr "Endast ärvning"
 
 msgid "Inherit encryption properties from parent"
 msgstr "Ärv krypteringsegenskaper från överordnad"
 
 msgid "Inherited"
-msgstr ""
+msgstr "Ärvd"
 
 msgid "Inherits"
-msgstr ""
+msgstr "Ärver"
 
 msgid "Init/Shutdown Script"
-msgstr ""
+msgstr "Initierings-/avstängningsskript"
 
 msgid "Init/Shutdown Scripts"
-msgstr ""
+msgstr "Initierings-/avstängningsskript"
 
 msgid ""
 "Initial secret authentication key.  When an authentication key is not set, "
@@ -6945,19 +6945,19 @@ msgid ""
 msgstr ""
 
 msgid "Initiate Failover"
-msgstr ""
+msgstr "Påbörja redundansväxling"
 
 msgid "Initiator"
-msgstr ""
+msgstr "Initierare"
 
 msgid "Initiator Group ID"
 msgstr "ID för initierargrupp"
 
 msgid "Initiators"
-msgstr ""
+msgstr "Initierare"
 
 msgid "Initiators Groups"
-msgstr ""
+msgstr "Initierargrupper"
 
 msgid ""
 "Initiators allowed access to this system. Enter an <a "
@@ -7018,10 +7018,10 @@ msgid ""
 msgstr ""
 
 msgid "Internal"
-msgstr ""
+msgstr "Intern"
 
 msgid "Internal identifier for the authenticator."
-msgstr ""
+msgstr "Intern identifierare för autentiseraren."
 
 msgid ""
 "Internal identifier of the certificate. Only alphanumeric characters, dash "
@@ -7037,7 +7037,7 @@ msgid "Internetwork control"
 msgstr "Internätstyrning"
 
 msgid "Interval"
-msgstr ""
+msgstr "Intervall"
 
 msgid "Invalid IP address"
 msgstr "Ogiltig IP-adress"
@@ -7098,7 +7098,7 @@ msgid "Items Delete Failed"
 msgstr "Det gick inte att ta bort objekt"
 
 msgid "Items deleted"
-msgstr ""
+msgstr "Objekt har tagits bort"
 
 msgid "JID"
 msgstr ""
@@ -7148,16 +7148,16 @@ msgid "Jails"
 msgstr ""
 
 msgid "Jails Started"
-msgstr ""
+msgstr "Jail-miljöer startade"
 
 msgid "Jails cannot be changed while running."
-msgstr ""
+msgstr "Jail-miljöer kan inte ändras medan de körs."
 
 msgid "Jails failed to start"
 msgstr "Jail-miljöerna gick inte att starta"
 
 msgid "Jails started."
-msgstr ""
+msgstr "Jail-miljöerna startades."
 
 msgid "Jan"
 msgstr ""
@@ -7218,7 +7218,7 @@ msgid "Kerberos Settings"
 msgstr "Kerberos-inställningar"
 
 msgid "Kernel"
-msgstr ""
+msgstr "Kärna"
 
 msgid "Key"
 msgstr "Nyckel"
@@ -7258,13 +7258,13 @@ msgid "KiB"
 msgstr ""
 
 msgid "LAGG Ports"
-msgstr ""
+msgstr "LAGG-portar"
 
 msgid "LAGG Protocol"
 msgstr "LAGG-protokoll"
 
 msgid "LAGG Settings"
-msgstr ""
+msgstr "LAGG-inställningar"
 
 msgid "LDAP"
 msgstr "LDAP"
@@ -7309,7 +7309,7 @@ msgid ""
 msgstr ""
 
 msgid "LEGACY WEB INTERFACE"
-msgstr ""
+msgstr "ÄLDRE WEBBGRÄNSSNITT"
 
 msgid "LOG (Write Cache) Overprovision Size in GiB"
 msgstr "Överallokeringsstorlek i GiB för LOG (skrivcache)"
@@ -7318,25 +7318,25 @@ msgid "LOGIN TO PROVIDER"
 msgstr "LOGGA IN HOS LEVERANTÖREN"
 
 msgid "LUN ID"
-msgstr ""
+msgstr "LUN-ID"
 
 msgid "LUN RPM"
-msgstr ""
+msgstr "LUN-varv/min"
 
 msgid "Lagg Interface"
-msgstr ""
+msgstr "LAGG-gränssnitt"
 
 msgid "Lagg Interface Group"
 msgstr "Lagg-gränssnittsgrupp"
 
 msgid "Lagg Interfaces"
-msgstr ""
+msgstr "LAGG-gränssnitt"
 
 msgid "Lagg Physical NIC"
-msgstr ""
+msgstr "Fysiskt LAGG-nätverkskort"
 
 msgid "Lagg Priority Number"
-msgstr ""
+msgstr "LAGG-prioritetsnummer"
 
 msgid "Lagg Protocol"
 msgstr "Lagg-protokoll"
@@ -7383,7 +7383,7 @@ msgid ""
 msgstr ""
 
 msgid "Legacy"
-msgstr ""
+msgstr "Äldre"
 
 msgid ""
 "Legacy NetBIOS name server. Advertises the SMB  service <i>NetBIOS "
@@ -7392,34 +7392,34 @@ msgid ""
 msgstr ""
 
 msgid "Legacy Web Interface"
-msgstr ""
+msgstr "Äldre webbgränssnitt"
 
 msgid "Legend"
-msgstr ""
+msgstr "Förklaring"
 
 msgid "Level"
 msgstr ""
 
 msgid "Level 1 - Minimum power usage with Standby (spindown)"
-msgstr ""
+msgstr "Nivå 1 – minimal energianvändning med vänteläge (nedspinning)"
 
 msgid "Level 127 - Maximum power usage with Standby"
-msgstr ""
+msgstr "Nivå 127 – maximal energianvändning med vänteläge"
 
 msgid "Level 128 - Minimum power usage without Standby (no spindown)"
-msgstr ""
+msgstr "Nivå 128 – minimal energianvändning utan vänteläge (ingen nedspinning)"
 
 msgid "Level 192 - Intermediate power usage without Standby"
-msgstr ""
+msgstr "Nivå 192 – medelhög energianvändning utan vänteläge"
 
 msgid "Level 254 - Maximum performance, maximum power usage"
-msgstr ""
+msgstr "Nivå 254 – maximal prestanda, maximal energianvändning"
 
 msgid "Level 64 - Intermediate power usage with Standby"
-msgstr ""
+msgstr "Nivå 64 – medelhög energianvändning med vänteläge"
 
 msgid "Libdefaults Auxiliary Parameters"
-msgstr ""
+msgstr "Hjälpparametrar för libdefaults"
 
 msgid "License"
 msgstr "Licens"
@@ -7428,7 +7428,7 @@ msgid "License Information"
 msgstr "Licensinformation"
 
 msgid "Lifetime"
-msgstr ""
+msgstr "Giltighetstid"
 
 msgid "Limit replication speed to this number of  bytes per second."
 msgstr "Begränsa replikeringshastigheten till detta antal byte per sekund."
@@ -7479,7 +7479,7 @@ msgid "Local Account"
 msgstr "Lokalt konto"
 
 msgid "Local Master"
-msgstr ""
+msgstr "Lokal huvudenhet"
 
 msgid "Local User Download Bandwidth"
 msgstr "Nedladdningsbandbredd för lokal användare"
@@ -7488,10 +7488,10 @@ msgid "Local User Upload Bandwidth: "
 msgstr "Uppladdningsbandbredd för lokal användare: "
 
 msgid "Locality"
-msgstr ""
+msgstr "Ort"
 
 msgid "Localization"
-msgstr ""
+msgstr "Lokalisering"
 
 msgid "Location"
 msgstr "Plats"
@@ -7557,7 +7557,7 @@ msgid "Logs"
 msgstr "Loggar"
 
 msgid "Looking for help?"
-msgstr ""
+msgstr "Behöver du hjälp?"
 
 msgid ""
 "Losing the ability to unlock the pool can result in losing all data on the "
