@@ -1297,7 +1297,7 @@ msgid "Allow Password Authentication"
 msgstr "Tillåt lösenordsautentisering"
 
 msgid "Allow Root Login"
-msgstr ""
+msgstr "Tillåt root-inloggning"
 
 msgid "Allow TCP Port Forwarding"
 msgstr ""
@@ -1755,10 +1755,10 @@ msgid "Authentication Group Number"
 msgstr ""
 
 msgid "Authentication Method"
-msgstr ""
+msgstr "Autentiseringsmetod"
 
 msgid "Authentication Method and Group"
-msgstr ""
+msgstr "Autentiseringsmetod och grupp"
 
 msgid "Authentication Protocol"
 msgstr ""
@@ -2649,7 +2649,7 @@ msgid "Choose an algorithm to authenticate packets."
 msgstr ""
 
 msgid "Choose an authentication method."
-msgstr ""
+msgstr "Välj en autentiseringsmetod."
 
 msgid "Choose an encryption mode to use with LDAP."
 msgstr ""
@@ -4147,13 +4147,13 @@ msgid "Disable LDAP User/Group Cache"
 msgstr ""
 
 msgid "Disable Password"
-msgstr ""
+msgstr "Inaktivera lösenord"
 
 msgid "Disable Physical Block Size Reporting"
 msgstr ""
 
 msgid "Disable Two-Factor Authentication"
-msgstr ""
+msgstr "Inaktivera tvåfaktorsautentisering"
 
 msgid "Disable automatic failover."
 msgstr ""
@@ -4568,10 +4568,10 @@ msgid "Enable Time Machine backups on this share."
 msgstr ""
 
 msgid "Enable Two-Factor Auth for SSH"
-msgstr ""
+msgstr "Aktivera tvåfaktorsautentisering för SSH"
 
 msgid "Enable Two-Factor Authentication"
-msgstr ""
+msgstr "Aktivera tvåfaktorsautentisering"
 
 msgid ""
 "Enable Unix privileges supported by OSX 10.5 and higher. Do not enable this "
@@ -13488,13 +13488,13 @@ msgid ""
 msgstr ""
 
 msgid "Two-Factor Auth"
-msgstr ""
+msgstr "Tvåfaktorsautentisering"
 
 msgid "Two-Factor Authentication"
 msgstr "Tvåfaktorsautentisering"
 
 msgid "Two-Factor Authentication Code"
-msgstr ""
+msgstr "Kod för tvåfaktorsautentisering"
 
 msgid "Two-factor authentication IS currently enabled."
 msgstr ""
