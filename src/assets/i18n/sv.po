@@ -16836,7 +16836,7 @@ msgid "msgqsize"
 msgstr ""
 
 msgid "name"
-msgstr ""
+msgstr "namn"
 
 msgid "nmsgq"
 msgstr ""
