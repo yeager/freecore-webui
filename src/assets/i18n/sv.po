@@ -16639,7 +16639,7 @@ msgid "email"
 msgstr "e-post"
 
 msgid "empty"
-msgstr ""
+msgstr "tom"
 
 msgid "enforce_statfs"
 msgstr ""
