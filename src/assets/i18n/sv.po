@@ -16980,7 +16980,7 @@ msgid "vdev is highly discouraged and will result in data loss if it fails"
 msgstr "vdev rekommenderas starkt inte och leder till dataförlust om den går sönder"
 
 msgid "vmemoryuse"
-msgstr ""
+msgstr "användning av virtuellt minne"
 
 msgid "vnet0_mac"
 msgstr ""
