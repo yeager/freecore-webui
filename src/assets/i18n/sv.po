@@ -16884,7 +16884,7 @@ msgid "pool options for "
 msgstr "poolalternativ för "
 
 msgid "priority"
-msgstr ""
+msgstr "prioritet"
 
 msgid "pseudoterminals"
 msgstr ""
