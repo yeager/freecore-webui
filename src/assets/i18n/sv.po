@@ -16947,7 +16947,7 @@ msgid "support and services? Contact"
 msgstr "support och tjänster? Kontakta"
 
 msgid "swapuse"
-msgstr ""
+msgstr "växlingsanvändning"
 
 msgid "sysvmsg"
 msgstr ""
