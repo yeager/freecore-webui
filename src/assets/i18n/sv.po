@@ -5007,7 +5007,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter a name for the new credential."
-msgstr ""
+msgstr "Ange ett namn för den nya autentiseringsuppgiften."
 
 msgid "Enter a name for the new theme."
 msgstr ""
@@ -5963,7 +5963,7 @@ msgid "Finished Time:"
 msgstr "Sluttid:"
 
 msgid "Fix Credential"
-msgstr ""
+msgstr "Åtgärda autentiseringsuppgift"
 
 msgid "Fix database"
 msgstr ""
@@ -8360,7 +8360,7 @@ msgid "No Inherit"
 msgstr ""
 
 msgid "No Inheritable ACL Entries"
-msgstr ""
+msgstr "Inga ärvbara ACL-poster"
 
 msgid "No Logs"
 msgstr ""
@@ -9510,7 +9510,7 @@ msgid "Read"
 msgstr "Läs"
 
 msgid "Read ACL"
-msgstr ""
+msgstr "Läs ACL"
 
 msgid "Read Attributes"
 msgstr ""
@@ -9870,7 +9870,7 @@ msgid "Reset Configuration"
 msgstr ""
 
 msgid "Reset Encryption"
-msgstr ""
+msgstr "Återställ kryptering"
 
 msgid "Reset Keys"
 msgstr ""
@@ -10261,7 +10261,7 @@ msgid "Save Debug"
 msgstr ""
 
 msgid "Save Encryption Options"
-msgstr ""
+msgstr "Spara krypteringsalternativ"
 
 msgid "Save License"
 msgstr "Spara licens"
@@ -10291,7 +10291,7 @@ msgid "Saving Debug"
 msgstr ""
 
 msgid "Saving Encryption Options..."
-msgstr ""
+msgstr "Sparar krypteringsalternativ ..."
 
 msgid "Saving KMIP Config"
 msgstr ""
@@ -10562,7 +10562,7 @@ msgid "Select a power management profile from the menu."
 msgstr ""
 
 msgid "Select a preset ACL"
-msgstr ""
+msgstr "Välj en förinställd ACL"
 
 msgid ""
 "Select a preset schedule or  choose <i>Custom</i> to use the advanced "
@@ -10627,7 +10627,7 @@ msgid ""
 msgstr ""
 
 msgid "Select an ACL Preset"
-msgstr ""
+msgstr "Välj en ACL-förinställning"
 
 msgid "Select an IP address to use for VNC sessions."
 msgstr ""
@@ -11518,7 +11518,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to query the cn instead of uid attribute for the user name in LDAP."
-msgstr ""
+msgstr "Aktivera för att fråga efter cn-attributet i stället för uid-attributet för användarnamnet i LDAP."
 
 msgid ""
 "Set to reduce the size of data to transmit.                Recommended for "
@@ -11560,7 +11560,7 @@ msgid "Set to start this VM when the system boots."
 msgstr "Aktivera för att starta denna virtuella dator när systemet startar."
 
 msgid "Set to store the encryption key in the TrueNAS database."
-msgstr ""
+msgstr "Aktivera för att lagra krypteringsnyckeln i TrueNAS-databasen."
 
 msgid ""
 "Set to suppress informational messages from the                remote "
@@ -11702,7 +11702,7 @@ msgid ""
 msgstr ""
 
 msgid "Setting this option is discouraged as it increases security risk."
-msgstr ""
+msgstr "Det rekommenderas inte att ange detta alternativ eftersom det ökar säkerhetsrisken."
 
 msgid ""
 "Setting this option reduces the security of the connection, so only use it "
@@ -11861,7 +11861,7 @@ msgid "Sign in"
 msgstr ""
 
 msgid "Signing Certificate Authority"
-msgstr ""
+msgstr "Signerande certifikatutfärdare"
 
 msgid "Signing Request"
 msgstr "Signerbegäran"
@@ -12181,7 +12181,7 @@ msgid "Storage location for the replicated  snapshots."
 msgstr ""
 
 msgid "Store Encryption key in Sending TrueNAS database"
-msgstr ""
+msgstr "Lagra krypteringsnyckel i den sändande TrueNAS-databasen"
 
 msgid ""
 "Store system logs on the system dataset. Unset to store system logs in "
@@ -12251,7 +12251,7 @@ msgid "Successfully replaced disk "
 msgstr ""
 
 msgid "Successfully reset encryption for pool: "
-msgstr ""
+msgstr "Krypteringen har återställts för pool: "
 
 msgid "Successfully saved proactive support settings."
 msgstr ""
@@ -12320,7 +12320,7 @@ msgid "Syslog Server"
 msgstr ""
 
 msgid "Syslog TLS Certificate"
-msgstr ""
+msgstr "TLS-certifikat för syslog"
 
 msgid "Syslog Transport"
 msgstr ""
@@ -12417,16 +12417,16 @@ msgid "TLS Allow Dot Login"
 msgstr ""
 
 msgid "TLS Allow Per User"
-msgstr ""
+msgstr "TLS-tillåtelse per användare"
 
 msgid "TLS Common Name Required"
 msgstr "TLS-gemensamt namn krävs"
 
 msgid "TLS Crypt Auth"
-msgstr ""
+msgstr "TLS-kryptautentisering"
 
 msgid "TLS Crypt Auth Enabled"
-msgstr ""
+msgstr "TLS-kryptautentisering aktiverad"
 
 msgid "TLS DNS Name Required"
 msgstr "TLS-DNS-namn krävs"
@@ -12444,7 +12444,7 @@ msgid "TLS IP Address Required"
 msgstr "TLS-IP-adress krävs"
 
 msgid "TLS No Certificate Request"
-msgstr ""
+msgstr "TLS ingen certifikatbegäran"
 
 msgid "TLS No Empty Fragments"
 msgstr ""
@@ -12601,7 +12601,7 @@ msgid ""
 msgstr ""
 
 msgid "The Credential is valid."
-msgstr ""
+msgstr "Autentiseringsuppgiften är giltig."
 
 msgid ""
 "The Group ID (GID) is a unique number used to identify a Unix group. Enter "
@@ -12673,7 +12673,7 @@ msgid "The active controller cannot be detected."
 msgstr ""
 
 msgid "The administrator password is incorrect."
-msgstr ""
+msgstr "Administratörslösenordet är felaktigt."
 
 msgid ""
 "The authority key identifier extension provides a means of  identifying the "
@@ -12968,7 +12968,7 @@ msgid "The search base where group objects can be found in the LDAP server."
 msgstr ""
 
 msgid "The search base where user objects can be found in the LDAP server."
-msgstr ""
+msgstr "Sökbasen där användarobjekt kan hittas på LDAP-servern."
 
 msgid ""
 "The secret used to generate OTPs. The secret is produced by the system when "
@@ -12984,7 +12984,7 @@ msgid "The specified permissions of that group are used by all clients."
 msgstr ""
 
 msgid "The specified permissions of that user are used by all clients."
-msgstr ""
+msgstr "Den användarens angivna behörigheter används av alla klienter."
 
 msgid ""
 "The standby controller has finished upgrading. To complete the update "
@@ -13049,7 +13049,7 @@ msgid ""
 msgstr ""
 
 msgid "The user-defined string that can unlock this dataset."
-msgstr ""
+msgstr "Den användardefinierade sträng som kan låsa upp denna datamängd."
 
 msgid "The value is out of range. Enter a value between "
 msgstr ""
@@ -13181,7 +13181,7 @@ msgid ""
 msgstr ""
 
 msgid "This certificate's public key is used for key management."
-msgstr ""
+msgstr "Detta certifikats offentliga nyckel används för nyckelhantering."
 
 msgid ""
 "This certificate's public key is used to decipher user data only during key "
@@ -13189,10 +13189,10 @@ msgid ""
 msgstr ""
 
 msgid "This certificate's public key is used to encipher user data."
-msgstr ""
+msgstr "Detta certifikats offentliga nyckel används för att kryptera användardata."
 
 msgid "This certificate's public key is used to manage key agreement."
-msgstr ""
+msgstr "Detta certifikats offentliga nyckel används för att hantera nyckelöverenskommelse."
 
 msgid ""
 "This certificate's public key is used to verify signatures on a certificate "
@@ -13667,7 +13667,7 @@ msgid "Unselect All"
 msgstr ""
 
 msgid "Unset <i>Generate Encryption Key</i> to instead import a custom Hex key."
-msgstr ""
+msgstr "Avmarkera <i>Generera krypteringsnyckel</i> för att i stället importera en anpassad hex-nyckel."
 
 msgid "Unset to add a login prompt to the system before the console menu is shown."
 msgstr ""
@@ -13769,7 +13769,7 @@ msgid "Updating "
 msgstr ""
 
 msgid "Updating Dataset ACL"
-msgstr ""
+msgstr "Uppdaterar ACL för datamängd"
 
 msgid "Updating Plugin"
 msgstr ""
@@ -13884,7 +13884,7 @@ msgid ""
 msgstr ""
 
 msgid "Use ACL Manager"
-msgstr ""
+msgstr "Använd ACL-hanteraren"
 
 msgid "Use Apple-style Character Encoding"
 msgstr ""
@@ -13935,7 +13935,7 @@ msgid ""
 msgstr ""
 
 msgid "Use encrypted connection for increased security (preferred)."
-msgstr ""
+msgstr "Använd krypterad anslutning för högre säkerhet (föredras)."
 
 msgid "Use existing disk image"
 msgstr ""
@@ -13957,7 +13957,7 @@ msgid ""
 msgstr ""
 
 msgid "Use the encryption properties of the root dataset."
-msgstr ""
+msgstr "Använd krypteringsegenskaperna för rotdatamängden."
 
 msgid "Use the format <i>A.B.C.D/E</i> where <i>E</i> is the CIDR mask."
 msgstr ""
@@ -14244,7 +14244,7 @@ msgid "Verify passphrase"
 msgstr ""
 
 msgid "Verify the pool encryption passphrase."
-msgstr ""
+msgstr "Verifiera lösenfrasen för poolkrypteringen."
 
 msgid "Version"
 msgstr "Version"
@@ -14313,7 +14313,7 @@ msgid "WARNING: Locking pool <i>"
 msgstr ""
 
 msgid "WARNING: Only the key for the dataset in question will be downloaded."
-msgstr ""
+msgstr "VARNING: Endast nyckeln för den aktuella datamängden kommer att hämtas."
 
 msgid ""
 "WARNING: These unknown processes will be terminated while exporting the "
@@ -14393,10 +14393,10 @@ msgid "WebDAV service"
 msgstr ""
 
 msgid "Webdav Password"
-msgstr ""
+msgstr "WebDAV-lösenord"
 
 msgid "Webdav SSL Certificate"
-msgstr ""
+msgstr "WebDAV SSL-certifikat"
 
 msgid "Webhook URL"
 msgstr ""
@@ -14572,7 +14572,7 @@ msgid "Write"
 msgstr "Skriv"
 
 msgid "Write ACL"
-msgstr ""
+msgstr "Skriv ACL"
 
 msgid "Write Attributes"
 msgstr ""
