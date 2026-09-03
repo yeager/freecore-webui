@@ -16603,7 +16603,7 @@ msgid "close"
 msgstr "stäng"
 
 msgid "comment"
-msgstr ""
+msgstr "kommentar"
 
 msgid "coredumpsize"
 msgstr ""
