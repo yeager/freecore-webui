@@ -5,16 +5,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Built-in Groups"
-msgstr ""
+msgstr " Inbyggda grupper"
 
 msgid " Builtin Users"
-msgstr ""
+msgstr " Inbyggda användare"
 
 msgid " Check Notifications for more details."
-msgstr ""
+msgstr " Kontrollera notifieringar för mer information."
 
 msgid " Download Updates"
-msgstr ""
+msgstr " Hämta uppdateringar"
 
 msgid " First vdev has "
 msgstr ""
@@ -23,7 +23,7 @@ msgid " First vdev is a "
 msgstr ""
 
 msgid " KiB."
-msgstr ""
+msgstr " KiB."
 
 msgid " Plugin"
 msgstr " Insticksprogram"
@@ -55,7 +55,7 @@ msgid ""
 msgstr ""
 
 msgid " and "
-msgstr ""
+msgstr " och "
 
 msgid " and will be disrupted if the pool is detached:"
 msgstr " och påverkas om poolen kopplas från:"
@@ -64,22 +64,22 @@ msgid " and will be disrupted if the pool is locked:"
 msgstr " och påverkas om poolen låses:"
 
 msgid " built-in groups (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr " inbyggda grupper (standardinställningen är <i>dold</i>)."
 
 msgid " builtin users (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr " inbyggda användare (standardinställningen är <i>dold</i>)."
 
 msgid " but datastore "
 msgstr ""
 
 msgid " day, "
-msgstr ""
+msgstr " dag, "
 
 msgid " days, "
-msgstr ""
+msgstr " dagar, "
 
 msgid " disks"
-msgstr ""
+msgstr " diskar"
 
 msgid ""
 " disks available that have non-unique serial numbers. Non-unique serial "
@@ -94,10 +94,10 @@ msgid " is "
 msgstr ""
 
 msgid " is a required field."
-msgstr ""
+msgstr " är ett obligatoriskt fält."
 
 msgid " is required."
-msgstr ""
+msgstr " krävs."
 
 msgid ""
 " is still running,  the Guest OS did not respond as expected. It is "
@@ -111,49 +111,49 @@ msgid ""
 msgstr ""
 
 msgid " minute"
-msgstr ""
+msgstr " minut"
 
 msgid " minutes"
-msgstr ""
+msgstr " minuter"
 
 msgid " official plugins"
-msgstr ""
+msgstr " officiella insticksprogram"
 
 msgid " seconds"
-msgstr ""
+msgstr " sekunder"
 
 msgid " seconds."
-msgstr ""
+msgstr " sekunder."
 
 msgid " service has been enabled."
 msgstr " tjänsten har aktiverats."
 
 msgid " should be at least "
-msgstr ""
+msgstr " ska vara minst "
 
 msgid " should be no more than "
-msgstr ""
+msgstr " får vara högst "
 
 msgid " successfully saved."
-msgstr ""
+msgstr " har sparats."
 
 msgid " successfully unlocked"
-msgstr ""
+msgstr " har låsts upp"
 
 msgid " system is powered on and connected to the network."
 msgstr " systemet är påslaget och anslutet till nätverket."
 
 msgid " to include all "
-msgstr ""
+msgstr " för att inkludera alla "
 
 msgid " to the latest available patch?"
-msgstr ""
+msgstr " till den senaste tillgängliga patchen?"
 
 msgid " update successful"
 msgstr " uppdateringen lyckades"
 
 msgid " updated."
-msgstr ""
+msgstr " uppdaterad."
 
 msgid ""
 " with properties. Destination datasets will be locked and can be unlocked "
@@ -161,7 +161,7 @@ msgid ""
 msgstr ""
 
 msgid "% of all cores"
-msgstr ""
+msgstr "% av alla kärnor"
 
 msgid ""
 "' is encrypted! If the passphrase for this encrypted pool has been lost, "
@@ -174,19 +174,19 @@ msgid "'. All data on that pool was destroyed."
 msgstr "'. Alla data på den poolen förstördes."
 
 msgid "(24 Hours)"
-msgstr ""
+msgstr "(24 timmar)"
 
 msgid "(Almost) Full Filesystem Replication"
 msgstr "(Nästan) fullständig filsystemsreplikering"
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
-msgstr ""
+msgstr "(Exempel: 500 KiB, 500M, 2 TB)"
 
 msgid "(Legacy Encryption)"
 msgstr "(Äldre kryptering)"
 
 msgid "(No description)"
-msgstr ""
+msgstr "(Ingen beskrivning)"
 
 msgid "(Remove pool from database)"
 msgstr "(Ta bort pool från databasen)"
@@ -201,7 +201,7 @@ msgid ", new vdev is "
 msgstr ""
 
 msgid ". At least one is required."
-msgstr ""
+msgstr ". Minst en krävs."
 
 msgid ""
 ". Destination datasets will be locked and can be unlocked with source "
@@ -209,16 +209,16 @@ msgid ""
 msgstr ""
 
 msgid ". Is this correct?"
-msgstr ""
+msgstr ". Är detta korrekt?"
 
 msgid "... Make sure the "
 msgstr ""
 
 msgid "0=Disabled, blank=inherit"
-msgstr ""
+msgstr "0=Inaktiverad, tom=ärv"
 
 msgid "20 characters is the maximum length."
-msgstr ""
+msgstr "20 tecken är den största längden."
 
 msgid "2FA"
 msgstr "Tvåfaktorsautentisering"
@@ -1129,7 +1129,7 @@ msgid "Adjust the file permissions using the checkboxes."
 msgstr "Justera filbehörigheterna med kryssrutorna."
 
 msgid "Admin Portals"
-msgstr ""
+msgstr "Administratörsportaler"
 
 msgid "Admin Server"
 msgstr "Administrationsserver"
@@ -6233,7 +6233,7 @@ msgid "Go to Active Directory Form"
 msgstr "Gå till Active Directory-formuläret"
 
 msgid "Go to Admin Portal"
-msgstr ""
+msgstr "Gå till administratörsportalen"
 
 msgid "Go to HA settings"
 msgstr ""
@@ -10024,7 +10024,7 @@ msgid "Room"
 msgstr ""
 
 msgid "Root CA"
-msgstr ""
+msgstr "Rot-CA"
 
 msgid "Root Password"
 msgstr "Root-lösenord"
@@ -10036,7 +10036,7 @@ msgid "Root dataset permissions cannot be edited."
 msgstr "Behörigheter för rotdatamängden kan inte redigeras."
 
 msgid "Root node is not a valid value"
-msgstr ""
+msgstr "Rotnoden är inte ett giltigt värde"
 
 msgid "Rotation Rate"
 msgstr ""
@@ -10744,7 +10744,7 @@ msgid ""
 msgstr ""
 
 msgid "Select the admin portal："
-msgstr ""
+msgstr "Välj administratörsportalen:"
 
 msgid "Select the appropriate environment."
 msgstr ""
@@ -12886,7 +12886,7 @@ msgid "The numeric <i>UUID</i> or <i>custom name</i> of the jail."
 msgstr ""
 
 msgid "The only server role available is the domain controller for a new domain."
-msgstr ""
+msgstr "Den enda tillgängliga serverrollen är domänkontrollanten för en ny domän."
 
 msgid ""
 "The operation timed out. The requested resource might be offline. Check the "
@@ -12965,7 +12965,7 @@ msgid ""
 msgstr ""
 
 msgid "The search base where group objects can be found in the LDAP server."
-msgstr ""
+msgstr "Sökbasen där gruppobjekt kan hittas på LDAP-servern."
 
 msgid "The search base where user objects can be found in the LDAP server."
 msgstr "Sökbasen där användarobjekt kan hittas på LDAP-servern."
@@ -12981,7 +12981,7 @@ msgid ""
 msgstr ""
 
 msgid "The specified permissions of that group are used by all clients."
-msgstr ""
+msgstr "Den gruppens angivna behörigheter används av alla klienter."
 
 msgid "The specified permissions of that user are used by all clients."
 msgstr "Den användarens angivna behörigheter används av alla klienter."
@@ -13615,7 +13615,7 @@ msgid "Unix NSS Info"
 msgstr ""
 
 msgid "Unix Primary Group"
-msgstr ""
+msgstr "Unix primära grupp"
 
 msgid "Unix Shares (NFS)"
 msgstr "Unix-delningar (NFS)"
@@ -13775,7 +13775,7 @@ msgid "Updating Plugin"
 msgstr ""
 
 msgid "Updating group members"
-msgstr ""
+msgstr "Uppdaterar gruppmedlemmar"
 
 msgid "Updating production status..."
 msgstr ""
@@ -14860,7 +14860,7 @@ msgid "group"
 msgstr "grupp"
 
 msgid "group@"
-msgstr ""
+msgstr "grupp@"
 
 msgid "gzip (default level, 6)"
 msgstr ""
