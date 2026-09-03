@@ -16863,7 +16863,7 @@ msgid "openfiles"
 msgstr ""
 
 msgid "overview"
-msgstr ""
+msgstr "översikt"
 
 msgid "owner"
 msgstr "ägare"
