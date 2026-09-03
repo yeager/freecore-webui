@@ -16803,7 +16803,7 @@ msgid "mac_prefix"
 msgstr ""
 
 msgid "maxproc"
-msgstr ""
+msgstr "maximalt antal processer"
 
 msgid "memorylocked"
 msgstr ""
