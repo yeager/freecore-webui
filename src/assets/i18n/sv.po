@@ -3645,7 +3645,7 @@ msgid "Debug"
 msgstr "Felsökning"
 
 msgid "Debug could not be downloaded."
-msgstr ""
+msgstr "Felsökningsinformationen kunde inte hämtas."
 
 msgid "Dec"
 msgstr ""
@@ -7419,7 +7419,7 @@ msgid "License"
 msgstr "Licens"
 
 msgid "License Information"
-msgstr ""
+msgstr "Licensinformation"
 
 msgid "Lifetime"
 msgstr ""
@@ -9546,7 +9546,7 @@ msgid "Realm"
 msgstr ""
 
 msgid "Reboot After Update"
-msgstr ""
+msgstr "Starta om efter uppdatering"
 
 msgid "Rebuild Directory Service Cache"
 msgstr ""
@@ -13729,10 +13729,10 @@ msgid "Update is complete, please reboot the system."
 msgstr "Uppdateringen är klar, starta om systemet."
 
 msgid "Update jail as well"
-msgstr ""
+msgstr "Uppdatera även jail"
 
 msgid "Update jails as well"
-msgstr ""
+msgstr "Uppdatera även jails"
 
 msgid "Update plugin"
 msgstr "Uppdatera insticksmodul"
@@ -13741,10 +13741,10 @@ msgid "Update plugins"
 msgstr "Uppdatera insticksmoduler"
 
 msgid "Update successful. Please reboot for the update to take effect. Reboot now?"
-msgstr ""
+msgstr "Uppdateringen lyckades. Starta om för att uppdateringen ska träda i kraft. Starta om nu?"
 
 msgid "Update the jail operating system for "
-msgstr ""
+msgstr "Uppdatera jail-operativsystemet för "
 
 msgid "Updated"
 msgstr "Uppdaterad"
