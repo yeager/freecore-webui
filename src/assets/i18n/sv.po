@@ -724,7 +724,7 @@ msgid "AD Timeout"
 msgstr ""
 
 msgid "ADD"
-msgstr ""
+msgstr "LÄGG TILL"
 
 msgid "AFP"
 msgstr ""
@@ -742,7 +742,7 @@ msgid "API Keys"
 msgstr "API-nycklar"
 
 msgid "API URL"
-msgstr ""
+msgstr "API-URL"
 
 msgid "ARN"
 msgstr ""
@@ -909,40 +909,40 @@ msgid "Add"
 msgstr "Lägg till"
 
 msgid "Add ACL Item"
-msgstr ""
+msgstr "Lägg till ACL-post"
 
 msgid "Add ACME Certificate"
-msgstr ""
+msgstr "Lägg till ACME-certifikat"
 
 msgid "Add API Key"
-msgstr ""
+msgstr "Lägg till API-nyckel"
 
 msgid "Add Additional Path"
-msgstr ""
+msgstr "Lägg till ytterligare sökväg"
 
 msgid "Add Alert Service"
-msgstr ""
+msgstr "Lägg till aviseringstjänst"
 
 msgid "Add Cloud Credential"
-msgstr ""
+msgstr "Lägg till molnautentiseringsuppgift"
 
 msgid "Add Dataset"
 msgstr "Lägg till datamängd"
 
 msgid "Add Group"
-msgstr ""
+msgstr "Lägg till grupp"
 
 msgid "Add Idmap"
-msgstr ""
+msgstr "Lägg till ID-mappning"
 
 msgid "Add Kerberos SPN Entry"
-msgstr ""
+msgstr "Lägg till Kerberos-SPN-post"
 
 msgid "Add Mountpoint"
 msgstr "Lägg till monteringspunkt"
 
 msgid "Add NFS SPN"
-msgstr ""
+msgstr "Lägg till NFS-SPN"
 
 msgid "Add Recovery Key"
 msgstr "Lägg till återställningsnyckel"
@@ -957,7 +957,7 @@ msgid "Add Zvol"
 msgstr "Lägg till zvol"
 
 msgid "Add a name for the new snapshot."
-msgstr ""
+msgstr "Ange ett namn för den nya ögonblicksbilden."
 
 msgid ""
 "Add a passphrase to the new  encryption key. This is used to lock and "
@@ -973,7 +973,7 @@ msgid ""
 msgstr ""
 
 msgid "Add any notes about this zvol."
-msgstr ""
+msgstr "Lägg till anteckningar om denna zvol."
 
 msgid ""
 "Add lines to the jail <i>resolv.conf</i>. <b>Example:</b> <i>nameserver "
@@ -989,16 +989,16 @@ msgid ""
 msgstr ""
 
 msgid "Add one or more disks to be used for data."
-msgstr ""
+msgstr "Lägg till en eller flera diskar som ska användas för data."
 
 msgid "Add one or more disks to extend the pool."
-msgstr ""
+msgstr "Lägg till en eller flera diskar för att utöka poolen."
 
 msgid "Add or Update a License"
-msgstr ""
+msgstr "Lägg till eller uppdatera en licens"
 
 msgid "Add this user to additional groups."
-msgstr ""
+msgstr "Lägg till användaren i ytterligare grupper."
 
 msgid ""
 "Added disks are erased, then the pool is extended onto the new disks with "
@@ -1050,13 +1050,13 @@ msgid ""
 msgstr ""
 
 msgid "Additional Data VDevs to Create"
-msgstr ""
+msgstr "Ytterligare data-VDEV:er att skapa"
 
 msgid "Additional Domains"
-msgstr ""
+msgstr "Ytterligare domäner"
 
 msgid "Additional Hardware"
-msgstr ""
+msgstr "Ytterligare maskinvara"
 
 msgid ""
 "Additional Kerberos application settings. See the \"appdefaults\" section "
@@ -1076,7 +1076,7 @@ msgid ""
 msgstr ""
 
 msgid "Additional Parameters"
-msgstr ""
+msgstr "Ytterligare parametrar"
 
 msgid ""
 "Additional domains to search. Separate entries by  pressing "
@@ -1104,16 +1104,16 @@ msgid ""
 msgstr ""
 
 msgid "Additional parameters."
-msgstr ""
+msgstr "Ytterligare parametrar."
 
 msgid "Address"
-msgstr ""
+msgstr "Adress"
 
 msgid "Address space limit in bytes for the jail."
 msgstr ""
 
 msgid "Addresses"
-msgstr ""
+msgstr "Adresser"
 
 msgid ""
 "Adjust how often alert notifications are sent, use  the Frequency "
@@ -1255,13 +1255,13 @@ msgid "Allow"
 msgstr "Tillåt"
 
 msgid "Allow All Initiators"
-msgstr ""
+msgstr "Tillåt alla initierare"
 
 msgid "Allow Anonymous Binding"
-msgstr ""
+msgstr "Tillåt anonym bindning"
 
 msgid "Allow Anonymous Login"
-msgstr ""
+msgstr "Tillåt anonym inloggning"
 
 msgid "Allow Blocks Larger than 128KB"
 msgstr ""
@@ -1270,25 +1270,25 @@ msgid "Allow Compressed WRITE Records"
 msgstr ""
 
 msgid "Allow DNS updates"
-msgstr ""
+msgstr "Tillåt DNS-uppdateringar"
 
 msgid "Allow Duplicate GIDs"
-msgstr ""
+msgstr "Tillåt dubbletta GID:er"
 
 msgid "Allow Guest Access"
-msgstr ""
+msgstr "Tillåt gäståtkomst"
 
 msgid "Allow Hosts"
-msgstr ""
+msgstr "Tillåt värdar"
 
 msgid "Allow Kerberos Authentication"
-msgstr ""
+msgstr "Tillåt Kerberos-autentisering"
 
 msgid "Allow List"
-msgstr ""
+msgstr "Tillåtelselista"
 
 msgid "Allow Local User Login"
-msgstr ""
+msgstr "Tillåt lokal användarinloggning"
 
 msgid "Allow New Files"
 msgstr ""
@@ -1300,13 +1300,13 @@ msgid "Allow Root Login"
 msgstr "Tillåt root-inloggning"
 
 msgid "Allow TCP Port Forwarding"
-msgstr ""
+msgstr "Tillåt vidarebefordran av TCP-portar"
 
 msgid "Allow Taking Empty Snapshots"
 msgstr ""
 
 msgid "Allow Transfer Resumption"
-msgstr ""
+msgstr "Tillåt återupptagande av överföring"
 
 msgid "Allow Trusted Domains"
 msgstr ""
@@ -1725,7 +1725,7 @@ msgid "Aug"
 msgstr ""
 
 msgid "Auth Token"
-msgstr ""
+msgstr "Autentiseringstoken"
 
 msgid ""
 "Auth Token from alternate authentication - optional <a "
@@ -1749,7 +1749,7 @@ msgid "Authentication Advanced Options"
 msgstr ""
 
 msgid "Authentication Algorithm"
-msgstr ""
+msgstr "Autentiseringsalgoritm"
 
 msgid "Authentication Group Number"
 msgstr ""
@@ -1761,13 +1761,13 @@ msgid "Authentication Method and Group"
 msgstr "Autentiseringsmetod och grupp"
 
 msgid "Authentication Protocol"
-msgstr ""
+msgstr "Autentiseringsprotokoll"
 
 msgid "Authentication Type"
-msgstr ""
+msgstr "Autentiseringstyp"
 
 msgid "Authentication URL"
-msgstr ""
+msgstr "Autentiserings-URL"
 
 msgid ""
 "Authentication URL for the server. This is the OS_AUTH_URL from an <a "
@@ -1776,7 +1776,7 @@ msgid ""
 msgstr ""
 
 msgid "Authenticator"
-msgstr ""
+msgstr "Autentiserare"
 
 msgid "Authenticator Attributes"
 msgstr ""
@@ -1796,13 +1796,13 @@ msgid "Authority Key Identifier"
 msgstr ""
 
 msgid "Authorized Access"
-msgstr ""
+msgstr "Auktoriserad åtkomst"
 
 msgid "Authorized Hosts and IP addresses"
-msgstr ""
+msgstr "Auktoriserade värdar och IP-adresser"
 
 msgid "Authorized Networks"
-msgstr ""
+msgstr "Auktoriserade nätverk"
 
 msgid "Auto TRIM"
 msgstr ""
@@ -2310,7 +2310,7 @@ msgid "Certificate"
 msgstr "Certifikat"
 
 msgid "Certificate Authorities"
-msgstr ""
+msgstr "Certifikatutfärdare"
 
 msgid "Certificate Authority"
 msgstr "Certifikatutfärdare"
@@ -2915,10 +2915,10 @@ msgid "Close (return to VM list"
 msgstr ""
 
 msgid "Cloud Credentials"
-msgstr ""
+msgstr "Molnautentiseringsuppgifter"
 
 msgid "Cloud Sync Tasks"
-msgstr ""
+msgstr "Molnsynkroniseringsuppgifter"
 
 msgid "Cloud sync <i>"
 msgstr ""
@@ -3289,28 +3289,28 @@ msgid "Create"
 msgstr "Skapa"
 
 msgid "Create ACME Certificate"
-msgstr ""
+msgstr "Skapa ACME-certifikat"
 
 msgid "Create CA"
-msgstr ""
+msgstr "Skapa certifikatutfärdare"
 
 msgid "Create Certificate"
-msgstr ""
+msgstr "Skapa certifikat"
 
 msgid "Create New Theme"
 msgstr ""
 
 msgid "Create Passphrase"
-msgstr ""
+msgstr "Skapa lösenfras"
 
 msgid "Create Pool"
 msgstr "Skapa pool"
 
 msgid "Create SSH Connection"
-msgstr ""
+msgstr "Skapa SSH-anslutning"
 
 msgid "Create Snapshot"
-msgstr ""
+msgstr "Skapa ögonblicksbild"
 
 msgid "Create Theme"
 msgstr ""
