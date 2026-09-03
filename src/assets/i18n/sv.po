@@ -10091,7 +10091,7 @@ msgid "Run this rsync now?"
 msgstr "Köra denna rsync nu?"
 
 msgid "Running"
-msgstr ""
+msgstr "Körs"
 
 msgid "S.M.A.R.T Test Results"
 msgstr "S.M.A.R.T.-testresultat"
@@ -10112,16 +10112,16 @@ msgid "S3 Configuration Options"
 msgstr ""
 
 msgid "SAVE"
-msgstr ""
+msgstr "SPARA"
 
 msgid "SAVE AND FAILOVER"
-msgstr ""
+msgstr "SPARA OCH VÄXLA ÖVER"
 
 msgid "SAVE CHANGES"
-msgstr ""
+msgstr "SPARA ÄNDRINGAR"
 
 msgid "SAVE CONFIGURATION"
-msgstr ""
+msgstr "SPARA KONFIGURATION"
 
 msgid "SED Password"
 msgstr "SED-lösenord"
@@ -10225,7 +10225,7 @@ msgid "START REPLICATION"
 msgstr "STARTA REPLIKERING"
 
 msgid "STARTTLS"
-msgstr ""
+msgstr "STARTTLS"
 
 msgid "STOP"
 msgstr "STOPPA"
@@ -10249,16 +10249,16 @@ msgid "Save"
 msgstr "Spara"
 
 msgid "Save Changes"
-msgstr ""
+msgstr "Spara ändringar"
 
 msgid "Save Config"
-msgstr ""
+msgstr "Spara konfiguration"
 
 msgid "Save Configuration"
-msgstr ""
+msgstr "Spara konfiguration"
 
 msgid "Save Debug"
-msgstr ""
+msgstr "Spara felsökningsinformation"
 
 msgid "Save Encryption Options"
 msgstr "Spara krypteringsalternativ"
@@ -10270,19 +10270,19 @@ msgid "Save Network Interface Changes"
 msgstr "Spara ändringar av nätverksgränssnitt"
 
 msgid "Save Pending Snapshots"
-msgstr ""
+msgstr "Spara väntande ögonblicksbilder"
 
 msgid "Save Pool Options"
 msgstr "Spara poolalternativ"
 
 msgid "Save Without Restarting"
-msgstr ""
+msgstr "Spara utan att starta om"
 
 msgid "Save and Restart SMB Now"
 msgstr "Spara och starta om SMB nu"
 
 msgid "Save configuration settings from this machine before updating?"
-msgstr ""
+msgstr "Spara konfigurationsinställningarna från denna dator innan uppdateringen?"
 
 msgid "Save network interface changes?"
 msgstr "Spara ändringar av nätverksgränssnitt?"
@@ -10357,10 +10357,10 @@ msgid "Scrub interval (in days)"
 msgstr "Scrub-intervall (i dagar)"
 
 msgid "Search For Connected Groups"
-msgstr ""
+msgstr "Sök efter anslutna grupper"
 
 msgid "Search For Connected Users"
-msgstr ""
+msgstr "Sök efter anslutna användare"
 
 msgid ""
 "Search for all connected groups.  Type a group name and press <i>ENTER</i>. "
@@ -10383,13 +10383,13 @@ msgid ""
 msgstr ""
 
 msgid "Secondary Contact"
-msgstr ""
+msgstr "Sekundär kontakt"
 
 msgid "Secondary Contact (optional)"
-msgstr ""
+msgstr "Sekundär kontakt (valfri)"
 
 msgid "Secondary DNS server."
-msgstr ""
+msgstr "Sekundär DNS-server."
 
 msgid "Secret"
 msgstr ""
@@ -10453,7 +10453,7 @@ msgid "Select"
 msgstr "Välj"
 
 msgid "Select "
-msgstr ""
+msgstr "Välj "
 
 msgid ""
 "Select <b>UEFI</b> for newer operating systems, or <b>UEFI-CSM</b> "
@@ -10500,13 +10500,13 @@ msgid ""
 msgstr ""
 
 msgid "Select All"
-msgstr ""
+msgstr "Markera alla"
 
 msgid "Select Authenticator"
-msgstr ""
+msgstr "Välj autentiserare"
 
 msgid "Select Configuration File"
-msgstr ""
+msgstr "Välj konfigurationsfil"
 
 msgid "Select Disk Type"
 msgstr "Välj disktyp"
@@ -10526,7 +10526,7 @@ msgid "Select Users Cached by this System"
 msgstr "Välj användare som cachelagras av detta system"
 
 msgid "Select VM wizard type"
-msgstr ""
+msgstr "Välj typ av VM-guide"
 
 msgid ""
 "Select a compression algorithm to reduce the size of the data being "
@@ -10544,13 +10544,13 @@ msgid "Select a key before decrypting the disks."
 msgstr "Välj en nyckel innan diskarna dekrypteras."
 
 msgid "Select a keyboard layout."
-msgstr ""
+msgstr "Välj en tangentbordslayout."
 
 msgid "Select a language from the drop-down menu."
 msgstr "Välj ett språk i rullgardinsmenyn."
 
 msgid "Select a physical interface to associate with the VM."
-msgstr ""
+msgstr "Välj ett fysiskt gränssnitt att koppla till den virtuella datorn."
 
 msgid "Select a pool to import."
 msgstr "Välj en pool att importera."
@@ -10559,7 +10559,7 @@ msgid "Select a pool, dataset, or zvol."
 msgstr "Välj en pool, datamängd eller zvolym."
 
 msgid "Select a power management profile from the menu."
-msgstr ""
+msgstr "Välj en energihanteringsprofil i menyn."
 
 msgid "Select a preset ACL"
 msgstr "Välj en förinställd ACL"
@@ -10575,7 +10575,7 @@ msgid ""
 msgstr ""
 
 msgid "Select a previously imported or created CA."
-msgstr ""
+msgstr "Välj en tidigare importerad eller skapad CA."
 
 msgid ""
 "Select a saved remote system SSH  connection or choose <i>Create New</i> to "
@@ -10602,7 +10602,7 @@ msgid "Select a schema when Samba Schema is set."
 msgstr "Välj ett schema när Samba-schema är angivet."
 
 msgid "Select a screen resolution to use for VNC sessions."
-msgstr ""
+msgstr "Välj en skärmupplösning att använda för VNC-sessioner."
 
 msgid ""
 "Select a sector size in bytes. <i>Default</i> leaves the sector size unset "
@@ -10614,7 +10614,7 @@ msgid "Select a stream mode if system is to be used for streaming."
 msgstr "Välj ett strömningsläge om systemet ska användas för strömning."
 
 msgid "Select a time zone."
-msgstr ""
+msgstr "Välj en tidszon."
 
 msgid ""
 "Select a user account to run the command. The                user must have "
@@ -10630,7 +10630,7 @@ msgid "Select an ACL Preset"
 msgstr "Välj en ACL-förinställning"
 
 msgid "Select an IP address to use for VNC sessions."
-msgstr ""
+msgstr "Välj en IP-adress att använda för VNC-sessioner."
 
 msgid ""
 "Select an account to use for guest access. This account must have "
@@ -10646,7 +10646,7 @@ msgid ""
 msgstr ""
 
 msgid "Select an existing extent."
-msgstr ""
+msgstr "Välj en befintlig extent."
 
 msgid ""
 "Select an existing portal or choose <i>Create New</i> to configure a new "
@@ -10659,7 +10659,7 @@ msgid ""
 msgstr ""
 
 msgid "Select an existing target."
-msgstr ""
+msgstr "Välj ett befintligt mål."
 
 msgid ""
 "Select an unused disk to add to this vdev. <br>WARNING: any data stored on "
@@ -10680,10 +10680,10 @@ msgid ""
 msgstr ""
 
 msgid "Select one or more disks to decrypt."
-msgstr ""
+msgstr "Välj en eller flera diskar att dekryptera."
 
 msgid "Select one or more screenshots that illustrate the problem."
-msgstr ""
+msgstr "Välj en eller flera skärmbilder som visar problemet."
 
 msgid ""
 "Select permissions to apply to the chosen <i>Who</i>. Choices change "
@@ -10736,7 +10736,7 @@ msgid ""
 msgstr ""
 
 msgid "Select the Virtual Machine (VM) Wizard type."
-msgstr ""
+msgstr "Välj typ av guide för virtuell dator (VM)."
 
 msgid ""
 "Select the account to use for TFTP requests. This account must have "
@@ -10747,10 +10747,10 @@ msgid "Select the admin portal："
 msgstr "Välj administratörsportalen:"
 
 msgid "Select the appropriate environment."
-msgstr ""
+msgstr "Välj lämplig miljö."
 
 msgid "Select the appropriate level of criticality."
-msgstr ""
+msgstr "Välj lämplig kritikalitetsnivå."
 
 msgid ""
 "Select the certificate of the Active Directory server if SSL connections "
@@ -10767,13 +10767,13 @@ msgstr ""
 "tillgängliga molnautentiseringsuppgifter."
 
 msgid "Select the country of the organization."
-msgstr ""
+msgstr "Välj organisationens land."
 
 msgid "Select the days to run resilver tasks."
-msgstr ""
+msgstr "Välj dagar då resilver-uppgifter ska köras."
 
 msgid "Select the device to attach."
-msgstr ""
+msgstr "Välj enheten som ska anslutas."
 
 msgid ""
 "Select the directories or files to be sent to the cloud for Push syncs, or "
@@ -10816,16 +10816,16 @@ msgid ""
 msgstr ""
 
 msgid "Select the physical interface to associate with the VM."
-msgstr ""
+msgstr "Välj det fysiska gränssnitt som ska kopplas till den virtuella datorn."
 
 msgid "Select the pool to contain the system dataset."
 msgstr "Välj poolen som ska innehålla systemdatamängden."
 
 msgid "Select the pre-defined S3 bucket to use."
-msgstr ""
+msgstr "Välj den fördefinierade S3-bucket som ska användas."
 
 msgid "Select the pre-defined container to use."
-msgstr ""
+msgstr "Välj den fördefinierade behållare som ska användas."
 
 msgid "Select the prefix length used on the network."
 msgstr "Välj prefixlängden som används i nätverket."
@@ -10837,7 +10837,7 @@ msgid ""
 msgstr ""
 
 msgid "Select the serial port address in hex."
-msgstr ""
+msgstr "Välj den seriella portadressen i hexadecimalt format."
 
 msgid ""
 "Select the set of ACE inheritance <i>Flags</i> to display. <i>Basic</i> "
@@ -10890,10 +10890,10 @@ msgid "Select which existing initiator group has access to the target."
 msgstr "Välj vilken befintlig initierargrupp som har åtkomst till målet."
 
 msgid "Selected jails updated."
-msgstr ""
+msgstr "De valda jail-miljöerna uppdaterades."
 
 msgid "Selected plugins updated."
-msgstr ""
+msgstr "De valda insticksmodulerna uppdaterades."
 
 msgid ""
 "Selecting a dataset to use with Minio <strong>removes all existing "
@@ -10935,10 +10935,10 @@ msgid ""
 msgstr ""
 
 msgid "Send initial debug"
-msgstr ""
+msgstr "Skicka inledande felsökningsinformation"
 
 msgid "Send initial debug."
-msgstr ""
+msgstr "Skicka inledande felsökningsinformation."
 
 msgid "Sep"
 msgstr ""
@@ -11023,16 +11023,16 @@ msgid "Set ACL for this dataset"
 msgstr "Ange ACL för denna datamängd"
 
 msgid "Set Frequency"
-msgstr ""
+msgstr "Ange frekvens"
 
 msgid "Set Keep Flag"
-msgstr ""
+msgstr "Ange behåll-flagga"
 
 msgid "Set Passphrase"
-msgstr ""
+msgstr "Ange lösenfras"
 
 msgid "Set Quota"
-msgstr ""
+msgstr "Ange kvot"
 
 msgid "Set Quotas"
 msgstr ""
