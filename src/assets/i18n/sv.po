@@ -3280,7 +3280,7 @@ msgid "Country"
 msgstr "Land"
 
 msgid "Country Code"
-msgstr ""
+msgstr "Landskod"
 
 msgid ""
 "Country Code must contain a valid  <a "
@@ -3289,7 +3289,7 @@ msgid ""
 msgstr ""
 
 msgid "Crash reporting"
-msgstr ""
+msgstr "Kraschrapportering"
 
 msgid "Create"
 msgstr "Skapa"
@@ -3384,7 +3384,7 @@ msgid ""
 msgstr ""
 
 msgid "Creating"
-msgstr ""
+msgstr "Skapar"
 
 msgid "Creating Jail"
 msgstr "Skapar jail-miljö"
@@ -3400,7 +3400,7 @@ msgid ""
 msgstr ""
 
 msgid "Creating..."
-msgstr ""
+msgstr "Skapar ..."
 
 msgid "Credential"
 msgstr "Autentiseringsuppgift"
@@ -3437,31 +3437,31 @@ msgid "Current Password"
 msgstr "Nuvarande lösenord"
 
 msgid "Current Train:"
-msgstr ""
+msgstr "Aktuell utgåva:"
 
 msgid "Custom"
-msgstr ""
+msgstr "Anpassad"
 
 msgid "Custom Name"
-msgstr ""
+msgstr "Anpassat namn"
 
 msgid "Custom Path"
 msgstr "Anpassad sökväg"
 
 msgid "Custom Properties"
-msgstr ""
+msgstr "Anpassade egenskaper"
 
 msgid "Custom Server"
-msgstr ""
+msgstr "Anpassad server"
 
 msgid "Custom Theme Name"
-msgstr ""
+msgstr "Anpassat temanamn"
 
 msgid "Custom Value"
-msgstr ""
+msgstr "Anpassat värde"
 
 msgid "Customer Name"
-msgstr ""
+msgstr "Kundnamn"
 
 msgid ""
 "Customizes the importance of the alert. Each level of  importance has a "
@@ -3469,7 +3469,7 @@ msgid ""
 msgstr ""
 
 msgid "Cyan"
-msgstr ""
+msgstr "Cyan"
 
 msgid ""
 "DDNS server name. For example,  <i>members.dyndns.org</i> denotes a server "
@@ -3519,22 +3519,22 @@ msgid "DNS timeout in seconds. Increase this value if DNS queries timeout."
 msgstr "DNS-tidsgräns i sekunder. Öka värdet om DNS-frågor överskrider tidsgränsen."
 
 msgid "DOCS"
-msgstr ""
+msgstr "DOKUMENTATION"
 
 msgid "DOCUMENTATION"
-msgstr ""
+msgstr "DOKUMENTATION"
 
 msgid "DQ % Used"
-msgstr ""
+msgstr "DQ % använt"
 
 msgid "DQ Bytes Used"
-msgstr ""
+msgstr "DQ-byte använda"
 
 msgid "DQ Used"
-msgstr ""
+msgstr "DQ använt"
 
 msgid "Daily"
-msgstr ""
+msgstr "Dagligen"
 
 msgid ""
 "Daily time range for the specific  periodic snapshots to replicate, in 15 "
@@ -3549,28 +3549,28 @@ msgid ""
 msgstr ""
 
 msgid "Dashboard"
-msgstr ""
+msgstr "Översikt"
 
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 msgid "Data Encipherment"
-msgstr ""
+msgstr "Datakryptering"
 
 msgid "Data Quota"
 msgstr "Datakvot"
 
 msgid "Data VDevs"
-msgstr ""
+msgstr "Data-vdev:er"
 
 msgid "Data collection frequency, in seconds."
-msgstr ""
+msgstr "Frekvens för datainsamling, i sekunder."
 
 msgid "Data not available"
-msgstr ""
+msgstr "Data är inte tillgängliga"
 
 msgid "Data not provided"
-msgstr ""
+msgstr "Data har inte angetts"
 
 msgid ""
 "Data transfer security. The connection is  authenticated with SSH. Data can "
@@ -3580,7 +3580,7 @@ msgid ""
 msgstr ""
 
 msgid "Database"
-msgstr ""
+msgstr "Databas"
 
 msgid "Database Path"
 msgstr "Databassökväg"
@@ -3604,7 +3604,7 @@ msgid "Datasets for "
 msgstr "Datauppsättningar för "
 
 msgid "Datastore"
-msgstr ""
+msgstr "Datalager"
 
 msgid "Date"
 msgstr "Datum"
@@ -3613,13 +3613,13 @@ msgid "Date Format"
 msgstr "Datumformat"
 
 msgid "Day of Month"
-msgstr ""
+msgstr "Dag i månaden"
 
 msgid "Day of Week"
-msgstr ""
+msgstr "Veckodag"
 
 msgid "Days"
-msgstr ""
+msgstr "Dagar"
 
 msgid ""
 "Days before a completed scrub is allowed  to run again. This controls the "
@@ -3631,10 +3631,10 @@ msgid ""
 msgstr ""
 
 msgid "Days of Week"
-msgstr ""
+msgstr "Veckodagar"
 
 msgid "Days of the Week"
-msgstr ""
+msgstr "Veckodagar"
 
 msgid "Days when this task will run."
 msgstr "Dagar då uppgiften körs."
@@ -3657,22 +3657,22 @@ msgid "Dec"
 msgstr ""
 
 msgid "Decipher Only"
-msgstr ""
+msgstr "Endast dekryptering"
 
 msgid "Decrypt pool"
 msgstr "Dekryptera pool"
 
 msgid "Decrypting Disks"
-msgstr ""
+msgstr "Dekrypterar diskar"
 
 msgid "Dedup"
-msgstr ""
+msgstr "Deduplikering"
 
 msgid "Dedup VDev"
-msgstr ""
+msgstr "Deduplikerings-vdev"
 
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 msgid "Default ACL Options"
 msgstr "Standardalternativ för ACL"
@@ -3681,7 +3681,7 @@ msgid "Default Gateway"
 msgstr "Standardgateway"
 
 msgid "Default Permissions"
-msgstr ""
+msgstr "Standardbehörigheter"
 
 msgid "Default Router For IPv4"
 msgstr "Standardrouter för IPv4"
@@ -3690,13 +3690,13 @@ msgid "Default Router For IPv6"
 msgstr "Standardrouter för IPv6"
 
 msgid "Default Routes"
-msgstr ""
+msgstr "Standardrutter"
 
 msgid "Default Umask"
-msgstr ""
+msgstr "Standard-umask"
 
 msgid "Default is UTF-8 which supports all characters in all languages."
-msgstr ""
+msgstr "Standard är UTF-8, som stöder alla tecken i alla språk."
 
 msgid ""
 "Define a length of time to retain the snapshot  on this system using a "
