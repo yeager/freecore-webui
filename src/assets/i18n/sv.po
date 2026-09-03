@@ -9284,6 +9284,10 @@ msgid ""
 "Password</b> is <i>No</i> and  a <b>Password</b> has been created for the "
 "account."
 msgstr ""
+"Förhindra att användaren loggar in eller använder lösenordsbaserade tjänster "
+"tills det här alternativet återställs. Ett konto kan bara låsas när <b>"
+"Inaktivera lösenord</b> är <i>Nej</i> och ett <b>lösenord</b> har skapats "
+"för kontot."
 
 msgid "Preview"
 msgstr ""
@@ -13503,10 +13507,10 @@ msgid "Two-Factor Authentication Code"
 msgstr "Kod för tvåfaktorsautentisering"
 
 msgid "Two-factor authentication IS currently enabled."
-msgstr ""
+msgstr "Tvåfaktorsautentisering är aktiverad."
 
 msgid "Two-factor authentication is NOT enabled."
-msgstr ""
+msgstr "Tvåfaktorsautentisering är inte aktiverad."
 
 msgid ""
 "Two-letter <a  href=\"https://www.iso.org/obp/ui/#search/code/\" "
