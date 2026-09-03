@@ -16938,7 +16938,7 @@ msgid "software, which is provided as-is with no warranty."
 msgstr "programvara som tillhandahålls i befintligt skick utan garantier."
 
 msgid "stacksize"
-msgstr ""
+msgstr "stackstorlek"
 
 msgid "stop_timeout"
 msgstr ""
