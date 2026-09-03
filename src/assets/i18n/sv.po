@@ -8892,19 +8892,19 @@ msgid ""
 msgstr ""
 
 msgid "Password for the Bind DN."
-msgstr ""
+msgstr "Lösenord för Bind DN."
 
 msgid "Password for the SSH Username account."
-msgstr ""
+msgstr "Lösenord för SSH-användarnamnskontot."
 
 msgid "Password for the user account."
-msgstr ""
+msgstr "Lösenord för användarkontot."
 
 msgid ""
 "Password to encrypt and decrypt remote  data. <b>Warning:</b> Always "
 "securely back up this password! Losing the  encryption password will result "
 "in data loss."
-msgstr ""
+msgstr "Lösenord för att kryptera och dekryptera fjärrdata. <b>Varning:</b> säkerhetskopiera alltid detta lösenord på ett säkert sätt! Om krypteringslösenordet förloras går data förlorade."
 
 msgid "Password updated."
 msgstr ""
