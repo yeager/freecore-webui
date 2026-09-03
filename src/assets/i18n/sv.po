@@ -12905,13 +12905,13 @@ msgid "The pasted string ends with a space"
 msgstr "Den inklistrade strängen slutar med ett blanksteg"
 
 msgid "The pasted string starts with a space"
-msgstr ""
+msgstr "Den inklistrade strängen börjar med ett blanksteg"
 
 msgid "The path"
 msgstr ""
 
 msgid "The physical location of the host."
-msgstr ""
+msgstr "Värdens fysiska plats."
 
 msgid "The pool <i>"
 msgstr ""
@@ -12936,10 +12936,10 @@ msgid ""
 msgstr ""
 
 msgid "The product of vCPUs, cores and threads must not exceed 16."
-msgstr ""
+msgstr "Produkten av virtuella processorer, kärnor och trådar får inte överstiga 16."
 
 msgid "The product of vCPUs, cores, and threads must not exceed 16."
-msgstr ""
+msgstr "Produkten av virtuella processorer, kärnor och trådar får inte överstiga 16."
 
 msgid ""
 "The recovery key is an additional key file that  can be used to decrypt the "
@@ -12957,7 +12957,7 @@ msgid ""
 msgstr ""
 
 msgid "The reporting database is broken"
-msgstr ""
+msgstr "Rapporteringsdatabasen är trasig"
 
 msgid ""
 "The rollback will destroy any  related intermediate, child dataset, and "
@@ -13040,7 +13040,7 @@ msgid ""
 msgstr ""
 
 msgid "The update file is temporarily stored here before being applied."
-msgstr ""
+msgstr "Uppdateringsfilen lagras tillfälligt här innan den tillämpas."
 
 msgid ""
 "The user account <i>Email</i> address to use for the  envelope <i>From</i> "
@@ -13052,7 +13052,7 @@ msgid "The user-defined string that can unlock this dataset."
 msgstr "Den användardefinierade sträng som kan låsa upp denna datamängd."
 
 msgid "The value is out of range. Enter a value between "
-msgstr ""
+msgstr "Värdet ligger utanför intervallet. Ange ett värde mellan "
 
 msgid ""
 "The value of the jail <a "
@@ -13074,7 +13074,7 @@ msgid ""
 msgstr ""
 
 msgid "There are no alerts."
-msgstr ""
+msgstr "Det finns inga larm."
 
 msgid "There are pending network interface changes. Review them now?"
 msgstr "Det finns väntande ändringar av nätverksgränssnitt. Granska dem nu?"
@@ -13085,10 +13085,10 @@ msgid ""
 msgstr ""
 
 msgid "There is an upgrade waiting to finish."
-msgstr ""
+msgstr "En uppgradering väntar på att slutföras."
 
 msgid "There was a problem submitting the SPN entry."
-msgstr ""
+msgstr "Ett problem uppstod när SPN-posten skickades."
 
 msgid ""
 "These  <a href=\"https://support.apple.com/en-us/HT210803\" "
@@ -13103,7 +13103,7 @@ msgid ""
 msgstr ""
 
 msgid "These datasets could not be unlocked."
-msgstr ""
+msgstr "Dessa datamängder kunde inte låsas upp."
 
 msgid ""
 "These datasets were not unlocked because the parent datasets could not be "
@@ -13111,10 +13111,10 @@ msgid ""
 msgstr ""
 
 msgid "These datasets were successfully unlocked."
-msgstr ""
+msgstr "Dessa datamängder låstes upp."
 
 msgid "These datasets will be unlocked with the provided credentials."
-msgstr ""
+msgstr "Dessa datamängder låses upp med de angivna autentiseringsuppgifterna."
 
 msgid "These items will be <b>"
 msgstr ""
@@ -13125,19 +13125,19 @@ msgid ""
 msgstr ""
 
 msgid "These running processes are using "
-msgstr ""
+msgstr "Dessa aktiva processer använder "
 
 msgid "These running services are using"
-msgstr ""
+msgstr "Dessa aktiva tjänster använder"
 
 msgid "These services depend on pool "
-msgstr ""
+msgstr "Dessa tjänster är beroende av poolen "
 
 msgid "These services must be restarted to export the pool:"
-msgstr ""
+msgstr "Dessa tjänster måste startas om för att exportera poolen:"
 
 msgid "These services must be stopped to export the pool:"
-msgstr ""
+msgstr "Dessa tjänster måste stoppas för att exportera poolen:"
 
 msgid ""
 "These settings require the reconfiguration of any existing client.  After "
@@ -13145,13 +13145,13 @@ msgid ""
 msgstr ""
 
 msgid "These unknown processes are using this pool:"
-msgstr ""
+msgstr "Dessa okända processer använder denna pool:"
 
 msgid "These unknown processes are using this pool: "
-msgstr ""
+msgstr "Dessa okända processer använder denna pool: "
 
 msgid "Third DNS server."
-msgstr ""
+msgstr "Tredje DNS-servern."
 
 msgid ""
 "Third-party Cloud service providers. Choose a provider  to configure "
@@ -13159,13 +13159,13 @@ msgid ""
 msgstr ""
 
 msgid "This Controller"
-msgstr ""
+msgstr "Denna styrenhet"
 
 msgid "This Dataset"
-msgstr ""
+msgstr "Denna datamängd"
 
 msgid "This Dataset and Child Datasets"
-msgstr ""
+msgstr "Denna datamängd och underordnade datamängder"
 
 msgid ""
 "This action removes all ACLs from the current  dataset and any directories "
@@ -13238,7 +13238,7 @@ msgid ""
 msgstr ""
 
 msgid "This field is required"
-msgstr ""
+msgstr "Detta fält krävs"
 
 msgid ""
 "This field remains empty until a valid <b>Username</b> and <b>Password</b> "
@@ -13261,7 +13261,7 @@ msgid ""
 msgstr ""
 
 msgid "This is not a production release, and should only be used for testing."
-msgstr ""
+msgstr "Detta är inte en produktionsutgåva och bör endast användas för testning."
 
 msgid ""
 "This is the OS_TENANT_NAME from an <a "
@@ -13270,7 +13270,7 @@ msgid ""
 msgstr ""
 
 msgid "This job will not run again until it is enabled."
-msgstr ""
+msgstr "Detta jobb körs inte igen förrän det har aktiverats."
 
 msgid ""
 "This name is already being used by an existing theme. Please choose a new "
@@ -13278,7 +13278,7 @@ msgid ""
 msgstr ""
 
 msgid "This operation might take a long time. Proceed?"
-msgstr ""
+msgstr "Denna åtgärd kan ta lång tid. Fortsätta?"
 
 msgid ""
 "This pool contains the system dataset that stores critical data like "
@@ -13291,13 +13291,13 @@ msgid ""
 msgstr ""
 
 msgid "This process continues in the background after closing this dialog."
-msgstr ""
+msgstr "Denna process fortsätter i bakgrunden när dialogrutan stängs."
 
 msgid "This system will restart when the update completes."
 msgstr "Systemet startas om när uppdateringen är klar."
 
 msgid "This type of VDEV requires at least "
-msgstr ""
+msgstr "Denna typ av vdev kräver minst "
 
 msgid ""
 "This value represents the threshold block size for including small file "
@@ -13312,16 +13312,16 @@ msgid ""
 msgstr ""
 
 msgid "Thread number:"
-msgstr ""
+msgstr "Trådnummer:"
 
 msgid "Threads"
-msgstr ""
+msgstr "Trådar"
 
 msgid "Threads:"
-msgstr ""
+msgstr "Trådar:"
 
 msgid "Threshold days"
-msgstr ""
+msgstr "Tröskelvärde i dagar"
 
 msgid ""
 "Threshold temperature in Celsius. If the drive temperature is higher than "
@@ -13336,7 +13336,7 @@ msgid "TiB"
 msgstr ""
 
 msgid "Ticket"
-msgstr ""
+msgstr "Ärende"
 
 msgid ""
 "Time (in seconds) before the system  stops attempting to establish a "
@@ -13368,7 +13368,7 @@ msgid "Title"
 msgstr ""
 
 msgid "Title "
-msgstr ""
+msgstr "Titel "
 
 msgid ""
 "To activate this periodic snapshot schedule, set  this option. To disable "
