@@ -16967,7 +16967,7 @@ msgid "to set up configuration first."
 msgstr "för att först ställa in konfigurationen."
 
 msgid "total"
-msgstr ""
+msgstr "totalt"
 
 msgid "total available"
 msgstr "totalt tillgängligt"
