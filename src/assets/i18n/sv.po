@@ -16627,7 +16627,7 @@ msgid "depends"
 msgstr ""
 
 msgid "destroy"
-msgstr ""
+msgstr "förstör"
 
 msgid "details"
 msgstr "detaljer"
