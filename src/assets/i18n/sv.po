@@ -325,10 +325,10 @@ msgid ""
 msgstr ""
 
 msgid "<a href=\"https://mega.nz/\" target=\"_blank\">MEGA</a> account  password."
-msgstr ""
+msgstr "Lösenord för <a href=\"https://mega.nz/\" target=\"_blank\">MEGA</a>-konto."
 
 msgid "<a href=\"https://mega.nz/\" target=\"_blank\">MEGA</a> account  username."
-msgstr ""
+msgstr "Användarnamn för <a href=\"https://mega.nz/\" target=\"_blank\">MEGA</a>-konto."
 
 msgid ""
 "<a href=\"https://rclone.org/swift/#standard-options\" "
@@ -802,7 +802,7 @@ msgid "Access Key ID"
 msgstr "Åtkomstnyckel-ID"
 
 msgid "Access Key ID for the linked AWS account."
-msgstr ""
+msgstr "Åtkomstnyckel-ID för det länkade AWS-kontot."
 
 msgid "Access Mode"
 msgstr "Åtkomstläge"
@@ -1796,10 +1796,10 @@ msgid "Authority Cert Issuer"
 msgstr ""
 
 msgid "Authority Key Config"
-msgstr ""
+msgstr "Konfiguration för auktoritetsnyckel"
 
 msgid "Authority Key Identifier"
-msgstr ""
+msgstr "Identifierare för auktoritetsnyckel"
 
 msgid "Authorized Access"
 msgstr "Auktoriserad åtkomst"
@@ -1939,7 +1939,7 @@ msgid "Base Name"
 msgstr ""
 
 msgid "Base64 encoded key for the Azure account."
-msgstr ""
+msgstr "Base64-kodad nyckel för Azure-kontot."
 
 msgid "Basejail"
 msgstr ""
@@ -2270,7 +2270,7 @@ msgid "Cancel"
 msgstr "Avbryt"
 
 msgid "Cancel any pending Key synchronization."
-msgstr ""
+msgstr "Avbryt all väntande nyckelsynkronisering."
 
 msgid "Cannot Delete while HA is Enabled"
 msgstr ""
@@ -2551,7 +2551,7 @@ msgid "Choose a compression algorithm."
 msgstr ""
 
 msgid "Choose a connection that has been saved in  <b>System > SSH Connections</b>."
-msgstr ""
+msgstr "Välj en anslutning som har sparats under <b>System > SSH-anslutningar</b>."
 
 msgid "Choose a date"
 msgstr ""
@@ -2661,7 +2661,7 @@ msgid "Choose an authentication method."
 msgstr "Välj en autentiseringsmetod."
 
 msgid "Choose an encryption mode to use with LDAP."
-msgstr ""
+msgstr "Välj ett krypteringsläge att använda med LDAP."
 
 msgid "Choose an option"
 msgstr ""
@@ -2861,7 +2861,7 @@ msgid "Clear the Idmap Cache"
 msgstr ""
 
 msgid "Clear the SED password for this disk."
-msgstr ""
+msgstr "Rensa SED-lösenordet för denna disk."
 
 msgid "Clearing Cache..."
 msgstr ""
@@ -3048,7 +3048,7 @@ msgid "Compression level"
 msgstr ""
 
 msgid "Computer Account OU"
-msgstr ""
+msgstr "Organisationsenhet för datorkonto"
 
 msgid "Config could not be downloaded"
 msgstr ""
@@ -3077,7 +3077,7 @@ msgid ""
 msgstr ""
 
 msgid "Configure the root user email address."
-msgstr ""
+msgstr "Konfigurera e-postadressen för root-användaren."
 
 msgid ""
 "Configure virtual addressing topology when running in TUN mode.  (TAP mode "
@@ -3109,10 +3109,10 @@ msgid "Confirm Privacy Passphrase"
 msgstr ""
 
 msgid "Confirm SED Password"
-msgstr ""
+msgstr "Bekräfta SED-lösenord"
 
 msgid "Confirm Secret Key"
-msgstr ""
+msgstr "Bekräfta hemlig nyckel"
 
 msgid ""
 "Confirm changes to <i>Group</i>. To prevent errors, changes to the "
@@ -3141,7 +3141,7 @@ msgid "Confirm it is okay to proceed with Detach."
 msgstr ""
 
 msgid "Confirm password"
-msgstr ""
+msgstr "Bekräfta lösenord"
 
 msgid "Confirm these settings."
 msgstr ""
@@ -3162,7 +3162,7 @@ msgid "Connecting to TrueCommand"
 msgstr ""
 
 msgid "Connection"
-msgstr ""
+msgstr "Anslutning"
 
 msgid "Connection Error"
 msgstr "Anslutningsfel"
@@ -3205,7 +3205,7 @@ msgid "Content Commitment"
 msgstr ""
 
 msgid "Contents of the uploaded Service Account JSON file."
-msgstr ""
+msgstr "Innehåll i den uppladdade JSON-filen för tjänstkontot."
 
 msgid ""
 "Context menu copy and paste operations     are disabled in the Shell. Copy "
@@ -3268,10 +3268,10 @@ msgid "Could not extend Vdev."
 msgstr ""
 
 msgid "Could not find a group name for this group ID."
-msgstr ""
+msgstr "Det gick inte att hitta något gruppnamn för detta grupp-ID."
 
 msgid "Could not find a user name for this user ID."
-msgstr ""
+msgstr "Det gick inte att hitta något användarnamn för detta användar-ID."
 
 msgid "Could not replace disk."
 msgstr ""
@@ -3434,7 +3434,7 @@ msgid ""
 msgstr ""
 
 msgid "Current Password"
-msgstr ""
+msgstr "Nuvarande lösenord"
 
 msgid "Current Train:"
 msgstr ""
@@ -3789,7 +3789,7 @@ msgid "Define the server where all changes to the database are performed."
 msgstr ""
 
 msgid "Define the server where all password changes are performed."
-msgstr ""
+msgstr "Ange servern där alla lösenordsändringar utförs."
 
 msgid "Define the size of the raw file in GiB."
 msgstr ""
@@ -3832,7 +3832,7 @@ msgid "Delete Device"
 msgstr "Ta bort enhet"
 
 msgid "Delete Group "
-msgstr ""
+msgstr "Ta bort grupp "
 
 msgid "Delete Key"
 msgstr "Ta bort nyckel"
@@ -3850,7 +3850,7 @@ msgid "Delete Selected"
 msgstr "Ta bort markerade"
 
 msgid "Delete User "
-msgstr ""
+msgstr "Ta bort användare "
 
 msgid "Delete Virtual Machine"
 msgstr "Ta bort virtuell maskin"
@@ -3890,7 +3890,7 @@ msgid "Delete this path."
 msgstr "Ta bort denna sökväg."
 
 msgid "Delete user primary group "
-msgstr ""
+msgstr "Ta bort användarens primära grupp "
 
 msgid "Deleted"
 msgstr "Borttagen"
@@ -3968,13 +3968,13 @@ msgid "Description of the share or notes on how it is used."
 msgstr ""
 
 msgid "Descriptive identifier for this API key."
-msgstr ""
+msgstr "Beskrivande identifierare för denna API-nyckel."
 
 msgid "Descriptive identifier for this certificate authority."
-msgstr ""
+msgstr "Beskrivande identifierare för denna certifikatutfärdare."
 
 msgid "Descriptive identifier for this certificate."
-msgstr ""
+msgstr "Beskrivande identifierare för detta certifikat."
 
 msgid "Descriptive name for the replication."
 msgstr ""
@@ -4153,7 +4153,7 @@ msgid ""
 msgstr ""
 
 msgid "Disable LDAP User/Group Cache"
-msgstr ""
+msgstr "Inaktivera LDAP-cache för användare/grupper"
 
 msgid "Disable Password"
 msgstr "Inaktivera lösenord"
@@ -4186,16 +4186,16 @@ msgid ""
 msgstr ""
 
 msgid "Discover Remote Host Key"
-msgstr ""
+msgstr "Identifiera fjärrvärdnyckel"
 
 msgid "Discovery Auth Group"
-msgstr ""
+msgstr "Identifieringsautentiseringsgrupp"
 
 msgid "Discovery Auth Method"
-msgstr ""
+msgstr "Identifieringsautentiseringsmetod"
 
 msgid "Discovery Authentication Group"
-msgstr ""
+msgstr "Identifieringsautentiseringsgrupp"
 
 msgid "Discovery Authentication Method"
 msgstr ""
@@ -4249,7 +4249,7 @@ msgid "Dismiss All Alerts"
 msgstr ""
 
 msgid "Display Login"
-msgstr ""
+msgstr "Visa inloggning"
 
 msgid "Display Note"
 msgstr ""
@@ -4288,7 +4288,7 @@ msgid "Domain Account Name"
 msgstr "Domänkontonamn"
 
 msgid "Domain Account Password"
-msgstr ""
+msgstr "Domänkontolösenord"
 
 msgid "Domain Credentials"
 msgstr ""
@@ -4403,7 +4403,7 @@ msgid "Edit ACL"
 msgstr ""
 
 msgid "Edit API Key"
-msgstr ""
+msgstr "Redigera API-nyckel"
 
 msgid "Edit Alert Service"
 msgstr ""
@@ -4415,13 +4415,13 @@ msgid "Edit Disk(s)"
 msgstr ""
 
 msgid "Edit Encryption Options for "
-msgstr ""
+msgstr "Redigera krypteringsalternativ för "
 
 msgid "Edit Filesystem ACL"
 msgstr ""
 
 msgid "Edit Group"
-msgstr ""
+msgstr "Redigera grupp"
 
 msgid "Edit Idmap"
 msgstr ""
@@ -4499,7 +4499,7 @@ msgid ""
 msgstr ""
 
 msgid "Enable (requires password or Kerberos principal)"
-msgstr ""
+msgstr "Aktivera (kräver lösenord eller Kerberos-principal)"
 
 msgid "Enable ACL"
 msgstr ""
@@ -4544,7 +4544,7 @@ msgid "Enable Netwait Feature"
 msgstr ""
 
 msgid "Enable Password Toggle"
-msgstr ""
+msgstr "Aktivera lösenordsväxling"
 
 msgid "Enable S.M.A.R.T."
 msgstr ""
@@ -4813,7 +4813,7 @@ msgid "Encryption Key Required"
 msgstr "Krypteringsnyckel krävs"
 
 msgid "Encryption Key for Pool "
-msgstr ""
+msgstr "Krypteringsnyckel för pool "
 
 msgid "Encryption Key/Passphrase"
 msgstr "Krypteringsnyckel/lösenfras"
@@ -4862,7 +4862,7 @@ msgid ""
 msgstr ""
 
 msgid "Encryption options for "
-msgstr ""
+msgstr "Krypteringsalternativ för "
 
 msgid "End"
 msgstr ""
