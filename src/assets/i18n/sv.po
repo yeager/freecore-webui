@@ -906,7 +906,7 @@ msgid "Adapter Type:"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "Lägg till"
 
 msgid "Add ACL Item"
 msgstr ""
@@ -1876,7 +1876,7 @@ msgid "BPF is required."
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Tillbaka"
 
 msgid "Back to Support"
 msgstr ""
@@ -2895,7 +2895,7 @@ msgid "Clone to New Dataset"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "Stäng"
 
 msgid "Close (return to VM list"
 msgstr ""
@@ -3272,7 +3272,7 @@ msgid "Crash reporting"
 msgstr ""
 
 msgid "Create"
-msgstr ""
+msgstr "Skapa"
 
 msgid "Create ACME Certificate"
 msgstr ""
@@ -3797,7 +3797,7 @@ msgid ""
 msgstr ""
 
 msgid "Delete"
-msgstr ""
+msgstr "Ta bort"
 
 msgid "Delete "
 msgstr ""
@@ -4377,7 +4377,7 @@ msgid "EXPIRES TODAY  "
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Redigera"
 
 msgid "Edit ACL"
 msgstr ""
@@ -8316,7 +8316,7 @@ msgid "Newer Intermediate, Child, and Clone"
 msgstr ""
 
 msgid "Next"
-msgstr ""
+msgstr "Nästa"
 
 msgid "Next Run"
 msgstr ""
@@ -9275,7 +9275,7 @@ msgid "Preview JSON Service Account Key"
 msgstr ""
 
 msgid "Previous"
-msgstr ""
+msgstr "Föregående"
 
 msgid "Primary"
 msgstr ""
@@ -9588,7 +9588,7 @@ msgid ""
 msgstr ""
 
 msgid "Refresh"
-msgstr ""
+msgstr "Uppdatera"
 
 msgid "Refresh Token"
 msgstr ""
@@ -9667,7 +9667,7 @@ msgid ""
 msgstr ""
 
 msgid "Remove"
-msgstr ""
+msgstr "Ta bort"
 
 msgid "Remove Additional Path"
 msgstr ""
@@ -10423,7 +10423,7 @@ msgid ""
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "Välj"
 
 msgid "Select "
 msgstr ""
@@ -12192,7 +12192,7 @@ msgid "Subject Alternate Names"
 msgstr ""
 
 msgid "Submit"
-msgstr ""
+msgstr "Skicka"
 
 msgid "Subnet mask of the IPv4 address."
 msgstr ""
@@ -14225,7 +14225,7 @@ msgid "Video, < 10ms latency"
 msgstr ""
 
 msgid "View"
-msgstr ""
+msgstr "Visa"
 
 msgid "View Enclosure"
 msgstr ""
