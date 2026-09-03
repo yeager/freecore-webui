@@ -7457,7 +7457,7 @@ msgid "Hottest:"
 msgstr "Varmast:"
 
 msgid "Hour"
-msgstr ""
+msgstr "Timme"
 
 msgid ""
 "Hour and minute the system must stop  creating snapshots. Snapshots already "
@@ -7473,7 +7473,7 @@ msgid "Hourly"
 msgstr "Varje timme"
 
 msgid "Hours"
-msgstr ""
+msgstr "Timmar"
 
 msgid "Hours when this task will run."
 msgstr "Timmar då uppgiften körs."
@@ -7745,7 +7745,7 @@ msgstr ""
 "ignoreras av certifikatsystemet medan certifikatet ändå godkänns."
 
 msgid "Idle"
-msgstr ""
+msgstr "Vilande"
 
 msgid "Idmap"
 msgstr ""
@@ -7911,7 +7911,7 @@ msgid "InfluxDB time series name for collected points."
 msgstr "InfluxDB-tidsserienamn för insamlade punkter."
 
 msgid "Info"
-msgstr ""
+msgstr "Information"
 
 msgid "Informational"
 msgstr "Informativ"
@@ -7991,7 +7991,7 @@ msgid ""
 msgstr ""
 
 msgid "Input"
-msgstr ""
+msgstr "Indata"
 
 msgid "Input the pre-defined S3 bucket to use."
 msgstr "Ange den fördefinierade S3-bucket som ska användas."
@@ -8218,7 +8218,7 @@ msgid "KMIP Server"
 msgstr "KMIP-server"
 
 msgid "Keep"
-msgstr ""
+msgstr "Behåll"
 
 msgid "Keep snapshot for"
 msgstr "Behåll ögonblicksbild i"
@@ -8459,7 +8459,7 @@ msgid "Legend"
 msgstr "Förklaring"
 
 msgid "Level"
-msgstr ""
+msgstr "Nivå"
 
 msgid "Level 1 - Minimum power usage with Standby (spindown)"
 msgstr "Nivå 1 – minimal energianvändning med vänteläge (nedspinning)"
@@ -8534,7 +8534,7 @@ msgid "Load colors from existing theme"
 msgstr "Läs in färger från befintligt tema"
 
 msgid "Local"
-msgstr ""
+msgstr "Lokal"
 
 msgid "Local Account"
 msgstr "Lokalt konto"
