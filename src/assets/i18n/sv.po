@@ -17003,7 +17003,7 @@ msgid "wallclock"
 msgstr ""
 
 msgid "warn"
-msgstr ""
+msgstr "varna"
 
 msgid "was successfully attached."
 msgstr "anslöts."
