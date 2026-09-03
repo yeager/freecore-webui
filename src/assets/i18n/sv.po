@@ -1346,7 +1346,7 @@ msgid ""
 msgstr ""
 
 msgid "Allow from"
-msgstr ""
+msgstr "Tillåt från"
 
 msgid ""
 "Allow group members to use <a "
@@ -1456,7 +1456,7 @@ msgid "Allowed Initiators (IQN)"
 msgstr "Tillåtna initierare (IQN)"
 
 msgid "Allowed characters: letters, numbers, underscore (_), and dash (-)."
-msgstr ""
+msgstr "Tillåtna tecken: bokstäver, siffror, understreck (_) och bindestreck (-)."
 
 msgid ""
 "Allows multiple  <a href=\"http://www.ntfs.com/ntfs-multiple.htm\" "
@@ -1485,22 +1485,22 @@ msgid ""
 msgstr ""
 
 msgid "Also Include Naming Schema"
-msgstr ""
+msgstr "Inkludera även namnschema"
 
 msgid "Also unlock any encrypted dataset stored within this dataset."
 msgstr "Lås även upp alla krypterade datamängder som finns i denna datamängd."
 
 msgid "Alt Background 1"
-msgstr ""
+msgstr "Alternativ bakgrund 1"
 
 msgid "Alt Background 2"
-msgstr ""
+msgstr "Alternativ bakgrund 2"
 
 msgid "Alt Foreground 1"
-msgstr ""
+msgstr "Alternativ förgrund 1"
 
 msgid "Alt Foreground 2"
-msgstr ""
+msgstr "Alternativ förgrund 2"
 
 msgid ""
 "Alternative names that SMB clients can use when connecting to this NAS. Can "
@@ -1508,13 +1508,13 @@ msgid ""
 msgstr ""
 
 msgid "Always"
-msgstr ""
+msgstr "Alltid"
 
 msgid "Always Chroot"
-msgstr ""
+msgstr "Alltid chroot"
 
 msgid "Always On"
-msgstr ""
+msgstr "Alltid på"
 
 msgid ""
 "Amazon Web Services Key ID. This is found on  <a "
@@ -1568,13 +1568,13 @@ msgid "Anonymous User Upload Bandwidth"
 msgstr "Uppladdningsbandbredd för anonym användare"
 
 msgid "Another theme is using this label. Please enter a new label."
-msgstr ""
+msgstr "Ett annat tema använder denna etikett. Ange en ny etikett."
 
 msgid "Any notes about initiators."
-msgstr ""
+msgstr "Eventuella anteckningar om initierare."
 
 msgid "Appdefaults Auxiliary Parameters"
-msgstr ""
+msgstr "Extra Appdefaults-parametrar"
 
 msgid ""
 "Append <i>@realm</i> to <i>cn</i> in LDAP queries for both groups and users "
@@ -1582,7 +1582,7 @@ msgid ""
 msgstr ""
 
 msgid "Append Data"
-msgstr ""
+msgstr "Lägg till data"
 
 msgid ""
 "Appends a suffix to the share connection path.  This is used to provide "
@@ -1670,7 +1670,7 @@ msgid "Apr"
 msgstr ""
 
 msgid "Archive"
-msgstr ""
+msgstr "Arkiv"
 
 msgid "Are you sure you want to deregister TrueCommand Cloud Service?"
 msgstr "Vill du verkligen avregistrera TrueCommand Cloud Service?"
@@ -1685,7 +1685,7 @@ msgid "Are you sure you want to sync to peer?"
 msgstr "Vill du verkligen synkronisera till peer?"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Är du säker?"
 
 msgid ""
 "Arrange the disks according to capacity, redundancy, and  performance "
@@ -1700,10 +1700,10 @@ msgid ""
 msgstr ""
 
 msgid "Associated Target"
-msgstr ""
+msgstr "Associerat mål"
 
 msgid "Associated Targets"
-msgstr ""
+msgstr "Associerade mål"
 
 msgid ""
 "At least one module must be defined in <a                "
@@ -1713,16 +1713,16 @@ msgid ""
 msgstr ""
 
 msgid "Attach"
-msgstr ""
+msgstr "Bifoga"
 
 msgid "Attach Debug"
-msgstr ""
+msgstr "Bifoga felsökningsinformation"
 
 msgid "Attach NIC"
-msgstr ""
+msgstr "Anslut nätverkskort"
 
 msgid "Attach screenshots."
-msgstr ""
+msgstr "Bifoga skärmbilder."
 
 msgid "Aug"
 msgstr ""
@@ -1737,7 +1737,7 @@ msgid ""
 msgstr ""
 
 msgid "AuthVersion"
-msgstr ""
+msgstr "Autentiseringsversion"
 
 msgid ""
 "AuthVersion - optional - set to (1,2,3) if your auth URL has no version <a "
@@ -1785,7 +1785,7 @@ msgid "Authenticator"
 msgstr "Autentiserare"
 
 msgid "Authenticator Attributes"
-msgstr ""
+msgstr "Autentiserarattribut"
 
 msgid ""
 "Authenticator to validate the Domain. Choose a previously configured ACME "
@@ -1793,7 +1793,7 @@ msgid ""
 msgstr ""
 
 msgid "Authority Cert Issuer"
-msgstr ""
+msgstr "Utfärdare av certifikatutfärdarcertifikat"
 
 msgid "Authority Key Config"
 msgstr "Konfiguration för auktoritetsnyckel"
@@ -1811,7 +1811,7 @@ msgid "Authorized Networks"
 msgstr "Auktoriserade nätverk"
 
 msgid "Auto TRIM"
-msgstr ""
+msgstr "Automatisk TRIM"
 
 msgid "Auto configure IPv6"
 msgstr "Konfigurera IPv6 automatiskt"
@@ -1822,7 +1822,7 @@ msgid ""
 msgstr ""
 
 msgid "Auto-start"
-msgstr ""
+msgstr "Automatisk start"
 
 msgid "Autoconfigure IPv6"
 msgstr "Konfigurera IPv6 automatiskt"
@@ -1842,55 +1842,55 @@ msgid "Automatically reboot the system after the update is applied."
 msgstr "Starta automatiskt om systemet när uppdateringen har tillämpats."
 
 msgid "Automatically stop the script or command after the specified seconds."
-msgstr ""
+msgstr "Stoppa automatiskt skriptet eller kommandot efter angivet antal sekunder."
 
 msgid "Autostart"
-msgstr ""
+msgstr "Automatisk start"
 
 msgid "Auxiliary Arguments"
-msgstr ""
+msgstr "Extra argument"
 
 msgid "Auxiliary Groups"
-msgstr ""
+msgstr "Extra grupper"
 
 msgid "Auxiliary Parameters"
-msgstr ""
+msgstr "Extra parametrar"
 
 msgid "Auxiliary Parameters (ups.conf)"
-msgstr ""
+msgstr "Extra parametrar (ups.conf)"
 
 msgid "Auxiliary Parameters (upsd.conf)"
-msgstr ""
+msgstr "Extra parametrar (upsd.conf)"
 
 msgid "Auxiliary parameters"
-msgstr ""
+msgstr "Extra parametrar"
 
 msgid "Available"
 msgstr "Tillgänglig"
 
 msgid "Available Disks"
-msgstr ""
+msgstr "Tillgängliga diskar"
 
 msgid "Available Memory:"
 msgstr "Tillgängligt minne:"
 
 msgid "Available Plugins"
-msgstr ""
+msgstr "Tillgängliga insticksprogram"
 
 msgid "Available Space"
-msgstr ""
+msgstr "Tillgängligt utrymme"
 
 msgid "Available Space Threshold (%)"
-msgstr ""
+msgstr "Tröskel för tillgängligt utrymme (%)"
 
 msgid "Available Themes"
-msgstr ""
+msgstr "Tillgängliga teman"
 
 msgid "Awesome! Now let's explore FreeNAS's cool features."
-msgstr ""
+msgstr "Toppen! Nu ska vi utforska FreeNAS fantastiska funktioner."
 
 msgid "BPF is required."
-msgstr ""
+msgstr "BPF krävs."
 
 msgid "Back"
 msgstr "Tillbaka"
