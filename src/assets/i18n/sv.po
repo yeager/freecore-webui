@@ -709,7 +709,7 @@ msgid "ACL cannot be changed when the Source is the top-level dataset for a pool
 msgstr ""
 
 msgid "ACME Certificate"
-msgstr ""
+msgstr "ACME-certifikat"
 
 msgid "ACME DNS"
 msgstr ""
@@ -751,7 +751,7 @@ msgid "ARN"
 msgstr ""
 
 msgid "ATA Security User"
-msgstr ""
+msgstr "ATA-säkerhetsanvändare"
 
 msgid "AUTORID"
 msgstr ""
@@ -860,7 +860,7 @@ msgid "Activate this Boot Environment?"
 msgstr ""
 
 msgid "Activate this certificate extension."
-msgstr ""
+msgstr "Aktivera denna certifikatutökning."
 
 msgid ""
 "Activate this module for use with Rsync. Unset this field to deactivate the "
@@ -879,7 +879,7 @@ msgid ""
 msgstr ""
 
 msgid "Activates the replication schedule."
-msgstr ""
+msgstr "Aktiverar replikeringsschemat."
 
 msgid "Active"
 msgstr ""
@@ -1132,7 +1132,7 @@ msgid "Admin Portals"
 msgstr ""
 
 msgid "Admin Server"
-msgstr ""
+msgstr "Administrationsserver"
 
 msgid ""
 "Administrative account name on the LDAP server. Example: "
@@ -1140,10 +1140,10 @@ msgid ""
 msgstr ""
 
 msgid "Administrator Password"
-msgstr ""
+msgstr "Administratörslösenord"
 
 msgid "Administrator password"
-msgstr ""
+msgstr "Administratörslösenord"
 
 msgid "Administrators Group"
 msgstr "Administratörsgrupp"
@@ -1167,7 +1167,7 @@ msgid "Advanced Options"
 msgstr ""
 
 msgid "Advanced Plugin Installation"
-msgstr ""
+msgstr "Avancerad installation av insticksprogram"
 
 msgid "Advanced Power Management"
 msgstr ""
@@ -1243,10 +1243,10 @@ msgid "All users"
 msgstr ""
 
 msgid "Allocate RAM for the VM. Minimum value is 256 MiB."
-msgstr ""
+msgstr "Tilldela RAM-minne till den virtuella datorn. Minsta värdet är 256 MiB."
 
 msgid "Allocate a number of megabytes of RAM to the VM."
-msgstr ""
+msgstr "Tilldela den virtuella datorn ett antal megabyte RAM-minne."
 
 msgid "Allocate at least 256 MiB."
 msgstr ""
@@ -1562,10 +1562,10 @@ msgid "An update is already applied. Please reboot the system."
 msgstr ""
 
 msgid "Anonymous User Download Bandwidth"
-msgstr ""
+msgstr "Nedladdningsbandbredd för anonym användare"
 
 msgid "Anonymous User Upload Bandwidth"
-msgstr ""
+msgstr "Uppladdningsbandbredd för anonym användare"
 
 msgid "Another theme is using this label. Please enter a new label."
 msgstr ""
@@ -1597,16 +1597,16 @@ msgid "Apple Shares (AFP)"
 msgstr ""
 
 msgid "Application Credential ID"
-msgstr ""
+msgstr "ID för programautentiseringsuppgift"
 
 msgid "Application Credential Name"
-msgstr ""
+msgstr "Namn på programautentiseringsuppgift"
 
 msgid "Application Credential Secret"
-msgstr ""
+msgstr "Hemlighet för programautentiseringsuppgift"
 
 msgid "Application Key"
-msgstr ""
+msgstr "Programnyckel"
 
 msgid "Apply"
 msgstr "Tillämpa"
@@ -1615,7 +1615,7 @@ msgid "Apply Failover Upgrade"
 msgstr ""
 
 msgid "Apply Group"
-msgstr ""
+msgstr "Tillämpa grupp"
 
 msgid "Apply Pending Updates"
 msgstr ""
@@ -1636,7 +1636,7 @@ msgid "Apply Update"
 msgstr ""
 
 msgid "Apply User"
-msgstr ""
+msgstr "Tillämpa användare"
 
 msgid "Apply permissions recursively"
 msgstr ""
@@ -2003,7 +2003,7 @@ msgid "Bind Interfaces"
 msgstr ""
 
 msgid "Bind Password"
-msgstr ""
+msgstr "Bindningslösenord"
 
 msgid "Bind to"
 msgstr ""
@@ -2351,7 +2351,7 @@ msgid "Certificates"
 msgstr "Certifikat"
 
 msgid "Change Administrator Password"
-msgstr ""
+msgstr "Byt administratörslösenord"
 
 msgid "Change Device Order"
 msgstr ""
@@ -2372,10 +2372,10 @@ msgid "Change Settings and Clear Report History?"
 msgstr ""
 
 msgid "Change User & Group Ownership"
-msgstr ""
+msgstr "Ändra ägarskap för användare och grupp"
 
 msgid "Change User and Group Ownership"
-msgstr ""
+msgstr "Ändra ägarskap för användare och grupp"
 
 msgid ""
 "Change existing ownership of ALL files in the share  to user "
