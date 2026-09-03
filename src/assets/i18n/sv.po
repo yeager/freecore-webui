@@ -4639,7 +4639,7 @@ msgid ""
 msgstr ""
 
 msgid "Enable the SNMPv3 security model."
-msgstr ""
+msgstr "Aktivera säkerhetsmodellen SNMPv3."
 
 msgid "Enable this AFP share. Unset to disable this AFP share  without deleting it."
 msgstr "Aktivera denna AFP-delning. Avmarkera för att inaktivera AFP-delningen utan att ta bort den."
@@ -5054,7 +5054,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter a password of at least eight characters."
-msgstr ""
+msgstr "Ange ett lösenord med minst åtta tecken."
 
 msgid "Enter a port number to use for the connection."
 msgstr "Ange ett portnummer att använda för anslutningen."
@@ -5252,7 +5252,7 @@ msgid "Enter or paste a string to use as the encryption key for this dataset."
 msgstr "Ange eller klistra in en sträng att använda som krypteringsnyckel för denna datamängd."
 
 msgid "Enter or paste an Authentication token."
-msgstr ""
+msgstr "Ange eller klistra in en autentiseringstoken."
 
 msgid ""
 "Enter or paste the \"integration/service\" key for this system to access "
@@ -5305,7 +5305,7 @@ msgid "Enter passphrase to lock pool "
 msgstr "Ange lösenfras för att låsa pool "
 
 msgid "Enter password."
-msgstr ""
+msgstr "Ange lösenord."
 
 msgid ""
 "Enter the <a "
@@ -5401,10 +5401,10 @@ msgid "Enter the TCP port which provides the S3 service."
 msgstr "Ange TCP-porten som tillhandahåller S3-tjänsten."
 
 msgid "Enter the administrator password to authorize this operation."
-msgstr ""
+msgstr "Ange administratörslösenordet för att auktorisera åtgärden."
 
 msgid "Enter the bug tracker account password."
-msgstr ""
+msgstr "Ange lösenordet för felrapporteringskontot."
 
 msgid "Enter the command with any options."
 msgstr ""
@@ -5503,7 +5503,7 @@ msgid "Enter the passphrase for the Private Key."
 msgstr "Ange lösenfrasen för den privata nyckeln."
 
 msgid "Enter the password associated with <b>Username</b>."
-msgstr ""
+msgstr "Ange lösenordet som är kopplat till <b>Användarnamn</b>."
 
 msgid ""
 "Enter the password for the SMTP server. Only plain ASCII characters are "
@@ -5533,7 +5533,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the root password to authorize this operation."
-msgstr ""
+msgstr "Ange root-lösenordet för att auktorisera åtgärden."
 
 msgid ""
 "Enter the routing table (<a "
@@ -6132,7 +6132,7 @@ msgid "GUI"
 msgstr ""
 
 msgid "GUI SSL Certificate"
-msgstr ""
+msgstr "SSL-certifikat för gränssnittet"
 
 msgid "Gateway"
 msgstr "Gateway"
@@ -6298,7 +6298,7 @@ msgid "Groups"
 msgstr "Grupper"
 
 msgid "Guest Access"
-msgstr ""
+msgstr "Gäståtkomst"
 
 msgid "Guest Account"
 msgstr "Gästkonto"
@@ -6745,7 +6745,7 @@ msgid ""
 msgstr ""
 
 msgid "Identify this certificate as a Certificate Authority (CA)."
-msgstr ""
+msgstr "Identifiera detta certifikat som en certifikatutfärdare (CA)."
 
 msgid ""
 "Identify this extension as critical for the certificate. Critical "
@@ -6868,7 +6868,7 @@ msgid "Include Dataset Properties"
 msgstr ""
 
 msgid "Include Password Secret Seed"
-msgstr ""
+msgstr "Inkludera hemligt lösenordsfrö"
 
 msgid "Include dataset properties with the replicated  snapshots."
 msgstr ""
@@ -6881,7 +6881,7 @@ msgid ""
 msgstr ""
 
 msgid "Incorrect Password"
-msgstr ""
+msgstr "Felaktigt lösenord"
 
 msgid ""
 "Indicates how to handle Access Control Lists. <b>Ignore:</b> ignores "
@@ -7476,7 +7476,7 @@ msgid "Local"
 msgstr ""
 
 msgid "Local Account"
-msgstr ""
+msgstr "Lokalt konto"
 
 msgid "Local Master"
 msgstr ""
@@ -7866,7 +7866,7 @@ msgid "MiB. Units  smaller than MiB are not allowed."
 msgstr ""
 
 msgid "Microsoft Account"
-msgstr ""
+msgstr "Microsoft-konto"
 
 msgid ""
 "Microsoft Onedrive  <a "
@@ -8071,7 +8071,7 @@ msgid "NSS"
 msgstr ""
 
 msgid "NTLMv1 Auth"
-msgstr ""
+msgstr "NTLMv1-autentisering"
 
 msgid "NTP Server Settings"
 msgstr ""
@@ -8319,7 +8319,7 @@ msgid "New Disk"
 msgstr "Ny disk"
 
 msgid "New Password"
-msgstr ""
+msgstr "Nytt lösenord"
 
 msgid "New Primary Group"
 msgstr "Ny primär grupp"
@@ -8500,7 +8500,7 @@ msgid ""
 msgstr ""
 
 msgid "Number of days to renew certificate before expiring."
-msgstr ""
+msgstr "Antal dagar före utgångsdatum då certifikatet ska förnyas."
 
 msgid ""
 "Number of objects that can be owned by each of the selected groups.  "
@@ -8652,7 +8652,7 @@ msgid "One or more data vdevs has disks of different sizes."
 msgstr ""
 
 msgid "One-Time Password (OTP) Digits"
-msgstr ""
+msgstr "Siffror för engångslösenord (OTP)"
 
 msgid "Online"
 msgstr ""
@@ -8906,7 +8906,7 @@ msgid "Password associated with the LDAP User DN."
 msgstr "Lösenord som hör till LDAP-användarens DN."
 
 msgid "Password for logging in to the provider and  updating the record. "
-msgstr ""
+msgstr "Lösenord för att logga in hos leverantören och uppdatera posten. "
 
 msgid ""
 "Password for the Active Directory administrator account.  Required the "
@@ -8955,10 +8955,10 @@ msgid ""
 msgstr ""
 
 msgid "Paste the certificate for the CA."
-msgstr ""
+msgstr "Klistra in certifikatet för CA:n."
 
 msgid "Paste the contents of your Certificate Signing Request here."
-msgstr ""
+msgstr "Klistra in innehållet i din certifikatsigneringsbegäran här."
 
 msgid ""
 "Paste the private key associated with the Certificate when available. "
@@ -9093,10 +9093,10 @@ msgid "Please enter your 2FA code again"
 msgstr ""
 
 msgid "Please enter your password"
-msgstr ""
+msgstr "Ange lösenordet"
 
 msgid "Please enter your password again"
-msgstr ""
+msgstr "Ange lösenordet igen"
 
 msgid "Please enter your username"
 msgstr ""
@@ -9329,7 +9329,7 @@ msgid "Private Key"
 msgstr "Privat nyckel"
 
 msgid "Private Key ID"
-msgstr ""
+msgstr "ID för privat nyckel"
 
 msgid ""
 "Privileges are the same as the guest account.  Guest access is disabled by "
@@ -9528,7 +9528,7 @@ msgid "Read Only"
 msgstr "Skrivskyddad"
 
 msgid "Read Only Access"
-msgstr ""
+msgstr "Skrivskyddad åtkomst"
 
 msgid "Read and Write"
 msgstr ""
@@ -9543,7 +9543,7 @@ msgid "Read/Write"
 msgstr "Läs/skriv"
 
 msgid "Read/Write Access"
-msgstr ""
+msgstr "Läs-/skrivåtkomst"
 
 msgid "Readonly"
 msgstr ""
@@ -9618,7 +9618,7 @@ msgid "Refresh"
 msgstr "Uppdatera"
 
 msgid "Refresh Token"
-msgstr ""
+msgstr "Uppdateringstoken"
 
 msgid "Region"
 msgstr ""
@@ -9706,7 +9706,7 @@ msgid "Remove Keep Flag"
 msgstr ""
 
 msgid "Remove Recovery Key"
-msgstr ""
+msgstr "Ta bort återställningsnyckel"
 
 msgid "Remove disk "
 msgstr ""
@@ -9740,13 +9740,13 @@ msgid "Renew"
 msgstr ""
 
 msgid "Renew Certificate Days"
-msgstr ""
+msgstr "Förnya certifikat, dagar"
 
 msgid "Renew Secret"
 msgstr ""
 
 msgid "Renew Static Key"
-msgstr ""
+msgstr "Förnya statisk nyckel"
 
 msgid ""
 "Renewing the secret will cause a new URI and a     new QR code to be "
@@ -9989,7 +9989,7 @@ msgid ""
 msgstr ""
 
 msgid "Retrieving Key"
-msgstr ""
+msgstr "Hämtar nyckel"
 
 msgid "Retro Logo"
 msgstr ""
@@ -10027,7 +10027,7 @@ msgid "Root CA"
 msgstr ""
 
 msgid "Root Password"
-msgstr ""
+msgstr "Root-lösenord"
 
 msgid "Root dataset ACL cannot be edited."
 msgstr ""
@@ -10045,7 +10045,7 @@ msgid "Rotation Rate (RPM)"
 msgstr ""
 
 msgid "Routing Key"
-msgstr ""
+msgstr "Routingnyckel"
 
 msgid "Rsync Mode"
 msgstr "Rsync-läge"
@@ -10180,7 +10180,7 @@ msgid "SNMP v3 Support"
 msgstr "Stöd för SNMP v3"
 
 msgid "SNMPv3 Security Model"
-msgstr ""
+msgstr "Säkerhetsmodell för SNMPv3"
 
 msgid "SSH Connection"
 msgstr "SSH-anslutning"
@@ -10401,19 +10401,19 @@ msgid "Secret (Read only)"
 msgstr ""
 
 msgid "Secret Access Key"
-msgstr ""
+msgstr "Hemlig åtkomstnyckel"
 
 msgid "Secret Access Key for the linked AWS account."
-msgstr ""
+msgstr "Hemlig åtkomstnyckel för det länkade AWS-kontot."
 
 msgid "Secret Authentication Key"
-msgstr ""
+msgstr "Hemlig autentiseringsnyckel"
 
 msgid "Secret Encryption Key"
-msgstr ""
+msgstr "Hemlig krypteringsnyckel"
 
 msgid "Secret Key"
-msgstr ""
+msgstr "Hemlig nyckel"
 
 msgid "Secret and Peer Secret can not be the same."
 msgstr ""
@@ -10541,7 +10541,7 @@ msgid "Select a dataset or zvol."
 msgstr ""
 
 msgid "Select a key before decrypting the disks."
-msgstr ""
+msgstr "Välj en nyckel innan diskarna dekrypteras."
 
 msgid "Select a keyboard layout."
 msgstr ""
@@ -10887,7 +10887,7 @@ msgid ""
 msgstr ""
 
 msgid "Select which existing initiator group has access to the target."
-msgstr ""
+msgstr "Välj vilken befintlig initierargrupp som har åtkomst till målet."
 
 msgid "Selected jails updated."
 msgstr ""
@@ -11086,7 +11086,7 @@ msgid ""
 msgstr ""
 
 msgid "Set new root account password:"
-msgstr ""
+msgstr "Ange nytt lösenord för root-kontot:"
 
 msgid ""
 "Set only if required by the NFS client. Set to allow serving non-root mount "
@@ -11268,7 +11268,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to allow user to authenticate to Samba shares."
-msgstr ""
+msgstr "Aktivera för att låta användaren autentisera mot Samba-delningar."
 
 msgid ""
 "Set to allow users to bypass firewall restrictions using the SSH port <a "
@@ -11383,7 +11383,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to export the certificate environment variables."
-msgstr ""
+msgstr "Aktivera för att exportera certifikatets miljövariabler."
 
 msgid "Set to force NFS shares to fail if the Kerberos ticket is unavailable."
 msgstr ""
