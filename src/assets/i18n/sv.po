@@ -1746,7 +1746,7 @@ msgid "Authentication"
 msgstr "Autentisering"
 
 msgid "Authentication Advanced Options"
-msgstr ""
+msgstr "Avancerade autentiseringsalternativ"
 
 msgid "Authentication Algorithm"
 msgstr "Autentiseringsalgoritm"
@@ -8038,10 +8038,10 @@ msgid "NFS"
 msgstr "NFS"
 
 msgid "NFSv3 ownership model for NFSv4"
-msgstr ""
+msgstr "NFSv3-ägandemodell för NFSv4"
 
 msgid "NFSv4"
-msgstr ""
+msgstr "NFSv4"
 
 msgid "NIC"
 msgstr ""
@@ -8231,22 +8231,22 @@ msgid ""
 msgstr ""
 
 msgid "Network Information Service (NIS)"
-msgstr ""
+msgstr "Nätverksinformationstjänst (NIS)"
 
 msgid "Network Interface"
-msgstr ""
+msgstr "Nätverksgränssnitt"
 
 msgid "Network Properties"
-msgstr ""
+msgstr "Nätverksegenskaper"
 
 msgid "Network Reports"
-msgstr ""
+msgstr "Nätverksrapporter"
 
 msgid "Network Summary"
-msgstr ""
+msgstr "Nätverkssammanfattning"
 
 msgid "Network Timeout Before Initiating Failover"
-msgstr ""
+msgstr "Nätverkstimeout före initiering av redundansväxling"
 
 msgid ""
 "Network addresses allowed to use this initiator. Leave blank to allow all   "
@@ -8263,7 +8263,7 @@ msgid ""
 msgstr ""
 
 msgid "Network changes applied successfully."
-msgstr ""
+msgstr "Nätverksändringarna tillämpades."
 
 msgid ""
 "Network community string.  The community string acts like a user ID or "
@@ -8275,16 +8275,16 @@ msgid ""
 msgstr ""
 
 msgid "Network connectivity will be interrupted. "
-msgstr ""
+msgstr "Nätverksanslutningen kommer att avbrytas. "
 
 msgid "Network connectivity will be interrupted. Proceed?"
-msgstr ""
+msgstr "Nätverksanslutningen kommer att avbrytas. Fortsätta?"
 
 msgid "Network control (highest)"
-msgstr ""
+msgstr "Nätverksstyrning (högst)"
 
 msgid "Network interface changes have been made permanent."
-msgstr ""
+msgstr "Ändringarna av nätverksgränssnittet har gjorts permanenta."
 
 msgid ""
 "Network interface changes have been temporarily applied for testing. Keep "
@@ -8298,10 +8298,10 @@ msgid ""
 msgstr ""
 
 msgid "Network interfaces to include in the bridge."
-msgstr ""
+msgstr "Nätverksgränssnitt som ska ingå i bryggan."
 
 msgid "Networks"
-msgstr ""
+msgstr "Nätverk"
 
 msgid "Never"
 msgstr ""
@@ -10145,10 +10145,10 @@ msgid "SMB"
 msgstr "SMB"
 
 msgid "SMB - Primary Domain"
-msgstr ""
+msgstr "SMB – primär domän"
 
 msgid "SMB Service"
-msgstr ""
+msgstr "SMB-tjänst"
 
 msgid "SMTP"
 msgstr ""
@@ -10979,34 +10979,34 @@ msgid "Serve UDP NFS clients"
 msgstr ""
 
 msgid "Server"
-msgstr ""
+msgstr "Server"
 
 msgid "Server Certificate"
-msgstr ""
+msgstr "Servercertifikat"
 
 msgid "Server Credentials"
-msgstr ""
+msgstr "Serverautentiseringsuppgifter"
 
 msgid "Server Role"
-msgstr ""
+msgstr "Serverroll"
 
 msgid "Server Side Encryption"
-msgstr ""
+msgstr "Kryptering på serversidan"
 
 msgid "Service Account"
-msgstr ""
+msgstr "Tjänstkonto"
 
 msgid "Service Announcement"
-msgstr ""
+msgstr "Tjänsteannonsering"
 
 msgid "Service Key"
-msgstr ""
+msgstr "Tjänstenyckel"
 
 msgid "Service failed to start"
-msgstr ""
+msgstr "Tjänsten kunde inte starta"
 
 msgid "Service failed to stop"
-msgstr ""
+msgstr "Tjänsten kunde inte stoppas"
 
 msgid "Services"
 msgstr "Tjänster"
@@ -11728,13 +11728,13 @@ msgid ""
 msgstr ""
 
 msgid "Share ACL"
-msgstr ""
+msgstr "Delnings-ACL"
 
 msgid "Share Name"
-msgstr ""
+msgstr "Delningsnamn"
 
 msgid "Share Type"
-msgstr ""
+msgstr "Delningstyp"
 
 msgid "Sharing"
 msgstr "Delning"
@@ -14883,7 +14883,7 @@ msgid "iSCSI"
 msgstr ""
 
 msgid "iSCSI Group"
-msgstr ""
+msgstr "iSCSI-grupp"
 
 msgid ""
 "iSCSI supports multiple  authentication methods that are used by the target "
@@ -15071,10 +15071,10 @@ msgid "selected"
 msgstr ""
 
 msgid "service failed to start."
-msgstr ""
+msgstr "tjänsten kunde inte starta."
 
 msgid "service failed to stop."
-msgstr ""
+msgstr "tjänsten kunde inte stoppas."
 
 msgid "shmsize"
 msgstr ""
