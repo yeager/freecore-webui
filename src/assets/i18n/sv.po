@@ -9446,7 +9446,7 @@ msgid "REGISTER"
 msgstr ""
 
 msgid "RESTART"
-msgstr ""
+msgstr "STARTA OM"
 
 msgid "RFC2307"
 msgstr ""
@@ -9935,25 +9935,25 @@ msgid "Restart"
 msgstr "Starta om"
 
 msgid "Restart SMB Service"
-msgstr ""
+msgstr "Starta om SMB-tjänst"
 
 msgid "Restart SMB Service?"
-msgstr ""
+msgstr "Starta om SMB-tjänsten?"
 
 msgid "Restart Services"
-msgstr ""
+msgstr "Starta om tjänster"
 
 msgid "Restart Web Service"
-msgstr ""
+msgstr "Starta om webbtjänst"
 
 msgid "Restart attached VMs, Jails and Services"
-msgstr ""
+msgstr "Starta om anslutna virtuella maskiner, jails och tjänster"
 
 msgid "Restart the system?"
-msgstr ""
+msgstr "Starta om systemet?"
 
 msgid "Restarting "
-msgstr ""
+msgstr "Startar om "
 
 msgid ""
 "Restarting system services after unlocking the dataset makes      the "
@@ -10213,16 +10213,16 @@ msgid "SSSD Compat"
 msgstr ""
 
 msgid "START"
-msgstr ""
+msgstr "STARTA"
 
 msgid "START REPLICATION"
-msgstr ""
+msgstr "STARTA REPLIKERING"
 
 msgid "STARTTLS"
 msgstr ""
 
 msgid "STOP"
-msgstr ""
+msgstr "STOPPA"
 
 msgid "SYNC KEYS"
 msgstr "SYNKRONISERA NYCKLAR"
@@ -12049,13 +12049,13 @@ msgid "Start"
 msgstr "Starta"
 
 msgid "Start Automatically"
-msgstr ""
+msgstr "Starta automatiskt"
 
 msgid "Start Scrub"
-msgstr ""
+msgstr "Starta scrub"
 
 msgid "Start Time:"
-msgstr ""
+msgstr "Starttid:"
 
 msgid ""
 "Start a dry run test of this cloud sync task? The  system will connect to "
@@ -12064,19 +12064,19 @@ msgid ""
 msgstr ""
 
 msgid "Start on Boot"
-msgstr ""
+msgstr "Starta vid uppstart"
 
 msgid "Start the scrub now?"
-msgstr ""
+msgstr "Starta scrub nu?"
 
 msgid "Start time for the replication task."
-msgstr ""
+msgstr "Starttid för replikeringsuppgiften."
 
 msgid "Starting "
-msgstr ""
+msgstr "Startar "
 
 msgid "Starting job..."
-msgstr ""
+msgstr "Startar jobb..."
 
 msgid "State"
 msgstr ""
@@ -12120,22 +12120,22 @@ msgid "Stop "
 msgstr ""
 
 msgid "Stop Jail"
-msgstr ""
+msgstr "Stoppa jail"
 
 msgid "Stop Rollback if Snapshots Exist:"
 msgstr ""
 
 msgid "Stop Scrub"
-msgstr ""
+msgstr "Stoppa scrub"
 
 msgid "Stop TrueCommand Cloud Connection"
-msgstr ""
+msgstr "Stoppa TrueCommand-molnanslutning"
 
 msgid "Stop this cloud sync?"
-msgstr ""
+msgstr "Stoppa denna molnsynkronisering?"
 
 msgid "Stopping Jail"
-msgstr ""
+msgstr "Stoppar jail"
 
 msgid ""
 "Stops the rollback when the safety  check finds any related clone snapshots "
@@ -12321,28 +12321,28 @@ msgid "System"
 msgstr "System"
 
 msgid "System Clock"
-msgstr ""
+msgstr "Systemklocka"
 
 msgid "System Dataset"
 msgstr "Systemdatamängd"
 
 msgid "System Dataset Pool"
-msgstr ""
+msgstr "Pool för systemdatauppsättning"
 
 msgid "System Info"
-msgstr ""
+msgstr "Systeminformation"
 
 msgid "System Information"
 msgstr "Systeminformation"
 
 msgid "System Processes"
-msgstr ""
+msgstr "Systemprocesser"
 
 msgid "System Serial"
-msgstr ""
+msgstr "Systemets serienummer"
 
 msgid "System Time Zone:"
-msgstr ""
+msgstr "Systemets tidszon:"
 
 msgid "System domain name, like <i>example.com</i>"
 msgstr ""
@@ -12358,16 +12358,16 @@ msgid "System host time to synchronize the time between jail and host."
 msgstr ""
 
 msgid "System hostname."
-msgstr ""
+msgstr "Systemets värdnamn."
 
 msgid "System is failing over..."
-msgstr ""
+msgstr "Systemet växlar över till redundans..."
 
 msgid "System is restarting..."
-msgstr ""
+msgstr "Systemet startar om..."
 
 msgid "System is shutting down..."
-msgstr ""
+msgstr "Systemet stängs av..."
 
 msgid ""
 "System network interface that remaps jail  network addresses into a "
@@ -12376,7 +12376,7 @@ msgid ""
 msgstr ""
 
 msgid "System-Generated Settings"
-msgstr ""
+msgstr "Systemgenererade inställningar"
 
 msgid "TCP"
 msgstr ""
@@ -13693,7 +13693,7 @@ msgid "Update File"
 msgstr "Uppdatera fil"
 
 msgid "Update File Temporary Storage Location"
-msgstr ""
+msgstr "Tillfällig lagringsplats för uppdateringsfil"
 
 msgid "Update Frequency"
 msgstr "Uppdateringsfrekvens"
@@ -13702,7 +13702,7 @@ msgid "Update Interval"
 msgstr "Uppdateringsintervall"
 
 msgid "Update Jail"
-msgstr ""
+msgstr "Uppdatera jail"
 
 msgid "Update License"
 msgstr "Uppdatera licens"
@@ -13720,7 +13720,7 @@ msgid "Update Status"
 msgstr "Uppdateringsstatus"
 
 msgid "Update TrueCommand Settings"
-msgstr ""
+msgstr "Uppdatera TrueCommand-inställningar"
 
 msgid "Update in Progress"
 msgstr "Uppdatering pågår"
@@ -13735,10 +13735,10 @@ msgid "Update jails as well"
 msgstr ""
 
 msgid "Update plugin"
-msgstr ""
+msgstr "Uppdatera insticksmodul"
 
 msgid "Update plugins"
-msgstr ""
+msgstr "Uppdatera insticksmoduler"
 
 msgid "Update successful. Please reboot for the update to take effect. Reboot now?"
 msgstr ""
@@ -13798,13 +13798,13 @@ msgid "Upload"
 msgstr "Ladda upp"
 
 msgid "Upload Chunk Size (MiB)"
-msgstr ""
+msgstr "Storlek på uppladdningsdel (MiB)"
 
 msgid "Upload Config"
-msgstr ""
+msgstr "Ladda upp konfiguration"
 
 msgid "Upload Key file"
-msgstr ""
+msgstr "Ladda upp nyckelfil"
 
 msgid ""
 "Upload a Google  <a "
@@ -13815,13 +13815,13 @@ msgid ""
 msgstr ""
 
 msgid "Upload an installer image file"
-msgstr ""
+msgstr "Ladda upp en installationsavbildningsfil"
 
 msgid "Uploading file..."
-msgstr ""
+msgstr "Laddar upp fil..."
 
 msgid "Uploading..."
-msgstr ""
+msgstr "Laddar upp..."
 
 msgid ""
 "Upsmon will wait up to this many seconds in master mode for the slaves to "
@@ -14249,10 +14249,10 @@ msgid "View"
 msgstr "Visa"
 
 msgid "View Enclosure"
-msgstr ""
+msgstr "Visa kapsling"
 
 msgid "View Logs"
-msgstr ""
+msgstr "Visa loggar"
 
 msgid "Violet"
 msgstr ""
@@ -14288,7 +14288,7 @@ msgid "Volume size cannot be zero."
 msgstr ""
 
 msgid "WARNING"
-msgstr ""
+msgstr "VARNING"
 
 msgid "WARNING: A failover will  temporarily interrupt system services."
 msgstr ""
@@ -14541,13 +14541,13 @@ msgid "Windows Shares (SMB)"
 msgstr ""
 
 msgid "Wipe"
-msgstr ""
+msgstr "Radera"
 
 msgid "Wipe Disk "
-msgstr ""
+msgstr "Radera disk "
 
 msgid "Wipe this disk?"
-msgstr ""
+msgstr "Radera denna disk?"
 
 msgid "Wiping disk..."
 msgstr ""
