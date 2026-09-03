@@ -16916,7 +16916,7 @@ msgid "securelevel"
 msgstr ""
 
 msgid "selected"
-msgstr ""
+msgstr "valda"
 
 msgid "service failed to start."
 msgstr "tjänsten kunde inte starta."
