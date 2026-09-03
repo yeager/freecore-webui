@@ -410,6 +410,7 @@ msgid ""
 "ID."
 msgstr ""
 "<b>Rekommenderas inte.</b> Tillåt fler än en grupp att ha samma grupp-ID."
+"<b>Rekommenderas inte.</b> Tillåt fler än en grupp att ha samma grupp-ID."
 
 msgid ""
 "<b>Root logins are discouraged.</b> Allows root  logins. A password must be "
