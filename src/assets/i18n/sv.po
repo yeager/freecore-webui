@@ -1190,10 +1190,10 @@ msgid "Alert"
 msgstr "Larm"
 
 msgid "Alert Services"
-msgstr ""
+msgstr "Larmtjänster"
 
 msgid "Alert Settings"
-msgstr ""
+msgstr "Larminställningar"
 
 msgid "Alerts"
 msgstr "Larm"
@@ -4433,10 +4433,10 @@ msgid ""
 msgstr ""
 
 msgid "Email"
-msgstr ""
+msgstr "E-post"
 
 msgid "Email Address"
-msgstr ""
+msgstr "E-postadress"
 
 msgid "Email Subject"
 msgstr ""
