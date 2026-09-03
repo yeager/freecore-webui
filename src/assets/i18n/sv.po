@@ -16860,7 +16860,7 @@ msgid "on the first day of the month at 00:00 (12:00 AM)"
 msgstr "den första dagen i månaden kl. 00:00"
 
 msgid "openfiles"
-msgstr ""
+msgstr "öppna filer"
 
 msgid "overview"
 msgstr "översikt"
