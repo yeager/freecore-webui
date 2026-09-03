@@ -4526,34 +4526,34 @@ msgid "Enable Browser"
 msgstr "Aktivera webbläsare"
 
 msgid "Enable Debug Kernel"
-msgstr ""
+msgstr "Aktivera felsökningskärna"
 
 msgid "Enable FSRVP"
-msgstr ""
+msgstr "Aktivera FSRVP"
 
 msgid "Enable FXP"
-msgstr ""
+msgstr "Aktivera FXP"
 
 msgid "Enable GMail OAuth authentication."
-msgstr ""
+msgstr "Aktivera OAuth-autentisering för GMail."
 
 msgid "Enable NFSv4"
-msgstr ""
+msgstr "Aktivera NFSv4"
 
 msgid "Enable Netwait Feature"
-msgstr ""
+msgstr "Aktivera Netwait-funktion"
 
 msgid "Enable Password Toggle"
 msgstr "Aktivera lösenordsväxling"
 
 msgid "Enable S.M.A.R.T."
-msgstr ""
+msgstr "Aktivera S.M.A.R.T."
 
 msgid "Enable SMB1 support"
-msgstr ""
+msgstr "Aktivera SMB1-stöd"
 
 msgid "Enable SMB2/3 Durable Handles"
-msgstr ""
+msgstr "Aktivera beständiga SMB2/3-handtag"
 
 msgid "Enable SMTP configuration"
 msgstr "Aktivera SMTP-konfiguration"
@@ -4565,13 +4565,13 @@ msgid "Enable Service"
 msgstr "Aktivera tjänst"
 
 msgid "Enable Shadow Copies"
-msgstr ""
+msgstr "Aktivera skuggkopior"
 
 msgid "Enable TLS"
-msgstr ""
+msgstr "Aktivera TLS"
 
 msgid "Enable TPC"
-msgstr ""
+msgstr "Aktivera TPC"
 
 msgid "Enable Time Machine backups on this share."
 msgstr "Aktivera Time Machine-säkerhetskopior på denna delning."
@@ -4597,7 +4597,7 @@ msgid ""
 msgstr ""
 
 msgid "Enable automatic support alerts to iXsystems (Silver/Gold support only)"
-msgstr ""
+msgstr "Aktivera automatiska supportlarm till iXsystems (endast Silver/Gold-support)"
 
 msgid ""
 "Enable for TrueNAS to periodically review data blocks and identify empty "
@@ -4609,7 +4609,7 @@ msgid "Enable iSCSI ALUA"
 msgstr "Aktivera iSCSI ALUA"
 
 msgid "Enable iXsystems Proactive Support"
-msgstr ""
+msgstr "Aktivera iXsystems proaktiva support"
 
 msgid ""
 "Enable running services that require <a "
@@ -4618,7 +4618,7 @@ msgid ""
 msgstr ""
 
 msgid "Enable sending anonymous usage statistics to iXsystems."
-msgstr ""
+msgstr "Aktivera sändning av anonym användningsstatistik till iXsystems."
 
 msgid "Enable service"
 msgstr "Aktivera tjänst"
@@ -4677,7 +4677,7 @@ msgid "Enable this task. Unset to disable the task     without deleting it."
 msgstr "Aktivera denna uppgift. Avmarkera för att inaktivera uppgiften utan att ta bort den."
 
 msgid "Enable this tunable. Unset to disable this tunable without deleting it."
-msgstr ""
+msgstr "Aktivera denna justerbara inställning. Avmarkera för att inaktivera den utan att ta bort den."
 
 msgid ""
 "Enable to prevent binding to local address and port.  Must be enabled if "
@@ -4697,10 +4697,10 @@ msgid "Enable when the device number is inconstant across a reboot."
 msgstr "Aktivera när enhetsnumret inte är konsekvent efter en omstart."
 
 msgid "Enable/disable TLS Web Client Authentication."
-msgstr ""
+msgstr "Aktivera/inaktivera TLS-autentisering för webbklient."
 
 msgid "Enabled"
-msgstr ""
+msgstr "Aktiverad"
 
 msgid ""
 "Enables <i>receive</i> mode. Any received peer  information is saved in "
@@ -4747,13 +4747,13 @@ msgid ""
 msgstr ""
 
 msgid "Enabling this option may have performance implications on your pools."
-msgstr ""
+msgstr "Aktivering av detta alternativ kan påverka poolernas prestanda."
 
 msgid "Encipher Only"
-msgstr ""
+msgstr "Endast kryptering"
 
 msgid "Enclosure"
-msgstr ""
+msgstr "Chassi"
 
 msgid ""
 "Encode information in less space than the  original data occupies. It is "
@@ -4876,13 +4876,13 @@ msgid ""
 msgstr ""
 
 msgid "Endpoint Advanced Options"
-msgstr ""
+msgstr "Avancerade alternativ för slutpunkt"
 
 msgid "Endpoint Type"
-msgstr ""
+msgstr "Slutpunktstyp"
 
 msgid "Endpoint URL"
-msgstr ""
+msgstr "Slutpunkts-URL"
 
 msgid ""
 "Endpoint type to choose from the service catalogue. <i>Public</i> is "
@@ -4898,7 +4898,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter"
-msgstr ""
+msgstr "Ange"
 
 msgid ""
 "Enter a <a href=\"https://www.freebsd.org/doc/handbook/network-nis.html\" "
@@ -4906,7 +4906,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter a Name (optional)"
-msgstr ""
+msgstr "Ange ett namn (valfritt)"
 
 msgid ""
 "Enter a VNC password to automatically pass to the VNC session. Passwords "
@@ -4940,10 +4940,10 @@ msgid "Enter a description of the static route."
 msgstr "Ange en beskrivning av den statiska rutten."
 
 msgid "Enter a description of the tunable."
-msgstr ""
+msgstr "Ange en beskrivning av den justerbara inställningen."
 
 msgid "Enter a descriptive title for the new issue."
-msgstr ""
+msgstr "Ange en beskrivande rubrik för det nya ärendet."
 
 msgid ""
 "Enter a line- or space-separated list of destinations where the collected "
@@ -5010,19 +5010,19 @@ msgid "Enter a name for the new credential."
 msgstr "Ange ett namn för den nya autentiseringsuppgiften."
 
 msgid "Enter a name for the new theme."
-msgstr ""
+msgstr "Ange ett namn för det nya temat."
 
 msgid "Enter a name for the share."
 msgstr "Ange ett namn för delningen."
 
 msgid "Enter a name for this Keytab."
-msgstr ""
+msgstr "Ange ett namn för denna keytab."
 
 msgid "Enter a name to send alerts"
-msgstr ""
+msgstr "Ange ett namn att skicka larm till"
 
 msgid "Enter a netmask."
-msgstr ""
+msgstr "Ange en nätmask."
 
 msgid ""
 "Enter a number of degrees in Celsius. SMART reports if the temperature of a "
@@ -5123,7 +5123,7 @@ msgid "Enter a valid IPv4 address."
 msgstr "Ange en giltig IPv4-adress."
 
 msgid "Enter a valid MAC address vendor prefix. <b>Example:</b> <i>E4F4C6</i>"
-msgstr ""
+msgstr "Ange ett giltigt leverantörsprefix för MAC-adress. <b>Exempel:</b> <i>E4F4C6</i>"
 
 msgid "Enter a valid email address to receive alerts from this system."
 msgstr "Ange en giltig e-postadress för att ta emot larm från detta system."
@@ -5407,7 +5407,7 @@ msgid "Enter the bug tracker account password."
 msgstr "Ange lösenordet för felrapporteringskontot."
 
 msgid "Enter the command with any options."
-msgstr ""
+msgstr "Ange kommandot med eventuella alternativ."
 
 msgid ""
 "Enter the current passphrase for the encrypted pool. This will be used to "
@@ -5415,7 +5415,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the decryption passphrase."
-msgstr ""
+msgstr "Ange dekrypteringslösenfrasen."
 
 msgid "Enter the default gateway of the IPv4 connection."
 msgstr "Ange standardgatewayen för IPv4-anslutningen."
@@ -5449,10 +5449,10 @@ msgid "Enter the hostname or IP address of the <b>NTP</b> server."
 msgstr "Ange värdnamnet eller IP-adressen för <b>NTP</b>-servern."
 
 msgid "Enter the hostname to connect to."
-msgstr ""
+msgstr "Ange värdnamnet att ansluta till."
 
 msgid "Enter the location of the organization. For example, the city."
-msgstr ""
+msgstr "Ange organisationens plats, till exempel staden."
 
 msgid "Enter the location of the system."
 msgstr "Ange systemets plats."
@@ -5476,10 +5476,10 @@ msgid ""
 msgstr ""
 
 msgid "Enter the name of the company or organization."
-msgstr ""
+msgstr "Ange namnet på företaget eller organisationen."
 
 msgid "Enter the name of the contact person."
-msgstr ""
+msgstr "Ange kontaktpersonens namn."
 
 msgid ""
 "Enter the name of the loader, sysctl, or rc.conf variable to configure. "
@@ -5519,7 +5519,7 @@ msgid "Enter the password used to connect to the IPMI interface from a web brows
 msgstr "Ange lösenordet som används för att ansluta till IPMI-gränssnittet från en webbläsare."
 
 msgid "Enter the phone number of the contact person."
-msgstr ""
+msgstr "Ange kontaktpersonens telefonnummer."
 
 msgid "Enter the pre-Windows 2000 domain name."
 msgstr "Ange domännamnet före Windows 2000."
@@ -5542,7 +5542,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the state or province of the organization."
-msgstr ""
+msgstr "Ange organisationens delstat eller provins."
 
 msgid "Enter the subject for status emails."
 msgstr "Ange ämnet för statusmeddelanden via e-post."
