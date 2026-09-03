@@ -3159,10 +3159,10 @@ msgid "Connection"
 msgstr ""
 
 msgid "Connection Error"
-msgstr ""
+msgstr "Anslutningsfel"
 
 msgid "Connection port number on the central key server."
-msgstr ""
+msgstr "Anslutningsportnummer på den centrala nyckelservern."
 
 msgid ""
 "Connection security level:<br>  <ul><li><i>Standard</i> is most secure, but "
@@ -3175,7 +3175,7 @@ msgid ""
 msgstr ""
 
 msgid "Connections"
-msgstr ""
+msgstr "Anslutningar"
 
 msgid "Console"
 msgstr ""
@@ -6346,10 +6346,10 @@ msgid "HTTP host URL."
 msgstr ""
 
 msgid "HTTPS Port"
-msgstr ""
+msgstr "HTTPS-port"
 
 msgid "HTTPS Protocols"
-msgstr ""
+msgstr "HTTPS-protokoll"
 
 msgid "Help"
 msgstr "Hjälp"
@@ -6608,7 +6608,7 @@ msgid "IP Address"
 msgstr "IP-adress"
 
 msgid "IP Addresses"
-msgstr ""
+msgstr "IP-adresser"
 
 msgid ""
 "IP address of the remote system with <i>UPS Mode</i> set as <i>Master</i>. "
@@ -9180,7 +9180,7 @@ msgid "Port number on the remote system to use for the SSH  connection."
 msgstr ""
 
 msgid "Port or Hostname"
-msgstr ""
+msgstr "Port eller värdnamn"
 
 msgid ""
 "Port to assign to this jail. Avoid using a port  that is already in use by "
@@ -9192,13 +9192,13 @@ msgid ""
 msgstr ""
 
 msgid "Portal"
-msgstr ""
+msgstr "Portal"
 
 msgid "Portal Group ID"
-msgstr ""
+msgstr "Portalgrupp-ID"
 
 msgid "Portals"
-msgstr ""
+msgstr "Portaler"
 
 msgid "Ports"
 msgstr "Portar"
@@ -9648,7 +9648,7 @@ msgid "Remote"
 msgstr "Fjärr"
 
 msgid "Remote Encryption"
-msgstr ""
+msgstr "Fjärrkryptering"
 
 msgid "Remote Graphite Server Hostname"
 msgstr ""
@@ -9657,22 +9657,22 @@ msgid "Remote Host"
 msgstr "Fjärrvärd"
 
 msgid "Remote Host Key"
-msgstr ""
+msgstr "Fjärrvärdnyckel"
 
 msgid "Remote Module Name"
-msgstr ""
+msgstr "Fjärrmodulnamn"
 
 msgid "Remote Monitor"
-msgstr ""
+msgstr "Fjärrövervakare"
 
 msgid "Remote Path"
-msgstr ""
+msgstr "Fjärrsökväg"
 
 msgid "Remote Port"
-msgstr ""
+msgstr "Fjärrport"
 
 msgid "Remote SSH Port"
-msgstr ""
+msgstr "Fjärr-SSH-port"
 
 msgid ""
 "Remote syslog server DNS hostname or IP address. Nonstandard port numbers "
@@ -10201,7 +10201,7 @@ msgid "SSH Username."
 msgstr "SSH-användarnamn."
 
 msgid "SSH port number. Leave empty to use the default port <i>22</i>."
-msgstr ""
+msgstr "SSH-portnummer. Lämna tomt för att använda standardporten <i>22</i>."
 
 msgid "SSL"
 msgstr "SSL"
@@ -12400,7 +12400,7 @@ msgid "TLS"
 msgstr "TLS"
 
 msgid "TLS (STARTTLS)"
-msgstr ""
+msgstr "TLS (STARTTLS)"
 
 msgid "TLS Allow Client Renegotiations"
 msgstr ""
@@ -12412,7 +12412,7 @@ msgid "TLS Allow Per User"
 msgstr ""
 
 msgid "TLS Common Name Required"
-msgstr ""
+msgstr "TLS-gemensamt namn krävs"
 
 msgid "TLS Crypt Auth"
 msgstr ""
@@ -12421,19 +12421,19 @@ msgid "TLS Crypt Auth Enabled"
 msgstr ""
 
 msgid "TLS DNS Name Required"
-msgstr ""
+msgstr "TLS-DNS-namn krävs"
 
 msgid "TLS Enable Diagnostics"
-msgstr ""
+msgstr "Aktivera TLS-diagnostik"
 
 msgid "TLS Export Certificate Data"
-msgstr ""
+msgstr "Exportera TLS-certifikatdata"
 
 msgid "TLS Export Standard Vars"
 msgstr ""
 
 msgid "TLS IP Address Required"
-msgstr ""
+msgstr "TLS-IP-adress krävs"
 
 msgid "TLS No Certificate Request"
 msgstr ""
@@ -12445,7 +12445,7 @@ msgid "TLS No Session Reuse Required"
 msgstr ""
 
 msgid "TLS Policy"
-msgstr ""
+msgstr "TLS-policy"
 
 msgid "TLS Server Hostname"
 msgstr ""
