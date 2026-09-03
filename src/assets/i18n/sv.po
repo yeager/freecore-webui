@@ -9797,13 +9797,13 @@ msgid "Replication <i>"
 msgstr ""
 
 msgid "Replication Schedule"
-msgstr ""
+msgstr "Replikeringsschema"
 
 msgid "Replication Tasks"
 msgstr "Replikeringsuppgifter"
 
 msgid "Replication Tasks Limit"
-msgstr ""
+msgstr "Gräns för replikeringsuppgifter"
 
 msgid "Report CPU Usage in Percentage"
 msgstr ""
@@ -10042,10 +10042,10 @@ msgid "Routing Key"
 msgstr ""
 
 msgid "Rsync Mode"
-msgstr ""
+msgstr "Rsync-läge"
 
 msgid "Rsync Tasks"
-msgstr ""
+msgstr "Rsync-uppgifter"
 
 msgid "Run As User"
 msgstr ""
@@ -10225,7 +10225,7 @@ msgid "STOP"
 msgstr ""
 
 msgid "SYNC KEYS"
-msgstr ""
+msgstr "SYNKRONISERA NYCKLAR"
 
 msgid "Samba Authentication"
 msgstr ""
@@ -10306,7 +10306,7 @@ msgid "Schedule"
 msgstr "Schema"
 
 msgid "Schedule Preview"
-msgstr ""
+msgstr "Förhandsvisa schema"
 
 msgid "Schema"
 msgstr ""
@@ -12273,34 +12273,34 @@ msgid "Switch update trains?"
 msgstr ""
 
 msgid "Sync"
-msgstr ""
+msgstr "Synkronisera"
 
 msgid "Sync Keys"
-msgstr ""
+msgstr "Synkronisera nycklar"
 
 msgid "Sync ZFS/SED keys between KMIP Server and TN database."
-msgstr ""
+msgstr "Synkronisera ZFS-/SED-nycklar mellan KMIP-servern och TN-databasen."
 
 msgid "Sync from Peer"
-msgstr ""
+msgstr "Synkronisera från motpart"
 
 msgid "Sync from peer succeeded."
-msgstr ""
+msgstr "Synkronisering från motpart lyckades."
 
 msgid "Sync to Peer"
-msgstr ""
+msgstr "Synkronisera till motpart"
 
 msgid "Sync to peer succeeded."
-msgstr ""
+msgstr "Synkronisering till motpart lyckades."
 
 msgid "Synced"
-msgstr ""
+msgstr "Synkroniserad"
 
 msgid "Synchronize"
-msgstr ""
+msgstr "Synkronisera"
 
 msgid "Synchronize Destination Snapshots With Source"
-msgstr ""
+msgstr "Synkronisera målögonblicksbilder med källan"
 
 msgid "Syslog"
 msgstr ""
@@ -12475,28 +12475,28 @@ msgid "Targets"
 msgstr ""
 
 msgid "Task Manager"
-msgstr ""
+msgstr "Uppgiftshanterare"
 
 msgid "Task Name"
-msgstr ""
+msgstr "Uppgiftsnamn"
 
 msgid "Task Started"
-msgstr ""
+msgstr "Uppgift startad"
 
 msgid "Task State"
-msgstr ""
+msgstr "Uppgiftsstatus"
 
 msgid "Task Stopped"
-msgstr ""
+msgstr "Uppgift stoppad"
 
 msgid "Task is on hold"
-msgstr ""
+msgstr "Uppgiften är pausad"
 
 msgid "Task is running"
-msgstr ""
+msgstr "Uppgiften körs"
 
 msgid "Task started"
-msgstr ""
+msgstr "Uppgift startad"
 
 msgid "Tasks"
 msgstr "Uppgifter"
