@@ -16907,7 +16907,7 @@ msgid "safe"
 msgstr ""
 
 msgid "seconds"
-msgstr ""
+msgstr "sekunder"
 
 msgid "seconds unless SAVE CHANGES is chosen to make them permanent."
 msgstr "sekunder om inte SPARA ÄNDRINGAR väljs för att göra dem permanenta."
