@@ -16887,7 +16887,7 @@ msgid "priority"
 msgstr "prioritet"
 
 msgid "pseudoterminals"
-msgstr ""
+msgstr "pseudoterminaler"
 
 msgid "reset"
 msgstr "återställ"
