@@ -3403,16 +3403,16 @@ msgid "Credentials"
 msgstr "Inloggningsuppgifter"
 
 msgid "Critical"
-msgstr ""
+msgstr "Kritisk"
 
 msgid "Critical Extension"
-msgstr ""
+msgstr "Kritiskt tillägg"
 
 msgid "Critical applications"
-msgstr ""
+msgstr "Kritiska program"
 
 msgid "Criticality"
-msgstr ""
+msgstr "Allvarlighetsgrad"
 
 msgid "Cron Job"
 msgstr ""
@@ -7521,7 +7521,7 @@ msgid "Log Level"
 msgstr ""
 
 msgid "Log Out"
-msgstr ""
+msgstr "Logga ut"
 
 msgid "Log VDev"
 msgstr ""
@@ -7539,7 +7539,7 @@ msgid "Log rpc.statd(8) and rpc.lockd(8)"
 msgstr ""
 
 msgid "Logging Level"
-msgstr ""
+msgstr "Loggnivå"
 
 msgid "Logical Block Size"
 msgstr ""
@@ -7941,13 +7941,13 @@ msgid "Mon"
 msgstr ""
 
 msgid "Monitor"
-msgstr ""
+msgstr "Övervaka"
 
 msgid "Monitor Password"
-msgstr ""
+msgstr "Övervakningslösenord"
 
 msgid "Monitor User"
-msgstr ""
+msgstr "Övervakningsanvändare"
 
 msgid "Month"
 msgstr ""
@@ -9827,7 +9827,7 @@ msgid ""
 msgstr ""
 
 msgid "Reporting"
-msgstr ""
+msgstr "Rapportering"
 
 msgid "Reports"
 msgstr "Rapporter"
