@@ -724,7 +724,7 @@ msgid "AD"
 msgstr ""
 
 msgid "AD Timeout"
-msgstr ""
+msgstr "Tidsgräns för AD"
 
 msgid "ADD"
 msgstr "LÄGG TILL"
@@ -2217,7 +2217,7 @@ msgid "CLOSE"
 msgstr ""
 
 msgid "CN Realm"
-msgstr ""
+msgstr "CN-realm"
 
 msgid "COLORS"
 msgstr ""
@@ -3085,7 +3085,7 @@ msgid ""
 msgstr ""
 
 msgid "Configuring Active Directory"
-msgstr ""
+msgstr "Konfigurerar Active Directory"
 
 msgid "Confirm"
 msgstr ""
@@ -3498,7 +3498,7 @@ msgid "DHCP Autoconfigure IPv4"
 msgstr ""
 
 msgid "DNS Domain Name"
-msgstr ""
+msgstr "DNS-domännamn"
 
 msgid "DNS Forwarder"
 msgstr ""
@@ -3510,7 +3510,7 @@ msgid "DNS Timeout"
 msgstr ""
 
 msgid "DNS name of the domain"
-msgstr ""
+msgstr "Domänens DNS-namn"
 
 msgid "DNS timeout"
 msgstr ""
@@ -4108,7 +4108,7 @@ msgid "Directories and Permissions"
 msgstr ""
 
 msgid "Directory"
-msgstr ""
+msgstr "Katalog"
 
 msgid "Directory Inherit"
 msgstr "Katalogärvning"
@@ -4291,10 +4291,10 @@ msgid "Domain Account Password"
 msgstr "Domänkontolösenord"
 
 msgid "Domain Credentials"
-msgstr ""
+msgstr "Domäninloggningsuppgifter"
 
 msgid "Domain Forest Level"
-msgstr ""
+msgstr "Funktionsnivå för domänskogen"
 
 msgid "Domain Name"
 msgstr "Domännamn"
@@ -4508,7 +4508,7 @@ msgid "Enable ACL support for the SMB share."
 msgstr "Aktivera ACL-stöd för SMB-delningen."
 
 msgid "Enable Active Directory"
-msgstr ""
+msgstr "Aktivera Active Directory"
 
 msgid "Enable Alternate Data Streams"
 msgstr ""
@@ -4868,7 +4868,7 @@ msgid "End"
 msgstr ""
 
 msgid "End User License Agreement - TrueNAS"
-msgstr ""
+msgstr "Slutanvändarlicensavtal – TrueNAS"
 
 msgid ""
 "End time for the replication task. A  replication that is already in "
@@ -4914,10 +4914,10 @@ msgid ""
 msgstr ""
 
 msgid "Enter a capitalized DNS realm name."
-msgstr ""
+msgstr "Ange ett DNS-realmnamn med versaler."
 
 msgid "Enter a capitalized domain name."
-msgstr ""
+msgstr "Ange ett domännamn med versaler."
 
 msgid ""
 "Enter a command to shut down the system when either battery power is low or "
@@ -5325,7 +5325,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the Active Directory administrator account name."
-msgstr ""
+msgstr "Ange kontonamnet för Active Directory-administratören."
 
 msgid ""
 "Enter the Active Directory domain (<i>example.com</i>) or child domain "
@@ -5426,7 +5426,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the email address of the new user."
-msgstr ""
+msgstr "Ange e-postadressen för den nya användaren."
 
 msgid "Enter the email address of the person responsible for the CA."
 msgstr ""
@@ -5491,7 +5491,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the name of the realm."
-msgstr ""
+msgstr "Ange namnet på realm."
 
 msgid "Enter the new encryption key passphrase."
 msgstr "Ange den nya lösenfrasen för krypteringsnyckeln."
@@ -5522,7 +5522,7 @@ msgid "Enter the phone number of the contact person."
 msgstr ""
 
 msgid "Enter the pre-Windows 2000 domain name."
-msgstr ""
+msgstr "Ange domännamnet före Windows 2000."
 
 msgid "Enter the pre-defined S3 bucket to use."
 msgstr "Ange den fördefinierade S3-bucket som ska användas."
@@ -5841,7 +5841,7 @@ msgid "Failover Configuration"
 msgstr ""
 
 msgid "Failover Group"
-msgstr ""
+msgstr "Redundansväxlingsgrupp"
 
 msgid "Failover Settings"
 msgstr ""
@@ -6230,7 +6230,7 @@ msgid "Go to ACL Manager"
 msgstr "Gå till ACL-hanteraren"
 
 msgid "Go to Active Directory Form"
-msgstr ""
+msgstr "Gå till Active Directory-formuläret"
 
 msgid "Go to Admin Portal"
 msgstr ""
@@ -6419,10 +6419,10 @@ msgid "History"
 msgstr ""
 
 msgid "Home Directory"
-msgstr ""
+msgstr "Hemkatalog"
 
 msgid "Home Directory Permissions"
-msgstr ""
+msgstr "Behörigheter för hemkatalog"
 
 msgid "Host"
 msgstr "Värd"
@@ -6458,7 +6458,7 @@ msgid "Hostname (Virtual)"
 msgstr "Värdnamn (virtuellt)"
 
 msgid "Hostname and Domain"
-msgstr ""
+msgstr "Värdnamn och domän"
 
 msgid ""
 "Hostname or IP  address used to connect to the active side system. When the "
@@ -6789,7 +6789,7 @@ msgid ""
 msgstr ""
 
 msgid "If set, the password of the user can be sent unencrypted."
-msgstr ""
+msgstr "Om detta är aktiverat kan användarens lösenord skickas okrypterat."
 
 msgid ""
 "If set, the user home directory is checked for a <b>.tlslogin</b> file "
@@ -6951,7 +6951,7 @@ msgid "Initiator"
 msgstr ""
 
 msgid "Initiator Group ID"
-msgstr ""
+msgstr "ID för initierargrupp"
 
 msgid "Initiators"
 msgstr ""
@@ -7327,7 +7327,7 @@ msgid "Lagg Interface"
 msgstr ""
 
 msgid "Lagg Interface Group"
-msgstr ""
+msgstr "Lagg-gränssnittsgrupp"
 
 msgid "Lagg Interfaces"
 msgstr ""
@@ -7351,7 +7351,7 @@ msgid "Last Scrub Run on"
 msgstr "Senaste skrubbning kördes den"
 
 msgid "Leave Domain"
-msgstr ""
+msgstr "Lämna domän"
 
 msgid ""
 "Leave at the default of 512 unless the initiator requires a different block "
@@ -7482,10 +7482,10 @@ msgid "Local Master"
 msgstr ""
 
 msgid "Local User Download Bandwidth"
-msgstr ""
+msgstr "Nedladdningsbandbredd för lokal användare"
 
 msgid "Local User Upload Bandwidth: "
-msgstr ""
+msgstr "Uppladdningsbandbredd för lokal användare: "
 
 msgid "Locality"
 msgstr ""
@@ -7655,16 +7655,16 @@ msgid "Map ACLs"
 msgstr ""
 
 msgid "Mapall Group"
-msgstr ""
+msgstr "Mappa alla till grupp"
 
 msgid "Mapall User"
-msgstr ""
+msgstr "Mappa alla till användare"
 
 msgid "Maproot Group"
-msgstr ""
+msgstr "Mappa root till grupp"
 
 msgid "Maproot User"
-msgstr ""
+msgstr "Mappa root till användare"
 
 msgid "Mar"
 msgstr ""
@@ -8053,13 +8053,13 @@ msgid "NIC"
 msgstr ""
 
 msgid "NIS"
-msgstr ""
+msgstr "NIS"
 
 msgid "NIS Domain"
-msgstr ""
+msgstr "NIS-domän"
 
 msgid "NIS Servers"
-msgstr ""
+msgstr "NIS-servrar"
 
 msgid "NO"
 msgstr ""
@@ -8112,7 +8112,7 @@ msgid "Name not found"
 msgstr ""
 
 msgid "Name of NIS domain."
-msgstr ""
+msgstr "Namn på NIS-domän."
 
 msgid ""
 "Name of the <a "
@@ -8322,7 +8322,7 @@ msgid "New Password"
 msgstr ""
 
 msgid "New Primary Group"
-msgstr ""
+msgstr "Ny primär grupp"
 
 msgid "New Static Key Settings"
 msgstr "Nya inställningar för statisk nyckel"
@@ -8720,7 +8720,7 @@ msgid "Open Source"
 msgstr ""
 
 msgid "Open TrueCommand User Interface"
-msgstr ""
+msgstr "Öppna TrueCommands användargränssnitt"
 
 msgid "OpenVPN Client Settings"
 msgstr ""
@@ -8762,10 +8762,10 @@ msgid "Optional description."
 msgstr ""
 
 msgid "Optional description. Portals are automatically assigned a numeric group."
-msgstr ""
+msgstr "Valfri beskrivning. Portaler tilldelas automatiskt en numerisk grupp."
 
 msgid "Optional user-friendly name."
-msgstr ""
+msgstr "Valfritt användarvänligt namn."
 
 msgid "Optional."
 msgstr ""
@@ -9030,7 +9030,7 @@ msgid "Peer Secret (Confirm)"
 msgstr ""
 
 msgid "Peer User"
-msgstr ""
+msgstr "Peer-användare"
 
 msgid "Pending Network Changes"
 msgstr ""
@@ -9045,7 +9045,7 @@ msgid "Perform Reverse DNS Lookups"
 msgstr ""
 
 msgid "Performs authentication from an LDAP server."
-msgstr ""
+msgstr "Utför autentisering från en LDAP-server."
 
 msgid "Periodic Snapshot Tasks"
 msgstr "Periodiska ögonblicksbildsuppgifter"
@@ -9314,7 +9314,7 @@ msgid "Primary DNS server."
 msgstr ""
 
 msgid "Primary Group"
-msgstr ""
+msgstr "Primär grupp"
 
 msgid "Priority Code Point"
 msgstr ""
@@ -9549,13 +9549,13 @@ msgid "Readonly"
 msgstr ""
 
 msgid "Realm"
-msgstr ""
+msgstr "Realm"
 
 msgid "Reboot After Update"
 msgstr "Starta om efter uppdatering"
 
 msgid "Rebuild Directory Service Cache"
-msgstr ""
+msgstr "Bygg om cache för katalogtjänst"
 
 msgid "Recommendation"
 msgstr ""
@@ -9842,7 +9842,7 @@ msgid "Require IDENT Authentication"
 msgstr ""
 
 msgid "Require Kerberos for NFSv4"
-msgstr ""
+msgstr "Kräv Kerberos för NFSv4"
 
 msgid ""
 "Required unless <b>Enable password login</b> is <i>No</i>. Passwords cannot "
@@ -10054,7 +10054,7 @@ msgid "Rsync Tasks"
 msgstr "Rsync-uppgifter"
 
 msgid "Run As User"
-msgstr ""
+msgstr "Kör som användare"
 
 msgid "Run Automatically"
 msgstr ""
