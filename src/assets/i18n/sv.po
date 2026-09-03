@@ -11035,10 +11035,10 @@ msgid "Set Quota"
 msgstr "Ange kvot"
 
 msgid "Set Quotas"
-msgstr ""
+msgstr "Ange kvoter"
 
 msgid "Set Quotas (Bulk)"
-msgstr ""
+msgstr "Ange kvoter (flera samtidigt)"
 
 msgid "Set Warning Level"
 msgstr "Ange varningsnivå"
@@ -11049,7 +11049,7 @@ msgid ""
 msgstr ""
 
 msgid "Set font size"
-msgstr ""
+msgstr "Ange teckenstorlek"
 
 msgid ""
 "Set for <a href=\"https://kb.iu.edu/d/adov\" target=\"_blank\">DHCP</a> to "
@@ -11070,7 +11070,7 @@ msgid ""
 msgstr ""
 
 msgid "Set for ypbind to bind to the server that responds the fastest."
-msgstr ""
+msgstr "Ange att ypbind ska ansluta till den server som svarar snabbast."
 
 msgid "Set if NFS clients need to use UDP."
 msgstr "Aktivera om NFS-klienter behöver använda UDP."
@@ -11121,7 +11121,7 @@ msgid ""
 msgstr ""
 
 msgid "Set the jail hostname. Defaults to the jail UUID."
-msgstr ""
+msgstr "Ange jail-miljöns värdnamn. Standardvärdet är jail-miljöns UUID."
 
 msgid ""
 "Set the maximum number of connections per IP address. <i>0</i> means "
@@ -11129,13 +11129,13 @@ msgid ""
 msgstr ""
 
 msgid "Set the number of data copies on this dataset."
-msgstr ""
+msgstr "Ange antalet datakopior för denna datamängd."
 
 msgid "Set the port the FTP service listens on."
 msgstr "Ange den port som FTP-tjänsten lyssnar på."
 
 msgid "Set the read, write, and execute permissions for the dataset."
-msgstr ""
+msgstr "Ange läs-, skriv- och körbehörighet för datamängden."
 
 msgid "Set the root directory for anonymous FTP connections."
 msgstr "Ange rotkatalogen för anonyma FTP-anslutningar."
@@ -11254,7 +11254,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to allow the client to mount any subdirectory within the <b>Path</b>."
-msgstr ""
+msgstr "Ange för att låta klienten montera valfri underkatalog i <b>sökvägen</b>."
 
 msgid ""
 "Set to allow the jail root to administer quotas on jail filesystems. This "
@@ -11282,10 +11282,10 @@ msgid ""
 msgstr ""
 
 msgid "Set to always show advanced fields, when available."
-msgstr ""
+msgstr "Ange för att alltid visa avancerade fält när de är tillgängliga."
 
 msgid "Set to attempt to reduce latency over slow networks."
-msgstr ""
+msgstr "Ange för att försöka minska fördröjning på långsamma nätverk."
 
 msgid ""
 "Set to auto-start the jail at system boot time. Jails are started and "
@@ -11314,7 +11314,7 @@ msgid "Set to boot a debug kernel after the next system  reboot."
 msgstr "Aktivera för att starta en felsökningskärna efter nästa systemomstart."
 
 msgid "Set to confirm detaching the pool."
-msgstr ""
+msgstr "Ange för att bekräfta frånkoppling av poolen."
 
 msgid ""
 "Set to create a new primary group with the same name as the user. Unset to "
@@ -11322,7 +11322,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to delete this alias."
-msgstr ""
+msgstr "Ange för att ta bort detta alias."
 
 msgid ""
 "Set to determine if the system participates in a browser election. Leave "
@@ -11341,10 +11341,10 @@ msgid ""
 msgstr ""
 
 msgid "Set to display CPU usage as percentages in Reporting."
-msgstr ""
+msgstr "Ange för att visa processoranvändning som procent i Rapportering."
 
 msgid "Set to display image upload options."
-msgstr ""
+msgstr "Ange för att visa alternativ för bilduppladdning."
 
 msgid ""
 "Set to either start this replication task  immediately after the linked "
@@ -11366,7 +11366,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to enable connecting to the VNC web interface."
-msgstr ""
+msgstr "Ange för att aktivera anslutning till VNC-webbgränssnittet."
 
 msgid ""
 "Set to enable the File eXchange Protocol. This option makes the server "
@@ -11401,7 +11401,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to ignore mapping requests for the <i>BUILTIN</i>  domain."
-msgstr ""
+msgstr "Ange för att ignorera mappningsbegäranden för domänen <i>BUILTIN</i>."
 
 msgid ""
 "Set to ignore the Virtual  Machine status during the delete operation. "
@@ -11416,10 +11416,10 @@ msgid ""
 msgstr ""
 
 msgid "Set to include child datasets of the  chosen dataset."
-msgstr ""
+msgstr "Ange för att inkludera underordnade datamängder till den valda datamängden."
 
 msgid "Set to include child datasets of the chosen dataset."
-msgstr ""
+msgstr "Ange för att inkludera underordnade datamängder till den valda datamängden."
 
 msgid ""
 "Set to include the Fully-Qualified Domain Name (FQDN) in logs to precisely "
@@ -11485,7 +11485,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to preserve modification times of files."
-msgstr ""
+msgstr "Ange för att behålla filernas ändringstider."
 
 msgid ""
 "Set to preserve original file permissions. This is                useful "
@@ -11493,13 +11493,13 @@ msgid ""
 msgstr ""
 
 msgid "Set to prevent the dataset from being modified."
-msgstr ""
+msgstr "Ange för att förhindra att datamängden ändras."
 
 msgid "Set to prevent the initiator from initializing this LUN."
-msgstr ""
+msgstr "Ange för att hindra initieraren från att initiera denna LUN."
 
 msgid "Set to prevent the zvol from being modified."
-msgstr ""
+msgstr "Ange för att förhindra att zvolymen ändras."
 
 msgid "Set to prevent users from modifying the <b>Destination</b>."
 msgstr "Aktivera för att förhindra att användare ändrar <b>Mål</b>."
@@ -11542,7 +11542,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to run resilver tasks between the configured times."
-msgstr ""
+msgstr "Ange för att köra resilver-uppgifter mellan de konfigurerade tiderna."
 
 msgid ""
 "Set to save the temporary file from each updated                file to a "
@@ -11551,10 +11551,10 @@ msgid ""
 msgstr ""
 
 msgid "Set to set this jail as a template."
-msgstr ""
+msgstr "Ange för att använda denna jail-miljö som en mall."
 
 msgid "Set to start the VM automatically on boot."
-msgstr ""
+msgstr "Ange för att starta den virtuella datorn automatiskt vid uppstart."
 
 msgid "Set to start this VM when the system boots."
 msgstr "Aktivera för att starta denna virtuella dator när systemet startar."
@@ -11568,7 +11568,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to switch from NFSv3 to NFSv4."
-msgstr ""
+msgstr "Ange för att växla från NFSv3 till NFSv4."
 
 msgid "Set to take a snapshot of the dataset before a <i>PUSH</i>."
 msgstr "Aktivera för att ta en ögonblicksbild av datamängden före en <i>PUSH</i>."
@@ -11629,7 +11629,7 @@ msgid ""
 msgstr ""
 
 msgid "Set up Users and Groups."
-msgstr ""
+msgstr "Konfigurera användare och grupper."
 
 msgid ""
 "Set when NFSv4 ACL support is needed without requiring the client and the "
@@ -11648,7 +11648,7 @@ msgid "Set when using Xen as the iSCSI initiator."
 msgstr "Aktivera när Xen används som iSCSI-initierare."
 
 msgid "Set whether processes can be executed from within this dataset."
-msgstr ""
+msgstr "Ange om processer kan köras från denna datamängd."
 
 msgid ""
 "Sets default Unix permissions of the user home directory. This is read-only "
@@ -11656,10 +11656,10 @@ msgid ""
 msgstr ""
 
 msgid "Sets default permissions for newly created directories."
-msgstr ""
+msgstr "Anger standardbehörigheter för nya kataloger."
 
 msgid "Sets default permissions for newly created files."
-msgstr ""
+msgstr "Anger standardbehörigheter för nya filer."
 
 msgid ""
 "Sets the data write synchronization. <i>Inherit</i> takes the sync settings "
@@ -11721,13 +11721,13 @@ msgid "Settings saved"
 msgstr "Inställningar sparade"
 
 msgid "Settings saved."
-msgstr ""
+msgstr "Inställningarna sparades."
 
 msgid "Setup Method"
-msgstr ""
+msgstr "Konfigurationsmetod"
 
 msgid "Setup Users and Groups."
-msgstr ""
+msgstr "Konfigurera användare och grupper."
 
 msgid ""
 "Several providers are supported. If a specific  provider is not listed, "
@@ -11837,19 +11837,19 @@ msgid "Shut down the system?"
 msgstr "Stänga av systemet?"
 
 msgid "Shutdown"
-msgstr ""
+msgstr "Stäng av"
 
 msgid "Shutdown Command"
-msgstr ""
+msgstr "Avstängningskommando"
 
 msgid "Shutdown Mode"
-msgstr ""
+msgstr "Avstängningsläge"
 
 msgid "Shutdown Timeout"
-msgstr ""
+msgstr "Tidsgräns för avstängning"
 
 msgid "Shutdown Timer"
-msgstr ""
+msgstr "Avstängningstimer"
 
 msgid "Sidebar Controls"
 msgstr ""
@@ -11881,10 +11881,10 @@ msgid "Site Name"
 msgstr ""
 
 msgid "Size"
-msgstr ""
+msgstr "Storlek"
 
 msgid "Size for this zvol"
-msgstr ""
+msgstr "Storlek för denna zvolym"
 
 msgid ""
 "Skip automatic detection of the Endpoint URL region. Set this  when "
@@ -12087,7 +12087,7 @@ msgid "Starting job..."
 msgstr "Startar jobb..."
 
 msgid "State"
-msgstr ""
+msgstr "Tillstånd"
 
 msgid ""
 "Static IP addresses which SMB listens on for connections.  Leaving all "
@@ -12110,7 +12110,7 @@ msgid "Status"
 msgstr "Status"
 
 msgid "Status of TrueCommand"
-msgstr ""
+msgstr "Status för TrueCommand"
 
 msgid "Status updated"
 msgstr "Status uppdaterad"
@@ -12125,13 +12125,13 @@ msgid "Stop"
 msgstr "Stoppa"
 
 msgid "Stop "
-msgstr ""
+msgstr "Stoppa "
 
 msgid "Stop Jail"
 msgstr "Stoppa jail"
 
 msgid "Stop Rollback if Snapshots Exist:"
-msgstr ""
+msgstr "Stoppa återställning om ögonblicksbilder finns:"
 
 msgid "Stop Scrub"
 msgstr "Stoppa scrub"
@@ -12160,13 +12160,13 @@ msgid "Storage"
 msgstr "Lagring"
 
 msgid "Storage & Groups"
-msgstr ""
+msgstr "Lagring och grupper"
 
 msgid "Storage Class"
-msgstr ""
+msgstr "Lagringsklass"
 
 msgid "Storage URL"
-msgstr ""
+msgstr "Lagrings-URL"
 
 msgid ""
 "Storage URL - optional <a "
@@ -12175,10 +12175,10 @@ msgid ""
 msgstr ""
 
 msgid "Storage location for the original  snapshots that will be replicated."
-msgstr ""
+msgstr "Lagringsplats för de ursprungliga ögonblicksbilder som ska replikeras."
 
 msgid "Storage location for the replicated  snapshots."
-msgstr ""
+msgstr "Lagringsplats för de replikerade ögonblicksbilderna."
 
 msgid "Store Encryption key in Sending TrueNAS database"
 msgstr "Lagra krypteringsnyckel i den sändande TrueNAS-databasen"
@@ -12516,7 +12516,7 @@ msgid "Temperature"
 msgstr "Temperatur"
 
 msgid "Template"
-msgstr ""
+msgstr "Mall"
 
 msgid "Tenant Domain"
 msgstr ""
