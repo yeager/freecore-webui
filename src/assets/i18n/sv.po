@@ -16630,7 +16630,7 @@ msgid "destroy"
 msgstr ""
 
 msgid "details"
-msgstr ""
+msgstr "detaljer"
 
 msgid "devfs_ruleset"
 msgstr ""
