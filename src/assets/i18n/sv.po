@@ -7166,13 +7166,13 @@ msgid "KDC"
 msgstr ""
 
 msgid "KMIP"
-msgstr ""
+msgstr "KMIP"
 
 msgid "KMIP Key Status"
-msgstr ""
+msgstr "Status för KMIP-nyckel"
 
 msgid "KMIP Server"
-msgstr ""
+msgstr "KMIP-server"
 
 msgid "Keep"
 msgstr ""
@@ -8888,7 +8888,7 @@ msgid "Partition"
 msgstr ""
 
 msgid "Passphrase"
-msgstr ""
+msgstr "Lösenfras"
 
 msgid "Password"
 msgstr "Lösenord"
@@ -10118,7 +10118,7 @@ msgid "SAVE CONFIGURATION"
 msgstr ""
 
 msgid "SED Password"
-msgstr ""
+msgstr "SED-lösenord"
 
 msgid "SEND TEST ALERT"
 msgstr ""
