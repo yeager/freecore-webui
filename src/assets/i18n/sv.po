@@ -3960,7 +3960,7 @@ msgid "Descriptive name for the replication."
 msgstr ""
 
 msgid "Destination"
-msgstr ""
+msgstr "Mål"
 
 msgid "Destination Dataset Read-only Policy"
 msgstr ""
@@ -9779,7 +9779,7 @@ msgid "Replication Schedule"
 msgstr ""
 
 msgid "Replication Tasks"
-msgstr ""
+msgstr "Replikeringsuppgifter"
 
 msgid "Replication Tasks Limit"
 msgstr ""
@@ -10282,7 +10282,7 @@ msgid "Scan This QR Code"
 msgstr ""
 
 msgid "Schedule"
-msgstr ""
+msgstr "Schema"
 
 msgid "Schedule Preview"
 msgstr ""
@@ -11917,7 +11917,7 @@ msgid "Sort languages by:"
 msgstr ""
 
 msgid "Source"
-msgstr ""
+msgstr "Källa"
 
 msgid "Source Location"
 msgstr ""
@@ -13396,7 +13396,7 @@ msgid "Train"
 msgstr ""
 
 msgid "Transfer"
-msgstr ""
+msgstr "Överföring"
 
 msgid "Transfer Mode"
 msgstr ""
