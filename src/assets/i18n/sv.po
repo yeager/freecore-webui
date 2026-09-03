@@ -2167,7 +2167,7 @@ msgid ""
 msgstr ""
 
 msgid "CA"
-msgstr ""
+msgstr "CA"
 
 msgid "CA ID"
 msgstr ""
@@ -2293,13 +2293,13 @@ msgid "Cerfiticate"
 msgstr ""
 
 msgid "Certificate"
-msgstr ""
+msgstr "Certifikat"
 
 msgid "Certificate Authorities"
 msgstr ""
 
 msgid "Certificate Authority"
-msgstr ""
+msgstr "Certifikatutfärdare"
 
 msgid ""
 "Certificate Authority (CA) to use for connecting to the key server. A valid "
@@ -2328,7 +2328,7 @@ msgid ""
 msgstr ""
 
 msgid "Certificates"
-msgstr ""
+msgstr "Certifikat"
 
 msgid "Change Administrator Password"
 msgstr ""
@@ -2871,7 +2871,7 @@ msgid ""
 msgstr ""
 
 msgid "Client Certificate"
-msgstr ""
+msgstr "Klientcertifikat"
 
 msgid "Client ID"
 msgstr ""
@@ -7198,7 +7198,7 @@ msgid "Kernel"
 msgstr ""
 
 msgid "Key"
-msgstr ""
+msgstr "Nyckel"
 
 msgid "Key Agreement"
 msgstr ""
@@ -9299,7 +9299,7 @@ msgid "Privacy Protocol"
 msgstr ""
 
 msgid "Private Key"
-msgstr ""
+msgstr "Privat nyckel"
 
 msgid "Private Key ID"
 msgstr ""
@@ -9387,7 +9387,7 @@ msgid ""
 msgstr ""
 
 msgid "Public Key"
-msgstr ""
+msgstr "Offentlig nyckel"
 
 msgid "Purpose"
 msgstr ""
@@ -10183,7 +10183,7 @@ msgid "SSH port number. Leave empty to use the default port <i>22</i>."
 msgstr ""
 
 msgid "SSL"
-msgstr ""
+msgstr "SSL"
 
 msgid "SSL (Implicit TLS)"
 msgstr ""
@@ -12376,7 +12376,7 @@ msgid "TEST CHANGES"
 msgstr ""
 
 msgid "TLS"
-msgstr ""
+msgstr "TLS"
 
 msgid "TLS (STARTTLS)"
 msgstr ""
@@ -14195,7 +14195,7 @@ msgid "Verbose logging"
 msgstr ""
 
 msgid "Verify"
-msgstr ""
+msgstr "Verifiera"
 
 msgid "Verify Credential"
 msgstr ""
