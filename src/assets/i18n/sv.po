@@ -712,10 +712,10 @@ msgid "ACME Certificate"
 msgstr "ACME-certifikat"
 
 msgid "ACME DNS"
-msgstr ""
+msgstr "ACME DNS"
 
 msgid "ACME DNS Authenticators"
-msgstr ""
+msgstr "ACME DNS-autentiserare"
 
 msgid "ACME Server Directory URI"
 msgstr "URI till ACME-serverkatalog"
@@ -1814,7 +1814,7 @@ msgid "Auto TRIM"
 msgstr ""
 
 msgid "Auto configure IPv6"
-msgstr ""
+msgstr "Konfigurera IPv6 automatiskt"
 
 msgid ""
 "Auto-populates with information from the <b>Realm</b> when the settings in "
@@ -1825,10 +1825,10 @@ msgid "Auto-start"
 msgstr ""
 
 msgid "Autoconfigure IPv6"
-msgstr ""
+msgstr "Konfigurera IPv6 automatiskt"
 
 msgid "Autoconfigure IPv6 with rtsold"
-msgstr ""
+msgstr "Konfigurera IPv6 automatiskt med rtsold"
 
 msgid "Automatic scrub interval (in days)"
 msgstr "Intervall för automatisk skrubbning (i dagar)"
@@ -2536,7 +2536,7 @@ msgid "Choose Topbar"
 msgstr ""
 
 msgid "Choose a DNS provider and configure any required authenticator attributes."
-msgstr ""
+msgstr "Välj en DNS-leverantör och konfigurera nödvändiga autentiserarattribut."
 
 msgid "Choose a Device"
 msgstr "Välj en enhet"
@@ -2939,7 +2939,7 @@ msgid "Columns"
 msgstr ""
 
 msgid "Com Port"
-msgstr ""
+msgstr "COM-port"
 
 msgid ""
 "Combine multiple, critical-for-failover  interfaces into a group. Groups "
@@ -3190,7 +3190,7 @@ msgid "Console Keyboard Map"
 msgstr ""
 
 msgid "Console Port"
-msgstr ""
+msgstr "Konsolport"
 
 msgid "Contact"
 msgstr ""
@@ -3492,31 +3492,31 @@ msgid "DELETE DATASET"
 msgstr "TA BORT DATAUPPSÄTTNING"
 
 msgid "DHCP"
-msgstr ""
+msgstr "DHCP"
 
 msgid "DHCP Autoconfigure IPv4"
-msgstr ""
+msgstr "DHCP-konfigurera IPv4 automatiskt"
 
 msgid "DNS Domain Name"
 msgstr "DNS-domännamn"
 
 msgid "DNS Forwarder"
-msgstr ""
+msgstr "DNS-vidarebefordrare"
 
 msgid "DNS Servers"
-msgstr ""
+msgstr "DNS-servrar"
 
 msgid "DNS Timeout"
-msgstr ""
+msgstr "DNS-tidsgräns"
 
 msgid "DNS name of the domain"
 msgstr "Domänens DNS-namn"
 
 msgid "DNS timeout"
-msgstr ""
+msgstr "DNS-tidsgräns"
 
 msgid "DNS timeout in seconds. Increase this value if DNS queries timeout."
-msgstr ""
+msgstr "DNS-tidsgräns i sekunder. Öka värdet om DNS-frågor överskrider tidsgränsen."
 
 msgid "DOCS"
 msgstr ""
@@ -3678,16 +3678,16 @@ msgid "Default ACL Options"
 msgstr "Standardalternativ för ACL"
 
 msgid "Default Gateway"
-msgstr ""
+msgstr "Standardgateway"
 
 msgid "Default Permissions"
 msgstr ""
 
 msgid "Default Router For IPv4"
-msgstr ""
+msgstr "Standardrouter för IPv4"
 
 msgid "Default Router For IPv6"
-msgstr ""
+msgstr "Standardrouter för IPv6"
 
 msgid "Default Routes"
 msgstr ""
@@ -3959,10 +3959,10 @@ msgid "Description (optional)."
 msgstr ""
 
 msgid "Description of the VLAN."
-msgstr ""
+msgstr "Beskrivning av VLAN:et."
 
 msgid "Description of the lagg interface."
-msgstr ""
+msgstr "Beskrivning av lagg-gränssnittet."
 
 msgid "Description of the share or notes on how it is used."
 msgstr "Beskrivning av delningen eller anteckningar om hur den används."
@@ -4099,7 +4099,7 @@ msgid "Digital Signature"
 msgstr ""
 
 msgid "Direct the flow of data to the remote host."
-msgstr ""
+msgstr "Styr dataflödet till fjärrvärden."
 
 msgid "Direction"
 msgstr ""
@@ -4270,7 +4270,7 @@ msgid ""
 msgstr ""
 
 msgid "Do not set this if the Serial Port is disabled."
-msgstr ""
+msgstr "Ange inte detta om serieporten är inaktiverad."
 
 msgid "Docker Host"
 msgstr "Docker-värd"
@@ -4931,13 +4931,13 @@ msgid "Enter a description of the cron job."
 msgstr ""
 
 msgid "Enter a description of the interface."
-msgstr ""
+msgstr "Ange en beskrivning av gränssnittet."
 
 msgid "Enter a description of the rsync task."
 msgstr "Ange en beskrivning av rsync-uppgiften."
 
 msgid "Enter a description of the static route."
-msgstr ""
+msgstr "Ange en beskrivning av den statiska rutten."
 
 msgid "Enter a description of the tunable."
 msgstr ""
@@ -5057,7 +5057,7 @@ msgid "Enter a password of at least eight characters."
 msgstr ""
 
 msgid "Enter a port number to use for the connection."
-msgstr ""
+msgstr "Ange ett portnummer att använda för anslutningen."
 
 msgid ""
 "Enter a port to bind <a "
@@ -5120,7 +5120,7 @@ msgid "Enter a username to register with this service."
 msgstr "Ange ett användarnamn för att registrera dig hos denna tjänst."
 
 msgid "Enter a valid IPv4 address."
-msgstr ""
+msgstr "Ange en giltig IPv4-adress."
 
 msgid "Enter a valid MAC address vendor prefix. <b>Example:</b> <i>E4F4C6</i>"
 msgstr ""
@@ -5172,10 +5172,10 @@ msgid ""
 msgstr ""
 
 msgid "Enter an IPv4 address. This overrides the default gateway provided by DHCP."
-msgstr ""
+msgstr "Ange en IPv4-adress. Den åsidosätter standardgatewayen som DHCP tillhandahåller."
 
 msgid "Enter an IPv6 address. This overrides the default gateway provided by DHCP."
-msgstr ""
+msgstr "Ange en IPv6-adress. Den åsidosätter standardgatewayen som DHCP tillhandahåller."
 
 msgid ""
 "Enter an alphanumeric encryption key. Only available when <i>Passphrase</i> "
@@ -5338,7 +5338,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the IP address and netmask of the server."
-msgstr ""
+msgstr "Ange serverns IP-adress och nätmask."
 
 msgid ""
 "Enter the IP address of a DNS forwarder. Required for recursive queries "
@@ -5346,10 +5346,10 @@ msgid ""
 msgstr ""
 
 msgid "Enter the IP address of the gateway."
-msgstr ""
+msgstr "Ange gatewayens IP-adress."
 
 msgid "Enter the IP address or hostname for SNMP UPS."
-msgstr ""
+msgstr "Ange IP-adressen eller värdnamnet för SNMP-UPS:en."
 
 msgid ""
 "Enter the IP address or hostname of the VMware host. When clustering, this "
@@ -5418,7 +5418,7 @@ msgid "Enter the decryption passphrase."
 msgstr ""
 
 msgid "Enter the default gateway of the IPv4 connection."
-msgstr ""
+msgstr "Ange standardgatewayen för IPv4-anslutningen."
 
 msgid ""
 "Enter the desired address into the field to override the randomized MAC "
@@ -5497,7 +5497,7 @@ msgid "Enter the new encryption key passphrase."
 msgstr "Ange den nya lösenfrasen för krypteringsnyckeln."
 
 msgid "Enter the numeric tag configured in the switched network."
-msgstr ""
+msgstr "Ange den numeriska taggen som konfigurerats i det switchade nätverket."
 
 msgid "Enter the passphrase for the Private Key."
 msgstr "Ange lösenfrasen för den privata nyckeln."
@@ -5516,7 +5516,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the password used to connect to the IPMI interface from a web browser."
-msgstr ""
+msgstr "Ange lösenordet som används för att ansluta till IPMI-gränssnittet från en webbläsare."
 
 msgid "Enter the phone number of the contact person."
 msgstr ""
@@ -5883,7 +5883,7 @@ msgid "Fibre Channel "
 msgstr ""
 
 msgid "Fibre Channel Port "
-msgstr ""
+msgstr "Fibre Channel-port "
 
 msgid "Fibre Channel Ports"
 msgstr ""
@@ -6340,16 +6340,16 @@ msgid "HTTP Authentication"
 msgstr ""
 
 msgid "HTTP Port"
-msgstr ""
+msgstr "HTTP-port"
 
 msgid "HTTP Port Listen Backlog"
-msgstr ""
+msgstr "Lyssningskö för HTTP-port"
 
 msgid "HTTP Proxy"
 msgstr ""
 
 msgid "HTTP host URL."
-msgstr ""
+msgstr "HTTP-värd-URL."
 
 msgid "HTTPS Port"
 msgstr "HTTPS-port"
@@ -6428,22 +6428,22 @@ msgid "Host"
 msgstr "Värd"
 
 msgid "Host Allow"
-msgstr ""
+msgstr "Tillåt värd"
 
 msgid "Host Deny"
-msgstr ""
+msgstr "Neka värd"
 
 msgid "Host Name Database"
-msgstr ""
+msgstr "Värdnamnsdatabas"
 
 msgid "Host Port Number"
-msgstr ""
+msgstr "Värdportnummer"
 
 msgid "Host Sync"
-msgstr ""
+msgstr "Värdsynkronisering"
 
 msgid "Host name of second TrueNAS controller."
-msgstr ""
+msgstr "Värdnamn för den andra TrueNAS-styrenheten."
 
 msgid "Host name or IP address of the central key server."
 msgstr "Värdnamn eller IP-adress för den centrala nyckelservern."
@@ -6468,7 +6468,7 @@ msgid ""
 msgstr ""
 
 msgid "Hostname or IP address of SMTP server to use for sending this email."
-msgstr ""
+msgstr "Värdnamn eller IP-adress för SMTP-servern som ska användas för att skicka detta e-postmeddelande."
 
 msgid ""
 "Hostname or IP address of a remote   <a href=\"http://graphiteapp.org/\" "
@@ -6549,7 +6549,7 @@ msgid ""
 msgstr ""
 
 msgid "How often the IP is checked in seconds."
-msgstr ""
+msgstr "Hur ofta IP-adressen kontrolleras, i sekunder."
 
 msgid ""
 "How often to run the scrub task. Choose one  of the presets or choose "
