@@ -16962,7 +16962,7 @@ msgid "template"
 msgstr "mall"
 
 msgid "threads"
-msgstr ""
+msgstr "trådar"
 
 msgid "to set up configuration first."
 msgstr "för att först ställa in konfigurationen."
