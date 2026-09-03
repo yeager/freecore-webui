@@ -945,7 +945,7 @@ msgid "Add NFS SPN"
 msgstr ""
 
 msgid "Add Recovery Key"
-msgstr ""
+msgstr "Lägg till återställningsnyckel"
 
 msgid "Add Vdev"
 msgstr ""
@@ -1009,7 +1009,7 @@ msgid "Adding NFS NPN requires sufficient privileges. Enter your credentials bel
 msgstr ""
 
 msgid "Adding Vdevs to an encrypted pool resets the passphrase and recovery key!"
-msgstr ""
+msgstr "Om vdev-enheter läggs till i en krypterad pool återställs lösenfrasen och återställningsnyckeln!"
 
 msgid "Adding data vdevs of different types is not supported."
 msgstr ""
@@ -1485,7 +1485,7 @@ msgid "Also Include Naming Schema"
 msgstr ""
 
 msgid "Also unlock any encrypted dataset stored within this dataset."
-msgstr ""
+msgstr "Lås även upp alla krypterade datamängder som finns i denna datamängd."
 
 msgid "Alt Background 1"
 msgstr ""
@@ -3639,7 +3639,7 @@ msgid ""
 msgstr ""
 
 msgid "Deactivate the recovery key for this pool?"
-msgstr ""
+msgstr "Inaktivera återställningsnyckeln för poolen?"
 
 msgid "Debug"
 msgstr ""
@@ -4324,7 +4324,7 @@ msgid "Download Public Key"
 msgstr ""
 
 msgid "Download Recovery Key"
-msgstr ""
+msgstr "Hämta återställningsnyckel"
 
 msgid "Download SSH Public Key"
 msgstr ""
@@ -4774,10 +4774,10 @@ msgid ""
 msgstr ""
 
 msgid "Encrypted Datasets"
-msgstr ""
+msgstr "Krypterade datamängder"
 
 msgid "Encrypted pool disks must be decrypted prior to import."
-msgstr ""
+msgstr "Diskarna i den krypterade poolen måste dekrypteras före import."
 
 msgid "Encryption"
 msgstr "Kryptering"
@@ -4795,22 +4795,22 @@ msgid "Encryption Key"
 msgstr "Krypteringsnyckel"
 
 msgid "Encryption Key Format"
-msgstr ""
+msgstr "Format för krypteringsnyckel"
 
 msgid "Encryption Key Location in Target System"
-msgstr ""
+msgstr "Krypteringsnyckelns plats i målsystemet"
 
 msgid "Encryption Key Passphrase"
-msgstr ""
+msgstr "Lösenfras för krypteringsnyckel"
 
 msgid "Encryption Key Required"
-msgstr ""
+msgstr "Krypteringsnyckel krävs"
 
 msgid "Encryption Key for Pool "
 msgstr ""
 
 msgid "Encryption Key/Passphrase"
-msgstr ""
+msgstr "Krypteringsnyckel/lösenfras"
 
 msgid "Encryption Mode"
 msgstr ""
@@ -4822,7 +4822,7 @@ msgid "Encryption Options Saved"
 msgstr ""
 
 msgid "Encryption Passphrase"
-msgstr ""
+msgstr "Krypteringslösenfras"
 
 msgid "Encryption Password"
 msgstr ""
@@ -6153,7 +6153,7 @@ msgid "Generate Debug File"
 msgstr ""
 
 msgid "Generate Encryption Key"
-msgstr ""
+msgstr "Generera krypteringsnyckel"
 
 msgid "Generate Key"
 msgstr ""
