@@ -12561,7 +12561,7 @@ msgid "Test network interface changes? Network connectivity can be interrupted."
 msgstr "Testa ändringar av nätverksgränssnitt? Nätverksanslutningen kan avbrytas."
 
 msgid "Tests are only performed when <i>Never</i> is selected."
-msgstr ""
+msgstr "Tester utförs endast när <i>Aldrig</i> är valt."
 
 msgid ""
 "Tests the server connection and verifies the chosen <b>Certificate</b>  "
@@ -13344,22 +13344,22 @@ msgid ""
 msgstr ""
 
 msgid "Time Format"
-msgstr ""
+msgstr "Tidsformat"
 
 msgid "Time Machine"
-msgstr ""
+msgstr "Time Machine"
 
 msgid "Time Machine Quota"
-msgstr ""
+msgstr "Time Machine-kvot"
 
 msgid "Time Remaining"
-msgstr ""
+msgstr "Återstående tid"
 
 msgid "Timeout"
-msgstr ""
+msgstr "Tidsgräns"
 
 msgid "Times"
-msgstr ""
+msgstr "Tider"
 
 msgid "Timezone"
 msgstr "Tidszon"
@@ -13527,7 +13527,7 @@ msgid ""
 msgstr ""
 
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 msgid ""
 "Type of Microsoft acount. Logging in to a Microsoft account  automatically "
@@ -13535,7 +13535,7 @@ msgid ""
 msgstr ""
 
 msgid "Type to search"
-msgstr ""
+msgstr "Skriv för att söka"
 
 msgid "UDP"
 msgstr ""
@@ -13866,7 +13866,7 @@ msgid ""
 msgstr ""
 
 msgid "Use --fast-list"
-msgstr ""
+msgstr "Använd --fast-list"
 
 msgid ""
 "Use <a href=\"https://www.freebsd.org/cgi/man.cgi?query=rtsold\" "
@@ -13887,34 +13887,34 @@ msgid "Use ACL Manager"
 msgstr "Använd ACL-hanteraren"
 
 msgid "Use Apple-style Character Encoding"
-msgstr ""
+msgstr "Använd teckenkodning i Apple-format"
 
 msgid "Use DHCP. Unset to manually configure a static IPv4 connection."
-msgstr ""
+msgstr "Använd DHCP. Avmarkera för att konfigurera en statisk IPv4-anslutning manuellt."
 
 msgid "Use Default Domain"
-msgstr ""
+msgstr "Använd standarddomänen"
 
 msgid "Use FQDN for Logging"
-msgstr ""
+msgstr "Använd FQDN för loggning"
 
 msgid "Use HTTPS for the connection to the  <b>CheckIP Server</b>."
-msgstr ""
+msgstr "Använd HTTPS för anslutningen till <b>CheckIP-servern</b>."
 
 msgid "Use HTTPS for the connection to the server that updates  the DNS record."
-msgstr ""
+msgstr "Använd HTTPS för anslutningen till servern som uppdaterar DNS-posten."
 
 msgid "Use Permissions Editor"
-msgstr ""
+msgstr "Använd behörighetsredigeraren"
 
 msgid "Use Signature Version 2"
-msgstr ""
+msgstr "Använd signaturversion 2"
 
 msgid "Use Syslog Only"
-msgstr ""
+msgstr "Använd endast Syslog"
 
 msgid "Use all disk space"
-msgstr ""
+msgstr "Använd allt diskutrymme"
 
 msgid ""
 "Use an SSL certificate that was created or imported in  <b>System > "
@@ -13938,7 +13938,7 @@ msgid "Use encrypted connection for increased security (preferred)."
 msgstr "Använd krypterad anslutning för högre säkerhet (föredras)."
 
 msgid "Use existing disk image"
-msgstr ""
+msgstr "Använd befintlig diskavbildning"
 
 msgid "Use settings from a saved replication."
 msgstr "Använd inställningar från en sparad replikering."
@@ -13960,7 +13960,7 @@ msgid "Use the encryption properties of the root dataset."
 msgstr "Använd krypteringsegenskaperna för rotdatamängden."
 
 msgid "Use the format <i>A.B.C.D/E</i> where <i>E</i> is the CIDR mask."
-msgstr ""
+msgstr "Använd formatet <i>A.B.C.D/E</i>, där <i>E</i> är CIDR-masken."
 
 msgid ""
 "Use this form to set up Two-Factor Authentication for this system.  Then "
@@ -13975,7 +13975,7 @@ msgid ""
 msgstr ""
 
 msgid "Use unencrypted connection."
-msgstr ""
+msgstr "Använd okrypterad anslutning."
 
 msgid "Used"
 msgstr "Använd"
@@ -14092,7 +14092,7 @@ msgid "Username"
 msgstr "Användarnamn"
 
 msgid "Username for logging in to the provider and  updating the record."
-msgstr ""
+msgstr "Användarnamn för att logga in hos leverantören och uppdatera posten."
 
 msgid "Username for logging in to the remote system."
 msgstr "Användarnamn för inloggning på fjärrsystemet."
@@ -14214,10 +14214,10 @@ msgid "Validate Remote Path"
 msgstr ""
 
 msgid "Value"
-msgstr ""
+msgstr "Värde"
 
 msgid "Value must be greater than "
-msgstr ""
+msgstr "Värdet måste vara större än "
 
 msgid "Variable"
 msgstr ""
@@ -14232,7 +14232,7 @@ msgid "Verify Credential"
 msgstr "Verifiera autentiseringsuppgift"
 
 msgid "Verify Deletion of "
-msgstr ""
+msgstr "Bekräfta borttagning av "
 
 msgid "Verify Email Address"
 msgstr "Verifiera e-postadress"
@@ -14241,7 +14241,7 @@ msgid "Verify certificate authenticity."
 msgstr "Verifiera certifikatets äkthet."
 
 msgid "Verify passphrase"
-msgstr ""
+msgstr "Verifiera lösenfras"
 
 msgid "Verify the pool encryption passphrase."
 msgstr "Verifiera lösenfrasen för poolkrypteringen."
@@ -14268,34 +14268,34 @@ msgid "Violet"
 msgstr ""
 
 msgid "Virtual CPUs"
-msgstr ""
+msgstr "Virtuella processorer"
 
 msgid "Virtual IP Address (Failover Address)"
-msgstr ""
+msgstr "Virtuell IP-adress (redundansväxlingsadress)"
 
 msgid "Virtual Interface"
-msgstr ""
+msgstr "Virtuellt gränssnitt"
 
 msgid "Virtual Machine (VM)"
-msgstr ""
+msgstr "Virtuell dator (VM)"
 
 msgid "Virtual Machine (VM) Wizard type."
-msgstr ""
+msgstr "Typ av guide för virtuell dator (VM)."
 
 msgid "Virtual Machines"
-msgstr ""
+msgstr "Virtuella datorer"
 
 msgid "Virtual Machines cannot be created or started without a pool to store them."
-msgstr ""
+msgstr "Virtuella datorer kan inte skapas eller startas utan en pool för lagring."
 
 msgid "Virtualization"
-msgstr ""
+msgstr "Virtualisering"
 
 msgid "Vlan Tag"
 msgstr ""
 
 msgid "Volume size cannot be zero."
-msgstr ""
+msgstr "Volymstorleken kan inte vara noll."
 
 msgid "WARNING"
 msgstr "VARNING"
@@ -14360,19 +14360,19 @@ msgid "Web Interface"
 msgstr "Webbgränssnitt"
 
 msgid "Web Interface HTTP -> HTTPS Redirect"
-msgstr ""
+msgstr "Omdirigering från HTTP till HTTPS i webbgränssnittet"
 
 msgid "Web Interface HTTP Port"
-msgstr ""
+msgstr "HTTP-port för webbgränssnittet"
 
 msgid "Web Interface HTTPS Port"
-msgstr ""
+msgstr "HTTPS-port för webbgränssnittet"
 
 msgid "Web Interface IPv4 Address"
-msgstr ""
+msgstr "IPv4-adress för webbgränssnittet"
 
 msgid "Web Interface IPv6 Address"
-msgstr ""
+msgstr "IPv6-adress för webbgränssnittet"
 
 msgid "WebDAV"
 msgstr "WebDAV"
@@ -14390,7 +14390,7 @@ msgid "WebDAV account username."
 msgstr "Användarnamn för WebDAV-konto."
 
 msgid "WebDAV service"
-msgstr ""
+msgstr "WebDAV-tjänst"
 
 msgid "Webdav Password"
 msgstr "WebDAV-lösenord"
@@ -14399,7 +14399,7 @@ msgid "Webdav SSL Certificate"
 msgstr "WebDAV SSL-certifikat"
 
 msgid "Webhook URL"
-msgstr ""
+msgstr "Webhook-URL"
 
 msgid "Wed"
 msgstr ""
@@ -14575,22 +14575,22 @@ msgid "Write ACL"
 msgstr "Skriv ACL"
 
 msgid "Write Attributes"
-msgstr ""
+msgstr "Skriv attribut"
 
 msgid "Write Data"
-msgstr ""
+msgstr "Skriv data"
 
 msgid "Write Errors"
-msgstr ""
+msgstr "Skriv fel"
 
 msgid "Write Named Attributes"
-msgstr ""
+msgstr "Skriv namngivna attribut"
 
 msgid "Write Only"
-msgstr ""
+msgstr "Endast skrivning"
 
 msgid "Write Owner"
-msgstr ""
+msgstr "Skriv ägare"
 
 msgid "Write a percentage limit of a single CPU core."
 msgstr ""
