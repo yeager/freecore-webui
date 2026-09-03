@@ -6265,7 +6265,7 @@ msgid ""
 msgstr ""
 
 msgid "Group Obj"
-msgstr ""
+msgstr "Gruppobjekt"
 
 msgid "Group Object Quota"
 msgstr "Gruppobjektkvot"
@@ -6283,7 +6283,7 @@ msgid ""
 msgstr ""
 
 msgid "Group to run as during file transfers to and  from this module."
-msgstr ""
+msgstr "Grupp att köra som vid filöverföringar till och från denna modul."
 
 msgid "Group to which this ACL entry applies."
 msgstr "Gruppen som denna ACL-post gäller för."
@@ -13984,19 +13984,19 @@ msgid "User"
 msgstr "Användare"
 
 msgid "User Bind Path"
-msgstr ""
+msgstr "Användarbindningssökväg"
 
 msgid "User CN"
 msgstr "Användar-CN"
 
 msgid "User Controls"
-msgstr ""
+msgstr "Användarkontroller"
 
 msgid "User Data Quota "
 msgstr "Användardatakvot "
 
 msgid "User Distinguished Name (DN) to use for authentication."
-msgstr ""
+msgstr "Användarens distingerade namn (DN) att använda för autentisering."
 
 msgid "User Domain"
 msgstr "Användardomän"
@@ -14008,7 +14008,7 @@ msgid "User ID"
 msgstr "Användar-ID"
 
 msgid "User ID and Groups"
-msgstr ""
+msgstr "Användar-ID och grupper"
 
 msgid ""
 "User ID to log in - optional - most swift systems use user and leave this "
@@ -14020,10 +14020,10 @@ msgid "User Name"
 msgstr "Användarnamn"
 
 msgid "User Obj"
-msgstr ""
+msgstr "Användarobjekt"
 
 msgid "User Object Quota"
-msgstr ""
+msgstr "Användarobjektkvot"
 
 msgid "User Quotas"
 msgstr "Användarkvoter"
@@ -14032,7 +14032,7 @@ msgid "User Settings"
 msgstr "Användarinställningar"
 
 msgid "User account password for logging into the  remote system."
-msgstr ""
+msgstr "Lösenord för användarkontot för inloggning på fjärrsystemet."
 
 msgid ""
 "User account to create for CHAP authentication with the user on the remote "
@@ -14040,7 +14040,7 @@ msgid ""
 msgstr ""
 
 msgid "User account to which this ACL entry applies."
-msgstr ""
+msgstr "Användarkontot som denna ACL-post gäller för."
 
 msgid ""
 "User accounts have an ID greater than 1000 and system accounts have an ID "
@@ -14057,13 +14057,13 @@ msgid "User or Group"
 msgstr "Användare eller grupp"
 
 msgid "User passed to <i>camcontrol security -u</i> to unlock SEDs"
-msgstr ""
+msgstr "Användare som skickas till <i>camcontrol security -u</i> för att låsa upp SED:er"
 
 msgid "User password. Must be at least 12 and no more than 16 characters long."
-msgstr ""
+msgstr "Användarlösenord. Måste vara minst 12 och högst 16 tecken långt."
 
 msgid "User to run as during file transfers to and from  this module."
-msgstr ""
+msgstr "Användare att köra som vid filöverföringar till och från denna modul."
 
 msgid ""
 "User who controls the dataset. This user always has permissions to read or "
@@ -14085,10 +14085,10 @@ msgid "Username for logging in to the provider and  updating the record."
 msgstr ""
 
 msgid "Username for logging in to the remote system."
-msgstr ""
+msgstr "Användarnamn för inloggning på fjärrsystemet."
 
 msgid "Username for this service."
-msgstr ""
+msgstr "Användarnamn för denna tjänst."
 
 msgid ""
 "Username of the SNMP  <a "
@@ -14097,10 +14097,10 @@ msgid ""
 msgstr ""
 
 msgid "Username or Password is incorrect."
-msgstr ""
+msgstr "Användarnamnet eller lösenordet är felaktigt."
 
 msgid "Username, Password, or 2FA Code is incorrect."
-msgstr ""
+msgstr "Användarnamnet, lösenordet eller 2FA-koden är felaktig."
 
 msgid ""
 "Usernames can be up to 16 characters long. When using NIS or other legacy "
@@ -15023,7 +15023,7 @@ msgid "owner@"
 msgstr ""
 
 msgid "password"
-msgstr ""
+msgstr "lösenord"
 
 msgid "pbkdf2iters"
 msgstr ""
@@ -15125,7 +15125,7 @@ msgid "total available"
 msgstr ""
 
 msgid "users"
-msgstr ""
+msgstr "användare"
 
 msgid "vdev is highly discouraged and will result in data loss if it fails"
 msgstr ""
