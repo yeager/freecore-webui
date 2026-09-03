@@ -8197,7 +8197,7 @@ msgid "Jails started."
 msgstr "Jail-miljöerna startades."
 
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 msgid "Jul"
 msgstr ""
