@@ -715,7 +715,7 @@ msgid "ACME DNS Authenticators"
 msgstr ""
 
 msgid "ACME Server Directory URI"
-msgstr ""
+msgstr "URI till ACME-serverkatalog"
 
 msgid "AD"
 msgstr ""
@@ -2244,7 +2244,7 @@ msgid "CSR exists on this system"
 msgstr ""
 
 msgid "CSRs"
-msgstr ""
+msgstr "CSR:er"
 
 msgid "Cache"
 msgstr ""
@@ -4123,7 +4123,7 @@ msgid "Directory/Files"
 msgstr ""
 
 msgid "Disable Endpoint Region"
-msgstr ""
+msgstr "Inaktivera slutpunktsregion"
 
 msgid "Disable Failover"
 msgstr ""
@@ -4153,7 +4153,7 @@ msgid "Disable Password"
 msgstr "Inaktivera lösenord"
 
 msgid "Disable Physical Block Size Reporting"
-msgstr ""
+msgstr "Inaktivera rapportering av fysisk blockstorlek"
 
 msgid "Disable Two-Factor Authentication"
 msgstr "Inaktivera tvåfaktorsautentisering"
@@ -4168,7 +4168,7 @@ msgid ""
 msgstr ""
 
 msgid "Disabled"
-msgstr ""
+msgstr "Inaktiverad"
 
 msgid "Disabled (Not encrypted)"
 msgstr ""
@@ -5709,7 +5709,7 @@ msgid "Exec"
 msgstr ""
 
 msgid "Execute"
-msgstr ""
+msgstr "Kör"
 
 msgid "Expand Pool"
 msgstr ""
@@ -5787,7 +5787,7 @@ msgid "Extend Vdev"
 msgstr ""
 
 msgid "Extended Key Usage"
-msgstr ""
+msgstr "Utökad nyckelanvändning"
 
 msgid "Extending Vdev"
 msgstr ""
@@ -11710,7 +11710,7 @@ msgid "Settings"
 msgstr "Inställningar"
 
 msgid "Settings saved"
-msgstr ""
+msgstr "Inställningar sparade"
 
 msgid "Settings saved."
 msgstr ""
@@ -11856,7 +11856,7 @@ msgid "Signing Certificate Authority"
 msgstr ""
 
 msgid "Signing Request"
-msgstr ""
+msgstr "Signerbegäran"
 
 msgid ""
 "Silver / Gold Coverage Customers can enable iXsystems Proactive Support. "
@@ -14225,10 +14225,10 @@ msgid "Verify Deletion of "
 msgstr ""
 
 msgid "Verify Email Address"
-msgstr ""
+msgstr "Verifiera e-postadress"
 
 msgid "Verify certificate authenticity."
-msgstr ""
+msgstr "Verifiera certifikatets äkthet."
 
 msgid "Verify passphrase"
 msgstr ""
