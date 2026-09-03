@@ -1618,19 +1618,19 @@ msgid "Apply Group"
 msgstr "Tillämpa grupp"
 
 msgid "Apply Pending Updates"
-msgstr ""
+msgstr "Tillämpa väntande uppdateringar"
 
 msgid "Apply Pending update"
 msgstr "Tillämpa väntande uppdatering"
 
 msgid "Apply Permissions Recursively"
-msgstr ""
+msgstr "Tillämpa behörigheter rekursivt"
 
 msgid "Apply Quotas to Selected Groups"
-msgstr ""
+msgstr "Tillämpa kvoter på valda grupper"
 
 msgid "Apply Quotas to Selected Users"
-msgstr ""
+msgstr "Tillämpa kvoter på valda användare"
 
 msgid "Apply Update"
 msgstr "Tillämpa uppdatering"
@@ -1639,7 +1639,7 @@ msgid "Apply User"
 msgstr "Tillämpa användare"
 
 msgid "Apply permissions recursively"
-msgstr ""
+msgstr "Tillämpa behörigheter rekursivt"
 
 msgid "Apply permissions recursively to all child datasets of the current dataset."
 msgstr "Tillämpa behörigheter rekursivt på alla underordnade datamängder till den aktuella datamängden."
@@ -1655,7 +1655,7 @@ msgid ""
 msgstr ""
 
 msgid "Apply permissions to child datasets"
-msgstr ""
+msgstr "Tillämpa behörigheter på underordnade datamängder"
 
 msgid "Apply the same quota critical  alert settings as the parent dataset."
 msgstr ""
@@ -2211,10 +2211,10 @@ msgid "CD-ROM Path"
 msgstr "CD-ROM-sökväg"
 
 msgid "CLEAR SYNC KEYS"
-msgstr ""
+msgstr "RENSA SYNKRONISERINGSNYCKLAR"
 
 msgid "CLOSE"
-msgstr ""
+msgstr "STÄNG"
 
 msgid "CN Realm"
 msgstr "CN-realm"
@@ -2273,16 +2273,16 @@ msgid "Cancel any pending Key synchronization."
 msgstr "Avbryt all väntande nyckelsynkronisering."
 
 msgid "Cannot Delete while HA is Enabled"
-msgstr ""
+msgstr "Det går inte att ta bort när HA är aktiverat"
 
 msgid "Cannot Edit while HA is Enabled"
-msgstr ""
+msgstr "Det går inte att redigera när HA är aktiverat"
 
 msgid "Cannot create plugins or jails until a pool is present for storing them."
 msgstr "Det går inte att skapa insticksprogram eller jail-miljöer förrän det finns en pool att lagra dem i."
 
 msgid "Cannot edit while HA is enabled."
-msgstr ""
+msgstr "Det går inte att redigera när HA är aktiverat."
 
 msgid ""
 "Cannot open this ACL. Check the permissions this dataset  has inherited "
@@ -2357,16 +2357,16 @@ msgid "Change Device Order"
 msgstr "Ändra enhetsordning"
 
 msgid "Change Enclosure Label"
-msgstr ""
+msgstr "Ändra chassietikett"
 
 msgid "Change Passphrase"
-msgstr ""
+msgstr "Ändra lösenfras"
 
 msgid "Change Password"
 msgstr "Byt lösenord"
 
 msgid "Change Server"
-msgstr ""
+msgstr "Ändra server"
 
 msgid "Change Settings and Clear Report History?"
 msgstr "Ändra inställningar och rensa rapporthistoriken?"
@@ -2844,10 +2844,10 @@ msgid ""
 msgstr ""
 
 msgid "Clear"
-msgstr ""
+msgstr "Rensa"
 
 msgid "Clear Pending Sync Keys"
-msgstr ""
+msgstr "Rensa väntande synkroniseringsnycklar"
 
 msgid "Clear SED Password"
 msgstr "Rensa SED-lösenord"
@@ -2858,7 +2858,7 @@ msgid ""
 msgstr ""
 
 msgid "Clear the Idmap Cache"
-msgstr ""
+msgstr "Rensa Idmap-cachen"
 
 msgid "Clear the SED password for this disk."
 msgstr "Rensa SED-lösenordet för denna disk."
@@ -2872,7 +2872,7 @@ msgid ""
 msgstr "Klicka på <b>Browse</b> för att välja en krypteringsnyckel att ladda upp. Då kan systemet dekryptera diskarna."
 
 msgid "Click on alarms to select or unselect."
-msgstr ""
+msgstr "Klicka på larm för att markera eller avmarkera."
 
 msgid ""
 "Click the swatch to pick a color or enter a color                     hex "
@@ -3088,25 +3088,25 @@ msgid "Configuring Active Directory"
 msgstr "Konfigurerar Active Directory"
 
 msgid "Confirm"
-msgstr ""
+msgstr "Bekräfta"
 
 msgid "Confirm Export/Disconnect"
 msgstr "Bekräfta export/frånkoppling"
 
 msgid "Confirm Failover"
-msgstr ""
+msgstr "Bekräfta redundansväxling"
 
 msgid "Confirm Options"
-msgstr ""
+msgstr "Bekräfta alternativ"
 
 msgid "Confirm Passphrase"
-msgstr ""
+msgstr "Bekräfta lösenfras"
 
 msgid "Confirm Password"
 msgstr "Bekräfta lösenord"
 
 msgid "Confirm Privacy Passphrase"
-msgstr ""
+msgstr "Bekräfta integritetslösenfras"
 
 msgid "Confirm SED Password"
 msgstr "Bekräfta SED-lösenord"
@@ -3135,16 +3135,16 @@ msgid ""
 msgstr ""
 
 msgid "Confirm detach"
-msgstr ""
+msgstr "Bekräfta frånkoppling"
 
 msgid "Confirm it is okay to proceed with Detach."
-msgstr ""
+msgstr "Bekräfta att det är säkert att fortsätta med frånkopplingen."
 
 msgid "Confirm password"
 msgstr "Bekräfta lösenord"
 
 msgid "Confirm these settings."
-msgstr ""
+msgstr "Bekräfta dessa inställningar."
 
 msgid "Connect Timeout"
 msgstr ""
@@ -3820,7 +3820,7 @@ msgid "Delete"
 msgstr "Ta bort"
 
 msgid "Delete "
-msgstr ""
+msgstr "Ta bort "
 
 msgid "Delete Children"
 msgstr "Ta bort underordnade"
@@ -4379,7 +4379,7 @@ msgid "EC Curve"
 msgstr ""
 
 msgid "EDIT"
-msgstr ""
+msgstr "REDIGERA"
 
 msgid "ENTER LICENSE"
 msgstr ""
@@ -4424,13 +4424,13 @@ msgid "Edit Group"
 msgstr "Redigera grupp"
 
 msgid "Edit Idmap"
-msgstr ""
+msgstr "Redigera Idmap"
 
 msgid "Edit Options"
-msgstr ""
+msgstr "Redigera alternativ"
 
 msgid "Edit Permissions"
-msgstr ""
+msgstr "Redigera behörigheter"
 
 msgid "Edit Pool Options for "
 msgstr "Redigera poolalternativ för "
@@ -5299,7 +5299,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter or select the cloud storage location to use for this task."
-msgstr ""
+msgstr "Ange eller välj molnlagringsplatsen att använda för denna uppgift."
 
 msgid "Enter passphrase to lock pool "
 msgstr "Ange lösenfras för att låsa pool "
@@ -5832,7 +5832,7 @@ msgid "Failed sending test alert!"
 msgstr "Det gick inte att skicka testlarmet!"
 
 msgid "Failed to generate debug file."
-msgstr ""
+msgstr "Det gick inte att generera felsökningsfilen."
 
 msgid "Failover"
 msgstr ""
@@ -5997,13 +5997,13 @@ msgid "Force"
 msgstr ""
 
 msgid "Force Clear"
-msgstr ""
+msgstr "Tvinga rensning"
 
 msgid "Force Delete"
-msgstr ""
+msgstr "Tvinga borttagning"
 
 msgid "Force Delete?"
-msgstr ""
+msgstr "Tvinga borttagning?"
 
 msgid "Force HDD Standby"
 msgstr ""
@@ -6633,7 +6633,7 @@ msgid "IPMI Configuration"
 msgstr ""
 
 msgid "IPMI Password Reset"
-msgstr ""
+msgstr "Återställning av IPMI-lösenord"
 
 msgid "IPv4"
 msgstr ""
@@ -6699,7 +6699,7 @@ msgid "ISNS Servers"
 msgstr ""
 
 msgid "ISO save location"
-msgstr ""
+msgstr "Plats för att spara ISO"
 
 msgid "ISO upload location"
 msgstr ""
@@ -7095,7 +7095,7 @@ msgid ""
 msgstr ""
 
 msgid "Items Delete Failed"
-msgstr ""
+msgstr "Det gick inte att ta bort objekt"
 
 msgid "Items deleted"
 msgstr ""
@@ -7154,7 +7154,7 @@ msgid "Jails cannot be changed while running."
 msgstr ""
 
 msgid "Jails failed to start"
-msgstr ""
+msgstr "Jail-miljöerna gick inte att starta"
 
 msgid "Jails started."
 msgstr ""
@@ -7369,7 +7369,7 @@ msgid ""
 msgstr ""
 
 msgid "Leave empty or select number of existing portal to use."
-msgstr ""
+msgstr "Lämna tomt eller välj numret på en befintlig portal att använda."
 
 msgid ""
 "Leave this field empty to generate random MAC addresses for the host and "
@@ -7646,7 +7646,7 @@ msgid "Manual Test Summary"
 msgstr ""
 
 msgid "Manual Update"
-msgstr ""
+msgstr "Manuell uppdatering"
 
 msgid "Manycast"
 msgstr ""
@@ -8313,7 +8313,7 @@ msgid "Never"
 msgstr ""
 
 msgid "Never Delete"
-msgstr ""
+msgstr "Ta aldrig bort"
 
 msgid "New Disk"
 msgstr "Ny disk"
@@ -8351,7 +8351,7 @@ msgid "No"
 msgstr ""
 
 msgid "No Communication Warning Time"
-msgstr ""
+msgstr "Varningstid för ingen kommunikation"
 
 msgid "No Encryption (less secure, but faster)"
 msgstr "Ingen kryptering (mindre säkert, men snabbare)"
@@ -8418,7 +8418,7 @@ msgid "No snapshots sent yet"
 msgstr ""
 
 msgid "No update found."
-msgstr ""
+msgstr "Ingen uppdatering hittades."
 
 msgid "No updates available."
 msgstr ""
