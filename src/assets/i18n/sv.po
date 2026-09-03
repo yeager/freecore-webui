@@ -8737,7 +8737,7 @@ msgid "Mar"
 msgstr ""
 
 msgid "Mask"
-msgstr ""
+msgstr "Mask"
 
 msgid "Masquerade Address"
 msgstr "Maskeringsadress"
@@ -9070,7 +9070,7 @@ msgid "Monitor User"
 msgstr "Övervakningsanvändare"
 
 msgid "Month"
-msgstr ""
+msgstr "Månad"
 
 msgid "Monthly"
 msgstr "Varje månad"
@@ -9467,7 +9467,7 @@ msgid "Networks"
 msgstr "Nätverk"
 
 msgid "Never"
-msgstr ""
+msgstr "Aldrig"
 
 msgid "Never Delete"
 msgstr "Ta aldrig bort"
@@ -9507,7 +9507,7 @@ msgid "Nic to attach:"
 msgstr "Nätverkskort att ansluta:"
 
 msgid "No"
-msgstr ""
+msgstr "Nej"
 
 msgid "No Communication Warning Time"
 msgstr "Varningstid för ingen kommunikation"
@@ -9791,7 +9791,7 @@ msgid "Oct"
 msgstr ""
 
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 msgid ""
 "Off by default. When set, <a "
@@ -9821,7 +9821,7 @@ msgid "Ok"
 msgstr ""
 
 msgid "On"
-msgstr ""
+msgstr "På"
 
 msgid "On a Different System"
 msgstr "På ett annat system"
@@ -10012,7 +10012,7 @@ msgid "Orange"
 msgstr "Orange"
 
 msgid "Order"
-msgstr ""
+msgstr "Ordning"
 
 msgid ""
 "Order of selected interface within the lagg. Configure a failover to set "
