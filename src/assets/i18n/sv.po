@@ -2897,16 +2897,16 @@ msgid "Client ID"
 msgstr "Klient-ID"
 
 msgid "Client Name"
-msgstr ""
+msgstr "Klientnamn"
 
 msgid "Client Secret"
-msgstr ""
+msgstr "Klienthemlighet"
 
 msgid "Clients"
-msgstr ""
+msgstr "Klienter"
 
 msgid "Clone"
-msgstr ""
+msgstr "Klona"
 
 msgid "Clone Boot Environment"
 msgstr "Klona startmiljö"
@@ -2930,13 +2930,13 @@ msgid "Cloud sync <i>"
 msgstr "Molnsynkronisering <i>"
 
 msgid "Cluster Name"
-msgstr ""
+msgstr "Klusternamn"
 
 msgid "Collection"
-msgstr ""
+msgstr "Samling"
 
 msgid "Columns"
-msgstr ""
+msgstr "Kolumner"
 
 msgid "Com Port"
 msgstr "COM-port"
@@ -2973,7 +2973,7 @@ msgid ""
 msgstr ""
 
 msgid "Command"
-msgstr ""
+msgstr "Kommando"
 
 msgid ""
 "Commands to run in the jail environment before the jail is removed and "
@@ -3003,28 +3003,28 @@ msgid "Commands to run in the system environment before a jail is stopped."
 msgstr "Kommandon som ska köras i systemmiljön innan en jail-miljö stoppas."
 
 msgid "Comment"
-msgstr ""
+msgstr "Kommentar"
 
 msgid "Comments"
-msgstr ""
+msgstr "Kommentarer"
 
 msgid "Comments about this script."
-msgstr ""
+msgstr "Kommentarer om detta skript."
 
 msgid "Common Name"
-msgstr ""
+msgstr "Gemensamt namn"
 
 msgid "Community"
-msgstr ""
+msgstr "Community"
 
 msgid "Compatability"
-msgstr ""
+msgstr "Kompatibilitet"
 
 msgid "Complete the Upgrade"
 msgstr "Slutför uppgraderingen"
 
 msgid "Completed"
-msgstr ""
+msgstr "Slutförd"
 
 msgid ""
 "Completely replicate the selected dataset. The target dataset will have all "
@@ -3033,40 +3033,40 @@ msgid ""
 msgstr ""
 
 msgid "Compress"
-msgstr ""
+msgstr "Komprimera"
 
 msgid "Compress Connections"
-msgstr ""
+msgstr "Komprimera anslutningar"
 
 msgid "Compression"
-msgstr ""
+msgstr "Komprimering"
 
 msgid "Compression Ratio"
-msgstr ""
+msgstr "Komprimeringsförhållande"
 
 msgid "Compression level"
-msgstr ""
+msgstr "Komprimeringsnivå"
 
 msgid "Computer Account OU"
 msgstr "Organisationsenhet för datorkonto"
 
 msgid "Config could not be downloaded"
-msgstr ""
+msgstr "Konfigurationen kunde inte hämtas"
 
 msgid "Configure"
-msgstr ""
+msgstr "Konfigurera"
 
 msgid "Configure ACL"
 msgstr "Konfigurera ACL"
 
 msgid "Configure Networking"
-msgstr ""
+msgstr "Konfigurera nätverk"
 
 msgid "Configure System Dataset"
 msgstr "Konfigurera systemdatamängd"
 
 msgid "Configure now"
-msgstr ""
+msgstr "Konfigurera nu"
 
 msgid "Configure permissions for this share's dataset now?"
 msgstr "Konfigurera behörigheter för denna delnings datamängd nu?"
@@ -3147,19 +3147,19 @@ msgid "Confirm these settings."
 msgstr "Bekräfta dessa inställningar."
 
 msgid "Connect Timeout"
-msgstr ""
+msgstr "Tidsgräns för anslutning"
 
 msgid "Connect to TrueCommand Cloud"
 msgstr "Anslut till TrueCommand Cloud"
 
 msgid "Connected Initiators"
-msgstr ""
+msgstr "Anslutna initierare"
 
 msgid "Connecting to "
-msgstr ""
+msgstr "Ansluter till "
 
 msgid "Connecting to TrueCommand"
-msgstr ""
+msgstr "Ansluter till TrueCommand"
 
 msgid "Connection"
 msgstr "Anslutning"
@@ -3193,16 +3193,16 @@ msgid "Console Port"
 msgstr "Konsolport"
 
 msgid "Contact"
-msgstr ""
+msgstr "Kontakt"
 
 msgid "Contact Support"
-msgstr ""
+msgstr "Kontakta support"
 
 msgid "Container"
 msgstr "Container"
 
 msgid "Content Commitment"
-msgstr ""
+msgstr "Innehållsåtagande"
 
 msgid "Contents of the uploaded Service Account JSON file."
 msgstr "Innehåll i den uppladdade JSON-filen för tjänstkontot."
@@ -3215,25 +3215,25 @@ msgid ""
 msgstr ""
 
 msgid "Continue"
-msgstr ""
+msgstr "Fortsätt"
 
 msgid "Continue to Legacy UI"
-msgstr ""
+msgstr "Fortsätt till äldre gränssnitt"
 
 msgid "Continue with AFP Setup"
 msgstr "Fortsätt med AFP-konfiguration"
 
 msgid "Continue with download?"
-msgstr ""
+msgstr "Fortsätta med hämtningen?"
 
 msgid "Contract Type"
-msgstr ""
+msgstr "Kontraktstyp"
 
 msgid "Control"
-msgstr ""
+msgstr "Kontroll"
 
 msgid "Control left sidebar's display style."
-msgstr ""
+msgstr "Styr visningsstilen för vänster sidofält."
 
 msgid ""
 "Control the availability of IPv4 addresses.<br> <b>Inherit</b>: Allow "
@@ -3250,22 +3250,22 @@ msgid ""
 msgstr ""
 
 msgid "Coolest:"
-msgstr ""
+msgstr "Häftigast:"
 
 msgid "Copies"
-msgstr ""
+msgstr "Kopior"
 
 msgid "Copy and Paste"
 msgstr "Kopiera och klistra in"
 
 msgid "Cores"
-msgstr ""
+msgstr "Kärnor"
 
 msgid "Could not delete boot environment."
 msgstr "Det gick inte att ta bort startmiljön."
 
 msgid "Could not extend Vdev."
-msgstr ""
+msgstr "Det gick inte att utöka vdev."
 
 msgid "Could not find a group name for this group ID."
 msgstr "Det gick inte att hitta något gruppnamn för detta grupp-ID."
@@ -3277,7 +3277,7 @@ msgid "Could not replace disk."
 msgstr "Det gick inte att ersätta disken."
 
 msgid "Country"
-msgstr ""
+msgstr "Land"
 
 msgid "Country Code"
 msgstr ""
