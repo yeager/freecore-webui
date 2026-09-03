@@ -3298,7 +3298,7 @@ msgid "Create Certificate"
 msgstr "Skapa certifikat"
 
 msgid "Create New Theme"
-msgstr ""
+msgstr "Skapa nytt tema"
 
 msgid "Create Passphrase"
 msgstr "Skapa lösenfras"
@@ -3313,58 +3313,58 @@ msgid "Create Snapshot"
 msgstr "Skapa ögonblicksbild"
 
 msgid "Create Theme"
-msgstr ""
+msgstr "Skapa tema"
 
 msgid "Create a custom ACL"
-msgstr ""
+msgstr "Skapa en anpassad ACL"
 
 msgid "Create a new Pool."
-msgstr ""
+msgstr "Skapa en ny pool."
 
 msgid "Create a new, empty pool."
-msgstr ""
+msgstr "Skapa en ny, tom pool."
 
 msgid "Create a pool:"
-msgstr ""
+msgstr "Skapa en pool:"
 
 msgid "Create a recommended formation of vdevs in a pool."
-msgstr ""
+msgstr "Skapa en rekommenderad uppsättning VDEV:er i en pool."
 
 msgid "Create an ACL"
-msgstr ""
+msgstr "Skapa en ACL"
 
 msgid "Create an SMB Share"
-msgstr ""
+msgstr "Skapa en SMB-delning"
 
 msgid "Create more data vdevs like the first."
-msgstr ""
+msgstr "Skapa fler data-VDEV:er som den första."
 
 msgid "Create new Pool"
-msgstr ""
+msgstr "Skapa ny pool"
 
 msgid "Create new disk image"
-msgstr ""
+msgstr "Skapa ny diskavbildning"
 
 msgid "Create new pool"
-msgstr ""
+msgstr "Skapa ny pool"
 
 msgid "Create or Choose Block Device"
-msgstr ""
+msgstr "Skapa eller välj blockenhet"
 
 msgid "Create or Import Pool"
-msgstr ""
+msgstr "Skapa eller importera pool"
 
 msgid "Create or Import pool"
-msgstr ""
+msgstr "Skapa eller importera pool"
 
 msgid "Create the pool with this layout?"
-msgstr ""
+msgstr "Skapa poolen med denna layout?"
 
 msgid "Created"
-msgstr ""
+msgstr "Skapad"
 
 msgid "Created Date"
-msgstr ""
+msgstr "Skapandedatum"
 
 msgid ""
 "Creates dataset snapshots even when there  have been no changes to the "
@@ -3480,10 +3480,10 @@ msgid ""
 msgstr ""
 
 msgid "DELETE"
-msgstr ""
+msgstr "TA BORT"
 
 msgid "DELETE DATASET"
-msgstr ""
+msgstr "TA BORT DATAUPPSÄTTNING"
 
 msgid "DHCP"
 msgstr ""
@@ -3817,43 +3817,43 @@ msgid "Delete "
 msgstr ""
 
 msgid "Delete Children"
-msgstr ""
+msgstr "Ta bort underordnade"
 
 msgid "Delete Dataset"
 msgstr "Ta bort datamängd"
 
 msgid "Delete Device"
-msgstr ""
+msgstr "Ta bort enhet"
 
 msgid "Delete Group "
 msgstr ""
 
 msgid "Delete Key"
-msgstr ""
+msgstr "Ta bort nyckel"
 
 msgid "Delete Mount Point"
-msgstr ""
+msgstr "Ta bort monteringspunkt"
 
 msgid "Delete Mountpoint"
-msgstr ""
+msgstr "Ta bort monteringspunkt"
 
 msgid "Delete Path"
-msgstr ""
+msgstr "Ta bort sökväg"
 
 msgid "Delete Selected"
-msgstr ""
+msgstr "Ta bort markerade"
 
 msgid "Delete User "
 msgstr ""
 
 msgid "Delete Virtual Machine"
-msgstr ""
+msgstr "Ta bort virtuell maskin"
 
 msgid "Delete Virtual Machine Data?"
-msgstr ""
+msgstr "Ta bort data för virtuell maskin?"
 
 msgid "Delete Zvol"
-msgstr ""
+msgstr "Ta bort Zvol"
 
 msgid "Delete configuration of shares that used this pool?"
 msgstr ""
@@ -3867,7 +3867,7 @@ msgid "Delete iSCSI extent "
 msgstr ""
 
 msgid "Delete selections"
-msgstr ""
+msgstr "Ta bort markeringar"
 
 msgid "Delete snapshot "
 msgstr ""
@@ -3878,16 +3878,16 @@ msgid ""
 msgstr "Ta bort lösenfrasen från krypteringsnyckeln. Det ogiltigförklarar en befintlig återställningsnyckelfil för poolen. En dialogruta uppmanar dig att säkerhetskopiera krypteringsnyckeln."
 
 msgid "Delete the selected item?"
-msgstr ""
+msgstr "Ta bort det markerade objektet?"
 
 msgid "Delete this path."
-msgstr ""
+msgstr "Ta bort denna sökväg."
 
 msgid "Delete user primary group "
 msgstr ""
 
 msgid "Deleted"
-msgstr ""
+msgstr "Borttagen"
 
 msgid "Deleting Snapshots"
 msgstr ""
@@ -4786,10 +4786,10 @@ msgid "Encryption (more secure, but slower)"
 msgstr "Kryptering (säkrare, men långsammare)"
 
 msgid "Encryption Actions"
-msgstr ""
+msgstr "Krypteringsåtgärder"
 
 msgid "Encryption Algorithm"
-msgstr ""
+msgstr "Krypteringsalgoritm"
 
 msgid "Encryption Key"
 msgstr "Krypteringsnyckel"
@@ -4813,7 +4813,7 @@ msgid "Encryption Key/Passphrase"
 msgstr "Krypteringsnyckel/lösenfras"
 
 msgid "Encryption Mode"
-msgstr ""
+msgstr "Krypteringsläge"
 
 msgid "Encryption Options"
 msgstr "Krypteringsalternativ"
@@ -4847,7 +4847,7 @@ msgid ""
 msgstr ""
 
 msgid "Encryption key that can unlock the dataset."
-msgstr ""
+msgstr "Krypteringsnyckel som kan låsa upp datauppsättningen."
 
 msgid ""
 "Encryption options are only used for first-time replication. Adding, "
@@ -5577,13 +5577,13 @@ msgid "Error"
 msgstr "Fel"
 
 msgid "Error Downloading File"
-msgstr ""
+msgstr "Fel vid hämtning av fil"
 
 msgid "Error Extending Vdev"
-msgstr ""
+msgstr "Fel vid utökning av VDEV"
 
 msgid "Error Replacing Disk"
-msgstr ""
+msgstr "Fel vid byte av disk"
 
 msgid "Error Saving Configuration Settings"
 msgstr ""
@@ -5592,7 +5592,7 @@ msgid "Error Saving Proactive Support Settings"
 msgstr ""
 
 msgid "Error Unlocking"
-msgstr ""
+msgstr "Fel vid upplåsning"
 
 msgid "Error Updating Production Status"
 msgstr ""
@@ -5607,16 +5607,16 @@ msgid "Error creating VM."
 msgstr ""
 
 msgid "Error decrypting disks"
-msgstr ""
+msgstr "Fel vid dekryptering av diskar"
 
 msgid "Error details for "
 msgstr ""
 
 msgid "Error exporting the Private Key"
-msgstr ""
+msgstr "Fel vid export av den privata nyckeln"
 
 msgid "Error exporting the certificate"
-msgstr ""
+msgstr "Fel vid export av certifikatet"
 
 msgid "Error exporting/disconnecting pool."
 msgstr ""
@@ -5634,7 +5634,7 @@ msgid "Error getting pool data."
 msgstr ""
 
 msgid "Error importing pool"
-msgstr ""
+msgstr "Fel vid import av pool"
 
 msgid "Error restarting web service"
 msgstr ""
@@ -5727,10 +5727,10 @@ msgid "Export"
 msgstr ""
 
 msgid "Export Certificate"
-msgstr ""
+msgstr "Exportera certifikat"
 
 msgid "Export Dataset Keys"
-msgstr ""
+msgstr "Exportera datauppsättningsnycklar"
 
 msgid "Export Dataset Keys for "
 msgstr ""
@@ -5739,10 +5739,10 @@ msgid "Export Key"
 msgstr "Exportera nyckel"
 
 msgid "Export Legacy Encryption (GELI) Keys"
-msgstr ""
+msgstr "Exportera äldre krypteringsnycklar (GELI)"
 
 msgid "Export Private Key"
-msgstr ""
+msgstr "Exportera privat nyckel"
 
 msgid "Export Read Only"
 msgstr ""
@@ -5751,7 +5751,7 @@ msgid "Export Recycle Bin"
 msgstr ""
 
 msgid "Export Secret Seed"
-msgstr ""
+msgstr "Exportera hemligt frö"
 
 msgid ""
 "Export ZFS snapshots as <a "
@@ -5766,7 +5766,7 @@ msgid "Export/Disconnect"
 msgstr ""
 
 msgid "Export/Disconnect Pool"
-msgstr ""
+msgstr "Exportera/koppla från pool"
 
 msgid "Export/disconnect pool: '"
 msgstr ""
@@ -6821,13 +6821,13 @@ msgid "Import"
 msgstr ""
 
 msgid "Import Disk"
-msgstr ""
+msgstr "Importera disk"
 
 msgid "Import a pool that exists but is not connected."
 msgstr ""
 
 msgid "Import an existing pool"
-msgstr ""
+msgstr "Importera en befintlig pool"
 
 msgid ""
 "Import the private key from an existing SSH keypair or  select <i>Generate "
@@ -6835,7 +6835,7 @@ msgid ""
 msgstr ""
 
 msgid "Important"
-msgstr ""
+msgstr "Viktigt"
 
 msgid "Importing Disk"
 msgstr ""
@@ -7218,7 +7218,7 @@ msgid "Key"
 msgstr "Nyckel"
 
 msgid "Key Agreement"
-msgstr ""
+msgstr "Nyckelöverenskommelse"
 
 msgid "Key Cert Sign"
 msgstr ""
