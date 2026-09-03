@@ -10216,7 +10216,7 @@ msgid "SSL (Implicit TLS)"
 msgstr "SSL (implicit TLS)"
 
 msgid "SSSD Compat"
-msgstr ""
+msgstr "SSSD-kompatibilitet"
 
 msgid "START"
 msgstr "STARTA"
@@ -10288,25 +10288,25 @@ msgid "Save network interface changes?"
 msgstr "Spara ändringar av nätverksgränssnitt?"
 
 msgid "Saving Debug"
-msgstr ""
+msgstr "Sparar felsökningsinformation"
 
 msgid "Saving Encryption Options..."
 msgstr "Sparar krypteringsalternativ ..."
 
 msgid "Saving KMIP Config"
-msgstr ""
+msgstr "Sparar KMIP-konfiguration"
 
 msgid "Saving Permissions"
-msgstr ""
+msgstr "Sparar behörigheter"
 
 msgid "Saving Permissions..."
-msgstr ""
+msgstr "Sparar behörigheter …"
 
 msgid "Saving Pool Options..."
 msgstr "Sparar poolalternativ ..."
 
 msgid "Scan This QR Code"
-msgstr ""
+msgstr "Skanna denna QR-kod"
 
 msgid "Schedule"
 msgstr "Schema"
@@ -10315,13 +10315,13 @@ msgid "Schedule Preview"
 msgstr "Förhandsvisa schema"
 
 msgid "Schema"
-msgstr ""
+msgstr "Schema"
 
 msgid "Schema mode"
-msgstr ""
+msgstr "Schemaläge"
 
 msgid "Script"
-msgstr ""
+msgstr "Skript"
 
 msgid "Script to execute after running sync."
 msgstr "Skript att köra efter synkroniseringen."
@@ -10392,13 +10392,13 @@ msgid "Secondary DNS server."
 msgstr "Sekundär DNS-server."
 
 msgid "Secret"
-msgstr ""
+msgstr "Hemlighet"
 
 msgid "Secret (Confirm)"
-msgstr ""
+msgstr "Hemlighet (bekräfta)"
 
 msgid "Secret (Read only)"
-msgstr ""
+msgstr "Hemlighet (skrivskyddad)"
 
 msgid "Secret Access Key"
 msgstr "Hemlig åtkomstnyckel"
@@ -10416,10 +10416,10 @@ msgid "Secret Key"
 msgstr "Hemlig nyckel"
 
 msgid "Secret and Peer Secret can not be the same."
-msgstr ""
+msgstr "Hemlighet och delad hemlighet kan inte vara samma."
 
 msgid "Secure Mode"
-msgstr ""
+msgstr "Säkert läge"
 
 msgid ""
 "Secure data within this dataset. Data is unusable until      unlocked with "
@@ -10903,10 +10903,10 @@ msgid ""
 msgstr ""
 
 msgid "Self Healed"
-msgstr ""
+msgstr "Självläkt"
 
 msgid "Self-Encrypting Drive"
-msgstr ""
+msgstr "Självkrypterande enhet"
 
 msgid ""
 "Self-Encrypting Drive (SED) passwords can be managed with KMIP. Enabling "
@@ -10917,7 +10917,7 @@ msgid ""
 msgstr ""
 
 msgid "Semi-automatic (TrueNAS CORE only)"
-msgstr ""
+msgstr "Halvautomatisk (endast TrueNAS CORE)"
 
 msgid "Send Email Status Updates"
 msgstr "Skicka statusuppdateringar via e-post"
@@ -10944,28 +10944,28 @@ msgid "Sep"
 msgstr ""
 
 msgid "Separate multiple values by pressing <code>Enter</code>."
-msgstr ""
+msgstr "Separera flera värden genom att trycka på <code>Retur</code>."
 
 msgid "Separate values with commas, and without spaces."
-msgstr ""
+msgstr "Separera värden med kommatecken, utan blanksteg."
 
 msgid "Serial"
-msgstr ""
+msgstr "Seriell"
 
 msgid "Serial Number"
-msgstr ""
+msgstr "Serienummer"
 
 msgid "Serial Number:"
-msgstr ""
+msgstr "Serienummer:"
 
 msgid "Serial Port"
-msgstr ""
+msgstr "Serieport"
 
 msgid "Serial Shell"
 msgstr "Serieskal"
 
 msgid "Serial Speed"
-msgstr ""
+msgstr "Seriehastighet"
 
 msgid "Serial number for this disk."
 msgstr "Serienummer för denna disk."
@@ -10981,7 +10981,7 @@ msgid ""
 msgstr ""
 
 msgid "Series"
-msgstr ""
+msgstr "Serie"
 
 msgid "Serve UDP NFS clients"
 msgstr "Betjäna UDP-NFS-klienter"
@@ -11748,16 +11748,16 @@ msgid "Sharing"
 msgstr "Delning"
 
 msgid "Sharing Controls"
-msgstr ""
+msgstr "Delningskontroller"
 
 msgid "Sharing Platform"
-msgstr ""
+msgstr "Delningsplattform"
 
 msgid "Shell"
 msgstr "Skal"
 
 msgid "Short Description"
-msgstr ""
+msgstr "Kort beskrivning"
 
 msgid ""
 "Shortened theme name. Used when listing the theme                     in "
@@ -11778,19 +11778,19 @@ msgid "Show"
 msgstr ""
 
 msgid "Show Advanced Fields by Default"
-msgstr ""
+msgstr "Visa avancerade fält som standard"
 
 msgid "Show All Groups"
-msgstr ""
+msgstr "Visa alla grupper"
 
 msgid "Show All Users"
-msgstr ""
+msgstr "Visa alla användare"
 
 msgid "Show Console Messages"
 msgstr "Visa konsolmeddelanden"
 
 msgid "Show Extra Columns"
-msgstr ""
+msgstr "Visa extra kolumner"
 
 msgid "Show Text Console without Password Prompt"
 msgstr "Visa textkonsol utan lösenordsfråga"
@@ -11799,19 +11799,19 @@ msgid "Show Tracebacks in Case of Fatal Error"
 msgstr "Visa stackspårningar vid allvarliga fel"
 
 msgid "Show all available groups, including those that do not have quotas set."
-msgstr ""
+msgstr "Visa alla tillgängliga grupper, även de utan angiven kvot."
 
 msgid "Show all available users, including those that do not have quotas set."
-msgstr ""
+msgstr "Visa alla tillgängliga användare, även de utan angiven kvot."
 
 msgid "Show disks with non-unique serial numbers"
-msgstr ""
+msgstr "Visa diskar med icke-unika serienummer"
 
 msgid "Show only entries that contain this text"
-msgstr ""
+msgstr "Visa endast poster som innehåller denna text"
 
 msgid "Show only those users who have quotas. This is the default view."
-msgstr ""
+msgstr "Visa endast användare med kvoter. Detta är standardvyn."
 
 msgid ""
 "Showing extra columns in the table is useful for data filtering,  but can "
@@ -11820,7 +11820,7 @@ msgid ""
 msgstr ""
 
 msgid "Shows only the groups that have quotas. This is the default view."
-msgstr ""
+msgstr "Visar endast grupper med kvoter. Detta är standardvyn."
 
 msgid ""
 "Shrinking a ZVOL is not allowed in the User Interface. This can lead to "
@@ -11828,10 +11828,10 @@ msgid ""
 msgstr ""
 
 msgid "Shut Down"
-msgstr ""
+msgstr "Stäng av"
 
 msgid "Shut down"
-msgstr ""
+msgstr "Stäng av"
 
 msgid "Shut down the system?"
 msgstr "Stänga av systemet?"
@@ -11852,13 +11852,13 @@ msgid "Shutdown Timer"
 msgstr "Avstängningstimer"
 
 msgid "Sidebar Controls"
-msgstr ""
+msgstr "Kontroller för sidofält"
 
 msgid "Sign CSR"
-msgstr ""
+msgstr "Signera CSR"
 
 msgid "Sign in"
-msgstr ""
+msgstr "Logga in"
 
 msgid "Signing Certificate Authority"
 msgstr "Signerande certifikatutfärdare"
