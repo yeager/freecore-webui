@@ -16809,7 +16809,7 @@ msgid "memorylocked"
 msgstr ""
 
 msgid "memoryuse"
-msgstr ""
+msgstr "minnesanvändning"
 
 msgid "minutes"
 msgstr ""
