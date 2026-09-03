@@ -4459,7 +4459,7 @@ msgid "Email Address"
 msgstr "E-postadress"
 
 msgid "Email Subject"
-msgstr ""
+msgstr "E-postämne"
 
 msgid ""
 "Email addresses must be entered in the format   "
@@ -4556,7 +4556,7 @@ msgid "Enable SMB2/3 Durable Handles"
 msgstr ""
 
 msgid "Enable SMTP configuration"
-msgstr ""
+msgstr "Aktivera SMTP-konfiguration"
 
 msgid "Enable Serial Console"
 msgstr "Aktivera seriekonsol"
@@ -5429,7 +5429,7 @@ msgid "Enter the email address of the new user."
 msgstr "Ange e-postadressen för den nya användaren."
 
 msgid "Enter the email address of the person responsible for the CA."
-msgstr ""
+msgstr "Ange e-postadressen till personen som ansvarar för CA:n."
 
 msgid ""
 "Enter the email of the contact person. Use the format "
@@ -5553,7 +5553,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the username if the SMTP server requires authentication."
-msgstr ""
+msgstr "Ange användarnamnet om SMTP-servern kräver autentisering."
 
 msgid ""
 "Enter up to four interface configurations in the format "
@@ -5784,7 +5784,7 @@ msgid "Exporting/disconnecting will continue after services have been managed."
 msgstr ""
 
 msgid "Expose zilstat via SNMP"
-msgstr ""
+msgstr "Exponera zilstat via SNMP"
 
 msgid "Extend"
 msgstr ""
@@ -6088,7 +6088,7 @@ msgid ""
 msgstr ""
 
 msgid "From Email"
-msgstr ""
+msgstr "Från e-post"
 
 msgid "From Name"
 msgstr ""
@@ -7604,7 +7604,7 @@ msgid "Magenta"
 msgstr ""
 
 msgid "Mail Server Port"
-msgstr ""
+msgstr "E-postserverport"
 
 msgid "Make Destination Dataset Read-only?"
 msgstr "Göra måldatamängden skrivskyddad?"
@@ -7637,13 +7637,13 @@ msgid "Manual"
 msgstr ""
 
 msgid "Manual S.M.A.R.T. Test"
-msgstr ""
+msgstr "Manuellt S.M.A.R.T.-test"
 
 msgid "Manual Test"
-msgstr ""
+msgstr "Manuellt test"
 
 msgid "Manual Test Summary"
-msgstr ""
+msgstr "Sammanfattning av manuellt test"
 
 msgid "Manual Update"
 msgstr "Manuell uppdatering"
@@ -8134,7 +8134,7 @@ msgid ""
 msgstr ""
 
 msgid "Name of the new alert service."
-msgstr ""
+msgstr "Namn på den nya larmtjänsten."
 
 msgid ""
 "Name of the new cloned boot environment. Alphanumeric characters, dashes "
@@ -8827,7 +8827,7 @@ msgid "Out"
 msgstr ""
 
 msgid "Outgoing Mail Server"
-msgstr ""
+msgstr "Utgående e-postserver"
 
 msgid ""
 "Overprovisioning a ZFS Log SSD can increase its performance and lifespan by "
@@ -9426,7 +9426,7 @@ msgid "Quiet"
 msgstr ""
 
 msgid "Quota critical alert at, %"
-msgstr ""
+msgstr "Kritiskt kvotlarm vid, %"
 
 msgid ""
 "Quota for each Time Machine backup on this share (in GiB). Note that this "
@@ -9443,7 +9443,7 @@ msgid "Quota size is too small, enter a value of 1 GiB or larger."
 msgstr ""
 
 msgid "Quota warning alert at, %"
-msgstr ""
+msgstr "Kvotvarning vid, %"
 
 msgid "REFRESH INDEX"
 msgstr ""
@@ -10094,13 +10094,13 @@ msgid "Running"
 msgstr ""
 
 msgid "S.M.A.R.T Test Results"
-msgstr ""
+msgstr "S.M.A.R.T.-testresultat"
 
 msgid "S.M.A.R.T Test Results of "
-msgstr ""
+msgstr "S.M.A.R.T.-testresultat för "
 
 msgid "S.M.A.R.T. Test"
-msgstr ""
+msgstr "S.M.A.R.T.-test"
 
 msgid "S.M.A.R.T. Tests"
 msgstr ""
@@ -10127,7 +10127,7 @@ msgid "SED Password"
 msgstr "SED-lösenord"
 
 msgid "SEND TEST ALERT"
-msgstr ""
+msgstr "SKICKA TESTLARM"
 
 msgid "SFTP Log Facility"
 msgstr "SFTP-loggfunktion"
@@ -10157,10 +10157,10 @@ msgid "SMB Service"
 msgstr "SMB-tjänst"
 
 msgid "SMTP"
-msgstr ""
+msgstr "SMTP"
 
 msgid "SMTP Authentication"
-msgstr ""
+msgstr "SMTP-autentisering"
 
 msgid ""
 "SMTP port number. Typically <i>25,465</i> (secure SMTP), or <i>587</i> "
@@ -10168,16 +10168,16 @@ msgid ""
 msgstr ""
 
 msgid "SNMP"
-msgstr ""
+msgstr "SNMP"
 
 msgid "SNMP Community"
-msgstr ""
+msgstr "SNMP-community"
 
 msgid "SNMP v3 Options"
-msgstr ""
+msgstr "Alternativ för SNMP v3"
 
 msgid "SNMP v3 Support"
-msgstr ""
+msgstr "Stöd för SNMP v3"
 
 msgid "SNMPv3 Security Model"
 msgstr ""
@@ -10920,13 +10920,13 @@ msgid "Semi-automatic (TrueNAS CORE only)"
 msgstr ""
 
 msgid "Send Email Status Updates"
-msgstr ""
+msgstr "Skicka statusuppdateringar via e-post"
 
 msgid "Send Mail Method"
-msgstr ""
+msgstr "Metod för att skicka e-post"
 
 msgid "Send Test Mail"
-msgstr ""
+msgstr "Skicka testmeddelande"
 
 msgid ""
 "Send failed HTTP request data which can include client and server IP "
@@ -12215,10 +12215,10 @@ msgid ""
 msgstr ""
 
 msgid "Subject"
-msgstr ""
+msgstr "Ämne"
 
 msgid "Subject Alternate Names"
-msgstr ""
+msgstr "Alternativa ämnesnamn"
 
 msgid "Submit"
 msgstr "Skicka"
@@ -12402,7 +12402,7 @@ msgid "TDB"
 msgstr ""
 
 msgid "TEST CHANGES"
-msgstr ""
+msgstr "TESTA ÄNDRINGAR"
 
 msgid "TLS"
 msgstr "TLS"
@@ -12543,22 +12543,22 @@ msgid "Terms of Service"
 msgstr ""
 
 msgid "Test Changes"
-msgstr ""
+msgstr "Testa ändringar"
 
 msgid "Test Cloud Sync"
 msgstr "Testa molnsynkronisering"
 
 msgid "Test alert sent!"
-msgstr ""
+msgstr "Testlarm skickat!"
 
 msgid "Test email sent!"
-msgstr ""
+msgstr "Testmeddelande skickat!"
 
 msgid "Test network interface changes for "
-msgstr ""
+msgstr "Testa ändringar av nätverksgränssnitt för "
 
 msgid "Test network interface changes? Network connectivity can be interrupted."
-msgstr ""
+msgstr "Testa ändringar av nätverksgränssnitt? Nätverksanslutningen kan avbrytas."
 
 msgid "Tests are only performed when <i>Never</i> is selected."
 msgstr ""
@@ -14800,7 +14800,7 @@ msgid "devfs_ruleset"
 msgstr ""
 
 msgid "email"
-msgstr ""
+msgstr "e-post"
 
 msgid "empty"
 msgstr ""
