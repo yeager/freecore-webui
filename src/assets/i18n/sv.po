@@ -7497,16 +7497,16 @@ msgid "Lock Dataset "
 msgstr ""
 
 msgid "Lock Pool"
-msgstr ""
+msgstr "Lås pool"
 
 msgid "Lock User"
-msgstr ""
+msgstr "Lås användare"
 
 msgid "Lock dataset "
 msgstr ""
 
 msgid "Locking Dataset"
-msgstr ""
+msgstr "Låser datauppsättning"
 
 msgid "Locking dataset "
 msgstr ""
@@ -7981,7 +7981,7 @@ msgid ""
 msgstr ""
 
 msgid "Mount points"
-msgstr ""
+msgstr "Monteringspunkter"
 
 msgid ""
 "Move existing keys from the current key server to a new key server.  To "
@@ -8897,7 +8897,7 @@ msgid "Password Server"
 msgstr "Lösenordsserver"
 
 msgid "Password associated with the LDAP User DN."
-msgstr ""
+msgstr "Lösenord som hör till LDAP-användarens DN."
 
 msgid "Password for logging in to the provider and  updating the record. "
 msgstr ""
@@ -9138,40 +9138,40 @@ msgid "Pool"
 msgstr "Pool"
 
 msgid "Pool Actions"
-msgstr ""
+msgstr "Poolåtgärder"
 
 msgid "Pool Available Space Threshold (%)"
-msgstr ""
+msgstr "Tröskel för ledigt utrymme i pool (%)"
 
 msgid "Pool Chosen"
-msgstr ""
+msgstr "Pool vald"
 
 msgid "Pool Expanded"
-msgstr ""
+msgstr "Pool utökad"
 
 msgid "Pool Manager"
-msgstr ""
+msgstr "Poolhanterare"
 
 msgid "Pool Options"
-msgstr ""
+msgstr "Poolalternativ"
 
 msgid "Pool Options Saved"
-msgstr ""
+msgstr "Poolalternativ sparade"
 
 msgid "Pool Status"
-msgstr ""
+msgstr "Poolstatus"
 
 msgid "Pool to import"
-msgstr ""
+msgstr "Pool att importera"
 
 msgid "Pool/Dataset"
-msgstr ""
+msgstr "Pool/datauppsättning"
 
 msgid "Pools"
 msgstr "Pooler"
 
 msgid "Pools & Snapshots"
-msgstr ""
+msgstr "Pooler och ögonblicksbilder"
 
 msgid "Port"
 msgstr "Port"
@@ -9965,13 +9965,13 @@ msgid "Restore"
 msgstr "Återställ"
 
 msgid "Restore Cloud Sync Task"
-msgstr ""
+msgstr "Återställ molnsynkroniseringsuppgift"
 
 msgid "Restore Replication Task"
-msgstr ""
+msgstr "Återställ replikeringsuppgift"
 
 msgid "Restore default"
-msgstr ""
+msgstr "Återställ standardvärde"
 
 msgid "Restrict PAM"
 msgstr ""
@@ -10183,7 +10183,7 @@ msgid "SSH Connections"
 msgstr "SSH-anslutningar"
 
 msgid "SSH Host to connect to."
-msgstr ""
+msgstr "SSH-värd att ansluta till."
 
 msgid "SSH Keypair"
 msgstr "SSH-nyckelpar"
@@ -10192,13 +10192,13 @@ msgid "SSH Keypairs"
 msgstr "SSH-nyckelpar"
 
 msgid "SSH Public Key"
-msgstr ""
+msgstr "Offentlig SSH-nyckel"
 
 msgid "SSH Transfer Security"
-msgstr ""
+msgstr "Säkerhet för SSH-överföring"
 
 msgid "SSH Username."
-msgstr ""
+msgstr "SSH-användarnamn."
 
 msgid "SSH port number. Leave empty to use the default port <i>22</i>."
 msgstr ""
@@ -13396,7 +13396,7 @@ msgid ""
 msgstr ""
 
 msgid "Token expired, please log back in."
-msgstr ""
+msgstr "Token har löpt ut, logga in igen."
 
 msgid ""
 "Top level of the LDAP directory tree to be used when searching for "
@@ -13544,13 +13544,13 @@ msgid "UNIX Charset"
 msgstr ""
 
 msgid "UPDATE"
-msgstr ""
+msgstr "UPPDATERA"
 
 msgid "UPDATE IN PROGRESS"
-msgstr ""
+msgstr "UPPDATERING PÅGÅR"
 
 msgid "UPDATE LICENSE"
-msgstr ""
+msgstr "UPPDATERA LICENS"
 
 msgid "UPS Mode"
 msgstr ""
@@ -13625,13 +13625,13 @@ msgid "Unlock "
 msgstr ""
 
 msgid "Unlock Children"
-msgstr ""
+msgstr "Lås upp underordnade"
 
 msgid "Unlock Datasets"
 msgstr "Lås upp datamängder"
 
 msgid "Unlock Successful"
-msgstr ""
+msgstr "Upplåsning lyckades"
 
 msgid ""
 "Unlock the pool with a recovery  key file instead of a passphrase. Select a "
@@ -13639,16 +13639,16 @@ msgid ""
 msgstr ""
 
 msgid "Unlock the pool with either a passphrase or a recovery key."
-msgstr ""
+msgstr "Lås upp poolen med antingen en lösenfras eller en återställningsnyckel."
 
 msgid "Unlock with Key file"
-msgstr ""
+msgstr "Lås upp med nyckelfil"
 
 msgid "Unlocking Datasets"
-msgstr ""
+msgstr "Låser upp datauppsättningar"
 
 msgid "Unlocking Pool"
-msgstr ""
+msgstr "Låser upp pool"
 
 msgid "Unlocking datasets for "
 msgstr ""
@@ -13690,43 +13690,43 @@ msgid "Update"
 msgstr "Uppdatera"
 
 msgid "Update File"
-msgstr ""
+msgstr "Uppdatera fil"
 
 msgid "Update File Temporary Storage Location"
 msgstr ""
 
 msgid "Update Frequency"
-msgstr ""
+msgstr "Uppdateringsfrekvens"
 
 msgid "Update Interval"
-msgstr ""
+msgstr "Uppdateringsintervall"
 
 msgid "Update Jail"
 msgstr ""
 
 msgid "Update License"
-msgstr ""
+msgstr "Uppdatera licens"
 
 msgid "Update Period"
-msgstr ""
+msgstr "Uppdateringsperiod"
 
 msgid "Update Plugins"
-msgstr ""
+msgstr "Uppdatera insticksmoduler"
 
 msgid "Update Preferences"
-msgstr ""
+msgstr "Uppdatera inställningar"
 
 msgid "Update Status"
-msgstr ""
+msgstr "Uppdateringsstatus"
 
 msgid "Update TrueCommand Settings"
 msgstr ""
 
 msgid "Update in Progress"
-msgstr ""
+msgstr "Uppdatering pågår"
 
 msgid "Update is complete, please reboot the system."
-msgstr ""
+msgstr "Uppdateringen är klar, starta om systemet."
 
 msgid "Update jail as well"
 msgstr ""
@@ -13747,13 +13747,13 @@ msgid "Update the jail operating system for "
 msgstr ""
 
 msgid "Updated"
-msgstr ""
+msgstr "Uppdaterad"
 
 msgid "Updates Available"
-msgstr ""
+msgstr "Uppdateringar tillgängliga"
 
 msgid "Updates successfully downloaded"
-msgstr ""
+msgstr "Uppdateringar har hämtats"
 
 msgid "Updating "
 msgstr ""
@@ -13987,25 +13987,25 @@ msgid "User Bind Path"
 msgstr ""
 
 msgid "User CN"
-msgstr ""
+msgstr "Användar-CN"
 
 msgid "User Controls"
 msgstr ""
 
 msgid "User Data Quota "
-msgstr ""
+msgstr "Användardatakvot "
 
 msgid "User Distinguished Name (DN) to use for authentication."
 msgstr ""
 
 msgid "User Domain"
-msgstr ""
+msgstr "Användardomän"
 
 msgid "User Guide"
-msgstr ""
+msgstr "Användarhandbok"
 
 msgid "User ID"
-msgstr ""
+msgstr "Användar-ID"
 
 msgid "User ID and Groups"
 msgstr ""
@@ -14017,7 +14017,7 @@ msgid ""
 msgstr ""
 
 msgid "User Name"
-msgstr ""
+msgstr "Användarnamn"
 
 msgid "User Obj"
 msgstr ""
@@ -14026,10 +14026,10 @@ msgid "User Object Quota"
 msgstr ""
 
 msgid "User Quotas"
-msgstr ""
+msgstr "Användarkvoter"
 
 msgid "User Settings"
-msgstr ""
+msgstr "Användarinställningar"
 
 msgid "User account password for logging into the  remote system."
 msgstr ""
@@ -14054,7 +14054,7 @@ msgid ""
 msgstr ""
 
 msgid "User or Group"
-msgstr ""
+msgstr "Användare eller grupp"
 
 msgid "User passed to <i>camcontrol security -u</i> to unlock SEDs"
 msgstr ""
@@ -14121,7 +14121,7 @@ msgid "Users"
 msgstr "Användare"
 
 msgid "Users & Groups"
-msgstr ""
+msgstr "Användare och grupper"
 
 msgid ""
 "Uses the SMB Service <i>NetBIOS Name</i> to advertise  the server to "
