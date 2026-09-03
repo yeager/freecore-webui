@@ -3586,10 +3586,10 @@ msgid "Dataset Actions"
 msgstr ""
 
 msgid "Dataset Key"
-msgstr ""
+msgstr "Datauppsättningsnyckel"
 
 msgid "Dataset Passphrase"
-msgstr ""
+msgstr "Lösenfras för datauppsättning"
 
 msgid "Dataset Path"
 msgstr ""
@@ -4342,7 +4342,7 @@ msgid "Drive Account Type"
 msgstr ""
 
 msgid "Drive ID"
-msgstr ""
+msgstr "Disk-ID"
 
 msgid ""
 "Drive reserved for inserting into DATA pool vdevs when an active drive has "
@@ -4353,7 +4353,7 @@ msgid "Driver"
 msgstr ""
 
 msgid "Drives List"
-msgstr ""
+msgstr "Disklista"
 
 msgid ""
 "Drives and IDs registered to the Microsoft account.  Selecting a drive also "
