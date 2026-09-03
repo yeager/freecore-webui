@@ -10045,7 +10045,7 @@ msgid "Other Settings"
 msgstr "Andra inställningar"
 
 msgid "Out"
-msgstr ""
+msgstr "Ut"
 
 msgid "Outgoing Mail Server"
 msgstr "Utgående e-postserver"
