@@ -8336,13 +8336,13 @@ msgid "Newer Clone"
 msgstr "Nyare klon"
 
 msgid "Newer Intermediate, Child, and Clone"
-msgstr ""
+msgstr "Nyare mellanliggande miljö, underordnad miljö och klon"
 
 msgid "Next"
 msgstr "Nästa"
 
 msgid "Next Run"
-msgstr ""
+msgstr "Nästa körning"
 
 msgid "Nic to attach:"
 msgstr ""
@@ -8357,31 +8357,31 @@ msgid "No Encryption (less secure, but faster)"
 msgstr "Ingen kryptering (mindre säkert, men snabbare)"
 
 msgid "No Inherit"
-msgstr ""
+msgstr "Ingen arvning"
 
 msgid "No Inheritable ACL Entries"
 msgstr "Inga ärvbara ACL-poster"
 
 msgid "No Logs"
-msgstr ""
+msgstr "Inga loggar"
 
 msgid "No Pools"
-msgstr ""
+msgstr "Inga pooler"
 
 msgid "No Propagate Inherit"
-msgstr ""
+msgstr "Sprid inte arvning"
 
 msgid "No Repositories"
-msgstr ""
+msgstr "Inga arkiv"
 
 msgid "No Reults"
-msgstr ""
+msgstr "Inga resultat"
 
 msgid "No Safety Check (CAUTION)"
-msgstr ""
+msgstr "Ingen säkerhetskontroll (VAR FÖRSIKTIG)"
 
 msgid "No Stat"
-msgstr ""
+msgstr "Ingen statistik"
 
 msgid ""
 "No custom themes. Click <b>Create New Theme</b> to create a new custom "
@@ -8400,28 +8400,28 @@ msgid "No logs are available for this task."
 msgstr "Inga loggar är tillgängliga för denna uppgift."
 
 msgid "No longer keep this Boot Environment?"
-msgstr ""
+msgstr "Vill du sluta behålla denna startmiljö?"
 
 msgid "No network interfaces are marked critical for failover."
 msgstr "Inga nätverksgränssnitt är markerade som kritiska för redundansväxling."
 
 msgid "No pools"
-msgstr ""
+msgstr "Inga pooler"
 
 msgid "No pools are configured."
-msgstr ""
+msgstr "Inga pooler är konfigurerade."
 
 msgid "No repositories is found."
-msgstr ""
+msgstr "Inga arkiv hittades."
 
 msgid "No snapshots sent yet"
-msgstr ""
+msgstr "Inga ögonblicksbilder har skickats ännu"
 
 msgid "No update found."
 msgstr "Ingen uppdatering hittades."
 
 msgid "No updates available."
-msgstr ""
+msgstr "Inga uppdateringar är tillgängliga."
 
 msgid "No, continue with import"
 msgstr ""
@@ -8430,16 +8430,16 @@ msgid "Nobind"
 msgstr ""
 
 msgid "Nodes CARP states do not agree."
-msgstr ""
+msgstr "Nodernas CARP-tillstånd stämmer inte överens."
 
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 msgid "None requested"
-msgstr ""
+msgstr "Ingen begärd"
 
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgid ""
 "Normal vdev type, used for primary storage operations. ZFS pools always "
@@ -8450,16 +8450,16 @@ msgid "Not Available"
 msgstr ""
 
 msgid "Notes"
-msgstr ""
+msgstr "Anteckningar"
 
 msgid "Notes about this disk."
 msgstr "Anteckningar om denna disk."
 
 msgid "Notes about this extent."
-msgstr ""
+msgstr "Anteckningar om denna extent."
 
 msgid "Notes or identifiers about the theme."
-msgstr ""
+msgstr "Anteckningar eller identifierare för temat."
 
 msgid "Notice"
 msgstr ""
@@ -8468,13 +8468,13 @@ msgid "Nov"
 msgstr ""
 
 msgid "Number of CPUs"
-msgstr ""
+msgstr "Antal processorer"
 
 msgid "Number of Cores"
-msgstr ""
+msgstr "Antal kärnor"
 
 msgid "Number of Graph Points"
-msgstr ""
+msgstr "Antal diagramvärden"
 
 msgid ""
 "Number of SysV semaphores modified in a single <a "
@@ -8483,13 +8483,13 @@ msgid ""
 msgstr ""
 
 msgid "Number of SysV shared memory segments in bytes."
-msgstr ""
+msgstr "Antal SysV-segment för delat minne i byte."
 
 msgid "Number of SysV shared memory segments."
-msgstr ""
+msgstr "Antal SysV-segment för delat minne."
 
 msgid "Number of Threads"
-msgstr ""
+msgstr "Antal trådar"
 
 msgid ""
 "Number of child jails allowed to be created by the jail or other jails "
@@ -8528,7 +8528,7 @@ msgid ""
 msgstr ""
 
 msgid "Number of queued SysV messages allowed for the jail."
-msgstr ""
+msgstr "Antal SysV-meddelanden i kö som tillåts för jail-miljön."
 
 msgid "Number of retries for failed replications"
 msgstr "Antal återförsök för misslyckade replikeringar"
@@ -8550,7 +8550,7 @@ msgid ""
 msgstr ""
 
 msgid "Number of servers"
-msgstr ""
+msgstr "Antal servrar"
 
 msgid ""
 "Number of simultaneous file transfers. Enter a number based on the "
@@ -8607,7 +8607,7 @@ msgid "Object Quota"
 msgstr "Objektkvot"
 
 msgid "Objects Used"
-msgstr ""
+msgstr "Använda objekt"
 
 msgid "Oct"
 msgstr ""
@@ -8625,7 +8625,7 @@ msgid ""
 msgstr ""
 
 msgid "Offline"
-msgstr ""
+msgstr "Frånkopplad"
 
 msgid "Offline Disk"
 msgstr "Koppla från disk"
@@ -8655,7 +8655,7 @@ msgid "One-Time Password (OTP) Digits"
 msgstr "Siffror för engångslösenord (OTP)"
 
 msgid "Online"
-msgstr ""
+msgstr "Ansluten"
 
 msgid "Online Disk"
 msgstr "Anslut disk"
@@ -8723,10 +8723,10 @@ msgid "Open TrueCommand User Interface"
 msgstr "Öppna TrueCommands användargränssnitt"
 
 msgid "OpenVPN Client Settings"
-msgstr ""
+msgstr "Klientinställningar för OpenVPN"
 
 msgid "OpenVPN Server Settings"
-msgstr ""
+msgstr "Serverinställningar för OpenVPN"
 
 msgid ""
 "Openstack API key or password. This is the OS_PASSWORD from an <a "
@@ -8744,7 +8744,7 @@ msgid "Operating System"
 msgstr "Operativsystem"
 
 msgid "Operation"
-msgstr ""
+msgstr "Åtgärd"
 
 msgid "Option 1"
 msgstr ""
@@ -8780,7 +8780,7 @@ msgid "Optional: Choose installation media image"
 msgstr ""
 
 msgid "Options"
-msgstr ""
+msgstr "Alternativ"
 
 msgid ""
 "Options for encrypting the LDAP connection:  <ul>  <li><i>OFF:</i> do not "
@@ -8803,25 +8803,25 @@ msgid ""
 msgstr ""
 
 msgid "Organization"
-msgstr ""
+msgstr "Organisation"
 
 msgid "Organizational Unit"
-msgstr ""
+msgstr "Organisationsenhet"
 
 msgid "Organizational unit of the entity."
-msgstr ""
+msgstr "Entitetens organisationsenhet."
 
 msgid "Other"
-msgstr ""
+msgstr "Annat"
 
 msgid "Other (Too complicated to be displayed)"
-msgstr ""
+msgstr "Annat (för komplicerat för att visas)"
 
 msgid "Other Options"
-msgstr ""
+msgstr "Andra alternativ"
 
 msgid "Other Settings"
-msgstr ""
+msgstr "Andra inställningar"
 
 msgid "Out"
 msgstr ""
@@ -8868,7 +8868,7 @@ msgid "PCI Passthru Device"
 msgstr ""
 
 msgid "PENDING"
-msgstr ""
+msgstr "VÄNTANDE"
 
 msgid "POST INSTALL NOTES"
 msgstr ""
@@ -8880,7 +8880,7 @@ msgid "PROCEED"
 msgstr ""
 
 msgid "PagerDuty client name."
-msgstr ""
+msgstr "Klientnamn för PagerDuty."
 
 msgid ""
 "Pair this certificate's public key with the Certificate Authority private "
@@ -8977,10 +8977,10 @@ msgid "Path"
 msgstr "Sökväg"
 
 msgid "Path Length"
-msgstr ""
+msgstr "Sökvägslängd"
 
 msgid "Path Suffix"
-msgstr ""
+msgstr "Sökvägssuffix"
 
 msgid ""
 "Path to the <b>CheckIP Server</b>. For example,  <i>no-ip.com</i> uses a "
@@ -8989,7 +8989,7 @@ msgid ""
 msgstr ""
 
 msgid "Path to the Extent"
-msgstr ""
+msgstr "Sökväg till extenten"
 
 msgid "Paths"
 msgstr ""
