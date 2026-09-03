@@ -733,13 +733,13 @@ msgid "AFP3 Unix Privs"
 msgstr ""
 
 msgid "API Key"
-msgstr ""
+msgstr "API-nyckel"
 
 msgid "API Key or Password"
-msgstr ""
+msgstr "API-nyckel eller lösenord"
 
 msgid "API Keys"
-msgstr ""
+msgstr "API-nycklar"
 
 msgid "API URL"
 msgstr ""
@@ -2323,10 +2323,10 @@ msgid ""
 msgstr ""
 
 msgid "Certificate Options"
-msgstr ""
+msgstr "Certifikatalternativ"
 
 msgid "Certificate Subject"
-msgstr ""
+msgstr "Certifikatets ämnesnamn"
 
 msgid ""
 "Certificate to use for key server authentication. A valid certificate is "
@@ -5736,7 +5736,7 @@ msgid "Export Dataset Keys for "
 msgstr ""
 
 msgid "Export Key"
-msgstr ""
+msgstr "Exportera nyckel"
 
 msgid "Export Legacy Encryption (GELI) Keys"
 msgstr ""
@@ -5772,7 +5772,7 @@ msgid "Export/disconnect pool: '"
 msgstr ""
 
 msgid "Exporting Pool"
-msgstr ""
+msgstr "Exporterar pool"
 
 msgid "Exporting/disconnecting will continue after services have been managed."
 msgstr ""
@@ -6844,7 +6844,7 @@ msgid "Importing Disk..."
 msgstr ""
 
 msgid "Importing Pool"
-msgstr ""
+msgstr "Importerar pool"
 
 msgid "Importing Pool..."
 msgstr ""
