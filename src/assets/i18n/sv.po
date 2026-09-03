@@ -8012,7 +8012,7 @@ msgid "Multipath Name"
 msgstr "Namn på multipath"
 
 msgid "Multipaths"
-msgstr ""
+msgstr "Multipath-enheter"
 
 msgid ""
 "Must match Windows workgroup name.  When this is unconfigured and Active "
@@ -8032,13 +8032,13 @@ msgid "NAT"
 msgstr ""
 
 msgid "NAT Autoconfigure IPv4"
-msgstr ""
+msgstr "Konfigurera IPv4 för NAT automatiskt"
 
 msgid "NAT Interface"
-msgstr ""
+msgstr "NAT-gränssnitt"
 
 msgid "NAT Port Forwarding"
-msgstr ""
+msgstr "NAT-portvidarebefordran"
 
 msgid "NFS"
 msgstr "NFS"
@@ -8065,7 +8065,7 @@ msgid "NO"
 msgstr ""
 
 msgid "NOT RUN SINCE LAST BOOT"
-msgstr ""
+msgstr "HAR INTE KÖRTS SEDAN SENASTE UPPSTART"
 
 msgid "NSS"
 msgstr ""
@@ -8074,10 +8074,10 @@ msgid "NTLMv1 Auth"
 msgstr "NTLMv1-autentisering"
 
 msgid "NTP Server Settings"
-msgstr ""
+msgstr "NTP-serverinställningar"
 
 msgid "NTP Servers"
-msgstr ""
+msgstr "NTP-servrar"
 
 msgid "Name"
 msgstr "Namn"
@@ -8178,28 +8178,28 @@ msgid "Nameservers"
 msgstr "Namnservrar"
 
 msgid "Naming Schema"
-msgstr ""
+msgstr "Namnschema"
 
 msgid "Navigation"
-msgstr ""
+msgstr "Navigering"
 
 msgid "NetBIOS"
-msgstr ""
+msgstr "NetBIOS"
 
 msgid "NetBIOS Alias"
-msgstr ""
+msgstr "NetBIOS-alias"
 
 msgid "NetBIOS Name"
-msgstr ""
+msgstr "NetBIOS-namn"
 
 msgid "NetBIOS alias"
-msgstr ""
+msgstr "NetBIOS-alias"
 
 msgid "NetBIOS-NS"
-msgstr ""
+msgstr "NetBIOS-NS"
 
 msgid "Netbios Name"
-msgstr ""
+msgstr "NetBIOS-namn"
 
 msgid ""
 "Netbios Name of this NAS. This name must differ from the <i>Workgroup</i> "
@@ -8207,25 +8207,25 @@ msgid ""
 msgstr ""
 
 msgid "Netcat Active Side"
-msgstr ""
+msgstr "Aktiv Netcat-sida"
 
 msgid "Netcat Active Side Connect Address"
-msgstr ""
+msgstr "Anslutningsadress för aktiv Netcat-sida"
 
 msgid "Netcat Active Side Listen Address"
-msgstr ""
+msgstr "Lyssningsadress för aktiv Netcat-sida"
 
 msgid "Netcat Active Side Max Port"
-msgstr ""
+msgstr "Högsta port för aktiv Netcat-sida"
 
 msgid "Netcat Active Side Min Port"
-msgstr ""
+msgstr "Lägsta port för aktiv Netcat-sida"
 
 msgid "Netmask"
-msgstr ""
+msgstr "Nätmask"
 
 msgid "Netwait IP List"
-msgstr ""
+msgstr "Netwait-IP-lista"
 
 msgid "Network"
 msgstr "Nätverk"
@@ -8345,7 +8345,7 @@ msgid "Next Run"
 msgstr "Nästa körning"
 
 msgid "Nic to attach:"
-msgstr ""
+msgstr "Nätverkskort att ansluta:"
 
 msgid "No"
 msgstr ""
@@ -8424,10 +8424,10 @@ msgid "No updates available."
 msgstr "Inga uppdateringar är tillgängliga."
 
 msgid "No, continue with import"
-msgstr ""
+msgstr "Nej, fortsätt med importen"
 
 msgid "Nobind"
-msgstr ""
+msgstr "Nobind"
 
 msgid "Nodes CARP states do not agree."
 msgstr "Nodernas CARP-tillstånd stämmer inte överens."
@@ -8447,7 +8447,7 @@ msgid ""
 msgstr ""
 
 msgid "Not Available"
-msgstr ""
+msgstr "Inte tillgänglig"
 
 msgid "Notes"
 msgstr "Anteckningar"
@@ -8462,7 +8462,7 @@ msgid "Notes or identifiers about the theme."
 msgstr "Anteckningar eller identifierare för temat."
 
 msgid "Notice"
-msgstr ""
+msgstr "Meddelande"
 
 msgid "Nov"
 msgstr ""
@@ -8577,28 +8577,28 @@ msgid ""
 msgstr ""
 
 msgid "Numeric value for the number of PTYs available to the jail."
-msgstr ""
+msgstr "Numeriskt värde för antalet PTY:er som är tillgängliga för jail-miljön."
 
 msgid "Numeric value to set the file descriptor table size."
-msgstr ""
+msgstr "Numeriskt värde för att ange filbeskrivartabellens storlek."
 
 msgid "OAuth Advanced Options"
-msgstr ""
+msgstr "Avancerade OAuth-alternativ"
 
 msgid "OAuth Client ID"
-msgstr ""
+msgstr "OAuth-klient-ID"
 
 msgid "OAuth Client Secret"
-msgstr ""
+msgstr "OAuth-klienthemlighet"
 
 msgid "OK"
 msgstr ""
 
 msgid "OQ % Used"
-msgstr ""
+msgstr "OQ % använt"
 
 msgid "OQ Objs Used"
-msgstr ""
+msgstr "Använda OQ-objekt"
 
 msgid "OS Version:"
 msgstr "OS-version:"
@@ -8649,7 +8649,7 @@ msgid "One or more IP addresses to which to bind the Netdata service."
 msgstr "En eller flera IP-adresser att binda Netdata-tjänsten till."
 
 msgid "One or more data vdevs has disks of different sizes."
-msgstr ""
+msgstr "En eller flera datavdev:ar har diskar av olika storlek."
 
 msgid "One-Time Password (OTP) Digits"
 msgstr "Siffror för engångslösenord (OTP)"
@@ -8687,7 +8687,7 @@ msgid ""
 msgstr ""
 
 msgid "Only override the default if the initiator requires a different block size."
-msgstr ""
+msgstr "Åsidosätt endast standardvärdet om initieraren kräver en annan blockstorlek."
 
 msgid ""
 "Only replicate snapshots that match a  defined creation time. To specify "
@@ -8747,19 +8747,19 @@ msgid "Operation"
 msgstr "Åtgärd"
 
 msgid "Option 1"
-msgstr ""
+msgstr "Alternativ 1"
 
 msgid "Option 2"
-msgstr ""
+msgstr "Alternativ 2"
 
 msgid "Option 2 (disabled)"
-msgstr ""
+msgstr "Alternativ 2 (inaktiverat)"
 
 msgid "Option 3"
-msgstr ""
+msgstr "Alternativ 3"
 
 msgid "Optional description."
-msgstr ""
+msgstr "Valfri beskrivning."
 
 msgid "Optional description. Portals are automatically assigned a numeric group."
 msgstr "Valfri beskrivning. Portaler tilldelas automatiskt en numerisk grupp."
@@ -8768,16 +8768,16 @@ msgid "Optional user-friendly name."
 msgstr "Valfritt användarvänligt namn."
 
 msgid "Optional."
-msgstr ""
+msgstr "Valfritt."
 
 msgid "Optional. Enter a server description."
-msgstr ""
+msgstr "Valfritt. Ange en serverbeskrivning."
 
 msgid "Optional: Add passphrase and recovery key"
 msgstr "Valfritt: Lägg till lösenfras och återställningsnyckel"
 
 msgid "Optional: Choose installation media image"
-msgstr ""
+msgstr "Valfritt: Välj installationsmedieavbildning"
 
 msgid "Options"
 msgstr "Alternativ"
