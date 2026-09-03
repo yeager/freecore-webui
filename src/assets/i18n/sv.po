@@ -8992,7 +8992,7 @@ msgid "Path to the Extent"
 msgstr "Sökväg till extenten"
 
 msgid "Paths"
-msgstr ""
+msgstr "Sökvägar"
 
 msgid ""
 "Pattern of naming custom  snapshots to include in the replication with the "
@@ -9024,10 +9024,10 @@ msgid ""
 msgstr ""
 
 msgid "Peer Secret"
-msgstr ""
+msgstr "Delad hemlighet"
 
 msgid "Peer Secret (Confirm)"
-msgstr ""
+msgstr "Delad hemlighet (bekräfta)"
 
 msgid "Peer User"
 msgstr "Peer-användare"
@@ -9039,7 +9039,7 @@ msgid "Pending Sync"
 msgstr "Väntande synkronisering"
 
 msgid "Pending Upgrade"
-msgstr ""
+msgstr "Väntande uppgradering"
 
 msgid "Perform Reverse DNS Lookups"
 msgstr ""
@@ -9081,16 +9081,16 @@ msgid "Platform"
 msgstr ""
 
 msgid "Please"
-msgstr ""
+msgstr "Vänligen"
 
 msgid "Please accept the terms of service for the given ACME Server."
 msgstr "Godkänn användningsvillkoren för den angivna ACME-servern."
 
 msgid "Please enter your 2FA code"
-msgstr ""
+msgstr "Ange din 2FA-kod"
 
 msgid "Please enter your 2FA code again"
-msgstr ""
+msgstr "Ange din 2FA-kod igen"
 
 msgid "Please enter your password"
 msgstr "Ange lösenordet"
@@ -9099,46 +9099,46 @@ msgid "Please enter your password again"
 msgstr "Ange lösenordet igen"
 
 msgid "Please enter your username"
-msgstr ""
+msgstr "Ange ditt användarnamn"
 
 msgid "Please enter your username again"
-msgstr ""
+msgstr "Ange ditt användarnamn igen"
 
 msgid "Please make sure to select a file"
-msgstr ""
+msgstr "Kontrollera att du väljer en fil"
 
 msgid "Please select a valid SSH Connection"
 msgstr "Välj en giltig SSH-anslutning"
 
 msgid "Please select a valid path"
-msgstr ""
+msgstr "Välj en giltig sökväg"
 
 msgid "Please wait"
-msgstr ""
+msgstr "Vänta"
 
 msgid "Plugin"
-msgstr ""
+msgstr "Insticksmodul"
 
 msgid "Plugin "
-msgstr ""
+msgstr "Insticksmodul "
 
 msgid "Plugin Installed Successfully"
-msgstr ""
+msgstr "Insticksmodulen installerades"
 
 msgid "Plugin Name"
-msgstr ""
+msgstr "Insticksmodulens namn"
 
 msgid "Plugin Update Failed"
 msgstr "Uppdatering av insticksprogram misslyckades"
 
 msgid "Plugin Updated"
-msgstr ""
+msgstr "Insticksmodulen uppdaterades"
 
 msgid "Plugin installed successfully"
-msgstr ""
+msgstr "Insticksmodulen installerades"
 
 msgid "Plugins"
-msgstr ""
+msgstr "Insticksmoduler"
 
 msgid "Pool"
 msgstr "Pool"
@@ -9216,16 +9216,16 @@ msgid "Post-script"
 msgstr ""
 
 msgid "Power"
-msgstr ""
+msgstr "Ström"
 
 msgid "Power Mode"
-msgstr ""
+msgstr "Energiläge"
 
 msgid "Power Off"
-msgstr ""
+msgstr "Stäng av"
 
 msgid "Power Off UPS"
-msgstr ""
+msgstr "Stäng av UPS"
 
 msgid ""
 "Power of 2 in seconds; cannot be higher than 17 or   lower than <i>Min. "
@@ -9262,7 +9262,7 @@ msgid "Prefer buttons with icons only"
 msgstr ""
 
 msgid "Preferences"
-msgstr ""
+msgstr "Inställningar"
 
 msgid "Preserve"
 msgstr ""
@@ -9305,13 +9305,13 @@ msgid "Previous"
 msgstr "Föregående"
 
 msgid "Primary"
-msgstr ""
+msgstr "Primär"
 
 msgid "Primary Contact"
-msgstr ""
+msgstr "Primär kontakt"
 
 msgid "Primary DNS server."
-msgstr ""
+msgstr "Primär DNS-server."
 
 msgid "Primary Group"
 msgstr "Primär grupp"
@@ -9394,7 +9394,7 @@ msgid ""
 msgstr ""
 
 msgid "Provider"
-msgstr ""
+msgstr "Leverantör"
 
 msgid ""
 "Provides a plugin interface for Winbind to use varying backends to store  "
@@ -9446,7 +9446,7 @@ msgid "Quota warning alert at, %"
 msgstr "Kvotvarning vid, %"
 
 msgid "REFRESH INDEX"
-msgstr ""
+msgstr "UPPDATERA INDEX"
 
 msgid "REGISTER"
 msgstr ""
@@ -9513,16 +9513,16 @@ msgid "Read ACL"
 msgstr "Läs ACL"
 
 msgid "Read Attributes"
-msgstr ""
+msgstr "Läs attribut"
 
 msgid "Read Data"
-msgstr ""
+msgstr "Läs data"
 
 msgid "Read Errors"
-msgstr ""
+msgstr "Läs fel"
 
 msgid "Read Named Attributes"
-msgstr ""
+msgstr "Läs namngivna attribut"
 
 msgid "Read Only"
 msgstr "Skrivskyddad"
@@ -9531,13 +9531,13 @@ msgid "Read Only Access"
 msgstr "Skrivskyddad åtkomst"
 
 msgid "Read and Write"
-msgstr ""
+msgstr "Läs och skriv"
 
 msgid "Read-Only"
-msgstr ""
+msgstr "Skrivskyddad"
 
 msgid "Read-only"
-msgstr ""
+msgstr "Skrivskyddad"
 
 msgid "Read/Write"
 msgstr "Läs/skriv"
@@ -9546,7 +9546,7 @@ msgid "Read/Write Access"
 msgstr "Läs-/skrivåtkomst"
 
 msgid "Readonly"
-msgstr ""
+msgstr "Skrivskyddad"
 
 msgid "Realm"
 msgstr "Realm"
@@ -9576,7 +9576,7 @@ msgid ""
 msgstr ""
 
 msgid "Reconnect"
-msgstr ""
+msgstr "Återanslut"
 
 msgid ""
 "Record AFP service messages up to the specified log level in the system "
@@ -9697,13 +9697,13 @@ msgid "Remove"
 msgstr "Ta bort"
 
 msgid "Remove Additional Path"
-msgstr ""
+msgstr "Ta bort ytterligare sökväg"
 
 msgid "Remove Disk"
 msgstr "Ta bort disk"
 
 msgid "Remove Keep Flag"
-msgstr ""
+msgstr "Ta bort behåll-flaggan"
 
 msgid "Remove Recovery Key"
 msgstr "Ta bort återställningsnyckel"
@@ -9712,10 +9712,10 @@ msgid "Remove disk "
 msgstr "Ta bort disk "
 
 msgid "Remove file?"
-msgstr ""
+msgstr "Ta bort filen?"
 
 msgid "Remove passphrase"
-msgstr ""
+msgstr "Ta bort lösenfras"
 
 msgid "Remove the ACL and permissions from child datasets of the current dataset"
 msgstr "Ta bort ACL och behörigheter från underordnade datamängder till den aktuella datamängden"
@@ -9734,7 +9734,7 @@ msgid ""
 msgstr ""
 
 msgid "Rename"
-msgstr ""
+msgstr "Byt namn"
 
 msgid "Renew"
 msgstr ""
@@ -9763,7 +9763,7 @@ msgid "Repeat Vdev"
 msgstr ""
 
 msgid "Replace"
-msgstr ""
+msgstr "Ersätt"
 
 msgid "Replace Disk"
 msgstr "Ersätt disk"
@@ -10057,16 +10057,16 @@ msgid "Run As User"
 msgstr "Kör som användare"
 
 msgid "Run Automatically"
-msgstr ""
+msgstr "Kör automatiskt"
 
 msgid "Run Now"
-msgstr ""
+msgstr "Kör nu"
 
 msgid "Run On a Schedule"
 msgstr "Kör enligt ett schema"
 
 msgid "Run Once"
-msgstr ""
+msgstr "Kör en gång"
 
 msgid ""
 "Run commands in a clean environment. The current environment is discarded "
@@ -10085,7 +10085,7 @@ msgid "Run this cloud sync now?"
 msgstr "Köra denna molnsynkronisering nu?"
 
 msgid "Run this job now?"
-msgstr ""
+msgstr "Köra detta jobb nu?"
 
 msgid "Run this rsync now?"
 msgstr "Köra denna rsync nu?"
