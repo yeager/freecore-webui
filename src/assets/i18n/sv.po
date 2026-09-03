@@ -9480,10 +9480,10 @@ msgid ""
 msgstr "Generera slumpmässigt en krypteringsnyckel för att skydda denna datamängd. Om funktionen inaktiveras måste krypteringsnyckeln definieras manuellt.<br> VARNING: krypteringsnyckeln är det enda sättet att dekryptera informationen som lagras i denna datamängd. Förvara krypteringsnyckeln på en säker plats."
 
 msgid "Range High"
-msgstr ""
+msgstr "Övre intervallgräns"
 
 msgid "Range Low"
-msgstr ""
+msgstr "Nedre intervallgräns"
 
 msgid ""
 "Range Low and Range High set the range of UID/GID numbers which this  IDMap "
@@ -9492,19 +9492,19 @@ msgid ""
 msgstr ""
 
 msgid "Range Size"
-msgstr ""
+msgstr "Intervallstorlek"
 
 msgid "Raw File"
-msgstr ""
+msgstr "Raw-fil"
 
 msgid "Raw filesize"
-msgstr ""
+msgstr "Raw-filstorlek"
 
 msgid "Re-Open"
-msgstr ""
+msgstr "Öppna igen"
 
 msgid "Re-Open All Alerts"
-msgstr ""
+msgstr "Öppna alla larm igen"
 
 msgid "Read"
 msgstr "Läs"
@@ -9558,7 +9558,7 @@ msgid "Rebuild Directory Service Cache"
 msgstr "Bygg om cache för katalogtjänst"
 
 msgid "Recommendation"
-msgstr ""
+msgstr "Rekommendation"
 
 msgid "Recommended block size based on pool topology:"
 msgstr "Rekommenderad blockstorlek baserad på pooltopologi:"
@@ -9589,7 +9589,7 @@ msgid ""
 msgstr ""
 
 msgid "Record Size"
-msgstr ""
+msgstr "Poststorlek"
 
 msgid "Recovery Key"
 msgstr "Återställningsnyckel"
@@ -9598,7 +9598,7 @@ msgid "Recovery Key for Pool "
 msgstr "Återställningsnyckel för pool "
 
 msgid "Recursive"
-msgstr ""
+msgstr "Rekursiv"
 
 msgid "Red"
 msgstr ""
@@ -9621,10 +9621,10 @@ msgid "Refresh Token"
 msgstr "Uppdateringstoken"
 
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 msgid "Region Name"
-msgstr ""
+msgstr "Regionnamn"
 
 msgid ""
 "Region name - optional <a "
@@ -9633,22 +9633,22 @@ msgid ""
 msgstr ""
 
 msgid "Release"
-msgstr ""
+msgstr "Utgåva"
 
 msgid "Release Notes"
-msgstr ""
+msgstr "Versionsinformation"
 
 msgid "Reload now"
-msgstr ""
+msgstr "Läs in igen nu"
 
 msgid "Reload the page"
-msgstr ""
+msgstr "Läs in sidan igen"
 
 msgid "Reload the page for the license to take effect."
 msgstr "Läs in sidan igen för att licensen ska börja gälla."
 
 msgid "Remaining"
-msgstr ""
+msgstr "Återstående"
 
 msgid "Remote"
 msgstr "Fjärr"
@@ -9657,7 +9657,7 @@ msgid "Remote Encryption"
 msgstr "Fjärrkryptering"
 
 msgid "Remote Graphite Server Hostname"
-msgstr ""
+msgstr "Värdnamn för fjärransluten Graphite-server"
 
 msgid "Remote Host"
 msgstr "Fjärrvärd"
@@ -9743,7 +9743,7 @@ msgid "Renew Certificate Days"
 msgstr "Förnya certifikat, dagar"
 
 msgid "Renew Secret"
-msgstr ""
+msgstr "Förnya hemlighet"
 
 msgid "Renew Static Key"
 msgstr "Förnya statisk nyckel"
@@ -9754,13 +9754,13 @@ msgid ""
 msgstr ""
 
 msgid "Repeat"
-msgstr ""
+msgstr "Upprepa"
 
 msgid "Repeat Data VDev"
-msgstr ""
+msgstr "Upprepa datavdev"
 
 msgid "Repeat Vdev"
-msgstr ""
+msgstr "Upprepa vdev"
 
 msgid "Replace"
 msgstr "Ersätt"
@@ -9781,10 +9781,10 @@ msgid "Replicate <i>"
 msgstr ""
 
 msgid "Replicate Custom Snapshots"
-msgstr ""
+msgstr "Replikera anpassade ögonblicksbilder"
 
 msgid "Replicate Specific Snapshots"
-msgstr ""
+msgstr "Replikera specifika ögonblicksbilder"
 
 msgid ""
 "Replicate all child dataset snapshots. When  set, <b>Exclude Child "
@@ -9839,7 +9839,7 @@ msgid "Reports"
 msgstr "Rapporter"
 
 msgid "Require IDENT Authentication"
-msgstr ""
+msgstr "Kräv IDENT-autentisering"
 
 msgid "Require Kerberos for NFSv4"
 msgstr "Kräv Kerberos för NFSv4"
@@ -9923,19 +9923,19 @@ msgid ""
 msgstr ""
 
 msgid "Resilver Priority"
-msgstr ""
+msgstr "Resilver-prioritet"
 
 msgid "Resilvering"
-msgstr ""
+msgstr "Resilvering"
 
 msgid "Resilvering Status"
-msgstr ""
+msgstr "Resilveringsstatus"
 
 msgid "Resilvering pool: "
 msgstr "Resilverar pool: "
 
 msgid "Resolution"
-msgstr ""
+msgstr "Upplösning"
 
 msgid "Restart"
 msgstr "Starta om"
@@ -9980,7 +9980,7 @@ msgid "Restore default"
 msgstr "Återställ standardvärde"
 
 msgid "Restrict PAM"
-msgstr ""
+msgstr "Begränsa PAM"
 
 msgid ""
 "Restrict share visibility to users with read or write access to the share. "
@@ -9992,7 +9992,7 @@ msgid "Retrieving Key"
 msgstr "Hämtar nyckel"
 
 msgid "Retro Logo"
-msgstr ""
+msgstr "Retro-logotyp"
 
 msgid "Return to pool list"
 msgstr "Återgå till poollistan"
@@ -10003,22 +10003,22 @@ msgid ""
 msgstr ""
 
 msgid "Revert CHANGES"
-msgstr ""
+msgstr "ÅTERSTÄLL ÄNDRINGAR"
 
 msgid "Revert Network Interface Changes"
 msgstr "Återställ ändringar av nätverksgränssnitt"
 
 msgid "Revert branding back to FreeNAS"
-msgstr ""
+msgstr "Återställ profilering till FreeNAS"
 
 msgid "Revert interface changes? All changes that are being tested will be lost."
-msgstr ""
+msgstr "Återställa gränssnittsändringarna? Alla ändringar som testas går förlorade."
 
 msgid "Rights"
-msgstr ""
+msgstr "Rättigheter"
 
 msgid "Rollback"
-msgstr ""
+msgstr "Återställning"
 
 msgid "Room"
 msgstr ""
@@ -10039,10 +10039,10 @@ msgid "Root node is not a valid value"
 msgstr "Rotnoden är inte ett giltigt värde"
 
 msgid "Rotation Rate"
-msgstr ""
+msgstr "Rotationshastighet"
 
 msgid "Rotation Rate (RPM)"
-msgstr ""
+msgstr "Rotationshastighet (varv/min)"
 
 msgid "Routing Key"
 msgstr "Routingnyckel"
@@ -10103,13 +10103,13 @@ msgid "S.M.A.R.T. Test"
 msgstr "S.M.A.R.T.-test"
 
 msgid "S.M.A.R.T. Tests"
-msgstr ""
+msgstr "S.M.A.R.T.-tester"
 
 msgid "S.M.A.R.T. extra options"
-msgstr ""
+msgstr "Extra alternativ för S.M.A.R.T."
 
 msgid "S3 Configuration Options"
-msgstr ""
+msgstr "S3-konfigurationsalternativ"
 
 msgid "SAVE"
 msgstr "SPARA"
@@ -10145,7 +10145,7 @@ msgid "SID"
 msgstr ""
 
 msgid "SIGNUP"
-msgstr ""
+msgstr "REGISTRERA DIG"
 
 msgid "SMB"
 msgstr "SMB"
@@ -10213,7 +10213,7 @@ msgid "SSL"
 msgstr "SSL"
 
 msgid "SSL (Implicit TLS)"
-msgstr ""
+msgstr "SSL (implicit TLS)"
 
 msgid "SSSD Compat"
 msgstr ""
