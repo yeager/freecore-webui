@@ -2580,7 +2580,7 @@ msgid "CAs"
 msgstr "CA:er"
 
 msgid "CC"
-msgstr ""
+msgstr "Kopia"
 
 msgid "CD-ROM"
 msgstr "CD-ROM"
