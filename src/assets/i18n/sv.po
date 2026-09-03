@@ -370,7 +370,7 @@ msgid ""
 msgstr ""
 
 msgid "<b>Current Version:</b> "
-msgstr ""
+msgstr "<b>Aktuell version:</b> "
 
 msgid ""
 "<b>MOVE</b>: After files are <i><u>copied</u></i> from the source to the "
@@ -2816,7 +2816,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose your language."
-msgstr ""
+msgstr "Välj språk."
 
 msgid ""
 "Choosing a preset configuration for the share  locks in several "
@@ -3184,10 +3184,10 @@ msgid "Connections"
 msgstr "Anslutningar"
 
 msgid "Console"
-msgstr ""
+msgstr "Konsol"
 
 msgid "Console Keyboard Map"
-msgstr ""
+msgstr "Konsoltangentbordslayout"
 
 msgid "Console Port"
 msgstr "Konsolport"
@@ -4382,7 +4382,7 @@ msgid "EDIT"
 msgstr "REDIGERA"
 
 msgid "ENTER LICENSE"
-msgstr ""
+msgstr "ANGE LICENS"
 
 msgid "ERROR: Not Enough Memory"
 msgstr "FEL: Inte tillräckligt med minne"
@@ -4559,7 +4559,7 @@ msgid "Enable SMTP configuration"
 msgstr ""
 
 msgid "Enable Serial Console"
-msgstr ""
+msgstr "Aktivera seriekonsol"
 
 msgid "Enable Service"
 msgstr "Aktivera tjänst"
@@ -7345,7 +7345,7 @@ msgid "Language"
 msgstr "Språk"
 
 msgid "Language code"
-msgstr ""
+msgstr "Språkkod"
 
 msgid "Last Scrub Run on"
 msgstr "Senaste skrubbning kördes den"
@@ -7521,28 +7521,28 @@ msgid "Log"
 msgstr "Logg"
 
 msgid "Log In to GMail"
-msgstr ""
+msgstr "Logga in på GMail"
 
 msgid "Log Level"
-msgstr ""
+msgstr "Loggnivå"
 
 msgid "Log Out"
 msgstr "Logga ut"
 
 msgid "Log VDev"
-msgstr ""
+msgstr "Logg-vdev"
 
 msgid "Log in"
-msgstr ""
+msgstr "Logga in"
 
 msgid "Log in as Root with Password"
-msgstr ""
+msgstr "Logga in som root med lösenord"
 
 msgid "Log mountd(8) requests"
-msgstr ""
+msgstr "Logga mountd(8)-begäranden"
 
 msgid "Log rpc.statd(8) and rpc.lockd(8)"
-msgstr ""
+msgstr "Logga rpc.statd(8) och rpc.lockd(8)"
 
 msgid "Logging Level"
 msgstr "Loggnivå"
@@ -7592,7 +7592,7 @@ msgid "MOTD Banner"
 msgstr ""
 
 msgid "MSDOSFS locale"
-msgstr ""
+msgstr "MSDOSFS-språkversion"
 
 msgid "MTU"
 msgstr ""
@@ -7745,7 +7745,7 @@ msgid "Maximum connections"
 msgstr ""
 
 msgid "Maximum number of SysV message queues."
-msgstr ""
+msgstr "Största antal SysV-meddelandeköer."
 
 msgid "Maximum number of connections to this module. <i>0</i>  is unlimited."
 msgstr ""
@@ -8601,7 +8601,7 @@ msgid "OQ Objs Used"
 msgstr ""
 
 msgid "OS Version:"
-msgstr ""
+msgstr "OS-version:"
 
 msgid "Object Quota"
 msgstr ""
@@ -8640,10 +8640,10 @@ msgid "On"
 msgstr ""
 
 msgid "On a Different System"
-msgstr ""
+msgstr "På ett annat system"
 
 msgid "On this System"
-msgstr ""
+msgstr "På detta system"
 
 msgid "One or more IP addresses to which to bind the Netdata service."
 msgstr ""
@@ -8741,7 +8741,7 @@ msgid ""
 msgstr ""
 
 msgid "Operating System"
-msgstr ""
+msgstr "Operativsystem"
 
 msgid "Operation"
 msgstr ""
@@ -9183,7 +9183,7 @@ msgid "Port"
 msgstr "Port"
 
 msgid "Port number on the remote system to use for the SSH  connection."
-msgstr ""
+msgstr "Portnummer på fjärrsystemet att använda för SSH-anslutningen."
 
 msgid "Port or Hostname"
 msgstr "Port eller värdnamn"
@@ -9645,7 +9645,7 @@ msgid "Reload the page"
 msgstr ""
 
 msgid "Reload the page for the license to take effect."
-msgstr ""
+msgstr "Läs in sidan igen för att licensen ska börja gälla."
 
 msgid "Remaining"
 msgstr ""
@@ -9812,10 +9812,10 @@ msgid "Replication Tasks Limit"
 msgstr "Gräns för replikeringsuppgifter"
 
 msgid "Report CPU Usage in Percentage"
-msgstr ""
+msgstr "Rapportera CPU-användning i procent"
 
 msgid "Report CPU usage in percent"
-msgstr ""
+msgstr "Rapportera CPU-användning i procent"
 
 msgid ""
 "Report history is cleared when <i>Graph Age</i> or <i>Graph Points</i> are "
@@ -9914,7 +9914,7 @@ msgid "Reset to Defaults"
 msgstr ""
 
 msgid "Resetting system configuration to default settings. The system will restart."
-msgstr ""
+msgstr "Återställer systemkonfigurationen till standardinställningarna. Systemet startas om."
 
 msgid ""
 "Resident set size in bytes. See <a "
@@ -10130,10 +10130,10 @@ msgid "SEND TEST ALERT"
 msgstr ""
 
 msgid "SFTP Log Facility"
-msgstr ""
+msgstr "SFTP-loggfunktion"
 
 msgid "SFTP Log Level"
-msgstr ""
+msgstr "SFTP-loggnivå"
 
 msgid "SFU"
 msgstr ""
@@ -10264,7 +10264,7 @@ msgid "Save Encryption Options"
 msgstr ""
 
 msgid "Save License"
-msgstr ""
+msgstr "Spara licens"
 
 msgid "Save Network Interface Changes"
 msgstr ""
@@ -10515,7 +10515,7 @@ msgid "Select Existing zvol"
 msgstr ""
 
 msgid "Select Groups Cached by this System"
-msgstr ""
+msgstr "Välj grupper som cachelagras av detta system"
 
 msgid ""
 "Select IP addresses to listen to for NFS requests. Leave empty for NFS to "
@@ -10523,7 +10523,7 @@ msgid ""
 msgstr ""
 
 msgid "Select Users Cached by this System"
-msgstr ""
+msgstr "Välj användare som cachelagras av detta system"
 
 msgid "Select VM wizard type"
 msgstr ""
@@ -10547,7 +10547,7 @@ msgid "Select a keyboard layout."
 msgstr ""
 
 msgid "Select a language from the drop-down menu."
-msgstr ""
+msgstr "Välj ett språk i rullgardinsmenyn."
 
 msgid "Select a physical interface to associate with the VM."
 msgstr ""
@@ -10611,7 +10611,7 @@ msgid ""
 msgstr ""
 
 msgid "Select a stream mode if system is to be used for streaming."
-msgstr ""
+msgstr "Välj ett strömningsläge om systemet ska användas för strömning."
 
 msgid "Select a time zone."
 msgstr ""
@@ -10819,7 +10819,7 @@ msgid "Select the physical interface to associate with the VM."
 msgstr ""
 
 msgid "Select the pool to contain the system dataset."
-msgstr ""
+msgstr "Välj poolen som ska innehålla systemdatamängden."
 
 msgid "Select the pre-defined S3 bucket to use."
 msgstr ""
@@ -10846,7 +10846,7 @@ msgid ""
 msgstr ""
 
 msgid "Select the shell to use for local and SSH logins."
-msgstr ""
+msgstr "Välj skalet som ska användas för lokala inloggningar och SSH-inloggningar."
 
 msgid ""
 "Select the type of LDAP server to use. This can be the        LDAP server "
@@ -10962,7 +10962,7 @@ msgid "Serial Port"
 msgstr ""
 
 msgid "Serial Shell"
-msgstr ""
+msgstr "Serieskal"
 
 msgid "Serial Speed"
 msgstr ""
@@ -11062,7 +11062,7 @@ msgid ""
 msgstr ""
 
 msgid "Set for the UPS to power off after shutting down the system."
-msgstr ""
+msgstr "Ange att UPS:en ska stängas av efter att systemet har stängts av."
 
 msgid ""
 "Set for the default configuration to listen on all interfaces using the "
@@ -11111,7 +11111,7 @@ msgid ""
 msgstr ""
 
 msgid "Set system production state and optionally send initial debug."
-msgstr ""
+msgstr "Ange systemets produktionsstatus och skicka valfritt inledande felsökningsinformation."
 
 msgid ""
 "Set the default VNET interface. Only takes effect when <i>VNET</i> is set. "
@@ -11311,7 +11311,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to boot a debug kernel after the next system  reboot."
-msgstr ""
+msgstr "Aktivera för att starta en felsökningskärna efter nästa systemomstart."
 
 msgid "Set to confirm detaching the pool."
 msgstr ""
@@ -11445,7 +11445,7 @@ msgid ""
 msgstr ""
 
 msgid "Set to log attempts to join the domain to /var/log/messages."
-msgstr ""
+msgstr "Aktivera för att logga försök att gå med i domänen till /var/log/messages."
 
 msgid ""
 "Set to log authentication failures in <i>/var/log/messages</i> instead of "
@@ -11557,7 +11557,7 @@ msgid "Set to start the VM automatically on boot."
 msgstr ""
 
 msgid "Set to start this VM when the system boots."
-msgstr ""
+msgstr "Aktivera för att starta denna virtuella dator när systemet startar."
 
 msgid "Set to store the encryption key in the TrueNAS database."
 msgstr ""
@@ -11642,7 +11642,7 @@ msgid ""
 msgstr ""
 
 msgid "Set when network devices need to send files to the system."
-msgstr ""
+msgstr "Aktivera när nätverksenheter behöver skicka filer till systemet."
 
 msgid "Set when using Xen as the iSCSI initiator."
 msgstr ""
@@ -11754,7 +11754,7 @@ msgid "Sharing Platform"
 msgstr ""
 
 msgid "Shell"
-msgstr ""
+msgstr "Skal"
 
 msgid "Short Description"
 msgstr ""
@@ -11787,13 +11787,13 @@ msgid "Show All Users"
 msgstr ""
 
 msgid "Show Console Messages"
-msgstr ""
+msgstr "Visa konsolmeddelanden"
 
 msgid "Show Extra Columns"
 msgstr ""
 
 msgid "Show Text Console without Password Prompt"
-msgstr ""
+msgstr "Visa textkonsol utan lösenordsfråga"
 
 msgid "Show Tracebacks in Case of Fatal Error"
 msgstr ""
@@ -11834,7 +11834,7 @@ msgid "Shut down"
 msgstr ""
 
 msgid "Shut down the system?"
-msgstr ""
+msgstr "Stänga av systemet?"
 
 msgid "Shutdown"
 msgstr ""
@@ -12353,7 +12353,7 @@ msgid "System Time Zone:"
 msgstr "Systemets tidszon:"
 
 msgid "System domain name, like <i>example.com</i>"
-msgstr ""
+msgstr "Systemets domännamn, till exempel <i>example.com</i>"
 
 msgid ""
 "System failed to save configuration settings. Check the network connection. "
@@ -12363,7 +12363,7 @@ msgid ""
 msgstr ""
 
 msgid "System host time to synchronize the time between jail and host."
-msgstr ""
+msgstr "Systemvärdens tid för att synkronisera tiden mellan jail-miljön och värden."
 
 msgid "System hostname."
 msgstr "Systemets värdnamn."
@@ -12856,7 +12856,7 @@ msgid "The member interface to configure."
 msgstr ""
 
 msgid "The message to show when a user logs in with SSH."
-msgstr ""
+msgstr "Meddelandet som ska visas när en användare loggar in med SSH."
 
 msgid ""
 "The minimum polling interval, in seconds, as a power of 2.  For example, "
@@ -13250,7 +13250,7 @@ msgid "This geli-encrypted pool failed to decrypt."
 msgstr ""
 
 msgid "This is a production system"
-msgstr ""
+msgstr "Detta är ett produktionssystem"
 
 msgid ""
 "This is an unofficial plugin not produced or supported by iXsystems. "
@@ -13294,7 +13294,7 @@ msgid "This process continues in the background after closing this dialog."
 msgstr ""
 
 msgid "This system will restart when the update completes."
-msgstr ""
+msgstr "Systemet startas om när uppdateringen är klar."
 
 msgid "This type of VDEV requires at least "
 msgstr ""
