@@ -3642,7 +3642,7 @@ msgid "Deactivate the recovery key for this pool?"
 msgstr "Inaktivera återställningsnyckeln för poolen?"
 
 msgid "Debug"
-msgstr ""
+msgstr "Felsökning"
 
 msgid "Debug could not be downloaded."
 msgstr ""
@@ -7416,7 +7416,7 @@ msgid "Libdefaults Auxiliary Parameters"
 msgstr ""
 
 msgid "License"
-msgstr ""
+msgstr "Licens"
 
 msgid "License Information"
 msgstr ""
