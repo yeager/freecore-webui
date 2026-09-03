@@ -16600,7 +16600,7 @@ msgid "click here"
 msgstr "klicka här"
 
 msgid "close"
-msgstr ""
+msgstr "stäng"
 
 msgid "comment"
 msgstr ""
