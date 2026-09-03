@@ -601,7 +601,7 @@ msgid ""
 msgstr ""
 
 msgid "<strong>Dataset:</strong> "
-msgstr ""
+msgstr "<strong>Datamängd:</strong> "
 
 msgid ""
 "A User Access Token for <a href=\"https://developer.box.com/\"  "
@@ -2912,7 +2912,7 @@ msgid "Clone Boot Environment"
 msgstr "Klona startmiljö"
 
 msgid "Clone to New Dataset"
-msgstr ""
+msgstr "Klona till ny datamängd"
 
 msgid "Close"
 msgstr "Stäng"
@@ -3558,7 +3558,7 @@ msgid "Data Encipherment"
 msgstr ""
 
 msgid "Data Quota"
-msgstr ""
+msgstr "Datakvot"
 
 msgid "Data VDevs"
 msgstr ""
@@ -5109,7 +5109,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter a unique name for the dataset."
-msgstr ""
+msgstr "Ange ett unikt namn för datamängden."
 
 msgid ""
 "Enter a user to associate with this service. Keeping the default is "
@@ -5238,7 +5238,7 @@ msgid "Enter any notes about the jail."
 msgstr "Ange eventuella anteckningar om jail-miljön."
 
 msgid "Enter any notes about this dataset."
-msgstr ""
+msgstr "Ange eventuella anteckningar om denna datamängd."
 
 msgid "Enter comments about the jail."
 msgstr "Ange kommentarer om jail-miljön."
@@ -6865,13 +6865,13 @@ msgid "In KiBs or greater. A default of <i>0 KiB</i> means unlimited. "
 msgstr ""
 
 msgid "Include Dataset Properties"
-msgstr ""
+msgstr "Inkludera datamängdsegenskaper"
 
 msgid "Include Password Secret Seed"
 msgstr "Inkludera hemligt lösenordsfrö"
 
 msgid "Include dataset properties with the replicated  snapshots."
-msgstr ""
+msgstr "Inkludera datamängdsegenskaper med de replikerade ögonblicksbilderna."
 
 msgid ""
 "Including the Password Secret Seed allows using this              "
@@ -7046,7 +7046,7 @@ msgid "Invalid credentials. Please try again."
 msgstr ""
 
 msgid "Invalid dataset."
-msgstr ""
+msgstr "Ogiltig datamängd."
 
 msgid "Invalid format or character."
 msgstr ""
@@ -7500,7 +7500,7 @@ msgid "Lock"
 msgstr "Lås"
 
 msgid "Lock Dataset "
-msgstr ""
+msgstr "Lås datamängd "
 
 msgid "Lock Pool"
 msgstr "Lås pool"
@@ -7509,13 +7509,13 @@ msgid "Lock User"
 msgstr "Lås användare"
 
 msgid "Lock dataset "
-msgstr ""
+msgstr "Lås datamängd "
 
 msgid "Locking Dataset"
 msgstr "Låser datauppsättning"
 
 msgid "Locking dataset "
-msgstr ""
+msgstr "Låser datamängd "
 
 msgid "Log"
 msgstr "Logg"
@@ -8604,7 +8604,7 @@ msgid "OS Version:"
 msgstr "OS-version:"
 
 msgid "Object Quota"
-msgstr ""
+msgstr "Objektkvot"
 
 msgid "Objects Used"
 msgstr ""
@@ -9380,7 +9380,7 @@ msgid "Prohibits writes to this share."
 msgstr ""
 
 msgid "Promote Dataset"
-msgstr ""
+msgstr "Befordra datamängd"
 
 msgid "Properties Exclude"
 msgstr ""
@@ -9434,13 +9434,13 @@ msgid ""
 msgstr ""
 
 msgid "Quota for this dataset"
-msgstr ""
+msgstr "Kvot för denna datamängd"
 
 msgid "Quota for this dataset and all children"
-msgstr ""
+msgstr "Kvot för denna datamängd och alla underordnade"
 
 msgid "Quota size is too small, enter a value of 1 GiB or larger."
-msgstr ""
+msgstr "Kvotstorleken är för liten; ange ett värde på minst 1 GiB."
 
 msgid "Quota warning alert at, %"
 msgstr "Kvotvarning vid, %"
@@ -9561,7 +9561,7 @@ msgid "Recommendation"
 msgstr ""
 
 msgid "Recommended block size based on pool topology:"
-msgstr ""
+msgstr "Rekommenderad blockstorlek baserad på pooltopologi:"
 
 msgid ""
 "Recommended when <i>Max. Poll</i> is greater   than 10. Only use on "
@@ -9700,7 +9700,7 @@ msgid "Remove Additional Path"
 msgstr ""
 
 msgid "Remove Disk"
-msgstr ""
+msgstr "Ta bort disk"
 
 msgid "Remove Keep Flag"
 msgstr ""
@@ -9709,7 +9709,7 @@ msgid "Remove Recovery Key"
 msgstr "Ta bort återställningsnyckel"
 
 msgid "Remove disk "
-msgstr ""
+msgstr "Ta bort disk "
 
 msgid "Remove file?"
 msgstr ""
@@ -9718,7 +9718,7 @@ msgid "Remove passphrase"
 msgstr ""
 
 msgid "Remove the ACL and permissions from child datasets of the current dataset"
-msgstr ""
+msgstr "Ta bort ACL och behörigheter från underordnade datamängder till den aktuella datamängden"
 
 msgid ""
 "Remove the existing API key and generate a new random key. A dialog shows "
@@ -9766,16 +9766,16 @@ msgid "Replace"
 msgstr ""
 
 msgid "Replace Disk"
-msgstr ""
+msgstr "Ersätt disk"
 
 msgid "Replacing Disk"
-msgstr ""
+msgstr "Ersätter disk"
 
 msgid "Replacing disk "
-msgstr ""
+msgstr "Ersätter disk "
 
 msgid "Replacing disk..."
-msgstr ""
+msgstr "Ersätter disk ..."
 
 msgid "Replicate <i>"
 msgstr ""
@@ -9855,10 +9855,10 @@ msgid ""
 msgstr ""
 
 msgid "Reserved space for this dataset"
-msgstr ""
+msgstr "Reserverat utrymme för denna datamängd"
 
 msgid "Reserved space for this dataset and all children"
-msgstr ""
+msgstr "Reserverat utrymme för denna datamängd och alla underordnade"
 
 msgid "Reset All Preferences to Default"
 msgstr ""
@@ -9876,7 +9876,7 @@ msgid "Reset Keys"
 msgstr ""
 
 msgid "Reset Keys for Pool "
-msgstr ""
+msgstr "Återställ nycklar för pool "
 
 msgid "Reset Layout"
 msgstr ""
@@ -9932,7 +9932,7 @@ msgid "Resilvering Status"
 msgstr ""
 
 msgid "Resilvering pool: "
-msgstr ""
+msgstr "Resilverar pool: "
 
 msgid "Resolution"
 msgstr ""
@@ -9995,7 +9995,7 @@ msgid "Retro Logo"
 msgstr ""
 
 msgid "Return to pool list"
-msgstr ""
+msgstr "Återgå till poollistan"
 
 msgid ""
 "Reveal <i>tun</i> devices for the jail with an individual devfs ruleset. "
@@ -10030,10 +10030,10 @@ msgid "Root Password"
 msgstr "Root-lösenord"
 
 msgid "Root dataset ACL cannot be edited."
-msgstr ""
+msgstr "ACL för rotdatamängden kan inte redigeras."
 
 msgid "Root dataset permissions cannot be edited."
-msgstr ""
+msgstr "Behörigheter för rotdatamängden kan inte redigeras."
 
 msgid "Root node is not a valid value"
 msgstr ""
@@ -10273,7 +10273,7 @@ msgid "Save Pending Snapshots"
 msgstr ""
 
 msgid "Save Pool Options"
-msgstr ""
+msgstr "Spara poolalternativ"
 
 msgid "Save Without Restarting"
 msgstr ""
@@ -10303,7 +10303,7 @@ msgid "Saving Permissions..."
 msgstr ""
 
 msgid "Saving Pool Options..."
-msgstr ""
+msgstr "Sparar poolalternativ ..."
 
 msgid "Scan This QR Code"
 msgstr ""
@@ -10509,10 +10509,10 @@ msgid "Select Configuration File"
 msgstr ""
 
 msgid "Select Disk Type"
-msgstr ""
+msgstr "Välj disktyp"
 
 msgid "Select Existing zvol"
-msgstr ""
+msgstr "Välj befintlig zvolym"
 
 msgid "Select Groups Cached by this System"
 msgstr "Välj grupper som cachelagras av detta system"
@@ -10535,10 +10535,10 @@ msgid ""
 msgstr ""
 
 msgid "Select a dataset for the new zvol."
-msgstr ""
+msgstr "Välj en datamängd för den nya zvolymen."
 
 msgid "Select a dataset or zvol."
-msgstr ""
+msgstr "Välj en datamängd eller zvolym."
 
 msgid "Select a key before decrypting the disks."
 msgstr "Välj en nyckel innan diskarna dekrypteras."
@@ -10553,10 +10553,10 @@ msgid "Select a physical interface to associate with the VM."
 msgstr ""
 
 msgid "Select a pool to import."
-msgstr ""
+msgstr "Välj en pool att importera."
 
 msgid "Select a pool, dataset, or zvol."
-msgstr ""
+msgstr "Välj en pool, datamängd eller zvolym."
 
 msgid "Select a power management profile from the menu."
 msgstr ""
@@ -10667,7 +10667,7 @@ msgid ""
 msgstr ""
 
 msgid "Select desired disk type."
-msgstr ""
+msgstr "Välj önskad disktyp."
 
 msgid ""
 "Select interfaces for SSH to listen on. Leave all options unselected for "
@@ -10691,10 +10691,10 @@ msgid ""
 msgstr ""
 
 msgid "Select pool to import"
-msgstr ""
+msgstr "Välj pool att importera"
 
 msgid "Select pool, dataset, or directory to share."
-msgstr ""
+msgstr "Välj pool, datamängd eller katalog att dela."
 
 msgid ""
 "Select the <a href=\"https://www.freebsd.org/cgi/man.cgi?query=syslog\" "
@@ -10854,7 +10854,7 @@ msgid ""
 msgstr ""
 
 msgid "Select the type that matches the type of client accessing the dataset."
-msgstr ""
+msgstr "Välj den typ som motsvarar typen av klient som har åtkomst till datamängden."
 
 msgid ""
 "Select the unformatted disk, controller, zvol, or zvol snapshot. Select "
@@ -10968,10 +10968,10 @@ msgid "Serial Speed"
 msgstr ""
 
 msgid "Serial number for this disk."
-msgstr ""
+msgstr "Serienummer för denna disk."
 
 msgid "Serial numbers of each disk being edited."
-msgstr ""
+msgstr "Serienummer för varje disk som redigeras."
 
 msgid ""
 "Serial or USB port connected to the UPS. To  automatically detect and "
@@ -11020,7 +11020,7 @@ msgid "Services"
 msgstr "Tjänster"
 
 msgid "Set ACL for this dataset"
-msgstr ""
+msgstr "Ange ACL för denna datamängd"
 
 msgid "Set Frequency"
 msgstr ""
