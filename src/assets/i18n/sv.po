@@ -769,7 +769,7 @@ msgid "Accent"
 msgstr ""
 
 msgid "Access"
-msgstr ""
+msgstr "Åtkomst"
 
 msgid "Access Based Share Enumeration"
 msgstr ""
@@ -927,7 +927,7 @@ msgid "Add Cloud Credential"
 msgstr ""
 
 msgid "Add Dataset"
-msgstr ""
+msgstr "Lägg till datamängd"
 
 msgid "Add Group"
 msgstr ""
@@ -3806,7 +3806,7 @@ msgid "Delete Children"
 msgstr ""
 
 msgid "Delete Dataset"
-msgstr ""
+msgstr "Ta bort datamängd"
 
 msgid "Delete Device"
 msgstr ""
@@ -8827,7 +8827,7 @@ msgid "Overview"
 msgstr ""
 
 msgid "Owner"
-msgstr ""
+msgstr "Ägare"
 
 msgid "Owner of the jail. Can be any string."
 msgstr ""
@@ -8951,7 +8951,7 @@ msgid "Paste value above or choose a file."
 msgstr ""
 
 msgid "Path"
-msgstr ""
+msgstr "Sökväg"
 
 msgid "Path Length"
 msgstr ""
@@ -9480,7 +9480,7 @@ msgid "Re-Open All Alerts"
 msgstr ""
 
 msgid "Read"
-msgstr ""
+msgstr "Läs"
 
 msgid "Read ACL"
 msgstr ""
@@ -9498,7 +9498,7 @@ msgid "Read Named Attributes"
 msgstr ""
 
 msgid "Read Only"
-msgstr ""
+msgstr "Skrivskyddad"
 
 msgid "Read Only Access"
 msgstr ""
@@ -9513,7 +9513,7 @@ msgid "Read-only"
 msgstr ""
 
 msgid "Read/Write"
-msgstr ""
+msgstr "Läs/skriv"
 
 msgid "Read/Write Access"
 msgstr ""
@@ -14538,7 +14538,7 @@ msgid "Would you like to add a Service Principal Name (SPN) now?"
 msgstr ""
 
 msgid "Write"
-msgstr ""
+msgstr "Skriv"
 
 msgid "Write ACL"
 msgstr ""
@@ -14601,7 +14601,7 @@ msgid "You have successfully added credentials."
 msgstr ""
 
 msgid "ZFS"
-msgstr ""
+msgstr "ZFS"
 
 msgid "ZFS Cache"
 msgstr ""
