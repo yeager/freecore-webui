@@ -2181,7 +2181,7 @@ msgid "CA"
 msgstr "CA"
 
 msgid "CA ID"
-msgstr ""
+msgstr "CA-ID"
 
 msgid ""
 "CAUTION: Once Two-Factor Authentication is enabled, a One-Time Password "
@@ -3397,7 +3397,7 @@ msgid "Creating..."
 msgstr ""
 
 msgid "Credential"
-msgstr ""
+msgstr "Autentiseringsuppgift"
 
 msgid "Credentials"
 msgstr "Inloggningsuppgifter"
@@ -7194,22 +7194,22 @@ msgid "Keep this Boot Environment?"
 msgstr ""
 
 msgid "Kerberos Keytab"
-msgstr ""
+msgstr "Kerberos-nyckeltabell"
 
 msgid "Kerberos Keytabs"
-msgstr ""
+msgstr "Kerberos-nyckeltabeller"
 
 msgid "Kerberos Principal"
-msgstr ""
+msgstr "Kerberos-huvudnamn"
 
 msgid "Kerberos Realm"
-msgstr ""
+msgstr "Kerberos-domän"
 
 msgid "Kerberos Realms"
-msgstr ""
+msgstr "Kerberos-domäner"
 
 msgid "Kerberos Settings"
-msgstr ""
+msgstr "Kerberos-inställningar"
 
 msgid "Kernel"
 msgstr ""
@@ -7261,25 +7261,25 @@ msgid "LAGG Settings"
 msgstr ""
 
 msgid "LDAP"
-msgstr ""
+msgstr "LDAP"
 
 msgid "LDAP - Primary Domain"
-msgstr ""
+msgstr "LDAP – primär domän"
 
 msgid "LDAP Domain"
-msgstr ""
+msgstr "LDAP-domän"
 
 msgid "LDAP Realm"
-msgstr ""
+msgstr "LDAP-domän"
 
 msgid "LDAP Server"
-msgstr ""
+msgstr "LDAP-server"
 
 msgid "LDAP User DN"
-msgstr ""
+msgstr "LDAP-användar-DN"
 
 msgid "LDAP User DN Password"
-msgstr ""
+msgstr "Lösenord för LDAP-användar-DN"
 
 msgid ""
 "LDAP server hostnames or IP addresses. Separate entries with an empty "
@@ -7295,7 +7295,7 @@ msgid ""
 msgstr ""
 
 msgid "LDAP timeout"
-msgstr ""
+msgstr "LDAP-timeout"
 
 msgid ""
 "LDAP timeout in seconds. Increase this value if a Kerberos ticket timeout "
