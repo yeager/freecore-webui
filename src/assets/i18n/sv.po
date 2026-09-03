@@ -7575,7 +7575,7 @@ msgid ""
 msgstr ""
 
 msgid "Lowest Usage:"
-msgstr ""
+msgstr "Lägsta användning:"
 
 msgid ""
 "Lowest port number of the  active side listen address that is open to "
@@ -7583,13 +7583,13 @@ msgid ""
 msgstr ""
 
 msgid "MAC Address"
-msgstr ""
+msgstr "MAC-adress"
 
 msgid "MANAGE"
 msgstr "HANTERA"
 
 msgid "MOTD Banner"
-msgstr ""
+msgstr "MOTD-banderoll"
 
 msgid "MSDOSFS locale"
 msgstr "MSDOSFS-språkversion"
@@ -7598,10 +7598,10 @@ msgid "MTU"
 msgstr ""
 
 msgid "Mac Address"
-msgstr ""
+msgstr "MAC-adress"
 
 msgid "Magenta"
-msgstr ""
+msgstr "Magenta"
 
 msgid "Mail Server Port"
 msgstr "E-postserverport"
@@ -7649,10 +7649,10 @@ msgid "Manual Update"
 msgstr "Manuell uppdatering"
 
 msgid "Manycast"
-msgstr ""
+msgstr "Manycast"
 
 msgid "Map ACLs"
-msgstr ""
+msgstr "Mappa ACL:er"
 
 msgid "Mapall Group"
 msgstr "Mappa alla till grupp"
@@ -7673,7 +7673,7 @@ msgid "Mask"
 msgstr ""
 
 msgid "Masquerade Address"
-msgstr ""
+msgstr "Maskeringsadress"
 
 msgid ""
 "Matching the fixed size of data, as in a database, may result in better "
@@ -7689,22 +7689,22 @@ msgid ""
 msgstr ""
 
 msgid "Mattermost username."
-msgstr ""
+msgstr "Användarnamn för Mattermost."
 
 msgid "Max Connections"
-msgstr ""
+msgstr "Maximalt antal anslutningar"
 
 msgid "Max Poll"
-msgstr ""
+msgstr "Maximal avsökningsfrekvens"
 
 msgid "Max. Poll"
-msgstr ""
+msgstr "Max. avsökningsfrekvens"
 
 msgid "Maximum"
-msgstr ""
+msgstr "Maximalt"
 
 msgid "Maximum Passive Port"
-msgstr ""
+msgstr "Högsta passiva port"
 
 msgid "Maximum SysV message queue size in bytes for the jail."
 msgstr "Största storlek i byte på SysV-meddelandekö för jail-miljön."
@@ -7718,7 +7718,7 @@ msgid ""
 msgstr ""
 
 msgid "Maximum Upload Parts"
-msgstr ""
+msgstr "Högsta antal uppladdningsdelar"
 
 msgid ""
 "Maximum amount of CPU time a jail process may consume. The kernel "
@@ -7739,16 +7739,16 @@ msgid ""
 msgstr ""
 
 msgid "Maximum client idle time in seconds before client is disconnected."
-msgstr ""
+msgstr "Längsta klientinaktivitet i sekunder innan klienten kopplas från."
 
 msgid "Maximum connections"
-msgstr ""
+msgstr "Maximalt antal anslutningar"
 
 msgid "Maximum number of SysV message queues."
 msgstr "Största antal SysV-meddelandeköer."
 
 msgid "Maximum number of connections to this module. <i>0</i>  is unlimited."
-msgstr ""
+msgstr "Högsta antal anslutningar till denna modul. <i>0</i> betyder obegränsat."
 
 msgid "Maximum number of processes for the jail."
 msgstr "Största antal processer för jail-miljön."
@@ -7762,7 +7762,7 @@ msgid ""
 msgstr ""
 
 msgid "Maximum swap size is 99 GiB"
-msgstr ""
+msgstr "Högsta swapstorlek är 99 GiB"
 
 msgid "Maximum swap space to use for the jail."
 msgstr "Största växlingsutrymme som jail-miljön får använda."
@@ -7778,13 +7778,13 @@ msgid "May"
 msgstr ""
 
 msgid "Media Subtype"
-msgstr ""
+msgstr "Medieundertyp"
 
 msgid "Media Type"
-msgstr ""
+msgstr "Medietyp"
 
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 msgid "Member Disk"
 msgstr "Medlemsdisk"
@@ -7822,10 +7822,10 @@ msgid "Memory:"
 msgstr "Minne:"
 
 msgid "Menu Label"
-msgstr ""
+msgstr "Menyetikett"
 
 msgid "Menu Swatch"
-msgstr ""
+msgstr "Menyfärgruta"
 
 msgid "Message verbosity level in the replication  task log."
 msgstr "Detaljnivå för meddelanden i replikeringsuppgiftens logg."
@@ -7840,7 +7840,7 @@ msgid "Metadata VDev"
 msgstr "Metadata-vdev"
 
 msgid "Method"
-msgstr ""
+msgstr "Metod"
 
 msgid ""
 "Method of snapshot transfer:<ul>  <li><i>SSH</i> is supported by most "
@@ -7857,13 +7857,13 @@ msgid ""
 msgstr ""
 
 msgid "Metrics"
-msgstr ""
+msgstr "Mätvärden"
 
 msgid "MiB"
 msgstr ""
 
 msgid "MiB. Units  smaller than MiB are not allowed."
-msgstr ""
+msgstr "MiB. Enheter mindre än MiB tillåts inte."
 
 msgid "Microsoft Account"
 msgstr "Microsoft-konto"
@@ -7876,34 +7876,34 @@ msgid ""
 msgstr ""
 
 msgid "Min Poll"
-msgstr ""
+msgstr "Minimal avsökningsfrekvens"
 
 msgid "Min. Poll"
-msgstr ""
+msgstr "Min. avsökningsfrekvens"
 
 msgid "Mini Fab Buttons"
-msgstr ""
+msgstr "Små FAB-knappar"
 
 msgid "Minimum"
-msgstr ""
+msgstr "Minimalt"
 
 msgid "Minimum Passive Port"
-msgstr ""
+msgstr "Lägsta passiva port"
 
 msgid "Minimum size is 1 MiB"
-msgstr ""
+msgstr "Minsta storlek är 1 MiB"
 
 msgid "Minimum value is "
-msgstr ""
+msgstr "Minsta värde är "
 
 msgid "Mintues"
-msgstr ""
+msgstr "Minuter"
 
 msgid "Mintues/Hours/Days"
-msgstr ""
+msgstr "Minuter/timmar/dagar"
 
 msgid "Minute"
-msgstr ""
+msgstr "Minut"
 
 msgid ""
 "Minutes of inactivity before the drive enters standby mode. This <a "
@@ -7920,7 +7920,7 @@ msgid "Mirror"
 msgstr "Spegel"
 
 msgid "Mixing disks of different sizes in a vdev is not allowed."
-msgstr ""
+msgstr "Det är inte tillåtet att blanda diskar av olika storlek i en vdev."
 
 msgid "Mode"
 msgstr "Läge"
@@ -7932,7 +7932,7 @@ msgid "Model:"
 msgstr "Modell:"
 
 msgid "Modify"
-msgstr ""
+msgstr "Ändra"
 
 msgid ""
 "Modify for disks that understand <a "
@@ -7959,16 +7959,16 @@ msgid "Month"
 msgstr ""
 
 msgid "Monthly"
-msgstr ""
+msgstr "Varje månad"
 
 msgid "Months"
-msgstr ""
+msgstr "Månader"
 
 msgid "More Options"
-msgstr ""
+msgstr "Fler alternativ"
 
 msgid "More info..."
-msgstr ""
+msgstr "Mer information …"
 
 msgid "Mount Points of "
 msgstr "Monteringspunkter för "
@@ -8009,7 +8009,7 @@ msgid ""
 msgstr ""
 
 msgid "Multipath Name"
-msgstr ""
+msgstr "Namn på multipath"
 
 msgid "Multipaths"
 msgstr ""
