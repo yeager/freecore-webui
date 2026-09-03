@@ -16588,7 +16588,7 @@ msgid "below to confirm."
 msgstr "nedan för att bekräfta."
 
 msgid "boot"
-msgstr ""
+msgstr "uppstart"
 
 msgid "bytes."
 msgstr "byte."
