@@ -1176,7 +1176,7 @@ msgid "Advanced Remote Options"
 msgstr ""
 
 msgid "Advanced Replication Creation"
-msgstr ""
+msgstr "Avancerat skapande av replikering"
 
 msgid "Advanced Settings"
 msgstr ""
@@ -1679,10 +1679,10 @@ msgid "Are you sure you want to stop connecting to the TrueCommand Cloud Service
 msgstr "Vill du verkligen sluta ansluta till TrueCommand Cloud Service?"
 
 msgid "Are you sure you want to sync from peer?"
-msgstr ""
+msgstr "Vill du verkligen synkronisera från peer?"
 
 msgid "Are you sure you want to sync to peer?"
-msgstr ""
+msgstr "Vill du verkligen synkronisera till peer?"
 
 msgid "Are you sure?"
 msgstr ""
@@ -2226,7 +2226,7 @@ msgid "CONNECT"
 msgstr ""
 
 msgid "COPY TO CLIPBOARD"
-msgstr ""
+msgstr "KOPIERA TILL URKLIPP"
 
 msgid "CPU"
 msgstr "CPU"
@@ -3150,7 +3150,7 @@ msgid "Connect Timeout"
 msgstr ""
 
 msgid "Connect to TrueCommand Cloud"
-msgstr ""
+msgstr "Anslut till TrueCommand Cloud"
 
 msgid "Connected Initiators"
 msgstr ""
@@ -3256,7 +3256,7 @@ msgid "Copies"
 msgstr ""
 
 msgid "Copy and Paste"
-msgstr ""
+msgstr "Kopiera och klistra in"
 
 msgid "Cores"
 msgstr ""
@@ -3977,16 +3977,16 @@ msgid "Descriptive identifier for this certificate."
 msgstr "Beskrivande identifierare för detta certifikat."
 
 msgid "Descriptive name for the replication."
-msgstr ""
+msgstr "Beskrivande namn för replikeringen."
 
 msgid "Destination"
 msgstr "Mål"
 
 msgid "Destination Dataset Read-only Policy"
-msgstr ""
+msgstr "Skrivskyddsprincip för måldatamängd"
 
 msgid "Destination Location"
-msgstr ""
+msgstr "Målplats"
 
 msgid "Destination Path"
 msgstr "Målsökväg"
@@ -3995,7 +3995,7 @@ msgid "Destination Snapshot Lifetime"
 msgstr "Livslängd för målögonblicksbild"
 
 msgid "Destination Snapshots Are Not Related to Replicated Snapshots"
-msgstr ""
+msgstr "Målögonblicksbilder är inte relaterade till replikerade ögonblicksbilder"
 
 msgid ""
 "Destination dataset does not contain any snapshots that can be used as a "
@@ -4370,7 +4370,7 @@ msgid "Dry Run"
 msgstr ""
 
 msgid "Dry Run Cloud Sync Task"
-msgstr ""
+msgstr "Testkör molnsynkroniseringsuppgift"
 
 msgid "E-mail address that will receive SNMP service messages."
 msgstr "E-postadress som ska ta emot SNMP-tjänstmeddelanden."
@@ -4925,7 +4925,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter a description of the Cloud Sync Task."
-msgstr ""
+msgstr "Ange en beskrivning av molnsynkroniseringsuppgiften."
 
 msgid "Enter a description of the cron job."
 msgstr ""
@@ -5991,7 +5991,7 @@ msgid "Follow Symlinks"
 msgstr ""
 
 msgid "Follow symlinks and copy the items to which they link."
-msgstr ""
+msgstr "Följ symboliska länkar och kopiera de objekt som de länkar till."
 
 msgid "Force"
 msgstr ""
@@ -7431,7 +7431,7 @@ msgid "Lifetime"
 msgstr ""
 
 msgid "Limit replication speed to this number of  bytes per second."
-msgstr ""
+msgstr "Begränsa replikeringshastigheten till detta antal byte per sekund."
 
 msgid "Link"
 msgstr ""
@@ -7446,7 +7446,7 @@ msgid "Linux"
 msgstr ""
 
 msgid "List any dataset properties that will not be included with the replication."
-msgstr ""
+msgstr "Lista datamängdsegenskaper som inte ska ingå i replikeringen."
 
 msgid ""
 "List of files and directories to exclude from sync.<br>  Separate entries "
@@ -7467,7 +7467,7 @@ msgid "Listen"
 msgstr ""
 
 msgid "Load Previous Replication Task"
-msgstr ""
+msgstr "Läs in tidigare replikeringsuppgift"
 
 msgid "Load colors from existing theme"
 msgstr ""
@@ -7607,7 +7607,7 @@ msgid "Mail Server Port"
 msgstr ""
 
 msgid "Make Destination Dataset Read-only?"
-msgstr ""
+msgstr "Göra måldatamängden skrivskyddad?"
 
 msgid "Manage"
 msgstr ""
@@ -7754,7 +7754,7 @@ msgid "Maximum number of processes for the jail."
 msgstr "Största antal processer för jail-miljön."
 
 msgid "Maximum number of replication tasks being executed simultaneously."
-msgstr ""
+msgstr "Största antal replikeringsuppgifter som körs samtidigt."
 
 msgid ""
 "Maximum number of simultaneous connections permitted via AFP. The default "
@@ -7828,7 +7828,7 @@ msgid "Menu Swatch"
 msgstr ""
 
 msgid "Message verbosity level in the replication  task log."
-msgstr ""
+msgstr "Detaljnivå för meddelanden i replikeringsuppgiftens logg."
 
 msgid "Metadata"
 msgstr ""
@@ -8151,7 +8151,7 @@ msgid "Name of this SSH connection. SSH connection names  must be unique."
 msgstr ""
 
 msgid "Name of this replication configuration."
-msgstr ""
+msgstr "Namn på denna replikeringskonfiguration."
 
 msgid "Name or Naming Schema is required. Only one field can be used at a time."
 msgstr ""
@@ -8717,7 +8717,7 @@ msgid ""
 msgstr ""
 
 msgid "Open Source"
-msgstr ""
+msgstr "Öppen källkod"
 
 msgid "Open TrueCommand User Interface"
 msgstr "Öppna TrueCommands användargränssnitt"
@@ -9036,7 +9036,7 @@ msgid "Pending Network Changes"
 msgstr ""
 
 msgid "Pending Sync"
-msgstr ""
+msgstr "Väntande synkronisering"
 
 msgid "Pending Upgrade"
 msgstr ""
@@ -9800,7 +9800,7 @@ msgid "Replication"
 msgstr "Replikering"
 
 msgid "Replication <i>"
-msgstr ""
+msgstr "Replikering <i>"
 
 msgid "Replication Schedule"
 msgstr "Replikeringsschema"
@@ -10082,13 +10082,13 @@ msgid ""
 msgstr ""
 
 msgid "Run this cloud sync now?"
-msgstr ""
+msgstr "Köra denna molnsynkronisering nu?"
 
 msgid "Run this job now?"
 msgstr ""
 
 msgid "Run this rsync now?"
-msgstr ""
+msgstr "Köra denna rsync nu?"
 
 msgid "Running"
 msgstr ""
@@ -10240,7 +10240,7 @@ msgid "Samba Schema (DEPRECATED - see help text)"
 msgstr ""
 
 msgid "Same as Source"
-msgstr ""
+msgstr "Samma som källa"
 
 msgid "Sat"
 msgstr ""
@@ -10324,10 +10324,10 @@ msgid "Script"
 msgstr ""
 
 msgid "Script to execute after running sync."
-msgstr ""
+msgstr "Skript att köra efter synkroniseringen."
 
 msgid "Script to execute before running sync."
-msgstr ""
+msgstr "Skript att köra före synkroniseringen."
 
 msgid "Scrub"
 msgstr "Scrub"
@@ -11146,7 +11146,7 @@ msgid ""
 msgstr ""
 
 msgid "Set this replication on a schedule or  just once."
-msgstr ""
+msgstr "Schemalägg denna replikering eller kör den bara en gång."
 
 msgid ""
 "Set to <i>1</i> to look for the <b>exec.jail_user</b> in the system <a "
@@ -11502,7 +11502,7 @@ msgid "Set to prevent the zvol from being modified."
 msgstr ""
 
 msgid "Set to prevent users from modifying the <b>Destination</b>."
-msgstr ""
+msgstr "Aktivera för att förhindra att användare ändrar <b>Mål</b>."
 
 msgid "Set to prohibit users from writing to this share."
 msgstr ""
@@ -11571,7 +11571,7 @@ msgid "Set to switch from NFSv3 to NFSv4."
 msgstr ""
 
 msgid "Set to take a snapshot of the dataset before a <i>PUSH</i>."
-msgstr ""
+msgstr "Aktivera för att ta en ögonblicksbild av datamängden före en <i>PUSH</i>."
 
 msgid ""
 "Set to take separate snapshots of the  dataset and each of its child "
@@ -11949,7 +11949,7 @@ msgid "Source"
 msgstr "Källa"
 
 msgid "Source Location"
-msgstr ""
+msgstr "Källplats"
 
 msgid "Space"
 msgstr ""
@@ -12462,7 +12462,7 @@ msgid "Tag"
 msgstr ""
 
 msgid "Take Snapshot"
-msgstr ""
+msgstr "Ta ögonblicksbild"
 
 msgid "Target"
 msgstr ""
@@ -12546,7 +12546,7 @@ msgid "Test Changes"
 msgstr ""
 
 msgid "Test Cloud Sync"
-msgstr ""
+msgstr "Testa molnsynkronisering"
 
 msgid "Test alert sent!"
 msgstr ""
@@ -13428,13 +13428,13 @@ msgid "Transfer"
 msgstr "Överföring"
 
 msgid "Transfer Mode"
-msgstr ""
+msgstr "Överföringsläge"
 
 msgid "Transfer Mode Reset"
-msgstr ""
+msgstr "Återställning av överföringsläge"
 
 msgid "Transfer Mode has been reset to <i>COPY</i>."
-msgstr ""
+msgstr "Överföringsläget har återställts till <i>COPY</i>."
 
 msgid "Transfers"
 msgstr ""
@@ -13460,13 +13460,13 @@ msgid "TrueCommand"
 msgstr ""
 
 msgid "TrueCommand Cloud Service"
-msgstr ""
+msgstr "TrueCommand Cloud Service"
 
 msgid "TrueCommand Cloud Service deregistered"
-msgstr ""
+msgstr "TrueCommand Cloud Service har avregistrerats"
 
 msgid "TrueCommand Cloud Service has been deregistered."
-msgstr ""
+msgstr "TrueCommand Cloud Service har avregistrerats."
 
 msgid "TrueNAS Community Forums"
 msgstr ""
@@ -13609,7 +13609,7 @@ msgid ""
 msgstr ""
 
 msgid "Unique snapshot name. Cannot be used with  a <i>Naming Schema</i>."
-msgstr ""
+msgstr "Unikt namn på ögonblicksbild. Kan inte användas med ett <i>namnschema</i>."
 
 msgid "Unix NSS Info"
 msgstr ""
@@ -13941,7 +13941,7 @@ msgid "Use existing disk image"
 msgstr ""
 
 msgid "Use settings from a saved replication."
-msgstr ""
+msgstr "Använd inställningar från en sparad replikering."
 
 msgid ""
 "Use the <i>Log In to GMail</i> button to obtain the credentials for this "
@@ -14164,7 +14164,7 @@ msgid "VM "
 msgstr ""
 
 msgid "VM Snapshot"
-msgstr ""
+msgstr "Ögonblicksbild av virtuell dator"
 
 msgid "VM Summary"
 msgstr ""
@@ -14173,10 +14173,10 @@ msgid "VM system time. Default is <i>Local</i>."
 msgstr ""
 
 msgid "VMWare Sync"
-msgstr ""
+msgstr "VMWare-synkronisering"
 
 msgid "VMware Sync"
-msgstr ""
+msgstr "VMware-synkronisering"
 
 msgid "VMware-Snapshots"
 msgstr ""
