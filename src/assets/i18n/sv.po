@@ -694,13 +694,13 @@ msgid ""
 msgstr ""
 
 msgid "ACL Entries"
-msgstr ""
+msgstr "ACL-poster"
 
 msgid "ACL Mode"
-msgstr ""
+msgstr "ACL-läge"
 
 msgid "ACL Type"
-msgstr ""
+msgstr "ACL-typ"
 
 msgid "ACL cannot be changed when the Source is the top-level dataset for a pool."
 msgstr ""
@@ -772,10 +772,10 @@ msgid "Access"
 msgstr "Åtkomst"
 
 msgid "Access Based Share Enumeration"
-msgstr ""
+msgstr "Åtkomstbaserad delningsuppräkning"
 
 msgid "Access Control Entries"
-msgstr ""
+msgstr "Åtkomstkontrollposter"
 
 msgid ""
 "Access Control Entry (ACE) user or group. Select a specific <i>User</i> or "
@@ -787,25 +787,25 @@ msgid ""
 msgstr ""
 
 msgid "Access Control List"
-msgstr ""
+msgstr "Åtkomstkontrollista"
 
 msgid "Access ID Key"
-msgstr ""
+msgstr "Åtkomst-ID-nyckel"
 
 msgid "Access Key"
-msgstr ""
+msgstr "Åtkomstnyckel"
 
 msgid "Access Key ID"
-msgstr ""
+msgstr "Åtkomstnyckel-ID"
 
 msgid "Access Key ID for the linked AWS account."
 msgstr ""
 
 msgid "Access Mode"
-msgstr ""
+msgstr "Åtkomstläge"
 
 msgid "Access Token"
-msgstr ""
+msgstr "Åtkomsttoken"
 
 msgid ""
 "Access Token <a href=\"https://api.hubic.com/sandbox/\"  "
@@ -1264,10 +1264,10 @@ msgid "Allow Anonymous Login"
 msgstr "Tillåt anonym inloggning"
 
 msgid "Allow Blocks Larger than 128KB"
-msgstr ""
+msgstr "Tillåt block större än 128 KB"
 
 msgid "Allow Compressed WRITE Records"
-msgstr ""
+msgstr "Tillåt komprimerade WRITE-poster"
 
 msgid "Allow DNS updates"
 msgstr "Tillåt DNS-uppdateringar"
@@ -1291,7 +1291,7 @@ msgid "Allow Local User Login"
 msgstr "Tillåt lokal användarinloggning"
 
 msgid "Allow New Files"
-msgstr ""
+msgstr "Tillåt nya filer"
 
 msgid "Allow Password Authentication"
 msgstr "Tillåt lösenordsautentisering"
@@ -1303,13 +1303,13 @@ msgid "Allow TCP Port Forwarding"
 msgstr "Tillåt vidarebefordran av TCP-portar"
 
 msgid "Allow Taking Empty Snapshots"
-msgstr ""
+msgstr "Tillåt skapande av tomma ögonblicksbilder"
 
 msgid "Allow Transfer Resumption"
 msgstr "Tillåt återupptagande av överföring"
 
 msgid "Allow Trusted Domains"
-msgstr ""
+msgstr "Tillåt betrodda domäner"
 
 msgid ""
 "Allow anonymous FTP logins with access to the  directory specified in "
@@ -1390,7 +1390,7 @@ msgstr ""
 "i en säker nätverksmiljö."
 
 msgid "Allow non-root mount"
-msgstr ""
+msgstr "Tillåt montering som icke-root"
 
 msgid ""
 "Allow or deny access to SYSV IPC message primitives. <br><b>Inherit</b>: "
@@ -1450,7 +1450,7 @@ msgid ""
 msgstr ""
 
 msgid "Allowed Initiators (IQN)"
-msgstr ""
+msgstr "Tillåtna initierare (IQN)"
 
 msgid "Allowed characters: letters, numbers, underscore (_), and dash (-)."
 msgstr ""
@@ -6248,16 +6248,16 @@ msgid "Group"
 msgstr "Grupp"
 
 msgid "Group Bind Path"
-msgstr ""
+msgstr "Bindningssökväg för grupp"
 
 msgid "Group Configuration"
-msgstr ""
+msgstr "Gruppkonfiguration"
 
 msgid "Group Data Quota "
-msgstr ""
+msgstr "Gruppdatakvot "
 
 msgid "Group ID"
-msgstr ""
+msgstr "Grupp-ID"
 
 msgid ""
 "Group ID created in  Authorized Access. Required when the Discovery "
@@ -6268,13 +6268,13 @@ msgid "Group Obj"
 msgstr ""
 
 msgid "Group Object Quota"
-msgstr ""
+msgstr "Gruppobjektkvot"
 
 msgid "Group Quotas"
-msgstr ""
+msgstr "Gruppkvoter"
 
 msgid "Group members"
-msgstr ""
+msgstr "Gruppmedlemmar"
 
 msgid ""
 "Group name cannot begin with a hyphen (<i>-</i>) or contain a space, tab, "
@@ -6286,7 +6286,7 @@ msgid "Group to run as during file transfers to and  from this module."
 msgstr ""
 
 msgid "Group to which this ACL entry applies."
-msgstr ""
+msgstr "Gruppen som denna ACL-post gäller för."
 
 msgid "Groups"
 msgstr "Grupper"
@@ -7917,7 +7917,7 @@ msgid "Mixing disks of different sizes in a vdev is not allowed."
 msgstr ""
 
 msgid "Mode"
-msgstr ""
+msgstr "Läge"
 
 msgid "Model"
 msgstr ""
@@ -8847,7 +8847,7 @@ msgid "Owner"
 msgstr "Ägare"
 
 msgid "Owner of the jail. Can be any string."
-msgstr ""
+msgstr "Ägare till jail. Kan vara valfri sträng."
 
 msgid ""
 "Ownership of all files in the share will  be changed to user "
@@ -14847,7 +14847,7 @@ msgid "gathering info..."
 msgstr ""
 
 msgid "group"
-msgstr ""
+msgstr "grupp"
 
 msgid "group@"
 msgstr ""
@@ -15017,7 +15017,7 @@ msgid "overview"
 msgstr ""
 
 msgid "owner"
-msgstr ""
+msgstr "ägare"
 
 msgid "owner@"
 msgstr ""
