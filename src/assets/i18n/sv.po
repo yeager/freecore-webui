@@ -11875,10 +11875,10 @@ msgid ""
 msgstr ""
 
 msgid "Simple"
-msgstr ""
+msgstr "Enkel"
 
 msgid "Site Name"
-msgstr ""
+msgstr "Webbplatsnamn"
 
 msgid "Size"
 msgstr "Storlek"
@@ -11895,7 +11895,7 @@ msgid "Sleep"
 msgstr ""
 
 msgid "Slide me!"
-msgstr ""
+msgstr "Dra mig!"
 
 msgid "Snapshot"
 msgstr "Ögonblicksbild"
@@ -11940,10 +11940,10 @@ msgid ""
 msgstr ""
 
 msgid "Something went wrong. Please try again."
-msgstr ""
+msgstr "Något gick fel. Försök igen."
 
 msgid "Sort languages by:"
-msgstr ""
+msgstr "Sortera språk efter:"
 
 msgid "Source"
 msgstr "Källa"
@@ -11965,16 +11965,16 @@ msgid ""
 msgstr ""
 
 msgid "Spaces are allowed."
-msgstr ""
+msgstr "Blanksteg är tillåtna."
 
 msgid "Spare VDev"
-msgstr ""
+msgstr "Reserv-vdev"
 
 msgid "Spares"
-msgstr ""
+msgstr "Reservenheter"
 
 msgid "Sparse"
-msgstr ""
+msgstr "Gles"
 
 msgid ""
 "Special Allocation class, used to create Fusion pools. Optional vdev type "
@@ -11995,7 +11995,7 @@ msgid ""
 msgstr ""
 
 msgid "Specify a size and value such as <i>10 GiB</i>."
-msgstr ""
+msgstr "Ange en storlek och ett värde, till exempel <i>10 GiB</i>."
 
 msgid ""
 "Specify any jails this jail depends on. Child jails must already exist "
@@ -12015,7 +12015,7 @@ msgid ""
 msgstr ""
 
 msgid "Specify the PCI device to pass thru (bus#/slot#/fcn#)."
-msgstr ""
+msgstr "Ange PCI-enheten för genomsläpp (bussnr/facknr/funktionsnr)."
 
 msgid ""
 "Specify the message displayed to local login users after authentication. "
@@ -12033,25 +12033,25 @@ msgid ""
 msgstr ""
 
 msgid "Specify the size of the new zvol."
-msgstr ""
+msgstr "Ange storleken på den nya zvolymen."
 
 msgid "Speeds up the initial synchronization   (seconds instead of minutes)."
-msgstr ""
+msgstr "Påskyndar den första synkroniseringen (sekunder i stället för minuter)."
 
 msgid "Speeds up the initial synchronization (seconds instead of minutes)."
-msgstr ""
+msgstr "Påskyndar den första synkroniseringen (sekunder i stället för minuter)."
 
 msgid "Standalone"
-msgstr ""
+msgstr "Fristående"
 
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 msgid "Standard (Secure)"
-msgstr ""
+msgstr "Standard (säker)"
 
 msgid "Standby"
-msgstr ""
+msgstr "Vänteläge"
 
 msgid "Start"
 msgstr "Starta"
@@ -12095,16 +12095,16 @@ msgid ""
 msgstr ""
 
 msgid "Static IPv4 address of the IPMI web interface."
-msgstr ""
+msgstr "Statisk IPv4-adress för IPMI-webbgränssnittet."
 
 msgid "Static Routes"
-msgstr ""
+msgstr "Statiska rutter"
 
 msgid "Stats Per Thread"
-msgstr ""
+msgstr "Statistik per tråd"
 
 msgid "Stats/Settings"
-msgstr ""
+msgstr "Statistik/inställningar"
 
 msgid "Status"
 msgstr "Status"
@@ -12189,25 +12189,25 @@ msgid ""
 msgstr ""
 
 msgid "Stream Compression"
-msgstr ""
+msgstr "Strömkomprimering"
 
 msgid "Stream Mode"
-msgstr ""
+msgstr "Strömläge"
 
 msgid "Streaming Metrics"
-msgstr ""
+msgstr "Mätvärden för dataströmning"
 
 msgid "Strip ACLs"
-msgstr ""
+msgstr "Rensa ACL:er"
 
 msgid "Stripe"
-msgstr ""
+msgstr "Stripe"
 
 msgid "Stripping ACLs"
-msgstr ""
+msgstr "Rensar ACL:er"
 
 msgid "Stripping ACLs..."
-msgstr ""
+msgstr "Rensar ACL:er …"
 
 msgid ""
 "Stripping the ACL resets dataset permissions. This can make data "
@@ -12224,43 +12224,43 @@ msgid "Submit"
 msgstr "Skicka"
 
 msgid "Subnet mask of the IPv4 address."
-msgstr ""
+msgstr "Nätmask för IPv4-adressen."
 
 msgid "Succeeded"
-msgstr ""
+msgstr "Lyckades"
 
 msgid "Success"
 msgstr "Lyckades"
 
 msgid "Successfully Promoted "
-msgstr ""
+msgstr "Befordrade "
 
 msgid "Successfully Upgraded "
-msgstr ""
+msgstr "Uppgraderade "
 
 msgid "Successfully expanded pool "
-msgstr ""
+msgstr "Utökade poolen "
 
 msgid "Successfully exported/disconnected '"
-msgstr ""
+msgstr "Exporterade/kopplade från '"
 
 msgid "Successfully extended vdev "
-msgstr ""
+msgstr "Utökade vdev "
 
 msgid "Successfully replaced disk "
-msgstr ""
+msgstr "Ersatte disken "
 
 msgid "Successfully reset encryption for pool: "
 msgstr "Krypteringen har återställts för pool: "
 
 msgid "Successfully saved proactive support settings."
-msgstr ""
+msgstr "Inställningarna för proaktiv support sparades."
 
 msgid "Successfully updated."
-msgstr ""
+msgstr "Uppdateringen lyckades."
 
 msgid "Suggest Layout"
-msgstr ""
+msgstr "Föreslå layout"
 
 msgid "Sun"
 msgstr ""
@@ -12269,13 +12269,13 @@ msgid "Support"
 msgstr "Support"
 
 msgid "Support >16 groups"
-msgstr ""
+msgstr "Stöd för >16 grupper"
 
 msgid "Swap Size in GiB"
-msgstr ""
+msgstr "Swapstorlek i GiB"
 
 msgid "Switch Train"
-msgstr ""
+msgstr "Byt uppdateringsspår"
 
 msgid "Switch update trains?"
 msgstr ""
