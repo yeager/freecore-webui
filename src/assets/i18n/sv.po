@@ -16905,7 +16905,7 @@ msgid "rpc.statd(8) bind port"
 msgstr "rpc.statd(8)-bindningsport"
 
 msgid "safe"
-msgstr ""
+msgstr "säker"
 
 msgid "seconds"
 msgstr "sekunder"
