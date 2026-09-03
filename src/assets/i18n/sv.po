@@ -821,10 +821,10 @@ msgid ""
 msgstr ""
 
 msgid "Account Key"
-msgstr ""
+msgstr "Kontonyckel"
 
 msgid "Account Name"
-msgstr ""
+msgstr "Kontonamn"
 
 msgid ""
 "Account to be used for guest access. Default is  <i>nobody</i>. The chosen "
@@ -4105,22 +4105,22 @@ msgid "Directory"
 msgstr ""
 
 msgid "Directory Inherit"
-msgstr ""
+msgstr "Katalogärvning"
 
 msgid "Directory Mask"
-msgstr ""
+msgstr "Katalogmask"
 
 msgid "Directory Permissions"
-msgstr ""
+msgstr "Katalogbehörigheter"
 
 msgid "Directory Services"
-msgstr ""
+msgstr "Katalogtjänster"
 
 msgid "Directory Services Monitor"
-msgstr ""
+msgstr "Övervakning av katalogtjänster"
 
 msgid "Directory/Files"
-msgstr ""
+msgstr "Katalog/filer"
 
 msgid "Disable Endpoint Region"
 msgstr "Inaktivera slutpunktsregion"
@@ -4276,10 +4276,10 @@ msgid "Does your business need"
 msgstr ""
 
 msgid "Domain"
-msgstr ""
+msgstr "Domän"
 
 msgid "Domain Account Name"
-msgstr ""
+msgstr "Domänkontonamn"
 
 msgid "Domain Account Password"
 msgstr ""
@@ -4291,7 +4291,7 @@ msgid "Domain Forest Level"
 msgstr ""
 
 msgid "Domain Name"
-msgstr ""
+msgstr "Domännamn"
 
 msgid ""
 "Domain for the user <i>Name</i>. Required when a <i>SID</i> is not entered. "
@@ -7545,7 +7545,7 @@ msgid "Logical Block Size"
 msgstr ""
 
 msgid "Login Attempts"
-msgstr ""
+msgstr "Inloggningsförsök"
 
 msgid "Logs"
 msgstr "Loggar"
