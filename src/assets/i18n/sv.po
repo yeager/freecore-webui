@@ -5525,7 +5525,7 @@ msgid "Enter the pre-Windows 2000 domain name."
 msgstr ""
 
 msgid "Enter the pre-defined S3 bucket to use."
-msgstr "Ange den fördefinierade S3-hink som ska användas."
+msgstr "Ange den fördefinierade S3-bucket som ska användas."
 
 msgid ""
 "Enter the relative distinguished name of the site object in the Active "
@@ -6978,7 +6978,7 @@ msgid "Input"
 msgstr ""
 
 msgid "Input the pre-defined S3 bucket to use."
-msgstr "Ange den fördefinierade S3-hink som ska användas."
+msgstr "Ange den fördefinierade S3-bucket som ska användas."
 
 msgid "Input the pre-defined container to use."
 msgstr ""
