@@ -26,7 +26,7 @@ msgid " KiB."
 msgstr ""
 
 msgid " Plugin"
-msgstr ""
+msgstr " Insticksprogram"
 
 msgid " Service"
 msgstr " Tjänst"
@@ -1113,7 +1113,7 @@ msgid "Address"
 msgstr "Adress"
 
 msgid "Address space limit in bytes for the jail."
-msgstr ""
+msgstr "Gräns för adressutrymme i byte för jail-miljön."
 
 msgid "Addresses"
 msgstr "Adresser"
@@ -1158,7 +1158,7 @@ msgid "Advanced Details"
 msgstr ""
 
 msgid "Advanced Jail Creation"
-msgstr ""
+msgstr "Avancerat skapande av jail-miljö"
 
 msgid "Advanced Mode"
 msgstr ""
@@ -1542,7 +1542,7 @@ msgid ""
 msgstr ""
 
 msgid "Amount of locked memory in bytes for the jail."
-msgstr ""
+msgstr "Mängd låst minne i byte för jail-miljön."
 
 msgid ""
 "An ACL is detected on the selected path but <i>Enable ACL</i> is not "
@@ -2126,7 +2126,7 @@ msgid ""
 msgstr ""
 
 msgid "Browse to the installer image file and click <b>Upload</b>."
-msgstr ""
+msgstr "Bläddra till installationsavbildningen och klicka på <b>Ladda upp</b>."
 
 msgid "Browse to the keytab file to upload."
 msgstr ""
@@ -2563,7 +2563,7 @@ msgid "Choose a device for your report."
 msgstr "Välj en enhet för rapporten."
 
 msgid "Choose a location to store the installer image file."
-msgstr ""
+msgstr "Välj en plats för att lagra installationsavbildningen."
 
 msgid "Choose a metric"
 msgstr ""
@@ -2918,7 +2918,7 @@ msgid "Close"
 msgstr "Stäng"
 
 msgid "Close (return to VM list"
-msgstr ""
+msgstr "Stäng (återgå till listan över virtuella datorer"
 
 msgid "Cloud Credentials"
 msgstr "Molnautentiseringsuppgifter"
@@ -3199,7 +3199,7 @@ msgid "Contact Support"
 msgstr ""
 
 msgid "Container"
-msgstr ""
+msgstr "Container"
 
 msgid "Content Commitment"
 msgstr ""
@@ -3387,10 +3387,10 @@ msgid "Creating"
 msgstr ""
 
 msgid "Creating Jail"
-msgstr ""
+msgstr "Skapar jail-miljö"
 
 msgid "Creating Jail..."
-msgstr ""
+msgstr "Skapar jail-miljö ..."
 
 msgid ""
 "Creating or editing a <i>sysctl</i> immediately updates the Variable to the "
@@ -3809,7 +3809,7 @@ msgid "Delay Updates"
 msgstr ""
 
 msgid "Delay VM Boot Until VNC Connects"
-msgstr ""
+msgstr "Fördröj start av virtuell dator tills VNC ansluter"
 
 msgid ""
 "Delays the start of network services until  pings are returned from the IP "
@@ -3938,7 +3938,7 @@ msgid ""
 msgstr ""
 
 msgid "Describe the VM or its purpose."
-msgstr ""
+msgstr "Beskriv den virtuella datorn eller dess syfte."
 
 msgid "Describe the scrub task."
 msgstr ""
@@ -4273,7 +4273,7 @@ msgid "Do not set this if the Serial Port is disabled."
 msgstr ""
 
 msgid "Docker Host"
-msgstr ""
+msgstr "Docker-värd"
 
 msgid "Does the pool have GELI Encryption from FreeNAS/TrueNAS 11.3 or earlier?"
 msgstr ""
@@ -4589,7 +4589,7 @@ msgid ""
 msgstr ""
 
 msgid "Enable VNC"
-msgstr ""
+msgstr "Aktivera VNC"
 
 msgid ""
 "Enable a VNC (Virtual Network Computing) remote connection. Requires "
@@ -4997,7 +4997,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter a name for the VM."
-msgstr ""
+msgstr "Ange ett namn för den virtuella datorn."
 
 msgid ""
 "Enter a name for the interface. Use the format <samp>lagg<i>X</i></samp>, "
@@ -5041,7 +5041,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter a numeric value for the number of threads the jail can use."
-msgstr ""
+msgstr "Ange ett numeriskt värde för antalet trådar som jail-miljön får använda."
 
 msgid ""
 "Enter a one to three paragraph summary of the issue. Describe the problem "
@@ -5188,7 +5188,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter an alphanumeric name for the virtual machine."
-msgstr ""
+msgstr "Ange ett alfanumeriskt namn för den virtuella datorn."
 
 msgid ""
 "Enter any additional <a "
@@ -5235,13 +5235,13 @@ msgid "Enter any information about this S.M.A.R.T. test."
 msgstr "Ange valfri information om detta S.M.A.R.T.-test."
 
 msgid "Enter any notes about the jail."
-msgstr ""
+msgstr "Ange eventuella anteckningar om jail-miljön."
 
 msgid "Enter any notes about this dataset."
 msgstr ""
 
 msgid "Enter comments about the jail."
-msgstr ""
+msgstr "Ange kommentarer om jail-miljön."
 
 msgid ""
 "Enter either <i>root</i> or another valid <i>username</i>. Inside the jail, "
@@ -6153,7 +6153,7 @@ msgid "General Preferences"
 msgstr ""
 
 msgid "General VM Settings"
-msgstr ""
+msgstr "Allmänna inställningar för virtuell dator"
 
 msgid "Generate Debug File"
 msgstr ""
@@ -6455,7 +6455,7 @@ msgid "Hostname"
 msgstr "Värdnamn"
 
 msgid "Hostname (Virtual)"
-msgstr ""
+msgstr "Värdnamn (virtuellt)"
 
 msgid "Hostname and Domain"
 msgstr ""
@@ -6657,10 +6657,10 @@ msgid "IPv4 interface"
 msgstr ""
 
 msgid "IPv4 interface for the jail."
-msgstr ""
+msgstr "IPv4-gränssnitt för jail-miljön."
 
 msgid "IPv4 netmask for the jail."
-msgstr ""
+msgstr "IPv4-nätmask för jail-miljön."
 
 msgid "IPv6"
 msgstr ""
@@ -6690,10 +6690,10 @@ msgid "IPv6 addresses are not allowed for HA."
 msgstr ""
 
 msgid "IPv6 interface for the jail."
-msgstr ""
+msgstr "IPv6-gränssnitt för jail-miljön."
 
 msgid "IPv6 prefix for the jail."
-msgstr ""
+msgstr "IPv6-prefix för jail-miljön."
 
 msgid "ISNS Servers"
 msgstr ""
@@ -6981,7 +6981,7 @@ msgid "Input the pre-defined S3 bucket to use."
 msgstr "Ange den fördefinierade S3-bucket som ska användas."
 
 msgid "Input the pre-defined container to use."
-msgstr ""
+msgstr "Ange den fördefinierade container som ska användas."
 
 msgid "Install"
 msgstr ""
@@ -6993,7 +6993,7 @@ msgid "Installation Media"
 msgstr ""
 
 msgid "Installing plugin..."
-msgstr ""
+msgstr "Installerar insticksprogram ..."
 
 msgid "Interface"
 msgstr "Gränssnitt"
@@ -7104,10 +7104,10 @@ msgid "JID"
 msgstr ""
 
 msgid "Jail"
-msgstr ""
+msgstr "Jail-miljö"
 
 msgid "Jail <i>"
-msgstr ""
+msgstr "Jail-miljö <i>"
 
 msgid ""
 "Jail CPU affinity. Options are <i>off</i> or a combination of <i>1-4</i>, "
@@ -7115,34 +7115,34 @@ msgid ""
 msgstr ""
 
 msgid "Jail Name"
-msgstr ""
+msgstr "Namn på jail-miljö"
 
 msgid "Jail Port Number"
-msgstr ""
+msgstr "Portnummer för jail-miljö"
 
 msgid "Jail Properties"
-msgstr ""
+msgstr "Egenskaper för jail-miljö"
 
 msgid "Jail Type"
-msgstr ""
+msgstr "Typ av jail-miljö"
 
 msgid "Jail Update"
-msgstr ""
+msgstr "Uppdatering av jail-miljö"
 
 msgid "Jail Update Failed"
-msgstr ""
+msgstr "Uppdatering av jail-miljö misslyckades"
 
 msgid "Jail Updated"
-msgstr ""
+msgstr "Jail-miljön har uppdaterats"
 
 msgid "Jail core dump size in bytes."
-msgstr ""
+msgstr "Storlek på kärndump för jail-miljö i byte."
 
 msgid "Jail data size in bytes."
-msgstr ""
+msgstr "Datastorlek för jail-miljö i byte."
 
 msgid "Jail stack size in bytes."
-msgstr ""
+msgstr "Stackstorlek för jail-miljö i byte."
 
 msgid "Jails"
 msgstr ""
@@ -7707,7 +7707,7 @@ msgid "Maximum Passive Port"
 msgstr ""
 
 msgid "Maximum SysV message queue size in bytes for the jail."
-msgstr ""
+msgstr "Största storlek i byte på SysV-meddelandekö för jail-miljön."
 
 msgid ""
 "Maximum Transmission Unit, the largest protocol data  unit that can be "
@@ -7751,7 +7751,7 @@ msgid "Maximum number of connections to this module. <i>0</i>  is unlimited."
 msgstr ""
 
 msgid "Maximum number of processes for the jail."
-msgstr ""
+msgstr "Största antal processer för jail-miljön."
 
 msgid "Maximum number of replication tasks being executed simultaneously."
 msgstr ""
@@ -7765,7 +7765,7 @@ msgid "Maximum swap size is 99 GiB"
 msgstr ""
 
 msgid "Maximum swap space to use for the jail."
-msgstr ""
+msgstr "Största växlingsutrymme som jail-miljön får använda."
 
 msgid ""
 "Maximum time a graph is stored in months (allowed values are 1-60).  "
@@ -8083,7 +8083,7 @@ msgid "Name"
 msgstr "Namn"
 
 msgid "Name Jail and Choose FreeBSD Release"
-msgstr ""
+msgstr "Namnge jail-miljön och välj FreeBSD-version"
 
 msgid "Name and Method"
 msgstr ""
@@ -8394,7 +8394,7 @@ msgid ""
 msgstr ""
 
 msgid "No interfaces configured with Virtual IP."
-msgstr ""
+msgstr "Inga gränssnitt är konfigurerade med virtuell IP-adress."
 
 msgid "No logs are available for this task."
 msgstr ""
