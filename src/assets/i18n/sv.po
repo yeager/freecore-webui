@@ -141,7 +141,7 @@ msgid " successfully unlocked"
 msgstr ""
 
 msgid " system is powered on and connected to the network."
-msgstr ""
+msgstr " systemet är påslaget och anslutet till nätverket."
 
 msgid " to include all "
 msgstr ""
@@ -150,7 +150,7 @@ msgid " to the latest available patch?"
 msgstr ""
 
 msgid " update successful"
-msgstr ""
+msgstr " uppdateringen lyckades"
 
 msgid " updated."
 msgstr ""
@@ -171,7 +171,7 @@ msgid ""
 msgstr "' är krypterad! Om lösenfrasen för denna krypterade pool har förlorats blir data PERMANENT OÅTERSTÄLLLIGA! Innan du exporterar eller kopplar från krypterade pooler ska du hämta krypteringsnyckeln och eventuell lösenfras och förvara dem säkert."
 
 msgid "'. All data on that pool was destroyed."
-msgstr ""
+msgstr "'. Alla data på den poolen förstördes."
 
 msgid "(24 Hours)"
 msgstr ""
@@ -224,7 +224,7 @@ msgid "2FA"
 msgstr "Tvåfaktorsautentisering"
 
 msgid ": Automatic update check failed. Please check system network settings."
-msgstr ""
+msgstr ": Automatisk kontroll av uppdateringar misslyckades. Kontrollera systemets nätverksinställningar."
 
 msgid "</b> plugin deletes all data and snapshots stored with it."
 msgstr ""
@@ -426,7 +426,7 @@ msgid ""
 msgstr ""
 
 msgid "<b>rsyncd</b> listens on this port."
-msgstr ""
+msgstr "<b>rsyncd</b> lyssnar på denna port."
 
 msgid "<br><b>Warning: Disks cannot be onlined in encrypted pools.</b></br>"
 msgstr ""
@@ -469,7 +469,7 @@ msgid ""
 msgstr ""
 
 msgid "<i>0</i> disables quotas. Specify a maximum allowed space for this dataset."
-msgstr ""
+msgstr "<i>0</i> inaktiverar kvoter. Ange högsta tillåtna utrymme för denna datamängd."
 
 msgid ""
 "<i>0</i> is unlimited. A specified value applies to both this dataset and "
@@ -857,7 +857,7 @@ msgid "Activate KMIP configuration and begin syncing keys with the KMIP server."
 msgstr ""
 
 msgid "Activate this Boot Environment?"
-msgstr ""
+msgstr "Aktivera denna startmiljö?"
 
 msgid "Activate this certificate extension."
 msgstr "Aktivera denna certifikatutökning."
@@ -1332,7 +1332,7 @@ msgid ""
 msgstr ""
 
 msgid "Allow configuring a non-standard port to access the GUI over <i>HTTPS</i>."
-msgstr ""
+msgstr "Tillåt konfigurering av en icke-standardport för åtkomst till gränssnittet via <i>HTTPS</i>."
 
 msgid ""
 "Allow different groups to be configured with different authentication "
@@ -1642,7 +1642,7 @@ msgid "Apply permissions recursively"
 msgstr ""
 
 msgid "Apply permissions recursively to all child datasets of the current dataset."
-msgstr ""
+msgstr "Tillämpa behörigheter rekursivt på alla underordnade datamängder till den aktuella datamängden."
 
 msgid ""
 "Apply permissions recursively to all directories and files in the current "
@@ -2027,16 +2027,16 @@ msgid "Boot"
 msgstr "Start"
 
 msgid "Boot Environment"
-msgstr ""
+msgstr "Startmiljö"
 
 msgid "Boot Environments"
-msgstr ""
+msgstr "Startmiljöer"
 
 msgid "Boot Loader Type"
-msgstr ""
+msgstr "Typ av starthanterare"
 
 msgid "Boot Method"
-msgstr ""
+msgstr "Startmetod"
 
 msgid "Boot Pool Condition"
 msgstr "Startpoolens tillstånd"
@@ -2050,7 +2050,7 @@ msgid ""
 msgstr ""
 
 msgid "Boot environment to be cloned."
-msgstr ""
+msgstr "Startmiljö som ska klonas."
 
 msgid ""
 "Brainpool curves can be more secure, while secp curves can be faster. See "
@@ -2135,7 +2135,7 @@ msgid "Browse to the locally saved configuration file."
 msgstr ""
 
 msgid "Browse to the operating system installer image file."
-msgstr ""
+msgstr "Bläddra till operativsystemets installationsavbildning."
 
 msgid ""
 "Browse to the path to be copied. FreeBSD  file path limits apply. Other "
@@ -2144,7 +2144,7 @@ msgid ""
 msgstr ""
 
 msgid "Browse to the pool or dataset to share."
-msgstr ""
+msgstr "Bläddra till poolen eller datamängden som ska delas."
 
 msgid ""
 "Browse to the pool or dataset to share. Netatalk does not fully support "
@@ -2152,7 +2152,7 @@ msgid ""
 msgstr ""
 
 msgid "Browse to the pool or dataset to store received  data."
-msgstr ""
+msgstr "Bläddra till poolen eller datamängden där mottagna data ska lagras."
 
 msgid "Bucket"
 msgstr ""
@@ -2247,16 +2247,16 @@ msgid "CRL Sign"
 msgstr ""
 
 msgid "CSR exists on this system"
-msgstr ""
+msgstr "CSR finns på detta system"
 
 msgid "CSRs"
 msgstr "CSR:er"
 
 msgid "Cache"
-msgstr ""
+msgstr "Cache"
 
 msgid "Cache VDev"
-msgstr ""
+msgstr "Cache-vdev"
 
 msgid "Caches"
 msgstr ""
@@ -2279,7 +2279,7 @@ msgid "Cannot Edit while HA is Enabled"
 msgstr ""
 
 msgid "Cannot create plugins or jails until a pool is present for storing them."
-msgstr ""
+msgstr "Det går inte att skapa insticksprogram eller jail-miljöer förrän det finns en pool att lagra dem i."
 
 msgid "Cannot edit while HA is enabled."
 msgstr ""
@@ -2391,7 +2391,7 @@ msgid ""
 msgstr ""
 
 msgid "Change log"
-msgstr ""
+msgstr "Ändringslogg"
 
 msgid ""
 "Change the default password to improve system security. The new password "
@@ -2415,7 +2415,7 @@ msgid ""
 msgstr ""
 
 msgid "Changing dataset permission mode can severely affect existing permissions."
-msgstr ""
+msgstr "Ändring av datamängdens behörighetsläge kan allvarligt påverka befintliga behörigheter."
 
 msgid ""
 "Changing to a nightly train is one-way. Changing back to a stable train is "
@@ -2452,7 +2452,7 @@ msgid "Check the box for full upgrade. Leave unchecked to download only."
 msgstr ""
 
 msgid "Check the network connection."
-msgstr ""
+msgstr "Kontrollera nätverksanslutningen."
 
 msgid ""
 "Check the update server daily for                                   any "
@@ -2521,10 +2521,10 @@ msgid "Choose Accent"
 msgstr ""
 
 msgid "Choose Pool for Plugin and Jail Manager"
-msgstr ""
+msgstr "Välj pool för hanteraren av insticksprogram och jail-miljöer"
 
 msgid "Choose Pool for Plugin and Jail Storage"
-msgstr ""
+msgstr "Välj pool för lagring av insticksprogram och jail-miljöer"
 
 msgid "Choose Primary"
 msgstr ""
@@ -2586,10 +2586,10 @@ msgid ""
 msgstr ""
 
 msgid "Choose a pool for plugin and jail storage."
-msgstr ""
+msgstr "Välj en pool för lagring av insticksprogram och jail-miljöer."
 
 msgid "Choose a pool to scrub."
-msgstr ""
+msgstr "Välj en pool att skrubba."
 
 msgid "Choose a preferred theme."
 msgstr ""
@@ -2709,7 +2709,7 @@ msgid "Choose permissions for this rsync module."
 msgstr ""
 
 msgid "Choose the VM operating system type."
-msgstr ""
+msgstr "Välj operativsystemstyp för den virtuella datorn."
 
 msgid "Choose the accent color for the theme."
 msgstr ""
@@ -2743,7 +2743,7 @@ msgid "Choose the primary color for the theme."
 msgstr ""
 
 msgid "Choose the protocol to use when connecting with the remote system."
-msgstr ""
+msgstr "Välj protokollet som ska användas vid anslutning till fjärrsystemet."
 
 msgid ""
 "Choose the root Certificate Authority that was used to sign the Client and "
@@ -2770,7 +2770,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose the speed in bps used by the serial port."
-msgstr ""
+msgstr "Välj hastigheten i bit/s som serieporten använder."
 
 msgid ""
 "Choose the test type. See <a                "
@@ -2782,7 +2782,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose the type of filesystem on the disk."
-msgstr ""
+msgstr "Välj typen av filsystem på disken."
 
 msgid ""
 "Choose the type of interface. <i>Bridge</i> creates a logical link between "
