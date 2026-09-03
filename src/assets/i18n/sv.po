@@ -4002,10 +4002,10 @@ msgid "Destroy data on this pool?"
 msgstr ""
 
 msgid "Detach"
-msgstr ""
+msgstr "Koppla från"
 
 msgid "Detach Disk"
-msgstr ""
+msgstr "Koppla från disk"
 
 msgid "Detach disk "
 msgstr ""
@@ -4198,37 +4198,37 @@ msgid "Disk"
 msgstr "Disk"
 
 msgid "Disk Details"
-msgstr ""
+msgstr "Diskdetaljer"
 
 msgid "Disk Import Aborted: Log Summary"
-msgstr ""
+msgstr "Diskimport avbröts: loggsammanfattning"
 
 msgid "Disk Imported: Log Summary"
-msgstr ""
+msgstr "Disk importerad: loggsammanfattning"
 
 msgid "Disk Reports"
-msgstr ""
+msgstr "Diskrapporter"
 
 msgid "Disk Selection Required"
-msgstr ""
+msgstr "Diskval krävs"
 
 msgid "Disk Size"
-msgstr ""
+msgstr "Diskstorlek"
 
 msgid "Disk Temperatures Not Available"
-msgstr ""
+msgstr "Disktemperaturer är inte tillgängliga"
 
 msgid "Disk Type"
-msgstr ""
+msgstr "Disktyp"
 
 msgid "Disk Wiped successfully"
-msgstr ""
+msgstr "Disken raderades"
 
 msgid "Disk sector size"
-msgstr ""
+msgstr "Disksektorstorlek"
 
 msgid "Disk to wipe."
-msgstr ""
+msgstr "Disk att radera."
 
 msgid "Disks"
 msgstr "Diskar"
@@ -4306,37 +4306,37 @@ msgid "Download"
 msgstr "Hämta"
 
 msgid "Download Client Config"
-msgstr ""
+msgstr "Hämta klientkonfiguration"
 
 msgid "Download Encryption Key"
 msgstr "Hämta krypteringsnyckel"
 
 msgid "Download Key"
-msgstr ""
+msgstr "Hämta nyckel"
 
 msgid "Download Logs"
-msgstr ""
+msgstr "Hämta loggar"
 
 msgid "Download Private Key"
-msgstr ""
+msgstr "Hämta privat nyckel"
 
 msgid "Download Public Key"
-msgstr ""
+msgstr "Hämta offentlig nyckel"
 
 msgid "Download Recovery Key"
 msgstr "Hämta återställningsnyckel"
 
 msgid "Download SSH Public Key"
-msgstr ""
+msgstr "Hämta offentlig SSH-nyckel"
 
 msgid "Download Sucessful"
-msgstr ""
+msgstr "Hämtningen lyckades"
 
 msgid "Download Update"
-msgstr ""
+msgstr "Hämta uppdatering"
 
 msgid "Download encryption key for "
-msgstr ""
+msgstr "Hämta krypteringsnyckel för "
 
 msgid "Drive Account Type"
 msgstr ""
@@ -4379,7 +4379,7 @@ msgid "ENTER LICENSE"
 msgstr ""
 
 msgid "ERROR: Not Enough Memory"
-msgstr ""
+msgstr "FEL: Inte tillräckligt med minne"
 
 msgid "EULA"
 msgstr ""
@@ -5586,7 +5586,7 @@ msgid "Error Replacing Disk"
 msgstr "Fel vid byte av disk"
 
 msgid "Error Saving Configuration Settings"
-msgstr ""
+msgstr "Fel när konfigurationsinställningarna sparades"
 
 msgid "Error Saving Proactive Support Settings"
 msgstr ""
@@ -5598,19 +5598,19 @@ msgid "Error Updating Production Status"
 msgstr ""
 
 msgid "Error Upgrading Pool "
-msgstr ""
+msgstr "Fel vid uppgradering av pool "
 
 msgid "Error checking for updates."
-msgstr ""
+msgstr "Fel vid sökning efter uppdateringar."
 
 msgid "Error creating VM."
-msgstr ""
+msgstr "Fel när virtuell maskin skapades."
 
 msgid "Error decrypting disks"
 msgstr "Fel vid dekryptering av diskar"
 
 msgid "Error details for "
-msgstr ""
+msgstr "Feldetaljer för "
 
 msgid "Error exporting the Private Key"
 msgstr "Fel vid export av den privata nyckeln"
@@ -5619,46 +5619,46 @@ msgid "Error exporting the certificate"
 msgstr "Fel vid export av certifikatet"
 
 msgid "Error exporting/disconnecting pool."
-msgstr ""
+msgstr "Fel vid export/frånkoppling av pool."
 
 msgid "Error gathering data on pool."
-msgstr ""
+msgstr "Fel vid insamling av data om pool."
 
 msgid "Error getting disk data"
-msgstr ""
+msgstr "Fel vid hämtning av diskdata"
 
 msgid "Error getting locales"
 msgstr ""
 
 msgid "Error getting pool data."
-msgstr ""
+msgstr "Fel vid hämtning av pooldata."
 
 msgid "Error importing pool"
 msgstr "Fel vid import av pool"
 
 msgid "Error restarting web service"
-msgstr ""
+msgstr "Fel vid omstart av webbtjänst"
 
 msgid "Error saving ZVOL."
-msgstr ""
+msgstr "Fel vid sparande av ZVOL."
 
 msgid "Error starting service "
-msgstr ""
+msgstr "Fel vid start av tjänst "
 
 msgid "Error stopping service "
-msgstr ""
+msgstr "Fel vid stopp av tjänst "
 
 msgid "Error submitting file"
-msgstr ""
+msgstr "Fel vid överföring av fil"
 
 msgid "Error updating disks"
-msgstr ""
+msgstr "Fel vid uppdatering av diskar"
 
 msgid "Error:"
-msgstr ""
+msgstr "Fel:"
 
 msgid "Error: "
-msgstr ""
+msgstr "Fel: "
 
 msgid "Errors"
 msgstr "Fel"
@@ -5724,7 +5724,7 @@ msgid "Expiration Date"
 msgstr ""
 
 msgid "Export"
-msgstr ""
+msgstr "Exportera"
 
 msgid "Export Certificate"
 msgstr "Exportera certifikat"
@@ -5733,7 +5733,7 @@ msgid "Export Dataset Keys"
 msgstr "Exportera datauppsättningsnycklar"
 
 msgid "Export Dataset Keys for "
-msgstr ""
+msgstr "Exportera datauppsättningsnycklar för "
 
 msgid "Export Key"
 msgstr "Exportera nyckel"
@@ -5745,10 +5745,10 @@ msgid "Export Private Key"
 msgstr "Exportera privat nyckel"
 
 msgid "Export Read Only"
-msgstr ""
+msgstr "Exportera skrivskyddad"
 
 msgid "Export Recycle Bin"
-msgstr ""
+msgstr "Exportera papperskorg"
 
 msgid "Export Secret Seed"
 msgstr "Exportera hemligt frö"
@@ -5763,7 +5763,7 @@ msgid "Export dataset keys which can be used to unlock datasets for "
 msgstr ""
 
 msgid "Export/Disconnect"
-msgstr ""
+msgstr "Exportera/koppla från"
 
 msgid "Export/Disconnect Pool"
 msgstr "Exportera/koppla från pool"
@@ -6818,13 +6818,13 @@ msgid "Immediately connect to TrueCommand."
 msgstr ""
 
 msgid "Import"
-msgstr ""
+msgstr "Importera"
 
 msgid "Import Disk"
 msgstr "Importera disk"
 
 msgid "Import a pool that exists but is not connected."
-msgstr ""
+msgstr "Importera en pool som finns men inte är ansluten."
 
 msgid "Import an existing pool"
 msgstr "Importera en befintlig pool"
@@ -6838,19 +6838,19 @@ msgid "Important"
 msgstr "Viktigt"
 
 msgid "Importing Disk"
-msgstr ""
+msgstr "Importerar disk"
 
 msgid "Importing Disk..."
-msgstr ""
+msgstr "Importerar disk..."
 
 msgid "Importing Pool"
 msgstr "Importerar pool"
 
 msgid "Importing Pool..."
-msgstr ""
+msgstr "Importerar pool..."
 
 msgid "Importing pools."
-msgstr ""
+msgstr "Importerar pooler."
 
 msgid "In"
 msgstr ""
@@ -9589,7 +9589,7 @@ msgid "Recovery Key"
 msgstr "Återställningsnyckel"
 
 msgid "Recovery Key for Pool "
-msgstr ""
+msgstr "Återställningsnyckel för pool "
 
 msgid "Recursive"
 msgstr ""
@@ -11893,13 +11893,13 @@ msgid "Snapshot"
 msgstr "Ögonblicksbild"
 
 msgid "Snapshot Lifetime"
-msgstr ""
+msgstr "Ögonblicksbildens livslängd"
 
 msgid "Snapshot Retention Policy"
-msgstr ""
+msgstr "Bevarandepolicy för ögonblicksbilder"
 
 msgid "Snapshot directory"
-msgstr ""
+msgstr "Katalog för ögonblicksbilder"
 
 msgid ""
 "Snapshot name format string. The default  is "
@@ -11921,7 +11921,7 @@ msgid ""
 msgstr ""
 
 msgid "Snapshot successfully taken."
-msgstr ""
+msgstr "Ögonblicksbilden skapades."
 
 msgid "Snapshots"
 msgstr "Ögonblicksbilder"
@@ -12105,13 +12105,13 @@ msgid "Status of TrueCommand"
 msgstr ""
 
 msgid "Status updated"
-msgstr ""
+msgstr "Status uppdaterad"
 
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 msgid "Status: "
-msgstr ""
+msgstr "Status: "
 
 msgid "Stop"
 msgstr "Stoppa"
@@ -14799,7 +14799,7 @@ msgid "enforce_statfs"
 msgstr ""
 
 msgid "error"
-msgstr ""
+msgstr "fel"
 
 msgid "everyone@"
 msgstr ""
@@ -15080,10 +15080,10 @@ msgid "shmsize"
 msgstr ""
 
 msgid "snapshot"
-msgstr ""
+msgstr "ögonblicksbild"
 
 msgid "snapshots"
-msgstr ""
+msgstr "ögonblicksbilder"
 
 msgid "software, which is provided as-is with no warranty."
 msgstr ""
