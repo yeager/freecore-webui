@@ -29,7 +29,7 @@ msgid " Plugin"
 msgstr ""
 
 msgid " Service"
-msgstr ""
+msgstr " Tjänst"
 
 msgid ""
 " USB disks available that have non-unique serial numbers. USB controllers "
@@ -126,7 +126,7 @@ msgid " seconds."
 msgstr ""
 
 msgid " service has been enabled."
-msgstr ""
+msgstr " tjänsten har aktiverats."
 
 msgid " should be at least "
 msgstr ""
@@ -429,7 +429,7 @@ msgid "<b>rsyncd</b> listens on this port."
 msgstr "<b>rsyncd</b> lyssnar på denna port."
 
 msgid "<br><b>Warning: Disks cannot be onlined in encrypted pools.</b></br>"
-msgstr ""
+msgstr "<br><b>Varning: Diskar kan inte anslutas i krypterade pooler.</b></br>"
 
 msgid ""
 "<em>Warning:</em> The WireGuard service must be active on the client system "
@@ -1673,10 +1673,10 @@ msgid "Archive"
 msgstr ""
 
 msgid "Are you sure you want to deregister TrueCommand Cloud Service?"
-msgstr ""
+msgstr "Vill du verkligen avregistrera TrueCommand Cloud Service?"
 
 msgid "Are you sure you want to stop connecting to the TrueCommand Cloud Service?"
-msgstr ""
+msgstr "Vill du verkligen sluta ansluta till TrueCommand Cloud Service?"
 
 msgid "Are you sure you want to sync from peer?"
 msgstr ""
@@ -2369,7 +2369,7 @@ msgid "Change Server"
 msgstr ""
 
 msgid "Change Settings and Clear Report History?"
-msgstr ""
+msgstr "Ändra inställningar och rensa rapporthistoriken?"
 
 msgid "Change User & Group Ownership"
 msgstr "Ändra ägarskap för användare och grupp"
@@ -2478,7 +2478,7 @@ msgid "CheckIP Server SSL"
 msgstr ""
 
 msgid "Checking HA status"
-msgstr ""
+msgstr "Kontrollerar HA-status"
 
 msgid "Checksum"
 msgstr ""
@@ -2560,7 +2560,7 @@ msgid "Choose a date format."
 msgstr ""
 
 msgid "Choose a device for your report."
-msgstr ""
+msgstr "Välj en enhet för rapporten."
 
 msgid "Choose a location to store the installer image file."
 msgstr ""
@@ -2652,7 +2652,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose an alert service to display options for that service."
-msgstr ""
+msgstr "Välj en larmtjänst för att visa alternativ för den tjänsten."
 
 msgid "Choose an algorithm to authenticate packets."
 msgstr ""
@@ -2994,13 +2994,13 @@ msgid ""
 msgstr ""
 
 msgid "Commands to run in the system environment after a jail is stopped."
-msgstr ""
+msgstr "Kommandon som ska köras i systemmiljön när en jail-miljö har stoppats."
 
 msgid "Commands to run in the system environment before a jail is started."
-msgstr ""
+msgstr "Kommandon som ska köras i systemmiljön innan en jail-miljö startas."
 
 msgid "Commands to run in the system environment before a jail is stopped."
-msgstr ""
+msgstr "Kommandon som ska köras i systemmiljön innan en jail-miljö stoppas."
 
 msgid "Comment"
 msgstr ""
@@ -3063,7 +3063,7 @@ msgid "Configure Networking"
 msgstr ""
 
 msgid "Configure System Dataset"
-msgstr ""
+msgstr "Konfigurera systemdatamängd"
 
 msgid "Configure now"
 msgstr ""
@@ -3930,7 +3930,7 @@ msgid "Deregister"
 msgstr ""
 
 msgid "Deregister TrueCommand Cloud Service"
-msgstr ""
+msgstr "Avregistrera TrueCommand Cloud Service"
 
 msgid ""
 "Describe the UPS device. It can contain alphanumeric, period, comma, "
@@ -3947,7 +3947,7 @@ msgid "Describe this module."
 msgstr ""
 
 msgid "Describe this service."
-msgstr ""
+msgstr "Beskriv denna tjänst."
 
 msgid "Description"
 msgstr ""
@@ -4255,7 +4255,7 @@ msgid "Display Note"
 msgstr ""
 
 msgid "Display System Processes"
-msgstr ""
+msgstr "Visa systemprocesser"
 
 msgid "Display console messages in real time at the bottom of the browser."
 msgstr ""
@@ -4373,7 +4373,7 @@ msgid "Dry Run Cloud Sync Task"
 msgstr ""
 
 msgid "E-mail address that will receive SNMP service messages."
-msgstr ""
+msgstr "E-postadress som ska ta emot SNMP-tjänstmeddelanden."
 
 msgid "EC Curve"
 msgstr ""
@@ -4406,7 +4406,7 @@ msgid "Edit API Key"
 msgstr "Redigera API-nyckel"
 
 msgid "Edit Alert Service"
-msgstr ""
+msgstr "Redigera larmtjänst"
 
 msgid "Edit Disk"
 msgstr ""
@@ -4562,7 +4562,7 @@ msgid "Enable Serial Console"
 msgstr ""
 
 msgid "Enable Service"
-msgstr ""
+msgstr "Aktivera tjänst"
 
 msgid "Enable Shadow Copies"
 msgstr ""
@@ -4621,7 +4621,7 @@ msgid "Enable sending anonymous usage statistics to iXsystems."
 msgstr ""
 
 msgid "Enable service"
-msgstr ""
+msgstr "Aktivera tjänst"
 
 msgid ""
 "Enable support for the File Server Remote VSS Protocol  (<a "
@@ -4671,7 +4671,7 @@ msgid ""
 msgstr ""
 
 msgid "Enable this service to start automatically."
-msgstr ""
+msgstr "Aktivera att denna tjänst startar automatiskt."
 
 msgid "Enable this task. Unset to disable the task     without deleting it."
 msgstr ""
@@ -5117,7 +5117,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter a username to register with this service."
-msgstr ""
+msgstr "Ange ett användarnamn för att registrera dig hos denna tjänst."
 
 msgid "Enter a valid IPv4 address."
 msgstr ""
@@ -5126,7 +5126,7 @@ msgid "Enter a valid MAC address vendor prefix. <b>Example:</b> <i>E4F4C6</i>"
 msgstr ""
 
 msgid "Enter a valid email address to receive alerts from this system."
-msgstr ""
+msgstr "Ange en giltig e-postadress för att ta emot larm från detta system."
 
 msgid ""
 "Enter a valid username for the <a "
@@ -5232,7 +5232,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter any information about this S.M.A.R.T. test."
-msgstr ""
+msgstr "Ange valfri information om detta S.M.A.R.T.-test."
 
 msgid "Enter any notes about the jail."
 msgstr ""
@@ -5395,10 +5395,10 @@ msgid ""
 msgstr ""
 
 msgid "Enter the SSH Port of the remote system."
-msgstr ""
+msgstr "Ange SSH-porten för fjärrsystemet."
 
 msgid "Enter the TCP port which provides the S3 service."
-msgstr ""
+msgstr "Ange TCP-porten som tillhandahåller S3-tjänsten."
 
 msgid "Enter the administrator password to authorize this operation."
 msgstr ""
@@ -5455,7 +5455,7 @@ msgid "Enter the location of the organization. For example, the city."
 msgstr ""
 
 msgid "Enter the location of the system."
-msgstr ""
+msgstr "Ange systemets plats."
 
 msgid ""
 "Enter the maximum number of attempts before client is disconnected. "
@@ -5545,7 +5545,7 @@ msgid "Enter the state or province of the organization."
 msgstr ""
 
 msgid "Enter the subject for status emails."
-msgstr ""
+msgstr "Ange ämnet för statusmeddelanden via e-post."
 
 msgid ""
 "Enter the user on the VMware host with permission to snapshot virtual "
@@ -5595,13 +5595,13 @@ msgid "Error Saving Configuration Settings"
 msgstr "Fel när konfigurationsinställningarna sparades"
 
 msgid "Error Saving Proactive Support Settings"
-msgstr ""
+msgstr "Fel vid sparande av inställningar för proaktiv support"
 
 msgid "Error Unlocking"
 msgstr "Fel vid upplåsning"
 
 msgid "Error Updating Production Status"
-msgstr ""
+msgstr "Fel vid uppdatering av produktionsstatus"
 
 msgid "Error Upgrading Pool "
 msgstr "Fel vid uppgradering av pool "
@@ -5634,7 +5634,7 @@ msgid "Error getting disk data"
 msgstr "Fel vid hämtning av diskdata"
 
 msgid "Error getting locales"
-msgstr ""
+msgstr "Fel vid hämtning av språkversioner"
 
 msgid "Error getting pool data."
 msgstr "Fel vid hämtning av pooldata."
@@ -5829,7 +5829,7 @@ msgid "Failed"
 msgstr "Misslyckades"
 
 msgid "Failed sending test alert!"
-msgstr ""
+msgstr "Det gick inte att skicka testlarmet!"
 
 msgid "Failed to generate debug file."
 msgstr ""
@@ -5853,7 +5853,7 @@ msgid "Failover is administratively disabled."
 msgstr ""
 
 msgid "Failover is in an error state."
-msgstr ""
+msgstr "Redundansväxlingen är i ett feltillstånd."
 
 msgid "Fast (Less secure)"
 msgstr ""
@@ -6316,7 +6316,7 @@ msgid "HA Enabled"
 msgstr ""
 
 msgid "HA Status"
-msgstr ""
+msgstr "HA-status"
 
 msgid "HA is administratively disabled."
 msgstr ""
@@ -6374,7 +6374,7 @@ msgid "Hide Extra Columns"
 msgstr ""
 
 msgid "Hide Standard Error"
-msgstr ""
+msgstr "Dölj standardfel"
 
 msgid "Hide Standard Output"
 msgstr ""
@@ -6476,7 +6476,7 @@ msgid ""
 msgstr ""
 
 msgid "Hostname or IP address of the remote system."
-msgstr ""
+msgstr "Värdnamn eller IP-adress för fjärrsystemet."
 
 msgid ""
 "Hostname or IP address of the remote system. A  valid URL scheme is "
@@ -6484,7 +6484,7 @@ msgid ""
 msgstr ""
 
 msgid "Hostname or IP address of the system to  receive SNMP trap notifications."
-msgstr ""
+msgstr "Värdnamn eller IP-adress för systemet som ska ta emot SNMP trap-notiser."
 
 msgid ""
 "Hostnames or IP addresses of the  ISNS servers to be registered with the "
@@ -6519,7 +6519,7 @@ msgid ""
 msgstr ""
 
 msgid "Hour and minute when the system can begin  taking snapshots."
-msgstr ""
+msgstr "Timme och minut då systemet kan börja ta ögonblicksbilder."
 
 msgid "Hourly"
 msgstr ""
@@ -7312,7 +7312,7 @@ msgid "LEGACY WEB INTERFACE"
 msgstr ""
 
 msgid "LOG (Write Cache) Overprovision Size in GiB"
-msgstr ""
+msgstr "Överallokeringsstorlek i GiB för LOG (skrivcache)"
 
 msgid "LOGIN TO PROVIDER"
 msgstr ""
@@ -7440,7 +7440,7 @@ msgid "Link State"
 msgstr ""
 
 msgid "Linked Service"
-msgstr ""
+msgstr "Länkad tjänst"
 
 msgid "Linux"
 msgstr ""
@@ -7461,7 +7461,7 @@ msgid ""
 msgstr ""
 
 msgid "List of system services to restart when the pool is unlocked."
-msgstr ""
+msgstr "Lista över systemtjänster som ska startas om när poolen har låsts upp."
 
 msgid "Listen"
 msgstr ""
