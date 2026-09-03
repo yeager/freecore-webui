@@ -177,7 +177,7 @@ msgid "(24 Hours)"
 msgstr ""
 
 msgid "(Almost) Full Filesystem Replication"
-msgstr ""
+msgstr "(Nästan) fullständig filsystemsreplikering"
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
 msgstr ""
@@ -189,10 +189,10 @@ msgid "(No description)"
 msgstr ""
 
 msgid "(Remove pool from database)"
-msgstr ""
+msgstr "(Ta bort pool från databasen)"
 
 msgid "(System Dataset Pool)"
-msgstr ""
+msgstr "(Systemdatamängdspool)"
 
 msgid "(top-right), then"
 msgstr ""
@@ -628,7 +628,7 @@ msgid ""
 msgstr ""
 
 msgid "A pool with this name already exists."
-msgstr ""
+msgstr "En pool med detta namn finns redan."
 
 msgid ""
 "A single bandwidth limit or bandwidth limit schedule in rclone format. "
@@ -663,7 +663,7 @@ msgid "A swap size of 0 is STRONGLY DISCOURAGED."
 msgstr ""
 
 msgid "A system update is in progress. "
-msgstr ""
+msgstr "En systemuppdatering pågår. "
 
 msgid ""
 "A system update is in progress. It might have been  launched in another "
@@ -682,7 +682,7 @@ msgid ""
 msgstr ""
 
 msgid "A valid IP address or domain name to which OpenVPN will connect."
-msgstr ""
+msgstr "En giltig IP-adress eller ett domännamn som OpenVPN ska ansluta till."
 
 msgid ""
 "A valid IPv4 address to use as the default route.<br> Enter <b>none</b> to "
@@ -885,16 +885,16 @@ msgid "Active"
 msgstr ""
 
 msgid "Active Directory"
-msgstr ""
+msgstr "Active Directory"
 
 msgid "Active Directory - Primary Domain"
-msgstr ""
+msgstr "Active Directory – primär domän"
 
 msgid "Active Directory IDMAP change!"
-msgstr ""
+msgstr "Ändring av Active Directory-IDMAP!"
 
 msgid "Active Directory must be enabled before adding new domains."
-msgstr ""
+msgstr "Active Directory måste vara aktiverat innan nya domäner läggs till."
 
 msgid "Active Media Subtype"
 msgstr ""
@@ -1126,7 +1126,7 @@ msgid ""
 msgstr ""
 
 msgid "Adjust the file permissions using the checkboxes."
-msgstr ""
+msgstr "Justera filbehörigheterna med kryssrutorna."
 
 msgid "Admin Portals"
 msgstr ""
@@ -1252,7 +1252,7 @@ msgid "Allocate at least 256 MiB."
 msgstr ""
 
 msgid "Allocate space for the new zvol."
-msgstr ""
+msgstr "Tilldela utrymme för den nya zvolymen."
 
 msgid "Allow"
 msgstr "Tillåt"
@@ -1559,7 +1559,7 @@ msgid ""
 msgstr ""
 
 msgid "An update is already applied. Please reboot the system."
-msgstr ""
+msgstr "En uppdatering har redan tillämpats. Starta om systemet."
 
 msgid "Anonymous User Download Bandwidth"
 msgstr "Nedladdningsbandbredd för anonym användare"
@@ -1621,7 +1621,7 @@ msgid "Apply Pending Updates"
 msgstr ""
 
 msgid "Apply Pending update"
-msgstr ""
+msgstr "Tillämpa väntande uppdatering"
 
 msgid "Apply Permissions Recursively"
 msgstr ""
@@ -1633,7 +1633,7 @@ msgid "Apply Quotas to Selected Users"
 msgstr ""
 
 msgid "Apply Update"
-msgstr ""
+msgstr "Tillämpa uppdatering"
 
 msgid "Apply User"
 msgstr "Tillämpa användare"
@@ -1664,7 +1664,7 @@ msgid "Apply the same quota warning  alert settings as the parent dataset."
 msgstr ""
 
 msgid "Apply updates and reboot system after downloading."
-msgstr ""
+msgstr "Tillämpa uppdateringar och starta om systemet efter hämtning."
 
 msgid "Apr"
 msgstr ""
@@ -1839,7 +1839,7 @@ msgid ""
 msgstr ""
 
 msgid "Automatically reboot the system after the update is applied."
-msgstr ""
+msgstr "Starta automatiskt om systemet när uppdateringen har tillämpats."
 
 msgid "Automatically stop the script or command after the specified seconds."
 msgstr ""
@@ -1997,7 +1997,7 @@ msgid "Bind DN"
 msgstr ""
 
 msgid "Bind IP Addresses"
-msgstr ""
+msgstr "Bind IP-adresser"
 
 msgid "Bind Interfaces"
 msgstr ""
@@ -2009,7 +2009,7 @@ msgid "Bind to"
 msgstr ""
 
 msgid "Bind to Port"
-msgstr ""
+msgstr "Bind till port"
 
 msgid "Block Shares (iSCSI)"
 msgstr ""
@@ -2039,10 +2039,10 @@ msgid "Boot Method"
 msgstr ""
 
 msgid "Boot Pool Condition"
-msgstr ""
+msgstr "Startpoolens tillstånd"
 
 msgid "Boot Pool Status"
-msgstr ""
+msgstr "Startpoolens status"
 
 msgid ""
 "Boot environment name. Alphanumeric characters, dashes (-), underscores "
@@ -2067,13 +2067,13 @@ msgid "Bridge Settings"
 msgstr ""
 
 msgid "Browsable to Network Clients"
-msgstr ""
+msgstr "Bläddringsbar för nätverksklienter"
 
 msgid "Browse a Collection"
 msgstr ""
 
 msgid "Browse to a CD-ROM file present on the system storage."
-msgstr ""
+msgstr "Bläddra till en CD-ROM-fil i systemlagringen."
 
 msgid ""
 "Browse to a storage location and add the name of the new raw file on the "
@@ -2099,16 +2099,16 @@ msgid ""
 msgstr ""
 
 msgid "Browse to an existing pool or dataset to store the new zvol."
-msgstr ""
+msgstr "Bläddra till en befintlig pool eller datamängd för att lagra den nya zvolymen."
 
 msgid "Browse to the ZFS dataset that will hold the copied data."
-msgstr ""
+msgstr "Bläddra till den ZFS-datamängd som ska innehålla de kopierade uppgifterna."
 
 msgid "Browse to the desired zvol on the disk."
-msgstr ""
+msgstr "Bläddra till önskad zvolym på disken."
 
 msgid "Browse to the directory for the S3 filesystem."
-msgstr ""
+msgstr "Bläddra till katalogen för S3-filsystemet."
 
 msgid ""
 "Browse to the directory on the system which will be accessed by the jail. "
