@@ -35,7 +35,7 @@ msgid ""
 " USB disks available that have non-unique serial numbers. USB controllers "
 "may report disk serial incorrectly, making such disks indistinguishable "
 "from each other. Adding such disks to a pool can result in lost data."
-msgstr ""
+msgstr " USB-diskar med icke-unika serienummer är tillgängliga. USB-styrenheter kan rapportera diskars serienummer felaktigt, så att sådana diskar inte går att skilja från varandra. Om sådana diskar läggs till i en pool kan data gå förlorade."
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
@@ -47,7 +47,7 @@ msgid ""
 " a passphrase invalidates an existing pool  recovery key file. To save a "
 "backup of the existing encryption key  without making any changes, click "
 "<b>DOWNLOAD ENCRYPTION KEY</b>."
-msgstr ""
+msgstr " en lösenfras ogiltigförklarar en befintlig återställningsnyckelfil för poolen. Klicka på <b>DOWNLOAD ENCRYPTION KEY</b> om du vill spara en säkerhetskopia av den befintliga krypteringsnyckeln utan att göra några ändringar."
 
 msgid ""
 " addresses. When this has been chosen, additional addresses cannot be "
@@ -85,7 +85,7 @@ msgid ""
 " disks available that have non-unique serial numbers. Non-unique serial "
 "numbers can be caused by a cabling issue and adding such disks to a pool "
 "can result in lost data."
-msgstr ""
+msgstr " diskar med icke-unika serienummer är tillgängliga. Icke-unika serienummer kan orsakas av ett kablagefel, och om sådana diskar läggs till i en pool kan data gå förlorade."
 
 msgid " disks, new vdev has "
 msgstr ""
@@ -103,7 +103,7 @@ msgid ""
 " is still running,  the Guest OS did not respond as expected. It is "
 "possible to use <i>Power Off</i> or the <i>Force Stop  After Timeout</i> "
 "option to stop the VM."
-msgstr ""
+msgstr " körs fortfarande och gästoperativsystemet svarade inte som förväntat. Du kan använda <i>Power Off</i> eller alternativet <i>Force Stop  After Timeout</i> för att stoppa den virtuella maskinen."
 
 msgid ""
 " is the minimum recommended record size. Choosing a smaller size can reduce "
@@ -168,7 +168,7 @@ msgid ""
 "the data will be PERMANENTLY UNRECOVERABLE! Before exporting/disconnecting "
 "encrypted pools, download and safely store the encryption key and any "
 "passphrase for it."
-msgstr ""
+msgstr "' är krypterad! Om lösenfrasen för denna krypterade pool har förlorats blir data PERMANENT OÅTERSTÄLLLIGA! Innan du exporterar eller kopplar från krypterade pooler ska du hämta krypteringsnyckeln och eventuell lösenfras och förvara dem säkert."
 
 msgid "'. All data on that pool was destroyed."
 msgstr ""
@@ -221,7 +221,7 @@ msgid "20 characters is the maximum length."
 msgstr ""
 
 msgid "2FA"
-msgstr ""
+msgstr "Tvåfaktorsautentisering"
 
 msgid ": Automatic update check failed. Please check system network settings."
 msgstr ""
@@ -760,7 +760,7 @@ msgid "Abort"
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "Om"
 
 msgid "About."
 msgstr ""
@@ -836,7 +836,7 @@ msgid ""
 msgstr ""
 
 msgid "Accounts"
-msgstr ""
+msgstr "Konton"
 
 msgid "Acoustic Level"
 msgstr ""
@@ -962,7 +962,7 @@ msgstr ""
 msgid ""
 "Add a passphrase to the new  encryption key. This is used to lock and "
 "unlock the pool."
-msgstr ""
+msgstr "Lägg till en lösenfras för den nya krypteringsnyckeln. Den används för att låsa och låsa upp poolen."
 
 msgid ""
 "Add any more <a "
@@ -1149,7 +1149,7 @@ msgid "Adv. Power Management"
 msgstr ""
 
 msgid "Advanced"
-msgstr ""
+msgstr "Avancerat"
 
 msgid "Advanced Details"
 msgstr ""
@@ -1187,7 +1187,7 @@ msgid "Alarms"
 msgstr ""
 
 msgid "Alert"
-msgstr ""
+msgstr "Larm"
 
 msgid "Alert Services"
 msgstr ""
@@ -1196,7 +1196,7 @@ msgid "Alert Settings"
 msgstr ""
 
 msgid "Alerts"
-msgstr ""
+msgstr "Larm"
 
 msgid "Algorithm"
 msgstr ""
@@ -1294,7 +1294,7 @@ msgid "Allow New Files"
 msgstr ""
 
 msgid "Allow Password Authentication"
-msgstr ""
+msgstr "Tillåt lösenordsautentisering"
 
 msgid "Allow Root Login"
 msgstr ""
@@ -1595,7 +1595,7 @@ msgid "Application Key"
 msgstr ""
 
 msgid "Apply"
-msgstr ""
+msgstr "Tillämpa"
 
 msgid "Apply Failover Upgrade"
 msgstr ""
@@ -1732,7 +1732,7 @@ msgid ""
 msgstr ""
 
 msgid "Authentication"
-msgstr ""
+msgstr "Autentisering"
 
 msgid "Authentication Advanced Options"
 msgstr ""
@@ -1890,7 +1890,7 @@ msgid ""
 "Key</b> to begin the download. This type of encryption is for users storing "
 "sensitive data. iXsystems, Inc. cannot be held responsible for any lost or "
 "unrecoverable data as a consequence of using this feature."
-msgstr ""
+msgstr "Säkerhetskopiera krypteringsnyckeln nu! Om nyckeln förloras går också data på diskarna förlorade utan möjlighet till återställning. Klicka på <b>Download Encryption Key</b> för att börja hämtningen. Denna kryptering är avsedd för användare som lagrar känsliga data. iXsystems, Inc. kan inte hållas ansvarigt för data som förloras eller inte kan återställas till följd av att funktionen används."
 
 msgid "Backend"
 msgstr ""
@@ -2007,7 +2007,7 @@ msgid "Blue"
 msgstr ""
 
 msgid "Boot"
-msgstr ""
+msgstr "Start"
 
 msgid "Boot Environment"
 msgstr ""
@@ -2247,7 +2247,7 @@ msgid ""
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgid "Cancel any pending Key synchronization."
 msgstr ""
@@ -2343,7 +2343,7 @@ msgid "Change Passphrase"
 msgstr ""
 
 msgid "Change Password"
-msgstr ""
+msgstr "Byt lösenord"
 
 msgid "Change Server"
 msgstr ""
@@ -2608,7 +2608,7 @@ msgstr ""
 msgid ""
 "Choose a temporary location for the encryption key that will decrypt "
 "replicated data."
-msgstr ""
+msgstr "Välj en tillfällig plats för krypteringsnyckeln som ska dekryptera replikerade data."
 
 msgid "Choose a time format."
 msgstr ""
@@ -2849,7 +2849,7 @@ msgstr ""
 msgid ""
 "Click <b>Browse</b> to select an encryption key to upload. This allows the "
 "system to decrypt the disks."
-msgstr ""
+msgstr "Klicka på <b>Browse</b> för att välja en krypteringsnyckel att ladda upp. Då kan systemet dekryptera diskarna."
 
 msgid "Click on alarms to select or unselect."
 msgstr ""
@@ -3083,7 +3083,7 @@ msgid "Confirm Passphrase"
 msgstr ""
 
 msgid "Confirm Password"
-msgstr ""
+msgstr "Bekräfta lösenord"
 
 msgid "Confirm Privacy Passphrase"
 msgstr ""
@@ -3290,7 +3290,7 @@ msgid "Create Passphrase"
 msgstr ""
 
 msgid "Create Pool"
-msgstr ""
+msgstr "Skapa pool"
 
 msgid "Create SSH Connection"
 msgstr ""
@@ -3386,7 +3386,7 @@ msgid "Credential"
 msgstr ""
 
 msgid "Credentials"
-msgstr ""
+msgstr "Inloggningsuppgifter"
 
 msgid "Critical"
 msgstr ""
@@ -3566,7 +3566,7 @@ msgid "Database Path"
 msgstr ""
 
 msgid "Dataset"
-msgstr ""
+msgstr "Datamängd"
 
 msgid "Dataset Actions"
 msgstr ""
@@ -3587,7 +3587,7 @@ msgid "Datastore"
 msgstr ""
 
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 msgid "Date Format"
 msgstr ""
@@ -3861,7 +3861,7 @@ msgstr ""
 msgid ""
 "Delete the passphrase from  the encryption key. Invalidates an existing "
 "pool recovery key file. A  dialog prompts to back up the encryption key."
-msgstr ""
+msgstr "Ta bort lösenfrasen från krypteringsnyckeln. Det ogiltigförklarar en befintlig återställningsnyckelfil för poolen. En dialogruta uppmanar dig att säkerhetskopiera krypteringsnyckeln."
 
 msgid "Delete the selected item?"
 msgstr ""
@@ -4181,7 +4181,7 @@ msgid "Discovery Authentication Method"
 msgstr ""
 
 msgid "Disk"
-msgstr ""
+msgstr "Disk"
 
 msgid "Disk Details"
 msgstr ""
@@ -4217,7 +4217,7 @@ msgid "Disk to wipe."
 msgstr ""
 
 msgid "Disks"
-msgstr ""
+msgstr "Diskar"
 
 msgid "Disks to be edited:"
 msgstr ""
@@ -4289,13 +4289,13 @@ msgid "Done"
 msgstr ""
 
 msgid "Download"
-msgstr ""
+msgstr "Hämta"
 
 msgid "Download Client Config"
 msgstr ""
 
 msgid "Download Encryption Key"
-msgstr ""
+msgstr "Hämta krypteringsnyckel"
 
 msgid "Download Key"
 msgstr ""
@@ -4419,7 +4419,7 @@ msgid "Edit Share ACL"
 msgstr ""
 
 msgid "Edit User"
-msgstr ""
+msgstr "Redigera användare"
 
 msgid "Edit Zvol"
 msgstr ""
@@ -4464,7 +4464,7 @@ msgid ""
 msgstr ""
 
 msgid "Enable"
-msgstr ""
+msgstr "Aktivera"
 
 msgid ""
 "Enable   <a href=\"https://en.wikipedia.org/wiki/SMTP_Authentication\"   "
@@ -4763,7 +4763,7 @@ msgid "Encrypted pool disks must be decrypted prior to import."
 msgstr ""
 
 msgid "Encryption"
-msgstr ""
+msgstr "Kryptering"
 
 msgid "Encryption (more secure, but slower)"
 msgstr ""
@@ -4775,7 +4775,7 @@ msgid "Encryption Algorithm"
 msgstr ""
 
 msgid "Encryption Key"
-msgstr ""
+msgstr "Krypteringsnyckel"
 
 msgid "Encryption Key Format"
 msgstr ""
@@ -4799,7 +4799,7 @@ msgid "Encryption Mode"
 msgstr ""
 
 msgid "Encryption Options"
-msgstr ""
+msgstr "Krypteringsalternativ"
 
 msgid "Encryption Options Saved"
 msgstr ""
@@ -5557,7 +5557,7 @@ msgid "Environment"
 msgstr ""
 
 msgid "Error"
-msgstr ""
+msgstr "Fel"
 
 msgid "Error Downloading File"
 msgstr ""
@@ -5644,7 +5644,7 @@ msgid "Error: "
 msgstr ""
 
 msgid "Errors"
-msgstr ""
+msgstr "Fel"
 
 msgid ""
 "Establishing a connection requires  that one of the connection systems has "
@@ -5803,7 +5803,7 @@ msgid "Fab Buttons"
 msgstr ""
 
 msgid "Failed"
-msgstr ""
+msgstr "Misslyckades"
 
 msgid "Failed sending test alert!"
 msgstr ""
@@ -6112,7 +6112,7 @@ msgid "GUI SSL Certificate"
 msgstr ""
 
 msgid "Gateway"
-msgstr ""
+msgstr "Gateway"
 
 msgid "Gathering data"
 msgstr ""
@@ -6121,7 +6121,7 @@ msgid "Gathering data..."
 msgstr ""
 
 msgid "General"
-msgstr ""
+msgstr "Allmänt"
 
 msgid "General Options"
 msgstr ""
@@ -6228,7 +6228,7 @@ msgid "Green"
 msgstr ""
 
 msgid "Group"
-msgstr ""
+msgstr "Grupp"
 
 msgid "Group Bind Path"
 msgstr ""
@@ -6272,7 +6272,7 @@ msgid "Group to which this ACL entry applies."
 msgstr ""
 
 msgid "Groups"
-msgstr ""
+msgstr "Grupper"
 
 msgid "Guest Access"
 msgstr ""
@@ -6335,7 +6335,7 @@ msgid "HTTPS Protocols"
 msgstr ""
 
 msgid "Help"
-msgstr ""
+msgstr "Hjälp"
 
 msgid ""
 "Hidden columns are not available for sorting or filtering, but the values "
@@ -6429,7 +6429,7 @@ msgid "HostName"
 msgstr ""
 
 msgid "Hostname"
-msgstr ""
+msgstr "Värdnamn"
 
 msgid "Hostname (Virtual)"
 msgstr ""
@@ -6588,7 +6588,7 @@ msgid "INSTALL"
 msgstr ""
 
 msgid "IP Address"
-msgstr ""
+msgstr "IP-adress"
 
 msgid "IP Addresses"
 msgstr ""
@@ -6973,7 +6973,7 @@ msgid "Installing plugin..."
 msgstr ""
 
 msgid "Interface"
-msgstr ""
+msgstr "Gränssnitt"
 
 msgid "Interface Description"
 msgstr ""
@@ -6985,7 +6985,7 @@ msgid "Interface changes reverted."
 msgstr ""
 
 msgid "Interfaces"
-msgstr ""
+msgstr "Gränssnitt"
 
 msgid ""
 "Interfaces marked <i>critical</i> are considered necessary for normal "
@@ -7319,7 +7319,7 @@ msgid "Lagg Protocol"
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgstr "Språk"
 
 msgid "Language code"
 msgstr ""
@@ -7471,10 +7471,10 @@ msgid "Localization"
 msgstr ""
 
 msgid "Location"
-msgstr ""
+msgstr "Plats"
 
 msgid "Lock"
-msgstr ""
+msgstr "Lås"
 
 msgid "Lock Dataset "
 msgstr ""
@@ -7495,7 +7495,7 @@ msgid "Locking dataset "
 msgstr ""
 
 msgid "Log"
-msgstr ""
+msgstr "Logg"
 
 msgid "Log In to GMail"
 msgstr ""
@@ -7531,7 +7531,7 @@ msgid "Login Attempts"
 msgstr ""
 
 msgid "Logs"
-msgstr ""
+msgstr "Loggar"
 
 msgid "Looking for help?"
 msgstr ""
@@ -7542,7 +7542,7 @@ msgid ""
 "passphrase for an encrypted pool! The key file for an encrypted pool is "
 "secured in the system database and can be exported at any time from the "
 "pool options"
-msgstr ""
+msgstr "Om du förlorar möjligheten att låsa upp poolen kan alla data på diskarna gå förlorade utan möjlighet till återställning. Säkerhetskopiera alltid krypteringsnyckelfilen eller lösenfrasen för en krypterad pool! Nyckelfilen för en krypterad pool är skyddad i systemdatabasen och kan när som helst exporteras från poolalternativen."
 
 msgid ""
 "Lowercase alphanumeric characters plus dot (.), dash (-), and colon (:) are "
@@ -8018,7 +8018,7 @@ msgid "NAT Port Forwarding"
 msgstr ""
 
 msgid "NFS"
-msgstr ""
+msgstr "NFS"
 
 msgid "NFSv3 ownership model for NFSv4"
 msgstr ""
@@ -8057,7 +8057,7 @@ msgid "NTP Servers"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Namn"
 
 msgid "Name Jail and Choose FreeBSD Release"
 msgstr ""
@@ -8205,7 +8205,7 @@ msgid "Netwait IP List"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "Nätverk"
 
 msgid ""
 "Network Address Translation (NAT). Transforms local network IP addresses "
@@ -8874,7 +8874,7 @@ msgid "Passphrase"
 msgstr ""
 
 msgid "Password"
-msgstr ""
+msgstr "Lösenord"
 
 msgid "Password Server"
 msgstr ""
@@ -9028,10 +9028,10 @@ msgid "Periodic Snapshot Tasks"
 msgstr ""
 
 msgid "Permission"
-msgstr ""
+msgstr "Behörighet"
 
 msgid "Permissions"
-msgstr ""
+msgstr "Behörigheter"
 
 msgid "Permissions Type"
 msgstr ""
@@ -9118,7 +9118,7 @@ msgid "Plugins"
 msgstr ""
 
 msgid "Pool"
-msgstr ""
+msgstr "Pool"
 
 msgid "Pool Actions"
 msgstr ""
@@ -9151,13 +9151,13 @@ msgid "Pool/Dataset"
 msgstr ""
 
 msgid "Pools"
-msgstr ""
+msgstr "Pooler"
 
 msgid "Pools & Snapshots"
 msgstr ""
 
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 msgid "Port number on the remote system to use for the SSH  connection."
 msgstr ""
@@ -9184,7 +9184,7 @@ msgid "Portals"
 msgstr ""
 
 msgid "Ports"
-msgstr ""
+msgstr "Portar"
 
 msgid "Post Install Notes"
 msgstr ""
@@ -9359,7 +9359,7 @@ msgid "Properties Exclude"
 msgstr ""
 
 msgid "Protocol"
-msgstr ""
+msgstr "Protokoll"
 
 msgid ""
 "Provide static key for authentication/encryption of all control  channel "
@@ -9450,7 +9450,7 @@ msgid ""
 "requires manually      defining the encryption key.<br> WARNING: the "
 "encryption key is the only means to decrypt the information stored in this  "
 "    dataset. Store the encryption key in a secure location."
-msgstr ""
+msgstr "Generera slumpmässigt en krypteringsnyckel för att skydda denna datamängd. Om funktionen inaktiveras måste krypteringsnyckeln definieras manuellt.<br> VARNING: krypteringsnyckeln är det enda sättet att dekryptera informationen som lagras i denna datamängd. Förvara krypteringsnyckeln på en säker plats."
 
 msgid "Range High"
 msgstr ""
@@ -9565,7 +9565,7 @@ msgid "Record Size"
 msgstr ""
 
 msgid "Recovery Key"
-msgstr ""
+msgstr "Återställningsnyckel"
 
 msgid "Recovery Key for Pool "
 msgstr ""
@@ -9770,7 +9770,7 @@ msgid ""
 msgstr ""
 
 msgid "Replication"
-msgstr ""
+msgstr "Replikering"
 
 msgid "Replication <i>"
 msgstr ""
@@ -9809,7 +9809,7 @@ msgid "Reporting"
 msgstr ""
 
 msgid "Reports"
-msgstr ""
+msgstr "Rapporter"
 
 msgid "Require IDENT Authentication"
 msgstr ""
@@ -9881,7 +9881,7 @@ msgid ""
 "encryption key, recovery key, and passphrase  for the pool. <br /> <br /> "
 "Clicking <b>RESET ENCRYPTION</b> generates a new encryption key and  "
 "prompts to download a backup of the new key."
-msgstr ""
+msgstr "Återställ huvudnyckelkrypteringen som används av denna pool. Det ogiltigförklarar poolens nuvarande krypteringsnyckel, återställningsnyckel och lösenfras. <br /> <br /> Om du klickar på <b>RESET ENCRYPTION</b> skapas en ny krypteringsnyckel och du uppmanas att hämta en säkerhetskopia av den nya nyckeln."
 
 msgid "Reset to Defaults"
 msgstr ""
@@ -9911,7 +9911,7 @@ msgid "Resolution"
 msgstr ""
 
 msgid "Restart"
-msgstr ""
+msgstr "Starta om"
 
 msgid "Restart SMB Service"
 msgstr ""
@@ -9941,7 +9941,7 @@ msgid ""
 msgstr ""
 
 msgid "Restore"
-msgstr ""
+msgstr "Återställ"
 
 msgid "Restore Cloud Sync Task"
 msgstr ""
@@ -10121,7 +10121,7 @@ msgid "SIGNUP"
 msgstr ""
 
 msgid "SMB"
-msgstr ""
+msgstr "SMB"
 
 msgid "SMB - Primary Domain"
 msgstr ""
@@ -10219,7 +10219,7 @@ msgid "Sat"
 msgstr ""
 
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 msgid "Save Changes"
 msgstr ""
@@ -10397,10 +10397,10 @@ msgstr ""
 msgid ""
 "Secure data within this dataset. Data is unusable until      unlocked with "
 "an encryption key or passphrase."
-msgstr ""
+msgstr "Skydda data i denna datamängd. Data kan inte användas förrän de låses upp med en krypteringsnyckel eller lösenfras."
 
 msgid "Security"
-msgstr ""
+msgstr "Säkerhet"
 
 msgid ""
 "See <a "
@@ -10988,7 +10988,7 @@ msgid "Service failed to stop"
 msgstr ""
 
 msgid "Services"
-msgstr ""
+msgstr "Tjänster"
 
 msgid "Set ACL for this dataset"
 msgstr ""
@@ -11686,7 +11686,7 @@ msgid ""
 msgstr ""
 
 msgid "Settings"
-msgstr ""
+msgstr "Inställningar"
 
 msgid "Settings saved"
 msgstr ""
@@ -11716,7 +11716,7 @@ msgid "Share Type"
 msgstr ""
 
 msgid "Sharing"
-msgstr ""
+msgstr "Delning"
 
 msgid "Sharing Controls"
 msgstr ""
@@ -11869,7 +11869,7 @@ msgid "Slide me!"
 msgstr ""
 
 msgid "Snapshot"
-msgstr ""
+msgstr "Ögonblicksbild"
 
 msgid "Snapshot Lifetime"
 msgstr ""
@@ -11903,7 +11903,7 @@ msgid "Snapshot successfully taken."
 msgstr ""
 
 msgid "Snapshots"
-msgstr ""
+msgstr "Ögonblicksbilder"
 
 msgid ""
 "Some authentication tools default to 30 seconds and do not support custom "
@@ -12025,7 +12025,7 @@ msgid "Standby"
 msgstr ""
 
 msgid "Start"
-msgstr ""
+msgstr "Starta"
 
 msgid "Start Automatically"
 msgstr ""
@@ -12093,7 +12093,7 @@ msgid "Status: "
 msgstr ""
 
 msgid "Stop"
-msgstr ""
+msgstr "Stoppa"
 
 msgid "Stop "
 msgstr ""
@@ -12128,7 +12128,7 @@ msgid ""
 msgstr ""
 
 msgid "Storage"
-msgstr ""
+msgstr "Lagring"
 
 msgid "Storage & Groups"
 msgstr ""
@@ -12201,7 +12201,7 @@ msgid "Succeeded"
 msgstr ""
 
 msgid "Success"
-msgstr ""
+msgstr "Lyckades"
 
 msgid "Successfully Promoted "
 msgstr ""
@@ -12237,7 +12237,7 @@ msgid "Sun"
 msgstr ""
 
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 msgid "Support >16 groups"
 msgstr ""
@@ -12297,13 +12297,13 @@ msgid "Syslog Transport"
 msgstr ""
 
 msgid "System"
-msgstr ""
+msgstr "System"
 
 msgid "System Clock"
 msgstr ""
 
 msgid "System Dataset"
-msgstr ""
+msgstr "Systemdatamängd"
 
 msgid "System Dataset Pool"
 msgstr ""
@@ -12312,7 +12312,7 @@ msgid "System Info"
 msgstr ""
 
 msgid "System Information"
-msgstr ""
+msgstr "Systeminformation"
 
 msgid "System Processes"
 msgstr ""
@@ -12478,7 +12478,7 @@ msgid "Task started"
 msgstr ""
 
 msgid "Tasks"
-msgstr ""
+msgstr "Uppgifter"
 
 msgid "Team Drive ID"
 msgstr ""
@@ -13333,7 +13333,7 @@ msgid "Times"
 msgstr ""
 
 msgid "Timezone"
-msgstr ""
+msgstr "Tidszon"
 
 msgid "Title"
 msgstr ""
@@ -13480,7 +13480,7 @@ msgid "Two-Factor Auth"
 msgstr ""
 
 msgid "Two-Factor Authentication"
-msgstr ""
+msgstr "Tvåfaktorsautentisering"
 
 msgid "Two-Factor Authentication Code"
 msgstr ""
@@ -13598,7 +13598,7 @@ msgid "Unknown"
 msgstr ""
 
 msgid "Unlock"
-msgstr ""
+msgstr "Lås upp"
 
 msgid "Unlock "
 msgstr ""
@@ -13607,7 +13607,7 @@ msgid "Unlock Children"
 msgstr ""
 
 msgid "Unlock Datasets"
-msgstr ""
+msgstr "Lås upp datamängder"
 
 msgid "Unlock Successful"
 msgstr ""
@@ -13666,7 +13666,7 @@ msgid "Upcoming tasks"
 msgstr ""
 
 msgid "Update"
-msgstr ""
+msgstr "Uppdatera"
 
 msgid "Update File"
 msgstr ""
@@ -13774,7 +13774,7 @@ msgid ""
 msgstr ""
 
 msgid "Upload"
-msgstr ""
+msgstr "Ladda upp"
 
 msgid "Upload Chunk Size (MiB)"
 msgstr ""
@@ -13891,7 +13891,7 @@ msgid ""
 msgstr ""
 
 msgid "Use an exported encryption key file to unlock datasets."
-msgstr ""
+msgstr "Använd en exporterad krypteringsnyckelfil för att låsa upp datamängder."
 
 msgid "Use as Home Share"
 msgstr ""
@@ -13960,7 +13960,7 @@ msgid ""
 msgstr ""
 
 msgid "User"
-msgstr ""
+msgstr "Användare"
 
 msgid "User Bind Path"
 msgstr ""
@@ -14058,7 +14058,7 @@ msgid ""
 msgstr ""
 
 msgid "Username"
-msgstr ""
+msgstr "Användarnamn"
 
 msgid "Username for logging in to the provider and  updating the record."
 msgstr ""
@@ -14097,7 +14097,7 @@ msgid ""
 msgstr ""
 
 msgid "Users"
-msgstr ""
+msgstr "Användare"
 
 msgid "Users & Groups"
 msgstr ""
@@ -14174,7 +14174,7 @@ msgid "Valid"
 msgstr ""
 
 msgid "Validate Certificates"
-msgstr ""
+msgstr "Verifiera certifikat"
 
 msgid "Validate Connection"
 msgstr ""
@@ -14216,7 +14216,7 @@ msgid "Verify the pool encryption passphrase."
 msgstr ""
 
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 msgid "Video, < 100ms latency"
 msgstr ""
@@ -14311,7 +14311,7 @@ msgid "Warn"
 msgstr ""
 
 msgid "Warning"
-msgstr ""
+msgstr "Varning"
 
 msgid "Warning: There are "
 msgstr ""
@@ -14326,7 +14326,7 @@ msgid "Weak Ciphers"
 msgstr ""
 
 msgid "Web Interface"
-msgstr ""
+msgstr "Webbgränssnitt"
 
 msgid "Web Interface HTTP -> HTTPS Redirect"
 msgstr ""
