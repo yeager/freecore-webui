@@ -488,7 +488,7 @@ msgstr ""
 "att TrueCommand-gränssnittet ska kunna nås."
 
 msgid "<font color=\"red\"> There are "
-msgstr ""
+msgstr "<font color=\"red\"> Det finns "
 
 msgid ""
 "<font color=\"red\">WARNING</font>: use <i>rid</i> or <i>autorid</i> for "
