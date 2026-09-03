@@ -3583,7 +3583,7 @@ msgid "Dataset"
 msgstr "Datamängd"
 
 msgid "Dataset Actions"
-msgstr ""
+msgstr "Åtgärder för datauppsättning"
 
 msgid "Dataset Key"
 msgstr "Datauppsättningsnyckel"
@@ -3592,10 +3592,10 @@ msgid "Dataset Passphrase"
 msgstr "Lösenfras för datauppsättning"
 
 msgid "Dataset Path"
-msgstr ""
+msgstr "Sökväg till datauppsättning"
 
 msgid "Datasets for "
-msgstr ""
+msgstr "Datauppsättningar för "
 
 msgid "Datastore"
 msgstr ""
@@ -4234,7 +4234,7 @@ msgid "Disks"
 msgstr "Diskar"
 
 msgid "Disks to be edited:"
-msgstr ""
+msgstr "Diskar att redigera:"
 
 msgid "Dismiss"
 msgstr ""
@@ -4339,7 +4339,7 @@ msgid "Download encryption key for "
 msgstr "Hämta krypteringsnyckel för "
 
 msgid "Drive Account Type"
-msgstr ""
+msgstr "Kontotyp för Drive"
 
 msgid "Drive ID"
 msgstr "Disk-ID"
@@ -4350,7 +4350,7 @@ msgid ""
 msgstr ""
 
 msgid "Driver"
-msgstr ""
+msgstr "Drivrutin"
 
 msgid "Drives List"
 msgstr "Disklista"
@@ -10324,31 +10324,31 @@ msgid "Script to execute before running sync."
 msgstr ""
 
 msgid "Scrub"
-msgstr ""
+msgstr "Scrub"
 
 msgid "Scrub Boot Pool"
-msgstr ""
+msgstr "Scrub av startpool"
 
 msgid "Scrub Complete"
-msgstr ""
+msgstr "Scrub klar"
 
 msgid "Scrub Interval Set"
-msgstr ""
+msgstr "Scrub-intervall angivet"
 
 msgid "Scrub Pool"
-msgstr ""
+msgstr "Scrub av pool"
 
 msgid "Scrub Started"
-msgstr ""
+msgstr "Scrub startad"
 
 msgid "Scrub Task"
-msgstr ""
+msgstr "Scrub-uppgift"
 
 msgid "Scrub Tasks"
-msgstr ""
+msgstr "Scrub-uppgifter"
 
 msgid "Scrub interval (in days)"
-msgstr ""
+msgstr "Scrub-intervall (i dagar)"
 
 msgid "Search For Connected Groups"
 msgstr ""
@@ -14625,10 +14625,10 @@ msgid "ZFS"
 msgstr "ZFS"
 
 msgid "ZFS Cache"
-msgstr ""
+msgstr "ZFS-cache"
 
 msgid "ZFS Deduplication"
-msgstr ""
+msgstr "ZFS-deduplicering"
 
 msgid ""
 "ZFS Deduplication is an advanced option meant for experts only. Proceed "
@@ -14636,7 +14636,7 @@ msgid ""
 msgstr ""
 
 msgid "ZFS Filesystem"
-msgstr ""
+msgstr "ZFS-filsystem"
 
 msgid ""
 "ZFS L2ARC read-cache that can be used with fast devices to accelerate read "
@@ -14649,7 +14649,7 @@ msgid ""
 msgstr ""
 
 msgid "ZFS deduplication"
-msgstr ""
+msgstr "ZFS-deduplicering"
 
 msgid ""
 "ZFS pools must conform to strict naming  <a "
@@ -15032,7 +15032,7 @@ msgid "pcpu"
 msgstr ""
 
 msgid "pool options for "
-msgstr ""
+msgstr "poolalternativ för "
 
 msgid "priority"
 msgstr ""
