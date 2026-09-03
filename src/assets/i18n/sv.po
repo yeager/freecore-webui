@@ -706,7 +706,7 @@ msgid "ACL Type"
 msgstr "ACL-typ"
 
 msgid "ACL cannot be changed when the Source is the top-level dataset for a pool."
-msgstr ""
+msgstr "ACL kan inte ändras när källan är poolens datamängd på högsta nivån."
 
 msgid "ACME Certificate"
 msgstr "ACME-certifikat"
@@ -730,7 +730,7 @@ msgid "ADD"
 msgstr "LÄGG TILL"
 
 msgid "AFP"
-msgstr ""
+msgstr "AFP"
 
 msgid "AFP3 Unix Privs"
 msgstr ""
@@ -1009,7 +1009,7 @@ msgid ""
 msgstr ""
 
 msgid "Adding NFS NPN requires sufficient privileges. Enter your credentials below."
-msgstr ""
+msgstr "Att lägga till NFS NPN kräver tillräckliga behörigheter. Ange dina inloggningsuppgifter nedan."
 
 msgid "Adding Vdevs to an encrypted pool resets the passphrase and recovery key!"
 msgstr "Om vdev-enheter läggs till i en krypterad pool återställs lösenfrasen och återställningsnyckeln!"
@@ -1551,7 +1551,7 @@ msgid ""
 msgstr ""
 
 msgid "An ACL is present in this path"
-msgstr ""
+msgstr "En ACL finns på denna sökväg"
 
 msgid ""
 "An IP address must be provided for each controller and the virtual "
@@ -1594,7 +1594,7 @@ msgid ""
 msgstr ""
 
 msgid "Apple Shares (AFP)"
-msgstr ""
+msgstr "Apple-delningar (AFP)"
 
 msgid "Application Credential ID"
 msgstr "ID för programautentiseringsuppgift"
@@ -2012,7 +2012,7 @@ msgid "Bind to Port"
 msgstr "Bind till port"
 
 msgid "Block Shares (iSCSI)"
-msgstr ""
+msgstr "Blockdelningar (iSCSI)"
 
 msgid "Block Size"
 msgstr ""
@@ -2208,7 +2208,7 @@ msgid "CD-ROM"
 msgstr ""
 
 msgid "CD-ROM Path"
-msgstr ""
+msgstr "CD-ROM-sökväg"
 
 msgid "CLEAR SYNC KEYS"
 msgstr ""
@@ -2469,7 +2469,7 @@ msgid ""
 msgstr ""
 
 msgid "CheckIP Path"
-msgstr ""
+msgstr "CheckIP-sökväg"
 
 msgid "CheckIP Server"
 msgstr ""
@@ -2598,7 +2598,7 @@ msgid "Choose a preset"
 msgstr ""
 
 msgid "Choose a privacy protocol."
-msgstr ""
+msgstr "Välj ett integritetsprotokoll."
 
 msgid ""
 "Choose a recent IP address to limit the usage when accessing the "
@@ -2706,7 +2706,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose permissions for this rsync module."
-msgstr ""
+msgstr "Välj behörigheter för denna rsync-modul."
 
 msgid "Choose the VM operating system type."
 msgstr "Välj operativsystemstyp för den virtuella datorn."
@@ -3057,7 +3057,7 @@ msgid "Configure"
 msgstr ""
 
 msgid "Configure ACL"
-msgstr ""
+msgstr "Konfigurera ACL"
 
 msgid "Configure Networking"
 msgstr ""
@@ -3069,7 +3069,7 @@ msgid "Configure now"
 msgstr ""
 
 msgid "Configure permissions for this share's dataset now?"
-msgstr ""
+msgstr "Konfigurera behörigheter för denna delnings datamängd nu?"
 
 msgid ""
 "Configure the ports that allow remote access to  the jail. Required to "
@@ -3221,7 +3221,7 @@ msgid "Continue to Legacy UI"
 msgstr ""
 
 msgid "Continue with AFP Setup"
-msgstr ""
+msgstr "Fortsätt med AFP-konfiguration"
 
 msgid "Continue with download?"
 msgstr ""
@@ -3446,7 +3446,7 @@ msgid "Custom Name"
 msgstr ""
 
 msgid "Custom Path"
-msgstr ""
+msgstr "Anpassad sökväg"
 
 msgid "Custom Properties"
 msgstr ""
@@ -3583,7 +3583,7 @@ msgid "Database"
 msgstr ""
 
 msgid "Database Path"
-msgstr ""
+msgstr "Databassökväg"
 
 msgid "Dataset"
 msgstr "Datamängd"
@@ -3675,7 +3675,7 @@ msgid "Default"
 msgstr ""
 
 msgid "Default ACL Options"
-msgstr ""
+msgstr "Standardalternativ för ACL"
 
 msgid "Default Gateway"
 msgstr ""
@@ -3783,7 +3783,7 @@ msgid ""
 msgstr ""
 
 msgid "Define the path to an existing zvol for VM use."
-msgstr ""
+msgstr "Ange sökvägen till en befintlig zvolym för användning i en virtuell dator."
 
 msgid "Define the server where all changes to the database are performed."
 msgstr ""
@@ -3795,7 +3795,7 @@ msgid "Define the size of the raw file in GiB."
 msgstr ""
 
 msgid "Define the target as *iSCSI*, *Fibre Channel*, or *Both*."
-msgstr ""
+msgstr "Ange målet som *iSCSI*, *Fibre Channel* eller *Båda*."
 
 msgid ""
 "Define whether the control channel,  data channel, both channels, or "
@@ -3870,7 +3870,7 @@ msgid ""
 msgstr ""
 
 msgid "Delete iSCSI extent "
-msgstr ""
+msgstr "Ta bort iSCSI-utrymme "
 
 msgid "Delete selections"
 msgstr "Ta bort markeringar"
@@ -3965,7 +3965,7 @@ msgid "Description of the lagg interface."
 msgstr ""
 
 msgid "Description of the share or notes on how it is used."
-msgstr ""
+msgstr "Beskrivning av delningen eller anteckningar om hur den används."
 
 msgid "Descriptive identifier for this API key."
 msgstr "Beskrivande identifierare för denna API-nyckel."
@@ -3989,7 +3989,7 @@ msgid "Destination Location"
 msgstr ""
 
 msgid "Destination Path"
-msgstr ""
+msgstr "Målsökväg"
 
 msgid "Destination Snapshot Lifetime"
 msgstr ""
@@ -4400,7 +4400,7 @@ msgid "Edit"
 msgstr "Redigera"
 
 msgid "Edit ACL"
-msgstr ""
+msgstr "Redigera ACL"
 
 msgid "Edit API Key"
 msgstr "Redigera API-nyckel"
@@ -4418,7 +4418,7 @@ msgid "Edit Encryption Options for "
 msgstr "Redigera krypteringsalternativ för "
 
 msgid "Edit Filesystem ACL"
-msgstr ""
+msgstr "Redigera filsystems-ACL"
 
 msgid "Edit Group"
 msgstr "Redigera grupp"
@@ -4436,7 +4436,7 @@ msgid "Edit Pool Options for "
 msgstr ""
 
 msgid "Edit Share ACL"
-msgstr ""
+msgstr "Redigera delnings-ACL"
 
 msgid "Edit User"
 msgstr "Redigera användare"
@@ -4502,10 +4502,10 @@ msgid "Enable (requires password or Kerberos principal)"
 msgstr "Aktivera (kräver lösenord eller Kerberos-principal)"
 
 msgid "Enable ACL"
-msgstr ""
+msgstr "Aktivera ACL"
 
 msgid "Enable ACL support for the SMB share."
-msgstr ""
+msgstr "Aktivera ACL-stöd för SMB-delningen."
 
 msgid "Enable Active Directory"
 msgstr ""
@@ -4514,7 +4514,7 @@ msgid "Enable Alternate Data Streams"
 msgstr ""
 
 msgid "Enable Apple SMB2/3 Protocol Extensions"
-msgstr ""
+msgstr "Aktivera Apple SMB2/3-protokollutökningar"
 
 msgid "Enable Atime"
 msgstr ""
@@ -4574,7 +4574,7 @@ msgid "Enable TPC"
 msgstr ""
 
 msgid "Enable Time Machine backups on this share."
-msgstr ""
+msgstr "Aktivera Time Machine-säkerhetskopior på denna delning."
 
 msgid "Enable Two-Factor Auth for SSH"
 msgstr "Aktivera tvåfaktorsautentisering för SSH"
@@ -4606,7 +4606,7 @@ msgid ""
 msgstr ""
 
 msgid "Enable iSCSI ALUA"
-msgstr ""
+msgstr "Aktivera iSCSI ALUA"
 
 msgid "Enable iXsystems Proactive Support"
 msgstr ""
@@ -4642,7 +4642,7 @@ msgid "Enable the SNMPv3 security model."
 msgstr ""
 
 msgid "Enable this AFP share. Unset to disable this AFP share  without deleting it."
-msgstr ""
+msgstr "Aktivera denna AFP-delning. Avmarkera för att inaktivera AFP-delningen utan att ta bort den."
 
 msgid ""
 "Enable this Cloud Sync Task. Unset to disable this Cloud Sync Task without "
@@ -4650,10 +4650,10 @@ msgid ""
 msgstr ""
 
 msgid "Enable this NFS share. Unset to disable this NFS share  without deleting it."
-msgstr ""
+msgstr "Aktivera denna NFS-delning. Avmarkera för att inaktivera NFS-delningen utan att ta bort den."
 
 msgid "Enable this SMB share. Unset to disable this SMB share  without deleting it."
-msgstr ""
+msgstr "Aktivera denna SMB-delning. Avmarkera för att inaktivera SMB-delningen utan att ta bort den."
 
 msgid ""
 "Enable this WebDAV share. Unset to disable this WebDAV  share without "
@@ -4934,7 +4934,7 @@ msgid "Enter a description of the interface."
 msgstr ""
 
 msgid "Enter a description of the rsync task."
-msgstr ""
+msgstr "Ange en beskrivning av rsync-uppgiften."
 
 msgid "Enter a description of the static route."
 msgstr ""
@@ -5013,7 +5013,7 @@ msgid "Enter a name for the new theme."
 msgstr ""
 
 msgid "Enter a name for the share."
-msgstr ""
+msgstr "Ange ett namn för delningen."
 
 msgid "Enter a name for this Keytab."
 msgstr ""
@@ -5440,7 +5440,7 @@ msgid "Enter the filesystem to snapshot."
 msgstr ""
 
 msgid "Enter the full path to the command or script to                be run."
-msgstr ""
+msgstr "Ange den fullständiga sökvägen till kommandot eller skriptet som ska köras."
 
 msgid "Enter the hostname or IP address of the <b>NTP</b>   server."
 msgstr ""
@@ -5525,7 +5525,7 @@ msgid "Enter the pre-Windows 2000 domain name."
 msgstr ""
 
 msgid "Enter the pre-defined S3 bucket to use."
-msgstr ""
+msgstr "Ange den fördefinierade S3-hink som ska användas."
 
 msgid ""
 "Enter the relative distinguished name of the site object in the Active "
@@ -5817,10 +5817,10 @@ msgid "Extra Users"
 msgstr ""
 
 msgid "FTP Host to connect to. Example: <i>ftp.example.com</i>."
-msgstr ""
+msgstr "FTP-värd att ansluta till. Exempel: <i>ftp.example.com</i>."
 
 msgid "FTP Port number. Leave blank to use the default port <i>21</i>."
-msgstr ""
+msgstr "FTP-portnummer. Lämna tomt för att använda standardporten <i>21</i>."
 
 msgid "Fab Buttons"
 msgstr ""
@@ -6227,7 +6227,7 @@ msgid "Go Back to Jails"
 msgstr ""
 
 msgid "Go to ACL Manager"
-msgstr ""
+msgstr "Gå till ACL-hanteraren"
 
 msgid "Go to Active Directory Form"
 msgstr ""
@@ -6978,7 +6978,7 @@ msgid "Input"
 msgstr ""
 
 msgid "Input the pre-defined S3 bucket to use."
-msgstr ""
+msgstr "Ange den fördefinierade S3-hink som ska användas."
 
 msgid "Input the pre-defined container to use."
 msgstr ""
@@ -7261,7 +7261,7 @@ msgid "LAGG Ports"
 msgstr ""
 
 msgid "LAGG Protocol"
-msgstr ""
+msgstr "LAGG-protokoll"
 
 msgid "LAGG Settings"
 msgstr ""
@@ -7339,7 +7339,7 @@ msgid "Lagg Priority Number"
 msgstr ""
 
 msgid "Lagg Protocol"
-msgstr ""
+msgstr "Lagg-protokoll"
 
 msgid "Language"
 msgstr "Språk"
@@ -7625,7 +7625,7 @@ msgid "Manage Services and Continue"
 msgstr ""
 
 msgid "Manage ZFS Keys"
-msgstr ""
+msgstr "Hantera ZFS-nycklar"
 
 msgid "Manage members of"
 msgstr ""
@@ -7941,7 +7941,7 @@ msgid ""
 msgstr ""
 
 msgid "Module name that matches the name requested by  the rsync client."
-msgstr ""
+msgstr "Modulnamn som motsvarar namnet som rsync-klienten begär."
 
 msgid "Mon"
 msgstr ""
