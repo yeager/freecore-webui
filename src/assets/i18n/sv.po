@@ -14869,7 +14869,7 @@ msgid "gzip (fastest)"
 msgstr "gzip (snabbast)"
 
 msgid "gzip (maximum, slow)"
-msgstr ""
+msgstr "gzip (maximal, långsam)"
 
 msgid "host_domainname"
 msgstr ""
@@ -14902,7 +14902,7 @@ msgid ""
 msgstr ""
 
 msgid "iXsystems for more information."
-msgstr ""
+msgstr "iXsystems för mer information."
 
 msgid "interfaces"
 msgstr ""
@@ -14923,7 +14923,7 @@ msgid "ip_hostname"
 msgstr ""
 
 msgid "is Free and"
-msgstr ""
+msgstr "är gratis och"
 
 msgid ""
 "is a collaborative website     with helpful guides and information about "
@@ -14931,10 +14931,10 @@ msgid ""
 msgstr ""
 
 msgid "is already in use."
-msgstr ""
+msgstr "används redan."
 
 msgid "is in a locked dataset."
-msgstr ""
+msgstr "finns i en låst datamängd."
 
 msgid "jail_zfs"
 msgstr ""
@@ -14952,10 +14952,10 @@ msgid "login_flags"
 msgstr ""
 
 msgid "lz4 (recommended)"
-msgstr ""
+msgstr "lz4 (rekommenderas)"
 
 msgid "lzjb (legacy, not recommended)"
-msgstr ""
+msgstr "lzjb (äldre, rekommenderas inte)"
 
 msgid "mDNS"
 msgstr ""
@@ -14988,7 +14988,7 @@ msgid "mount_procfs"
 msgstr ""
 
 msgid "mountd(8) bind port"
-msgstr ""
+msgstr "mountd(8)-bindningsport"
 
 msgid "msgqqueued"
 msgstr ""
@@ -15015,10 +15015,10 @@ msgid "nthr"
 msgstr ""
 
 msgid "on Sundays at 00:00 (12:00 AM)"
-msgstr ""
+msgstr "på söndagar kl. 00:00"
 
 msgid "on the first day of the month at 00:00 (12:00 AM)"
-msgstr ""
+msgstr "den första dagen i månaden kl. 00:00"
 
 msgid "openfiles"
 msgstr ""
@@ -15030,7 +15030,7 @@ msgid "owner"
 msgstr "ägare"
 
 msgid "owner@"
-msgstr ""
+msgstr "owner@"
 
 msgid "password"
 msgstr "lösenord"
@@ -15060,10 +15060,10 @@ msgid "rlimits"
 msgstr ""
 
 msgid "rpc.lockd(8) bind port"
-msgstr ""
+msgstr "rpc.lockd(8)-bindningsport"
 
 msgid "rpc.statd(8) bind port"
-msgstr ""
+msgstr "rpc.statd(8)-bindningsport"
 
 msgid "safe"
 msgstr ""
@@ -15072,7 +15072,7 @@ msgid "seconds"
 msgstr ""
 
 msgid "seconds unless SAVE CHANGES is chosen to make them permanent."
-msgstr ""
+msgstr "sekunder om inte SPARA ÄNDRINGAR väljs för att göra dem permanenta."
 
 msgid "securelevel"
 msgstr ""
@@ -15096,7 +15096,7 @@ msgid "snapshots"
 msgstr "ögonblicksbilder"
 
 msgid "software, which is provided as-is with no warranty."
-msgstr ""
+msgstr "programvara som tillhandahålls i befintligt skick utan garantier."
 
 msgid "stacksize"
 msgstr ""
@@ -15105,7 +15105,7 @@ msgid "stop_timeout"
 msgstr ""
 
 msgid "support and services? Contact"
-msgstr ""
+msgstr "support och tjänster? Kontakta"
 
 msgid "swapuse"
 msgstr ""
@@ -15126,19 +15126,19 @@ msgid "threads"
 msgstr ""
 
 msgid "to set up configuration first."
-msgstr ""
+msgstr "för att först ställa in konfigurationen."
 
 msgid "total"
 msgstr ""
 
 msgid "total available"
-msgstr ""
+msgstr "totalt tillgängligt"
 
 msgid "users"
 msgstr "användare"
 
 msgid "vdev is highly discouraged and will result in data loss if it fails"
-msgstr ""
+msgstr "vdev rekommenderas starkt inte och leder till dataförlust om den går sönder"
 
 msgid "vmemoryuse"
 msgstr ""
@@ -15168,25 +15168,25 @@ msgid "warn"
 msgstr ""
 
 msgid "was successfully attached."
-msgstr ""
+msgstr "anslöts."
 
 msgid "while pool is encrypted"
-msgstr ""
+msgstr "medan poolen är krypterad"
 
 msgid "yes"
 msgstr ""
 
 msgid "zle (runs of zeros)"
-msgstr ""
+msgstr "zle (följder av nollor)"
 
 msgid "zstd (Maximum, very slow)"
-msgstr ""
+msgstr "zstd (maximal, mycket långsam)"
 
 msgid "zstd (Medium, slow)"
-msgstr ""
+msgstr "zstd (medel, långsam)"
 
 msgid "zstd (default level, 3)"
-msgstr ""
+msgstr "zstd (standardnivå, 3)"
 
 msgid "zstd-fast (default level, 1)"
-msgstr ""
+msgstr "zstd-fast (standardnivå, 1)"
