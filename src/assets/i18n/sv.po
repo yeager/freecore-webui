@@ -8791,7 +8791,7 @@ msgid ""
 msgstr ""
 
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 msgid "Order"
 msgstr ""
@@ -8847,7 +8847,7 @@ msgid ""
 msgstr ""
 
 msgid "Overview"
-msgstr ""
+msgstr "Översikt"
 
 msgid "Owner"
 msgstr "Ägare"
@@ -8865,19 +8865,19 @@ msgid ""
 msgstr ""
 
 msgid "PCI Passthru Device"
-msgstr ""
+msgstr "PCI-genomsläppsenhet"
 
 msgid "PENDING"
 msgstr "VÄNTANDE"
 
 msgid "POST INSTALL NOTES"
-msgstr ""
+msgstr "ANTECKNINGAR EFTER INSTALLATION"
 
 msgid "PREVIEW"
-msgstr ""
+msgstr "FÖRHANDSVISA"
 
 msgid "PROCEED"
-msgstr ""
+msgstr "FORTSÄTT"
 
 msgid "PagerDuty client name."
 msgstr "Klientnamn för PagerDuty."
@@ -8888,10 +8888,10 @@ msgid ""
 msgstr ""
 
 msgid "Parent Interface"
-msgstr ""
+msgstr "Överordnat gränssnitt"
 
 msgid "Partition"
-msgstr ""
+msgstr "Partition"
 
 msgid "Passphrase"
 msgstr "Lösenfras"
@@ -8971,7 +8971,7 @@ msgid ""
 msgstr ""
 
 msgid "Paste value above or choose a file."
-msgstr ""
+msgstr "Klistra in värdet ovan eller välj en fil."
 
 msgid "Path"
 msgstr "Sökväg"
@@ -9042,7 +9042,7 @@ msgid "Pending Upgrade"
 msgstr "Väntande uppgradering"
 
 msgid "Perform Reverse DNS Lookups"
-msgstr ""
+msgstr "Utför omvända DNS-uppslag"
 
 msgid "Performs authentication from an LDAP server."
 msgstr "Utför autentisering från en LDAP-server."
@@ -9060,16 +9060,16 @@ msgid "Permissions Type"
 msgstr "Behörighetstyp"
 
 msgid "Permit Sudo"
-msgstr ""
+msgstr "Tillåt sudo"
 
 msgid "Phone"
 msgstr ""
 
 msgid "Phone Number"
-msgstr ""
+msgstr "Telefonnummer"
 
 msgid "Physical interface of the selected member."
-msgstr ""
+msgstr "Fysiskt gränssnitt för den valda medlemmen."
 
 msgid "PiB"
 msgstr ""
@@ -9078,7 +9078,7 @@ msgid "Plain (No Encryption)"
 msgstr "Okrypterad (ingen kryptering)"
 
 msgid "Platform"
-msgstr ""
+msgstr "Plattform"
 
 msgid "Please"
 msgstr "Vänligen"
@@ -9210,10 +9210,10 @@ msgid "Ports"
 msgstr "Portar"
 
 msgid "Post Install Notes"
-msgstr ""
+msgstr "Anteckningar efter installation"
 
 msgid "Post-script"
-msgstr ""
+msgstr "Efter-skript"
 
 msgid "Power"
 msgstr "Ström"
@@ -9238,7 +9238,7 @@ msgid ""
 msgstr ""
 
 msgid "Pre-script"
-msgstr ""
+msgstr "Före-skript"
 
 msgid ""
 "Predefined certificate extensions. Choose a profile that best matches your "
@@ -9256,28 +9256,28 @@ msgid ""
 msgstr ""
 
 msgid "Prefer"
-msgstr ""
+msgstr "Föredra"
 
 msgid "Prefer buttons with icons only"
-msgstr ""
+msgstr "Föredra knappar med endast ikoner"
 
 msgid "Preferences"
 msgstr "Inställningar"
 
 msgid "Preserve"
-msgstr ""
+msgstr "Bevara"
 
 msgid "Preserve Extended Attributes"
-msgstr ""
+msgstr "Bevara utökade attribut"
 
 msgid "Preserve Permissions"
-msgstr ""
+msgstr "Bevara behörigheter"
 
 msgid "Preserve screen space with icons and tooltips instead of text labels."
-msgstr ""
+msgstr "Spara skärmutrymme med ikoner och verktygstips i stället för textetiketter."
 
 msgid "Presets"
-msgstr ""
+msgstr "Förinställningar"
 
 msgid ""
 "Prevent source system snapshots  that have failed replication from being "
@@ -9296,7 +9296,7 @@ msgstr ""
 "för kontot."
 
 msgid "Preview"
-msgstr ""
+msgstr "Förhandsvisa"
 
 msgid "Preview JSON Service Account Key"
 msgstr "Förhandsvisa JSON-nyckel för tjänstkonto"
@@ -9317,13 +9317,13 @@ msgid "Primary Group"
 msgstr "Primär grupp"
 
 msgid "Priority Code Point"
-msgstr ""
+msgstr "Prioritetskodpunkt"
 
 msgid "Privacy Passphrase"
-msgstr ""
+msgstr "Lösenfras för integritet"
 
 msgid "Privacy Protocol"
-msgstr ""
+msgstr "Integritetsprotokoll"
 
 msgid "Private Key"
 msgstr "Privat nyckel"
@@ -9345,7 +9345,7 @@ msgid ""
 msgstr ""
 
 msgid "Proactive Support"
-msgstr ""
+msgstr "Proaktiv support"
 
 msgid ""
 "Proactive Support can notify iXsystems by email when TrueNAS hardware "
@@ -9353,10 +9353,10 @@ msgid ""
 msgstr ""
 
 msgid "Proceed"
-msgstr ""
+msgstr "Fortsätt"
 
 msgid "Proceed with Update"
-msgstr ""
+msgstr "Fortsätt med uppdateringen"
 
 msgid ""
 "Proceed with upgrading the pool? WARNING: Upgrading a pool is a one-way "
@@ -9365,16 +9365,16 @@ msgid ""
 msgstr ""
 
 msgid "Production Status"
-msgstr ""
+msgstr "Produktionsstatus"
 
 msgid "Production status successfully updated"
-msgstr ""
+msgstr "Produktionsstatus uppdaterades"
 
 msgid "Profiles"
-msgstr ""
+msgstr "Profiler"
 
 msgid "Progress"
-msgstr ""
+msgstr "Förlopp"
 
 msgid "Prohibits writes to this share."
 msgstr "Förbjuder skrivning till denna delning."
@@ -9383,7 +9383,7 @@ msgid "Promote Dataset"
 msgstr "Befordra datamängd"
 
 msgid "Properties Exclude"
-msgstr ""
+msgstr "Uteslut egenskaper"
 
 msgid "Protocol"
 msgstr "Protokoll"
@@ -9406,7 +9406,7 @@ msgid "Provides a pop-up window of diagnostic information if a fatal error occur
 msgstr "Visar ett popupfönster med diagnostisk information om ett allvarligt fel uppstår."
 
 msgid "Provisioning URI (includes Secret - Read only):"
-msgstr ""
+msgstr "URI för etablering (innehåller hemlighet – skrivskyddad):"
 
 msgid ""
 "Public IP address or hostname. Set if FTP clients cannot connect through a "
@@ -9417,7 +9417,7 @@ msgid "Public Key"
 msgstr "Offentlig nyckel"
 
 msgid "Purpose"
-msgstr ""
+msgstr "Syfte"
 
 msgid "Quick"
 msgstr ""
@@ -9449,28 +9449,28 @@ msgid "REFRESH INDEX"
 msgstr "UPPDATERA INDEX"
 
 msgid "REGISTER"
-msgstr ""
+msgstr "REGISTRERA"
 
 msgid "RESTART"
 msgstr "STARTA OM"
 
 msgid "RFC2307"
-msgstr ""
+msgstr "RFC2307"
 
 msgid "RID"
 msgstr ""
 
 msgid "Raid-z"
-msgstr ""
+msgstr "RAID-Z"
 
 msgid "Raid-z2"
-msgstr ""
+msgstr "RAID-Z2"
 
 msgid "Raid-z3"
-msgstr ""
+msgstr "RAID-Z3"
 
 msgid "Raised Buttons"
-msgstr ""
+msgstr "Upphöjda knappar"
 
 msgid ""
 "Randomly generate an encryption key for securing this dataset. Disabling "
