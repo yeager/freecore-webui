@@ -5835,22 +5835,22 @@ msgid "Failed to generate debug file."
 msgstr "Det gick inte att generera felsökningsfilen."
 
 msgid "Failover"
-msgstr ""
+msgstr "Redundansväxling"
 
 msgid "Failover Configuration"
-msgstr ""
+msgstr "Konfiguration för redundansväxling"
 
 msgid "Failover Group"
 msgstr "Redundansväxlingsgrupp"
 
 msgid "Failover Settings"
-msgstr ""
+msgstr "Inställningar för redundansväxling"
 
 msgid "Failover VHID"
-msgstr ""
+msgstr "VHID för redundansväxling"
 
 msgid "Failover is administratively disabled."
-msgstr ""
+msgstr "Redundansväxling är administrativt inaktiverad."
 
 msgid "Failover is in an error state."
 msgstr "Redundansväxlingen är i ett feltillstånd."
@@ -6496,10 +6496,10 @@ msgid "Hosts"
 msgstr "Värdar"
 
 msgid "Hosts Allow"
-msgstr ""
+msgstr "Tillåtna värdar"
 
 msgid "Hosts Deny"
-msgstr ""
+msgstr "Nekade värdar"
 
 msgid "Hot Spare"
 msgstr ""
@@ -14593,7 +14593,7 @@ msgid "Write Owner"
 msgstr "Skriv ägare"
 
 msgid "Write a percentage limit of a single CPU core."
-msgstr ""
+msgstr "Ange en procentgräns för en enskild processorkärna."
 
 msgid "Xen initiator compat mode"
 msgstr ""
