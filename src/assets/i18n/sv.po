@@ -12278,7 +12278,7 @@ msgid "Switch Train"
 msgstr "Byt uppdateringsspår"
 
 msgid "Switch update trains?"
-msgstr ""
+msgstr "Byta uppdateringsspår?"
 
 msgid "Sync"
 msgstr "Synkronisera"
@@ -12311,19 +12311,19 @@ msgid "Synchronize Destination Snapshots With Source"
 msgstr "Synkronisera målögonblicksbilder med källan"
 
 msgid "Syslog"
-msgstr ""
+msgstr "Syslog"
 
 msgid "Syslog Level"
-msgstr ""
+msgstr "Syslog-nivå"
 
 msgid "Syslog Server"
-msgstr ""
+msgstr "Syslog-server"
 
 msgid "Syslog TLS Certificate"
 msgstr "TLS-certifikat för syslog"
 
 msgid "Syslog Transport"
-msgstr ""
+msgstr "Syslog-transport"
 
 msgid "System"
 msgstr "System"
@@ -12390,10 +12390,10 @@ msgid "TCP"
 msgstr ""
 
 msgid "TCP Port"
-msgstr ""
+msgstr "TCP-port"
 
 msgid "TCP port to use on bind to IP addresses"
-msgstr ""
+msgstr "TCP-port som används vid bindning till IP-adresser"
 
 msgid "TCP port used to access the iSCSI target. Default is <i>3260</i>."
 msgstr "TCP-port som används för åtkomst till iSCSI-målet. Standardvärdet är <i>3260</i>."
@@ -12411,10 +12411,10 @@ msgid "TLS (STARTTLS)"
 msgstr "TLS (STARTTLS)"
 
 msgid "TLS Allow Client Renegotiations"
-msgstr ""
+msgstr "Tillåt TLS-klientomförhandlingar"
 
 msgid "TLS Allow Dot Login"
-msgstr ""
+msgstr "Tillåt TLS-punktinloggning"
 
 msgid "TLS Allow Per User"
 msgstr "TLS-tillåtelse per användare"
@@ -12438,7 +12438,7 @@ msgid "TLS Export Certificate Data"
 msgstr "Exportera TLS-certifikatdata"
 
 msgid "TLS Export Standard Vars"
-msgstr ""
+msgstr "Exportera TLS-standardvariabler"
 
 msgid "TLS IP Address Required"
 msgstr "TLS-IP-adress krävs"
@@ -12447,16 +12447,16 @@ msgid "TLS No Certificate Request"
 msgstr "TLS ingen certifikatbegäran"
 
 msgid "TLS No Empty Fragments"
-msgstr ""
+msgstr "Inga tomma TLS-fragment"
 
 msgid "TLS No Session Reuse Required"
-msgstr ""
+msgstr "Ingen återanvändning av TLS-session krävs"
 
 msgid "TLS Policy"
 msgstr "TLS-policy"
 
 msgid "TLS Server Hostname"
-msgstr ""
+msgstr "TLS-servervärdnamn"
 
 msgid "Tag"
 msgstr ""
@@ -12465,22 +12465,22 @@ msgid "Take Snapshot"
 msgstr "Ta ögonblicksbild"
 
 msgid "Target"
-msgstr ""
+msgstr "Mål"
 
 msgid "Target Alias"
-msgstr ""
+msgstr "Målalias"
 
 msgid "Target Global Configuration"
-msgstr ""
+msgstr "Global målkonfiguration"
 
 msgid "Target Mode"
-msgstr ""
+msgstr "Målläge"
 
 msgid "Target Name"
-msgstr ""
+msgstr "Målnamn"
 
 msgid "Targets"
-msgstr ""
+msgstr "Mål"
 
 msgid "Task Manager"
 msgstr "Uppgiftshanterare"
@@ -12510,7 +12510,7 @@ msgid "Tasks"
 msgstr "Uppgifter"
 
 msgid "Team Drive ID"
-msgstr ""
+msgstr "Team Drive-ID"
 
 msgid "Temperature"
 msgstr "Temperatur"
@@ -12519,10 +12519,10 @@ msgid "Template"
 msgstr "Mall"
 
 msgid "Tenant Domain"
-msgstr ""
+msgstr "Klientorganisationsdomän"
 
 msgid "Tenant ID"
-msgstr ""
+msgstr "Klientorganisations-ID"
 
 msgid ""
 "Tenant ID - optional for v1 auth, this or tenant required otherwise <a "
@@ -12531,7 +12531,7 @@ msgid ""
 msgstr ""
 
 msgid "Tenant Name"
-msgstr ""
+msgstr "Klientorganisationsnamn"
 
 msgid ""
 "Tenant domain - optional <a "
@@ -12571,7 +12571,7 @@ msgid ""
 msgstr ""
 
 msgid "Textarea"
-msgstr ""
+msgstr "Textområde"
 
 msgid "The"
 msgstr ""
@@ -12650,7 +12650,7 @@ msgid ""
 msgstr ""
 
 msgid "The UDP port number that listens for TFTP requests. Example: 8050"
-msgstr ""
+msgstr "UDP-portnumret som lyssnar efter TFTP-begäranden. Exempel: 8050"
 
 msgid ""
 "The URI used to provision an OTP. The URI (which contains the secret) is "
@@ -12670,7 +12670,7 @@ msgid "The WebDAV"
 msgstr "WebDAV"
 
 msgid "The active controller cannot be detected."
-msgstr ""
+msgstr "Den aktiva styrenheten kan inte identifieras."
 
 msgid "The administrator password is incorrect."
 msgstr "Administratörslösenordet är felaktigt."
@@ -12710,10 +12710,10 @@ msgid ""
 msgstr ""
 
 msgid "The cache has been cleared."
-msgstr ""
+msgstr "Cachen har rensats."
 
 msgid "The cache is being rebuilt."
-msgstr ""
+msgstr "Cachen byggs om."
 
 msgid ""
 "The certificate's public key is used to encipher user data only during key "
@@ -12726,7 +12726,7 @@ msgid ""
 msgstr ""
 
 msgid "The contents of all added disks will be erased."
-msgstr ""
+msgstr "Innehållet på alla tillagda diskar kommer att raderas."
 
 msgid ""
 "The cryptographic algorithm to use. The default <i>SHA256</i> only needs to "
@@ -12734,7 +12734,7 @@ msgid ""
 msgstr ""
 
 msgid "The current pool layout has these cautions:"
-msgstr ""
+msgstr "Den aktuella poollayouten har följande varningar:"
 
 msgid ""
 "The default host to use for TFTP transfers. Enter an IP address. Example: "
@@ -12775,7 +12775,7 @@ msgid "The filesystem "
 msgstr ""
 
 msgid "The following datasets cannot be unlocked."
-msgstr ""
+msgstr "Följande datamängder kan inte låsas upp."
 
 msgid ""
 "The friendly name to show in front of the sending email  address. Example: "
@@ -12797,7 +12797,7 @@ msgid "The iSCSI"
 msgstr "iSCSI"
 
 msgid "The imported pool contains encrypted datasets, unlock them now?"
-msgstr ""
+msgstr "Den importerade poolen innehåller krypterade datamängder. Låsa upp dem nu?"
 
 msgid ""
 "The key usage extension defines the purpose  (e.g., encipherment, "
@@ -12826,7 +12826,7 @@ msgid ""
 msgstr ""
 
 msgid "The lifetime of the CA specified in days."
-msgstr ""
+msgstr "CA:ns giltighetstid, angiven i dagar."
 
 msgid ""
 "The list only shows users cached on this system. The search box   below can "
@@ -12841,10 +12841,10 @@ msgid ""
 msgstr ""
 
 msgid "The maximum length of the queue of pending connections. Default is 100."
-msgstr ""
+msgstr "Högsta längd på kön med väntande anslutningar. Standardvärdet är 100."
 
 msgid "The maximum number of simultaneous clients."
-msgstr ""
+msgstr "Högsta antal samtidiga klienter."
 
 msgid ""
 "The maximum polling interval, in seconds, as a power of 2.  For example, "
@@ -12853,7 +12853,7 @@ msgid ""
 msgstr ""
 
 msgid "The member interface to configure."
-msgstr ""
+msgstr "Medlemsgränssnittet som ska konfigureras."
 
 msgid "The message to show when a user logs in with SSH."
 msgstr "Meddelandet som ska visas när en användare loggar in med SSH."
@@ -12883,7 +12883,7 @@ msgid ""
 msgstr ""
 
 msgid "The numeric <i>UUID</i> or <i>custom name</i> of the jail."
-msgstr ""
+msgstr "Jail-miljöns numeriska <i>UUID</i> eller <i>anpassade namn</i>."
 
 msgid "The only server role available is the domain controller for a new domain."
 msgstr "Den enda tillgängliga serverrollen är domänkontrollanten för en ny domän."
@@ -12899,10 +12899,10 @@ msgid ""
 msgstr ""
 
 msgid "The passwords do not match."
-msgstr ""
+msgstr "Lösenorden stämmer inte överens."
 
 msgid "The pasted string ends with a space"
-msgstr ""
+msgstr "Den inklistrade strängen slutar med ett blanksteg"
 
 msgid "The pasted string starts with a space"
 msgstr ""
