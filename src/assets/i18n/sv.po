@@ -652,7 +652,7 @@ msgid ""
 msgstr ""
 
 msgid "A stripe"
-msgstr ""
+msgstr "En stripe"
 
 msgid ""
 "A stripe log vdev layout can lose data in the unlikely event of "
@@ -660,7 +660,7 @@ msgid ""
 msgstr ""
 
 msgid "A swap size of 0 is STRONGLY DISCOURAGED."
-msgstr ""
+msgstr "En växlingsstorlek på 0 AVRÅDS STARKT."
 
 msgid "A system update is in progress. "
 msgstr "En systemuppdatering pågår. "
@@ -733,7 +733,7 @@ msgid "AFP"
 msgstr "AFP"
 
 msgid "AFP3 Unix Privs"
-msgstr ""
+msgstr "AFP3 Unix-behörigheter"
 
 msgid "API Key"
 msgstr "API-nyckel"
@@ -754,22 +754,22 @@ msgid "ATA Security User"
 msgstr "ATA-säkerhetsanvändare"
 
 msgid "AUTORID"
-msgstr ""
+msgstr "AUTORID"
 
 msgid "AWS Region"
-msgstr ""
+msgstr "AWS-region"
 
 msgid "Abort"
-msgstr ""
+msgstr "Avbryt"
 
 msgid "About"
 msgstr "Om"
 
 msgid "About."
-msgstr ""
+msgstr "Om."
 
 msgid "Accent"
-msgstr ""
+msgstr "Accent"
 
 msgid "Access"
 msgstr "Åtkomst"
@@ -842,19 +842,19 @@ msgid "Accounts"
 msgstr "Konton"
 
 msgid "Acoustic Level"
-msgstr ""
+msgstr "Ljudnivå"
 
 msgid "Action Requires Administrator Confirmation"
-msgstr ""
+msgstr "Åtgärden kräver administratörsbekräftelse"
 
 msgid "Actions"
-msgstr ""
+msgstr "Åtgärder"
 
 msgid "Activate"
-msgstr ""
+msgstr "Aktivera"
 
 msgid "Activate KMIP configuration and begin syncing keys with the KMIP server."
-msgstr ""
+msgstr "Aktivera KMIP-konfigurationen och börja synkronisera nycklar med KMIP-servern."
 
 msgid "Activate this Boot Environment?"
 msgstr "Aktivera denna startmiljö?"
@@ -882,7 +882,7 @@ msgid "Activates the replication schedule."
 msgstr "Aktiverar replikeringsschemat."
 
 msgid "Active"
-msgstr ""
+msgstr "Aktiv"
 
 msgid "Active Directory"
 msgstr "Active Directory"
@@ -897,16 +897,16 @@ msgid "Active Directory must be enabled before adding new domains."
 msgstr "Active Directory måste vara aktiverat innan nya domäner läggs till."
 
 msgid "Active Media Subtype"
-msgstr ""
+msgstr "Aktiv medieundertyp"
 
 msgid "Active Media Type"
-msgstr ""
+msgstr "Aktiv medietyp"
 
 msgid "Adapter Type"
-msgstr ""
+msgstr "Adaptertyp"
 
 msgid "Adapter Type:"
-msgstr ""
+msgstr "Adaptertyp:"
 
 msgid "Add"
 msgstr "Lägg till"
@@ -1015,10 +1015,10 @@ msgid "Adding Vdevs to an encrypted pool resets the passphrase and recovery key!
 msgstr "Om vdev-enheter läggs till i en krypterad pool återställs lösenfrasen och återställningsnyckeln!"
 
 msgid "Adding data vdevs of different types is not supported."
-msgstr ""
+msgstr "Det går inte att lägga till data-vdev:er av olika typer."
 
 msgid "Adding data vdevs with different numbers of disks is not recommended."
-msgstr ""
+msgstr "Det rekommenderas inte att lägga till data-vdev:er med olika antal diskar."
 
 msgid ""
 "Additional      <a href=\"https://rsync.samba.org/ftp/rsync/rsync.html\" "
@@ -1149,37 +1149,37 @@ msgid "Administrators Group"
 msgstr "Administratörsgrupp"
 
 msgid "Adv. Power Management"
-msgstr ""
+msgstr "Avancerad strömhantering"
 
 msgid "Advanced"
 msgstr "Avancerat"
 
 msgid "Advanced Details"
-msgstr ""
+msgstr "Avancerad information"
 
 msgid "Advanced Jail Creation"
 msgstr "Avancerat skapande av jail-miljö"
 
 msgid "Advanced Mode"
-msgstr ""
+msgstr "Avancerat läge"
 
 msgid "Advanced Options"
-msgstr ""
+msgstr "Avancerade alternativ"
 
 msgid "Advanced Plugin Installation"
 msgstr "Avancerad installation av insticksprogram"
 
 msgid "Advanced Power Management"
-msgstr ""
+msgstr "Avancerad strömhantering"
 
 msgid "Advanced Remote Options"
-msgstr ""
+msgstr "Avancerade fjärralternativ"
 
 msgid "Advanced Replication Creation"
 msgstr "Avancerat skapande av replikering"
 
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Avancerade inställningar"
 
 msgid ""
 "After entering the <b>Hostname, Username</b>, and <b>Password</b>, click "
@@ -1187,7 +1187,7 @@ msgid ""
 msgstr ""
 
 msgid "Alarms"
-msgstr ""
+msgstr "Larm"
 
 msgid "Alert"
 msgstr "Larm"
@@ -1202,7 +1202,7 @@ msgid "Alerts"
 msgstr "Larm"
 
 msgid "Algorithm"
-msgstr ""
+msgstr "Algoritm"
 
 msgid ""
 "Alias for the identical interface  on the other TrueNAS controller. The "
@@ -1210,13 +1210,13 @@ msgid ""
 msgstr ""
 
 msgid "Aliases"
-msgstr ""
+msgstr "Alias"
 
 msgid "Aliases must be 15 characters or less."
-msgstr ""
+msgstr "Alias får innehålla högst 15 tecken."
 
 msgid "All Disks"
-msgstr ""
+msgstr "Alla diskar"
 
 msgid ""
 "All built-in groups are  hidden by default. Use the gear icon (top-right) "
@@ -1234,13 +1234,13 @@ msgid ""
 msgstr ""
 
 msgid "All dirs"
-msgstr ""
+msgstr "Alla kataloger"
 
 msgid "All passwords, keys, secrets are encrypted and need this to be decrypted"
-msgstr ""
+msgstr "Alla lösenord, nycklar och hemligheter är krypterade och behöver detta för att dekrypteras"
 
 msgid "All users"
-msgstr ""
+msgstr "Alla användare"
 
 msgid "Allocate RAM for the VM. Minimum value is 256 MiB."
 msgstr "Tilldela RAM-minne till den virtuella datorn. Minsta värdet är 256 MiB."
@@ -1249,7 +1249,7 @@ msgid "Allocate a number of megabytes of RAM to the VM."
 msgstr "Tilldela den virtuella datorn ett antal megabyte RAM-minne."
 
 msgid "Allocate at least 256 MiB."
-msgstr ""
+msgstr "Tilldela minst 256 MiB."
 
 msgid "Allocate space for the new zvol."
 msgstr "Tilldela utrymme för den nya zvolymen."
@@ -3421,10 +3421,10 @@ msgid "Criticality"
 msgstr "Allvarlighetsgrad"
 
 msgid "Cron Job"
-msgstr ""
+msgstr "Cron-jobb"
 
 msgid "Cron Jobs"
-msgstr ""
+msgstr "Cron-jobb"
 
 msgid ""
 "Cryptographic protocols for securing client/server connections. Select "
@@ -3637,7 +3637,7 @@ msgid "Days of the Week"
 msgstr ""
 
 msgid "Days when this task will run."
-msgstr ""
+msgstr "Dagar då uppgiften körs."
 
 msgid ""
 "De-duplication tables are stored on this special vdev type. These vdevs "
@@ -4674,7 +4674,7 @@ msgid "Enable this service to start automatically."
 msgstr "Aktivera att denna tjänst startar automatiskt."
 
 msgid "Enable this task. Unset to disable the task     without deleting it."
-msgstr ""
+msgstr "Aktivera denna uppgift. Avmarkera för att inaktivera uppgiften utan att ta bort den."
 
 msgid "Enable this tunable. Unset to disable this tunable without deleting it."
 msgstr ""
@@ -4928,7 +4928,7 @@ msgid "Enter a description of the Cloud Sync Task."
 msgstr "Ange en beskrivning av molnsynkroniseringsuppgiften."
 
 msgid "Enter a description of the cron job."
-msgstr ""
+msgstr "Ange en beskrivning av cron-jobbet."
 
 msgid "Enter a description of the interface."
 msgstr "Ange en beskrivning av gränssnittet."
@@ -6528,7 +6528,7 @@ msgid "Hours"
 msgstr ""
 
 msgid "Hours when this task will run."
-msgstr ""
+msgstr "Timmar då uppgiften körs."
 
 msgid "Hours/Days"
 msgstr ""
@@ -7914,7 +7914,7 @@ msgid ""
 msgstr ""
 
 msgid "Minutes when this task will run."
-msgstr ""
+msgstr "Minuter då uppgiften körs."
 
 msgid "Mirror"
 msgstr ""
@@ -8397,7 +8397,7 @@ msgid "No interfaces configured with Virtual IP."
 msgstr "Inga gränssnitt är konfigurerade med virtuell IP-adress."
 
 msgid "No logs are available for this task."
-msgstr ""
+msgstr "Inga loggar är tillgängliga för denna uppgift."
 
 msgid "No longer keep this Boot Environment?"
 msgstr ""
@@ -8664,7 +8664,7 @@ msgid "Online disk "
 msgstr "Anslut disk "
 
 msgid "Only Replicate Snapshots Matching Schedule"
-msgstr ""
+msgstr "Replikera endast ögonblicksbilder som matchar schemat"
 
 msgid ""
 "Only appears if <i>Device</i> is selected. Select the unformatted disk, "
@@ -10063,7 +10063,7 @@ msgid "Run Now"
 msgstr ""
 
 msgid "Run On a Schedule"
-msgstr ""
+msgstr "Kör enligt ett schema"
 
 msgid "Run Once"
 msgstr ""
