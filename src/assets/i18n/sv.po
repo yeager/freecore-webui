@@ -251,7 +251,7 @@ msgid "</i> updated."
 msgstr ""
 
 msgid "</i>. Data on the pool will not be accessible until the pool is unlocked."
-msgstr ""
+msgstr "</i>. Data i poolen blir inte åtkomliga förrän poolen har låsts upp."
 
 msgid ""
 "</i>. Data on the pool will not be available after export. Data on the pool "
@@ -1831,7 +1831,7 @@ msgid "Autoconfigure IPv6 with rtsold"
 msgstr ""
 
 msgid "Automatic scrub interval (in days)"
-msgstr ""
+msgstr "Intervall för automatisk skrubbning (i dagar)"
 
 msgid ""
 "Automatically populated with the original hostname of the system. This name "
@@ -2798,7 +2798,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose the type that matches the type of client accessing the pool/dataset."
-msgstr ""
+msgstr "Välj den typ som motsvarar typen av klient som har åtkomst till poolen/datamängden."
 
 msgid ""
 "Choose to either use a custom-defined remote module  of the rsync server or "
@@ -3660,7 +3660,7 @@ msgid "Decipher Only"
 msgstr ""
 
 msgid "Decrypt pool"
-msgstr ""
+msgstr "Dekryptera pool"
 
 msgid "Decrypting Disks"
 msgstr ""
@@ -3862,7 +3862,7 @@ msgid "Delete Zvol"
 msgstr "Ta bort Zvol"
 
 msgid "Delete configuration of shares that used this pool?"
-msgstr ""
+msgstr "Ta bort konfigurationen för delningar som använde denna pool?"
 
 msgid ""
 "Delete files in the destination directory                that do not exist "
@@ -3876,7 +3876,7 @@ msgid "Delete selections"
 msgstr "Ta bort markeringar"
 
 msgid "Delete snapshot "
-msgstr ""
+msgstr "Ta bort ögonblicksbild "
 
 msgid ""
 "Delete the passphrase from  the encryption key. Invalidates an existing "
@@ -3941,7 +3941,7 @@ msgid "Describe the VM or its purpose."
 msgstr "Beskriv den virtuella datorn eller dess syfte."
 
 msgid "Describe the scrub task."
-msgstr ""
+msgstr "Beskriv skrubbningsuppgiften."
 
 msgid "Describe this module."
 msgstr ""
@@ -3992,7 +3992,7 @@ msgid "Destination Path"
 msgstr "Målsökväg"
 
 msgid "Destination Snapshot Lifetime"
-msgstr ""
+msgstr "Livslängd för målögonblicksbild"
 
 msgid "Destination Snapshots Are Not Related to Replicated Snapshots"
 msgstr ""
@@ -4005,7 +4005,7 @@ msgid ""
 msgstr ""
 
 msgid "Destroy data on this pool?"
-msgstr ""
+msgstr "Förstöra data i denna pool?"
 
 msgid "Detach"
 msgstr "Koppla från"
@@ -4276,7 +4276,7 @@ msgid "Docker Host"
 msgstr "Docker-värd"
 
 msgid "Does the pool have GELI Encryption from FreeNAS/TrueNAS 11.3 or earlier?"
-msgstr ""
+msgstr "Har poolen GELI-kryptering från FreeNAS/TrueNAS 11.3 eller tidigare?"
 
 msgid "Does your business need"
 msgstr ""
@@ -4433,7 +4433,7 @@ msgid "Edit Permissions"
 msgstr ""
 
 msgid "Edit Pool Options for "
-msgstr ""
+msgstr "Redigera poolalternativ för "
 
 msgid "Edit Share ACL"
 msgstr "Redigera delnings-ACL"
@@ -4442,7 +4442,7 @@ msgid "Edit User"
 msgstr "Redigera användare"
 
 msgid "Edit Zvol"
-msgstr ""
+msgstr "Redigera zvolym"
 
 msgid "Editing interfaces while HA is enabled is not allowed."
 msgstr ""
@@ -5249,7 +5249,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter or paste a string to use as the encryption key for this dataset."
-msgstr ""
+msgstr "Ange eller klistra in en sträng att använda som krypteringsnyckel för denna datamängd."
 
 msgid "Enter or paste an Authentication token."
 msgstr ""
@@ -5302,7 +5302,7 @@ msgid "Enter or select the cloud storage location to use for this task."
 msgstr ""
 
 msgid "Enter passphrase to lock pool "
-msgstr ""
+msgstr "Ange lösenfras för att låsa pool "
 
 msgid "Enter password."
 msgstr ""
@@ -5437,7 +5437,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the filesystem to snapshot."
-msgstr ""
+msgstr "Ange filsystemet att skapa en ögonblicksbild av."
 
 msgid "Enter the full path to the command or script to                be run."
 msgstr "Ange den fullständiga sökvägen till kommandot eller skriptet som ska köras."
@@ -5468,7 +5468,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the name of the Key Distribution Center."
-msgstr ""
+msgstr "Ange namnet på Key Distribution Center."
 
 msgid ""
 "Enter the name of the Virtual Interface. Use the format <i>vlanX</i> where "
@@ -5494,13 +5494,13 @@ msgid "Enter the name of the realm."
 msgstr ""
 
 msgid "Enter the new encryption key passphrase."
-msgstr ""
+msgstr "Ange den nya lösenfrasen för krypteringsnyckeln."
 
 msgid "Enter the numeric tag configured in the switched network."
 msgstr ""
 
 msgid "Enter the passphrase for the Private Key."
-msgstr ""
+msgstr "Ange lösenfrasen för den privata nyckeln."
 
 msgid "Enter the password associated with <b>Username</b>."
 msgstr ""
@@ -5718,10 +5718,10 @@ msgid "Execute"
 msgstr "Kör"
 
 msgid "Expand Pool"
-msgstr ""
+msgstr "Utöka pool"
 
 msgid "Expand pool "
-msgstr ""
+msgstr "Utöka pool "
 
 msgid "Expand pool to fit all available disk space."
 msgstr "Utöka poolen så att den använder allt tillgängligt diskutrymme."
@@ -5874,10 +5874,10 @@ msgid "Fetch Method"
 msgstr ""
 
 msgid "Fetching Encryption Summary"
-msgstr ""
+msgstr "Hämtar krypteringssammanfattning"
 
 msgid "Fetching Encryption Summary for "
-msgstr ""
+msgstr "Hämtar krypteringssammanfattning för "
 
 msgid "Fibre Channel "
 msgstr ""
@@ -5904,7 +5904,7 @@ msgid "File upload complete"
 msgstr ""
 
 msgid "Filename Encryption"
-msgstr ""
+msgstr "Filnamnskryptering"
 
 msgid ""
 "Files are split into chunks of this size  before upload. The number of "
@@ -6162,7 +6162,7 @@ msgid "Generate Encryption Key"
 msgstr "Generera krypteringsnyckel"
 
 msgid "Generate Key"
-msgstr ""
+msgstr "Generera nyckel"
 
 msgid "Generate Keypair"
 msgstr ""
@@ -6446,7 +6446,7 @@ msgid "Host name of second TrueNAS controller."
 msgstr ""
 
 msgid "Host name or IP address of the central key server."
-msgstr ""
+msgstr "Värdnamn eller IP-adress för den centrala nyckelservern."
 
 msgid "HostName"
 msgstr ""
@@ -6913,7 +6913,7 @@ msgid "Inherit Only"
 msgstr ""
 
 msgid "Inherit encryption properties from parent"
-msgstr ""
+msgstr "Ärv krypteringsegenskaper från överordnad"
 
 msgid "Inherited"
 msgstr ""
@@ -7076,7 +7076,7 @@ msgid ""
 msgstr ""
 
 msgid "Invalidate Existing Key"
-msgstr ""
+msgstr "Ogiltigförklara befintlig nyckel"
 
 msgid "Is Debug"
 msgstr ""
@@ -7184,7 +7184,7 @@ msgid "Keep"
 msgstr ""
 
 msgid "Keep snapshot for"
-msgstr ""
+msgstr "Behåll ögonblicksbild i"
 
 msgid ""
 "Keep the name short. Using a name longer than 63 characters can prevent "
@@ -7348,7 +7348,7 @@ msgid "Language code"
 msgstr ""
 
 msgid "Last Scrub Run on"
-msgstr ""
+msgstr "Senaste skrubbning kördes den"
 
 msgid "Leave Domain"
 msgstr ""
@@ -7616,10 +7616,10 @@ msgid "Manage Custom Themes"
 msgstr ""
 
 msgid "Manage Recovery Key"
-msgstr ""
+msgstr "Hantera återställningsnyckel"
 
 msgid "Manage SED Passwords"
-msgstr ""
+msgstr "Hantera SED-lösenord"
 
 msgid "Manage Services and Continue"
 msgstr ""
@@ -7787,10 +7787,10 @@ msgid "Medium"
 msgstr ""
 
 msgid "Member Disk"
-msgstr ""
+msgstr "Medlemsdisk"
 
 msgid "Member disk"
-msgstr ""
+msgstr "Medlemsdisk"
 
 msgid "Members"
 msgstr ""
@@ -8142,7 +8142,7 @@ msgid ""
 msgstr ""
 
 msgid "Name of the new dataset created from the  cloned snapshot."
-msgstr ""
+msgstr "Namn på den nya datamängden som skapas från den klonade ögonblicksbilden."
 
 msgid "Name of the room."
 msgstr ""
@@ -8316,7 +8316,7 @@ msgid "Never Delete"
 msgstr ""
 
 msgid "New Disk"
-msgstr ""
+msgstr "Ny disk"
 
 msgid "New Password"
 msgstr ""
@@ -8325,7 +8325,7 @@ msgid "New Primary Group"
 msgstr ""
 
 msgid "New Static Key Settings"
-msgstr ""
+msgstr "Nya inställningar för statisk nyckel"
 
 msgid ""
 "New users are not given <b>su</b> permissions if <i>wheel</i> is their "
@@ -8354,7 +8354,7 @@ msgid "No Communication Warning Time"
 msgstr ""
 
 msgid "No Encryption (less secure, but faster)"
-msgstr ""
+msgstr "Ingen kryptering (mindre säkert, men snabbare)"
 
 msgid "No Inherit"
 msgstr ""
@@ -8453,7 +8453,7 @@ msgid "Notes"
 msgstr ""
 
 msgid "Notes about this disk."
-msgstr ""
+msgstr "Anteckningar om denna disk."
 
 msgid "Notes about this extent."
 msgstr ""
@@ -8628,10 +8628,10 @@ msgid "Offline"
 msgstr ""
 
 msgid "Offline Disk"
-msgstr ""
+msgstr "Koppla från disk"
 
 msgid "Offline disk "
-msgstr ""
+msgstr "Koppla från disk "
 
 msgid "Ok"
 msgstr ""
@@ -8658,10 +8658,10 @@ msgid "Online"
 msgstr ""
 
 msgid "Online Disk"
-msgstr ""
+msgstr "Anslut disk"
 
 msgid "Online disk "
-msgstr ""
+msgstr "Anslut disk "
 
 msgid "Only Replicate Snapshots Matching Schedule"
 msgstr ""
@@ -9048,7 +9048,7 @@ msgid "Performs authentication from an LDAP server."
 msgstr ""
 
 msgid "Periodic Snapshot Tasks"
-msgstr ""
+msgstr "Periodiska ögonblicksbildsuppgifter"
 
 msgid "Permission"
 msgstr "Behörighet"
@@ -9075,7 +9075,7 @@ msgid "PiB"
 msgstr ""
 
 msgid "Plain (No Encryption)"
-msgstr ""
+msgstr "Okrypterad (ingen kryptering)"
 
 msgid "Platform"
 msgstr ""
@@ -9299,7 +9299,7 @@ msgid "Preview"
 msgstr ""
 
 msgid "Preview JSON Service Account Key"
-msgstr ""
+msgstr "Förhandsvisa JSON-nyckel för tjänstkonto"
 
 msgid "Previous"
 msgstr "Föregående"
