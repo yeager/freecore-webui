@@ -14336,7 +14336,7 @@ msgid "Waiting for active TrueNAS controller to come up..."
 msgstr "Väntar på att den aktiva TrueNAS-styrenheten ska starta …"
 
 msgid "Wallclock time in seconds."
-msgstr ""
+msgstr "Verklig tid i sekunder."
 
 msgid "Warn"
 msgstr ""
@@ -14354,7 +14354,7 @@ msgid "Warning: iSCSI Target is already in use.</font><br>"
 msgstr "Varning: iSCSI-målet används redan.</font><br>"
 
 msgid "Weak Ciphers"
-msgstr ""
+msgstr "Svaga chiffer"
 
 msgid "Web Interface"
 msgstr "Webbgränssnitt"
@@ -14405,16 +14405,16 @@ msgid "Wed"
 msgstr ""
 
 msgid "Weekly"
-msgstr ""
+msgstr "Varje vecka"
 
 msgid "Weeks"
 msgstr ""
 
 msgid "Welcome to your new NAS"
-msgstr ""
+msgstr "Välkommen till din nya NAS"
 
 msgid "What and Where"
-msgstr ""
+msgstr "Vad och var"
 
 msgid "When"
 msgstr ""
@@ -14487,7 +14487,7 @@ msgid ""
 msgstr ""
 
 msgid "When set, report CPU usage in percent  instead of units of kernel time."
-msgstr ""
+msgstr "När detta är angivet rapporteras processoranvändning i procent i stället för enheter av kärntid."
 
 msgid ""
 "When set, rsync is run recursively, preserving                symlinks, "
@@ -14536,19 +14536,19 @@ msgid ""
 msgstr ""
 
 msgid "Widget Base Class"
-msgstr ""
+msgstr "Basklass för widget"
 
 msgid "Winbind NSS Info"
-msgstr ""
+msgstr "Winbind NSS-information"
 
 msgid "Window"
-msgstr ""
+msgstr "Fönster"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "Windows Shares (SMB)"
-msgstr ""
+msgstr "Windows-delningar (SMB)"
 
 msgid "Wipe"
 msgstr "Radera"
@@ -14560,13 +14560,13 @@ msgid "Wipe this disk?"
 msgstr "Radera denna disk?"
 
 msgid "Wiping disk..."
-msgstr ""
+msgstr "Rensar disk …"
 
 msgid "Workgroup"
-msgstr ""
+msgstr "Arbetsgrupp"
 
 msgid "Would you like to add a Service Principal Name (SPN) now?"
-msgstr ""
+msgstr "Vill du lägga till ett tjänsthuvudnamn (SPN) nu?"
 
 msgid "Write"
 msgstr "Skriv"
@@ -14596,7 +14596,7 @@ msgid "Write a percentage limit of a single CPU core."
 msgstr "Ange en procentgräns för en enskild processorkärna."
 
 msgid "Xen initiator compat mode"
-msgstr ""
+msgstr "Kompatibilitetsläge för Xen-initierare"
 
 msgid ""
 "Yandex  <a "
@@ -14608,28 +14608,28 @@ msgid "Years"
 msgstr ""
 
 msgid "Yellow"
-msgstr ""
+msgstr "Gul"
 
 msgid "Yes"
 msgstr ""
 
 msgid "Yes I understand the risks"
-msgstr ""
+msgstr "Ja, jag förstår riskerna"
 
 msgid "Yes, decrypt the disks"
-msgstr ""
+msgstr "Ja, dekryptera diskarna"
 
 msgid "You are replicating the following encrypted datasets: "
-msgstr ""
+msgstr "Du replikerar följande krypterade datamängder: "
 
 msgid "You can clear reporting database and start data collection immediately."
-msgstr ""
+msgstr "Du kan rensa rapporteringsdatabasen och starta datainsamlingen direkt."
 
 msgid "You have left the domain."
-msgstr ""
+msgstr "Du har lämnat domänen."
 
 msgid "You have successfully added credentials."
-msgstr ""
+msgstr "Autentiseringsuppgifterna lades till."
 
 msgid "ZFS"
 msgstr "ZFS"
@@ -14668,16 +14668,16 @@ msgid ""
 msgstr ""
 
 msgid "Zero Device Numbers"
-msgstr ""
+msgstr "Nollställ enhetsnummer"
 
 msgid "Zvol Actions"
-msgstr ""
+msgstr "Zvolymåtgärder"
 
 msgid "Zvol Location"
-msgstr ""
+msgstr "Zvolymsplats"
 
 msgid "Zvol name"
-msgstr ""
+msgstr "Zvolymnamn"
 
 msgid ""
 "[Use fewer transactions in exchange for more "
@@ -14737,19 +14737,19 @@ msgid "allow_vmm"
 msgstr ""
 
 msgid "are the best place to ask questions and interact with fellow TrueNAS"
-msgstr ""
+msgstr "är bästa platsen för att ställa frågor och ha kontakt med andra TrueNAS-användare"
 
 msgid "assign_localhost"
 msgstr ""
 
 msgid "at 00:00 (12:00 AM)"
-msgstr ""
+msgstr "kl. 00:00"
 
 msgid "at the start of each hour"
-msgstr ""
+msgstr "i början av varje timme"
 
 msgid "below to confirm."
-msgstr ""
+msgstr "nedan för att bekräfta."
 
 msgid "boot"
 msgstr ""
@@ -14761,7 +14761,7 @@ msgid "children_max"
 msgstr ""
 
 msgid "click here"
-msgstr ""
+msgstr "klicka här"
 
 msgid "close"
 msgstr ""
@@ -14812,7 +14812,7 @@ msgid "error"
 msgstr "fel"
 
 msgid "everyone@"
-msgstr ""
+msgstr "everyone@"
 
 msgid "exec_clean"
 msgstr ""
@@ -14851,10 +14851,10 @@ msgid "exec_timeout"
 msgstr ""
 
 msgid "expires in"
-msgstr ""
+msgstr "går ut om"
 
 msgid "gathering info..."
-msgstr ""
+msgstr "samlar in information …"
 
 msgid "group"
 msgstr "grupp"
@@ -14863,10 +14863,10 @@ msgid "group@"
 msgstr "grupp@"
 
 msgid "gzip (default level, 6)"
-msgstr ""
+msgstr "gzip (standardnivå, 6)"
 
 msgid "gzip (fastest)"
-msgstr ""
+msgstr "gzip (snabbast)"
 
 msgid "gzip (maximum, slow)"
 msgstr ""
