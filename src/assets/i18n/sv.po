@@ -1612,7 +1612,7 @@ msgid "Apply"
 msgstr "Tillämpa"
 
 msgid "Apply Failover Upgrade"
-msgstr ""
+msgstr "Tillämpa redundansväxlingsuppgradering"
 
 msgid "Apply Group"
 msgstr "Tillämpa grupp"
@@ -1872,7 +1872,7 @@ msgid "Available Disks"
 msgstr ""
 
 msgid "Available Memory:"
-msgstr ""
+msgstr "Tillgängligt minne:"
 
 msgid "Available Plugins"
 msgstr ""
@@ -2232,16 +2232,16 @@ msgid "CPU"
 msgstr "CPU"
 
 msgid "CPU Details"
-msgstr ""
+msgstr "CPU-detaljer"
 
 msgid "CPU Usage"
-msgstr ""
+msgstr "CPU-användning"
 
 msgid "CPU and Memory"
-msgstr ""
+msgstr "CPU och minne"
 
 msgid "CPUs and Memory"
-msgstr ""
+msgstr "CPU:er och minne"
 
 msgid "CRL Sign"
 msgstr ""
@@ -2354,7 +2354,7 @@ msgid "Change Administrator Password"
 msgstr "Byt administratörslösenord"
 
 msgid "Change Device Order"
-msgstr ""
+msgstr "Ändra enhetsordning"
 
 msgid "Change Enclosure Label"
 msgstr ""
@@ -2449,7 +2449,7 @@ msgid ""
 msgstr ""
 
 msgid "Check the box for full upgrade. Leave unchecked to download only."
-msgstr ""
+msgstr "Markera rutan för fullständig uppgradering. Lämna den omarkerad för att endast hämta."
 
 msgid "Check the network connection."
 msgstr "Kontrollera nätverksanslutningen."
@@ -2539,7 +2539,7 @@ msgid "Choose a DNS provider and configure any required authenticator attributes
 msgstr ""
 
 msgid "Choose a Device"
-msgstr ""
+msgstr "Välj en enhet"
 
 msgid "Choose a cipher algorithm to encrypt data channel packets."
 msgstr ""
@@ -2554,10 +2554,10 @@ msgid "Choose a connection that has been saved in  <b>System > SSH Connections</
 msgstr "Välj en anslutning som har sparats under <b>System > SSH-anslutningar</b>."
 
 msgid "Choose a date"
-msgstr ""
+msgstr "Välj ett datum"
 
 msgid "Choose a date format."
-msgstr ""
+msgstr "Välj ett datumformat."
 
 msgid "Choose a device for your report."
 msgstr "Välj en enhet för rapporten."
@@ -2631,7 +2631,7 @@ msgid ""
 msgstr "Välj en tillfällig plats för krypteringsnyckeln som ska dekryptera replikerade data."
 
 msgid "Choose a time format."
-msgstr ""
+msgstr "Välj ett tidsformat."
 
 msgid "Choose a topbar color."
 msgstr ""
@@ -2909,7 +2909,7 @@ msgid "Clone"
 msgstr ""
 
 msgid "Clone Boot Environment"
-msgstr ""
+msgstr "Klona startmiljö"
 
 msgid "Clone to New Dataset"
 msgstr ""
@@ -3021,7 +3021,7 @@ msgid "Compatability"
 msgstr ""
 
 msgid "Complete the Upgrade"
-msgstr ""
+msgstr "Slutför uppgraderingen"
 
 msgid "Completed"
 msgstr ""
@@ -3091,7 +3091,7 @@ msgid "Confirm"
 msgstr ""
 
 msgid "Confirm Export/Disconnect"
-msgstr ""
+msgstr "Bekräfta export/frånkoppling"
 
 msgid "Confirm Failover"
 msgstr ""
@@ -3262,7 +3262,7 @@ msgid "Cores"
 msgstr ""
 
 msgid "Could not delete boot environment."
-msgstr ""
+msgstr "Det gick inte att ta bort startmiljön."
 
 msgid "Could not extend Vdev."
 msgstr ""
@@ -3274,7 +3274,7 @@ msgid "Could not find a user name for this user ID."
 msgstr "Det gick inte att hitta något användarnamn för detta användar-ID."
 
 msgid "Could not replace disk."
-msgstr ""
+msgstr "Det gick inte att ersätta disken."
 
 msgid "Country"
 msgstr ""
@@ -3610,7 +3610,7 @@ msgid "Date"
 msgstr "Datum"
 
 msgid "Date Format"
-msgstr ""
+msgstr "Datumformat"
 
 msgid "Day of Month"
 msgstr ""
@@ -4014,7 +4014,7 @@ msgid "Detach Disk"
 msgstr "Koppla från disk"
 
 msgid "Detach disk "
-msgstr ""
+msgstr "Koppla från disk "
 
 msgid "Details"
 msgstr ""
@@ -4066,25 +4066,25 @@ msgid ""
 msgstr ""
 
 msgid "Device"
-msgstr ""
+msgstr "Enhet"
 
 msgid "Device Attached"
-msgstr ""
+msgstr "Enhet ansluten"
 
 msgid "Device Busy"
-msgstr ""
+msgstr "Enheten är upptagen"
 
 msgid "Device ID"
-msgstr ""
+msgstr "Enhets-ID"
 
 msgid "Device Order"
-msgstr ""
+msgstr "Enhetsordning"
 
 msgid "Device Type"
-msgstr ""
+msgstr "Enhetstyp"
 
 msgid "Device detached "
-msgstr ""
+msgstr "Enheten har kopplats från "
 
 msgid "Devices"
 msgstr ""
@@ -4138,7 +4138,7 @@ msgid "Disable FreeNAS Cache"
 msgstr ""
 
 msgid "Disable Hardware Offloading"
-msgstr ""
+msgstr "Inaktivera hårdvaruavlastning"
 
 msgid ""
 "Disable IPv4 source address selection for  the jail in favor of the primary "
@@ -4258,7 +4258,7 @@ msgid "Display System Processes"
 msgstr "Visa systemprocesser"
 
 msgid "Display console messages in real time at the bottom of the browser."
-msgstr ""
+msgstr "Visa konsolmeddelanden i realtid längst ned i webbläsaren."
 
 msgid "Distinguished Name"
 msgstr ""
@@ -4409,10 +4409,10 @@ msgid "Edit Alert Service"
 msgstr "Redigera larmtjänst"
 
 msgid "Edit Disk"
-msgstr ""
+msgstr "Redigera disk"
 
 msgid "Edit Disk(s)"
-msgstr ""
+msgstr "Redigera disk(ar)"
 
 msgid "Edit Encryption Options for "
 msgstr "Redigera krypteringsalternativ för "
@@ -4694,7 +4694,7 @@ msgstr ""
 "testats utan problem i gränssnittet."
 
 msgid "Enable when the device number is inconstant across a reboot."
-msgstr ""
+msgstr "Aktivera när enhetsnumret inte är konsekvent efter en omstart."
 
 msgid "Enable/disable TLS Web Client Authentication."
 msgstr ""
@@ -5443,10 +5443,10 @@ msgid "Enter the full path to the command or script to                be run."
 msgstr "Ange den fullständiga sökvägen till kommandot eller skriptet som ska köras."
 
 msgid "Enter the hostname or IP address of the <b>NTP</b>   server."
-msgstr ""
+msgstr "Ange värdnamnet eller IP-adressen för <b>NTP</b>-servern."
 
 msgid "Enter the hostname or IP address of the <b>NTP</b> server."
-msgstr ""
+msgstr "Ange värdnamnet eller IP-adressen för <b>NTP</b>-servern."
 
 msgid "Enter the hostname to connect to."
 msgstr ""
@@ -5724,10 +5724,10 @@ msgid "Expand pool "
 msgstr ""
 
 msgid "Expand pool to fit all available disk space."
-msgstr ""
+msgstr "Utöka poolen så att den använder allt tillgängligt diskutrymme."
 
 msgid "Expiration Date"
-msgstr ""
+msgstr "Utgångsdatum"
 
 msgid "Export"
 msgstr "Exportera"
@@ -5766,7 +5766,7 @@ msgid ""
 msgstr ""
 
 msgid "Export dataset keys which can be used to unlock datasets for "
-msgstr ""
+msgstr "Exportera datamängdsnycklar som kan användas för att låsa upp datamängder för "
 
 msgid "Export/Disconnect"
 msgstr "Exportera/koppla från"
@@ -5775,7 +5775,7 @@ msgid "Export/Disconnect Pool"
 msgstr "Exportera/koppla från pool"
 
 msgid "Export/disconnect pool: '"
-msgstr ""
+msgstr "Exportera/koppla från pool: '"
 
 msgid "Exporting Pool"
 msgstr "Exporterar pool"
@@ -5951,16 +5951,16 @@ msgid "Finding Pools"
 msgstr ""
 
 msgid "Finding pools to import..."
-msgstr ""
+msgstr "Söker efter pooler att importera ..."
 
 msgid "Finish Upgrade?"
-msgstr ""
+msgstr "Slutföra uppgraderingen?"
 
 msgid "Finished"
 msgstr ""
 
 msgid "Finished Time:"
-msgstr ""
+msgstr "Sluttid:"
 
 msgid "Fix Credential"
 msgstr ""
@@ -6056,10 +6056,10 @@ msgid "FreeBSD"
 msgstr ""
 
 msgid "FreeBSD device names of each disk being edited."
-msgstr ""
+msgstr "FreeBSD-enhetsnamn för varje disk som redigeras."
 
 msgid "FreeBSD disk device name."
-msgstr ""
+msgstr "FreeBSD-enhetsnamn för disken."
 
 msgid ""
 "FreeBSD release to use as the jail operating system.  Jails can run FreeBSD "
@@ -6892,7 +6892,7 @@ msgid ""
 msgstr ""
 
 msgid "InfluxDB time series name for collected points."
-msgstr ""
+msgstr "InfluxDB-tidsserienamn för insamlade punkter."
 
 msgid "Info"
 msgstr ""
@@ -6987,7 +6987,7 @@ msgid "Install"
 msgstr ""
 
 msgid "Install Manual Update File"
-msgstr ""
+msgstr "Installera manuell uppdateringsfil"
 
 msgid "Installation Media"
 msgstr ""
@@ -7197,7 +7197,7 @@ msgid ""
 msgstr ""
 
 msgid "Keep this Boot Environment?"
-msgstr ""
+msgstr "Behålla denna startmiljö?"
 
 msgid "Kerberos Keytab"
 msgstr "Kerberos-nyckeltabell"
