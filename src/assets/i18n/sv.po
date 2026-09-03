@@ -2259,7 +2259,7 @@ msgid "Cache VDev"
 msgstr "Cache-vdev"
 
 msgid "Caches"
-msgstr ""
+msgstr "Cachar"
 
 msgid ""
 "Can be set to <i>0</i>, left empty for FreeNAS to assign a port when the VM "
@@ -2293,16 +2293,16 @@ msgid "Capacity"
 msgstr "Kapacitet"
 
 msgid "Case Sensitivity"
-msgstr ""
+msgstr "Skiftlägeskänslighet"
 
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 msgid "Caution: "
-msgstr ""
+msgstr "Försiktighet: "
 
 msgid "Caution: A stripe"
-msgstr ""
+msgstr "Försiktighet: En stripe"
 
 msgid ""
 "Caution: Allocating too much memory can slow the  system or prevent VMs "
@@ -2310,7 +2310,7 @@ msgid ""
 msgstr ""
 
 msgid "Cerfiticate"
-msgstr ""
+msgstr "Certifikat"
 
 msgid "Certificate"
 msgstr "Certifikat"
@@ -2399,7 +2399,7 @@ msgid ""
 msgstr ""
 
 msgid "Changes Saved"
-msgstr ""
+msgstr "Ändringar sparade"
 
 msgid ""
 "Changes to <em>Hosts Allow</em> or <em>Hosts Deny</em> take effect when the "
@@ -2407,7 +2407,7 @@ msgid ""
 msgstr ""
 
 msgid "Changing"
-msgstr ""
+msgstr "Ändrar"
 
 msgid ""
 "Changing dataset permission mode can severely affect existing permissions, "
@@ -2423,25 +2423,25 @@ msgid ""
 msgstr ""
 
 msgid "Channel"
-msgstr ""
+msgstr "Kanal"
 
 msgid "Check Interval"
-msgstr ""
+msgstr "Kontrollintervall"
 
 msgid "Check Now"
-msgstr ""
+msgstr "Kontrollera nu"
 
 msgid "Check Release Notes"
-msgstr ""
+msgstr "Kontrollera versionsanteckningar"
 
 msgid "Check for Updates"
-msgstr ""
+msgstr "Sök efter uppdateringar"
 
 msgid "Check for Updates Daily and Download if Available"
-msgstr ""
+msgstr "Sök dagligen efter uppdateringar och hämta om tillgängliga"
 
 msgid "Check me!"
-msgstr ""
+msgstr "Kontrollera mig!"
 
 msgid ""
 "Check the <i>hostid</i> property of the jail. If not the same as the host, "
@@ -2472,19 +2472,19 @@ msgid "CheckIP Path"
 msgstr "CheckIP-sökväg"
 
 msgid "CheckIP Server"
-msgstr ""
+msgstr "CheckIP-server"
 
 msgid "CheckIP Server SSL"
-msgstr ""
+msgstr "SSL för CheckIP-server"
 
 msgid "Checking HA status"
 msgstr "Kontrollerar HA-status"
 
 msgid "Checksum"
-msgstr ""
+msgstr "Kontrollsumma"
 
 msgid "Chmod Request"
-msgstr ""
+msgstr "Chmod-begäran"
 
 msgid ""
 "Choices are <i>2000, 2003, 2008, 2008_R2, 2012,</i> or <i>2012_R2</i>. "
@@ -2495,13 +2495,13 @@ msgid ""
 msgstr ""
 
 msgid "Choices are <i>None, Auto, CHAP,</i> or <i>Mutual CHAP</i>."
-msgstr ""
+msgstr "Alternativen är <i>Ingen, Auto, CHAP</i> eller <i>Ömsesidig CHAP</i>."
 
 msgid "Choose"
-msgstr ""
+msgstr "Välj"
 
 msgid "Choose <i>AES-256</i> or <i>None</i>."
-msgstr ""
+msgstr "Välj <i>AES-256</i> eller <i>Ingen</i>."
 
 msgid ""
 "Choose <i>Master</i> if the UPS is plugged directly into the system serial "
@@ -2518,7 +2518,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose Accent"
-msgstr ""
+msgstr "Välj accent"
 
 msgid "Choose Pool for Plugin and Jail Manager"
 msgstr "Välj pool för hanteraren av insticksprogram och jail-miljöer"
@@ -2527,13 +2527,13 @@ msgid "Choose Pool for Plugin and Jail Storage"
 msgstr "Välj pool för lagring av insticksprogram och jail-miljöer"
 
 msgid "Choose Primary"
-msgstr ""
+msgstr "Välj primär"
 
 msgid "Choose Theme"
-msgstr ""
+msgstr "Välj tema"
 
 msgid "Choose Topbar"
-msgstr ""
+msgstr "Välj topprad"
 
 msgid "Choose a DNS provider and configure any required authenticator attributes."
 msgstr "Välj en DNS-leverantör och konfigurera nödvändiga autentiserarattribut."
@@ -2542,13 +2542,13 @@ msgid "Choose a Device"
 msgstr "Välj en enhet"
 
 msgid "Choose a cipher algorithm to encrypt data channel packets."
-msgstr ""
+msgstr "Välj en chifferalgoritm för att kryptera datapaket i kanalen."
 
 msgid "Choose a color scheme."
-msgstr ""
+msgstr "Välj ett färgschema."
 
 msgid "Choose a compression algorithm."
-msgstr ""
+msgstr "Välj en komprimeringsalgoritm."
 
 msgid "Choose a connection that has been saved in  <b>System > SSH Connections</b>."
 msgstr "Välj en anslutning som har sparats under <b>System > SSH-anslutningar</b>."
@@ -2566,10 +2566,10 @@ msgid "Choose a location to store the installer image file."
 msgstr "Välj en plats för att lagra installationsavbildningen."
 
 msgid "Choose a metric"
-msgstr ""
+msgstr "Välj ett mått"
 
 msgid "Choose a metric to display."
-msgstr ""
+msgstr "Välj ett mått att visa."
 
 msgid ""
 "Choose a new disk for the pool. To protect any existing data, adding the "
@@ -2592,10 +2592,10 @@ msgid "Choose a pool to scrub."
 msgstr "Välj en pool att skrubba."
 
 msgid "Choose a preferred theme."
-msgstr ""
+msgstr "Välj ett föredraget tema."
 
 msgid "Choose a preset"
-msgstr ""
+msgstr "Välj en förinställning"
 
 msgid "Choose a privacy protocol."
 msgstr "Välj ett integritetsprotokoll."
@@ -2634,7 +2634,7 @@ msgid "Choose a time format."
 msgstr "Välj ett tidsformat."
 
 msgid "Choose a topbar color."
-msgstr ""
+msgstr "Välj en färg för toppraden."
 
 msgid ""
 "Choose a valid client certificate which exists on this system and hasn't "
@@ -2655,7 +2655,7 @@ msgid "Choose an alert service to display options for that service."
 msgstr "Välj en larmtjänst för att visa alternativ för den tjänsten."
 
 msgid "Choose an algorithm to authenticate packets."
-msgstr ""
+msgstr "Välj en algoritm för att autentisera paket."
 
 msgid "Choose an authentication method."
 msgstr "Välj en autentiseringsmetod."
@@ -2664,7 +2664,7 @@ msgid "Choose an encryption mode to use with LDAP."
 msgstr "Välj ett krypteringsläge att använda med LDAP."
 
 msgid "Choose an option"
-msgstr ""
+msgstr "Välj ett alternativ"
 
 msgid ""
 "Choose between <i>Internal CA</i>, <i>Intermediate CA</i>, and  <i>Import "
@@ -2712,7 +2712,7 @@ msgid "Choose the VM operating system type."
 msgstr "Välj operativsystemstyp för den virtuella datorn."
 
 msgid "Choose the accent color for the theme."
-msgstr ""
+msgstr "Välj accentfärgen för temat."
 
 msgid ""
 "Choose the backend to map Windows security identifiers (SIDs) to UNIX UIDs "
@@ -2740,7 +2740,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose the primary color for the theme."
-msgstr ""
+msgstr "Välj den primära färgen för temat."
 
 msgid "Choose the protocol to use when connecting with the remote system."
 msgstr "Välj protokollet som ska användas vid anslutning till fjärrsystemet."
@@ -2806,7 +2806,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose when the UPS initiates shutdown."
-msgstr ""
+msgstr "Välj när UPS:en ska initiera avstängning."
 
 msgid ""
 "Choose whether a process in the jail has access to System V IPC primitives. "
@@ -2834,7 +2834,7 @@ msgid ""
 msgstr ""
 
 msgid "Cipher"
-msgstr ""
+msgstr "Chiffer"
 
 msgid ""
 "Classification for each S3 object. Choose a class based on the specific use "
@@ -2864,7 +2864,7 @@ msgid "Clear the SED password for this disk."
 msgstr "Rensa SED-lösenordet för denna disk."
 
 msgid "Clearing Cache..."
-msgstr ""
+msgstr "Rensar cache ..."
 
 msgid ""
 "Click <b>Browse</b> to select an encryption key to upload. This allows the "
@@ -2894,7 +2894,7 @@ msgid "Client Certificate"
 msgstr "Klientcertifikat"
 
 msgid "Client ID"
-msgstr ""
+msgstr "Klient-ID"
 
 msgid "Client Name"
 msgstr ""
