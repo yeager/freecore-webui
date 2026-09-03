@@ -2844,7 +2844,7 @@ msgid "Clear Pending Sync Keys"
 msgstr ""
 
 msgid "Clear SED Password"
-msgstr ""
+msgstr "Rensa SED-lösenord"
 
 msgid ""
 "Clear all keys which are pending to be synced between KMIP server and TN "
@@ -4783,7 +4783,7 @@ msgid "Encryption"
 msgstr "Kryptering"
 
 msgid "Encryption (more secure, but slower)"
-msgstr ""
+msgstr "Kryptering (säkrare, men långsammare)"
 
 msgid "Encryption Actions"
 msgstr ""
@@ -4819,22 +4819,22 @@ msgid "Encryption Options"
 msgstr "Krypteringsalternativ"
 
 msgid "Encryption Options Saved"
-msgstr ""
+msgstr "Krypteringsalternativ sparade"
 
 msgid "Encryption Passphrase"
 msgstr "Krypteringslösenfras"
 
 msgid "Encryption Password"
-msgstr ""
+msgstr "Krypteringslösenord"
 
 msgid "Encryption Protocol"
-msgstr ""
+msgstr "Krypteringsprotokoll"
 
 msgid "Encryption Salt"
-msgstr ""
+msgstr "Krypteringssalt"
 
 msgid "Encryption Type"
-msgstr ""
+msgstr "Krypteringstyp"
 
 msgid ""
 "Encryption is for users storing sensitive data.  Pool-level encryption does "
@@ -6215,7 +6215,7 @@ msgid "Global Settings"
 msgstr ""
 
 msgid "Global password to unlock SEDs."
-msgstr ""
+msgstr "Globalt lösenord för att låsa upp SED-diskar."
 
 msgid "Go Back to Jails"
 msgstr ""
