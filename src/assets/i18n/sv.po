@@ -1658,10 +1658,10 @@ msgid "Apply permissions to child datasets"
 msgstr "Tillämpa behörigheter på underordnade datamängder"
 
 msgid "Apply the same quota critical  alert settings as the parent dataset."
-msgstr ""
+msgstr "Tillämpa samma kritiska kvotlarminställningar som den överordnade datamängden."
 
 msgid "Apply the same quota warning  alert settings as the parent dataset."
-msgstr ""
+msgstr "Tillämpa samma kvotvarningsinställningar som den överordnade datamängden."
 
 msgid "Apply updates and reboot system after downloading."
 msgstr "Tillämpa uppdateringar och starta om systemet efter hämtning."
@@ -6047,7 +6047,7 @@ msgid "Foreground 2"
 msgstr ""
 
 msgid "Form Invalid"
-msgstr ""
+msgstr "Ogiltigt formulär"
 
 msgid "Free"
 msgstr ""
@@ -7040,16 +7040,16 @@ msgid "Interval"
 msgstr ""
 
 msgid "Invalid IP address"
-msgstr ""
+msgstr "Ogiltig IP-adress"
 
 msgid "Invalid credentials. Please try again."
-msgstr ""
+msgstr "Ogiltiga inloggningsuppgifter. Försök igen."
 
 msgid "Invalid dataset."
 msgstr "Ogiltig datamängd."
 
 msgid "Invalid format or character."
-msgstr ""
+msgstr "Ogiltigt format eller tecken."
 
 msgid ""
 "Invalid network address list. Check for typos or missing CIDR netmasks and  "
@@ -7057,13 +7057,13 @@ msgid ""
 msgstr ""
 
 msgid "Invalid option selected"
-msgstr ""
+msgstr "Ogiltigt alternativ har valts"
 
 msgid "Invalid regex filter"
-msgstr ""
+msgstr "Ogiltigt reguljärt filter"
 
 msgid "Invalid value. Missing numerical value or invalid numerical value/unit."
-msgstr ""
+msgstr "Ogiltigt värde. Numeriskt värde saknas eller så är värdet/enheten ogiltig."
 
 msgid ""
 "Invalid value. Valid values are numbers followed by optional unit letters  "
@@ -8531,7 +8531,7 @@ msgid "Number of queued SysV messages allowed for the jail."
 msgstr ""
 
 msgid "Number of retries for failed replications"
-msgstr ""
+msgstr "Antal återförsök för misslyckade replikeringar"
 
 msgid ""
 "Number of seconds before a timeout. Increase this value if AD DNS queries "
@@ -9129,7 +9129,7 @@ msgid "Plugin Name"
 msgstr ""
 
 msgid "Plugin Update Failed"
-msgstr ""
+msgstr "Uppdatering av insticksprogram misslyckades"
 
 msgid "Plugin Updated"
 msgstr ""
@@ -9403,7 +9403,7 @@ msgid ""
 msgstr ""
 
 msgid "Provides a pop-up window of diagnostic information if a fatal error occurs."
-msgstr ""
+msgstr "Visar ett popupfönster med diagnostisk information om ett allvarligt fel uppstår."
 
 msgid "Provisioning URI (includes Secret - Read only):"
 msgstr ""
@@ -9861,31 +9861,31 @@ msgid "Reserved space for this dataset and all children"
 msgstr "Reserverat utrymme för denna datamängd och alla underordnade"
 
 msgid "Reset All Preferences to Default"
-msgstr ""
+msgstr "Återställ alla inställningar till standardvärden"
 
 msgid "Reset Config"
-msgstr ""
+msgstr "Återställ konfiguration"
 
 msgid "Reset Configuration"
-msgstr ""
+msgstr "Återställ konfiguration"
 
 msgid "Reset Encryption"
 msgstr "Återställ kryptering"
 
 msgid "Reset Keys"
-msgstr ""
+msgstr "Återställ nycklar"
 
 msgid "Reset Keys for Pool "
 msgstr "Återställ nycklar för pool "
 
 msgid "Reset Layout"
-msgstr ""
+msgstr "Återställ layout"
 
 msgid "Reset Table Columns to Default"
-msgstr ""
+msgstr "Återställ tabellkolumner till standardvärden"
 
 msgid "Reset all tables to display default columns."
-msgstr ""
+msgstr "Återställ alla tabeller så att standardkolumner visas."
 
 msgid ""
 "Reset all user preferences to their default values. (Custom themes are "
@@ -9893,10 +9893,10 @@ msgid ""
 msgstr ""
 
 msgid "Reset configuration for "
-msgstr ""
+msgstr "Återställ konfiguration för "
 
 msgid "Reset font size to default value"
-msgstr ""
+msgstr "Återställ teckenstorlek till standardvärde"
 
 msgid ""
 "Reset system configuration to default settings. The system  will restart to "
@@ -9911,7 +9911,7 @@ msgid ""
 msgstr "Återställ huvudnyckelkrypteringen som används av denna pool. Det ogiltigförklarar poolens nuvarande krypteringsnyckel, återställningsnyckel och lösenfras. <br /> <br /> Om du klickar på <b>RESET ENCRYPTION</b> skapas en ny krypteringsnyckel och du uppmanas att hämta en säkerhetskopia av den nya nyckeln."
 
 msgid "Reset to Defaults"
-msgstr ""
+msgstr "Återställ till standardvärden"
 
 msgid "Resetting system configuration to default settings. The system will restart."
 msgstr "Återställer systemkonfigurationen till standardinställningarna. Systemet startas om."
@@ -11041,7 +11041,7 @@ msgid "Set Quotas (Bulk)"
 msgstr ""
 
 msgid "Set Warning Level"
-msgstr ""
+msgstr "Ange varningsnivå"
 
 msgid ""
 "Set enable sending messages to the address defined in the <b>Email</b> "
@@ -11796,7 +11796,7 @@ msgid "Show Text Console without Password Prompt"
 msgstr "Visa textkonsol utan lösenordsfråga"
 
 msgid "Show Tracebacks in Case of Fatal Error"
-msgstr ""
+msgstr "Visa stackspårningar vid allvarliga fel"
 
 msgid "Show all available groups, including those that do not have quotas set."
 msgstr ""
@@ -13247,7 +13247,7 @@ msgid ""
 msgstr ""
 
 msgid "This geli-encrypted pool failed to decrypt."
-msgstr ""
+msgstr "Det gick inte att dekryptera denna GELI-krypterade pool."
 
 msgid "This is a production system"
 msgstr "Detta är ett produktionssystem"
@@ -14301,16 +14301,16 @@ msgid "WARNING"
 msgstr "VARNING"
 
 msgid "WARNING: A failover will  temporarily interrupt system services."
-msgstr ""
+msgstr "VARNING: En redundansväxling avbryter systemtjänster tillfälligt."
 
 msgid "WARNING: Based on the pool topology, "
-msgstr ""
+msgstr "VARNING: Baserat på pooltopologin, "
 
 msgid "WARNING: Exporting/disconnecting pool <i>"
-msgstr ""
+msgstr "VARNING: Exporterar/kopplar från pool <i>"
 
 msgid "WARNING: Locking pool <i>"
-msgstr ""
+msgstr "VARNING: Låser pool <i>"
 
 msgid "WARNING: Only the key for the dataset in question will be downloaded."
 msgstr "VARNING: Endast nyckeln för den aktuella datamängden kommer att hämtas."
@@ -14321,7 +14321,7 @@ msgid ""
 msgstr ""
 
 msgid "WARNING: These unknown processes will be terminated while locking the pool."
-msgstr ""
+msgstr "VARNING: Dessa okända processer avslutas när poolen låses."
 
 msgid "WS-Discovery"
 msgstr ""
@@ -14345,10 +14345,10 @@ msgid "Warning"
 msgstr "Varning"
 
 msgid "Warning: There are "
-msgstr ""
+msgstr "Varning: Det finns "
 
 msgid "Warning: You are replicating encrypted dataset(s) "
-msgstr ""
+msgstr "Varning: Du replikerar krypterade datamängder "
 
 msgid "Warning: iSCSI Target is already in use.</font><br>"
 msgstr "Varning: iSCSI-målet används redan.</font><br>"
@@ -15051,7 +15051,7 @@ msgid "pseudoterminals"
 msgstr ""
 
 msgid "reset"
-msgstr ""
+msgstr "återställ"
 
 msgid "resolver"
 msgstr ""
