@@ -5563,10 +5563,10 @@ msgid ""
 msgstr ""
 
 msgid "Enter valid VMware ESXI/vSphere credentials to fetch datastores."
-msgstr ""
+msgstr "Ange giltiga VMware ESXi/vSphere-autentiseringsuppgifter för att hämta datalager."
 
 msgid "Enter valid value"
-msgstr ""
+msgstr "Ange ett giltigt värde"
 
 msgid ""
 "Entering <i>0</i> uses the actual file size and requires that the file "
@@ -5574,10 +5574,10 @@ msgid ""
 msgstr ""
 
 msgid "Enterprise level"
-msgstr ""
+msgstr "Företagsnivå"
 
 msgid "Environment"
-msgstr ""
+msgstr "Miljö"
 
 msgid "Error"
 msgstr "Fel"
@@ -5677,22 +5677,22 @@ msgid ""
 msgstr ""
 
 msgid "Estimated data capacity available after extension."
-msgstr ""
+msgstr "Beräknad tillgänglig datakapacitet efter utökning."
 
 msgid "Estimated raw capacity:"
-msgstr ""
+msgstr "Beräknad rå kapacitet:"
 
 msgid "Estimated total raw data capacity"
-msgstr ""
+msgstr "Beräknad total rå datakapacitet"
 
 msgid "Excellent effort"
-msgstr ""
+msgstr "Utmärkt insats"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Uteslut"
 
 msgid "Exclude Child Datasets"
-msgstr ""
+msgstr "Uteslut underordnade datamängder"
 
 msgid ""
 "Exclude specific child dataset snapshots from  the replication. Use with "
@@ -5787,34 +5787,34 @@ msgid "Expose zilstat via SNMP"
 msgstr "Exponera zilstat via SNMP"
 
 msgid "Extend"
-msgstr ""
+msgstr "Utöka"
 
 msgid "Extend Vdev"
-msgstr ""
+msgstr "Utöka vdev"
 
 msgid "Extended Key Usage"
 msgstr "Utökad nyckelanvändning"
 
 msgid "Extending Vdev"
-msgstr ""
+msgstr "Utökar vdev"
 
 msgid "Extending vdev..."
-msgstr ""
+msgstr "Utökar vdev …"
 
 msgid "Extent"
-msgstr ""
+msgstr "Extent"
 
 msgid "Extent Name"
-msgstr ""
+msgstr "Extentnamn"
 
 msgid "Extent Type"
-msgstr ""
+msgstr "Extenttyp"
 
 msgid "Extents"
-msgstr ""
+msgstr "Extent"
 
 msgid "Extra Users"
-msgstr ""
+msgstr "Extra användare"
 
 msgid "FTP Host to connect to. Example: <i>ftp.example.com</i>."
 msgstr "FTP-värd att ansluta till. Exempel: <i>ftp.example.com</i>."
@@ -5823,7 +5823,7 @@ msgid "FTP Port number. Leave blank to use the default port <i>21</i>."
 msgstr "FTP-portnummer. Lämna tomt för att använda standardporten <i>21</i>."
 
 msgid "Fab Buttons"
-msgstr ""
+msgstr "FAB-knappar"
 
 msgid "Failed"
 msgstr "Misslyckades"
@@ -5856,22 +5856,22 @@ msgid "Failover is in an error state."
 msgstr "Redundansväxlingen är i ett feltillstånd."
 
 msgid "Fast (Less secure)"
-msgstr ""
+msgstr "Snabb (mindre säker)"
 
 msgid "Feature"
-msgstr ""
+msgstr "Funktion"
 
 msgid "Features"
-msgstr ""
+msgstr "Funktioner"
 
 msgid "Feb"
 msgstr ""
 
 msgid "Fetch DataStores"
-msgstr ""
+msgstr "Hämta datalager"
 
 msgid "Fetch Method"
-msgstr ""
+msgstr "Hämtningsmetod"
 
 msgid "Fetching Encryption Summary"
 msgstr "Hämtar krypteringssammanfattning"
@@ -5880,13 +5880,13 @@ msgid "Fetching Encryption Summary for "
 msgstr "Hämtar krypteringssammanfattning för "
 
 msgid "Fibre Channel "
-msgstr ""
+msgstr "Fibre Channel "
 
 msgid "Fibre Channel Port "
 msgstr "Fibre Channel-port "
 
 msgid "Fibre Channel Ports"
-msgstr ""
+msgstr "Fibre Channel-portar"
 
 msgid "File Information"
 msgstr "Filinformation"
@@ -5945,10 +5945,10 @@ msgid "Filter disks by name"
 msgstr "Filtrera diskar efter namn"
 
 msgid "Find this information later by clicking"
-msgstr ""
+msgstr "Hitta denna information senare genom att klicka"
 
 msgid "Finding Pools"
-msgstr ""
+msgstr "Söker efter pooler"
 
 msgid "Finding pools to import..."
 msgstr "Söker efter pooler att importera ..."
@@ -5957,7 +5957,7 @@ msgid "Finish Upgrade?"
 msgstr "Slutföra uppgraderingen?"
 
 msgid "Finished"
-msgstr ""
+msgstr "Slutförd"
 
 msgid "Finished Time:"
 msgstr "Sluttid:"
@@ -5966,13 +5966,13 @@ msgid "Fix Credential"
 msgstr "Åtgärda autentiseringsuppgift"
 
 msgid "Fix database"
-msgstr ""
+msgstr "Reparera databas"
 
 msgid "Flags"
 msgstr ""
 
 msgid "Flags Type"
-msgstr ""
+msgstr "Flaggtyp"
 
 msgid ""
 "Flags to pass to <a "
@@ -5985,10 +5985,10 @@ msgid "Flip"
 msgstr ""
 
 msgid "Folder"
-msgstr ""
+msgstr "Mapp"
 
 msgid "Follow Symlinks"
-msgstr ""
+msgstr "Följ symboliska länkar"
 
 msgid "Follow symlinks and copy the items to which they link."
 msgstr "Följ symboliska länkar och kopiera de objekt som de länkar till."
@@ -6041,10 +6041,10 @@ msgid ""
 msgstr ""
 
 msgid "Foreground 1"
-msgstr ""
+msgstr "Förgrund 1"
 
 msgid "Foreground 2"
-msgstr ""
+msgstr "Förgrund 2"
 
 msgid "Form Invalid"
 msgstr "Ogiltigt formulär"
@@ -6053,7 +6053,7 @@ msgid "Free"
 msgstr ""
 
 msgid "FreeBSD"
-msgstr ""
+msgstr "FreeBSD"
 
 msgid "FreeBSD device names of each disk being edited."
 msgstr "FreeBSD-enhetsnamn för varje disk som redigeras."
@@ -6091,16 +6091,16 @@ msgid "From Email"
 msgstr "Från e-post"
 
 msgid "From Name"
-msgstr ""
+msgstr "Avsändarnamn"
 
 msgid "Full"
 msgstr ""
 
 msgid "Full Control"
-msgstr ""
+msgstr "Fullständig kontroll"
 
 msgid "Full Name"
-msgstr ""
+msgstr "Fullständigt namn"
 
 msgid ""
 "Full path to the pool or dataset to share. Mandatory. Click <b>ADD "
@@ -6108,10 +6108,10 @@ msgid ""
 msgstr ""
 
 msgid "Full with random data"
-msgstr ""
+msgstr "Fyll helt med slumpmässiga data"
 
 msgid "Full with zeros"
-msgstr ""
+msgstr "Fyll helt med nollor"
 
 msgid ""
 "Fully qualified domain name of the host with the  dynamic IP address. "
@@ -6126,7 +6126,7 @@ msgid "GID"
 msgstr ""
 
 msgid "GMail OAuth"
-msgstr ""
+msgstr "GMail OAuth"
 
 msgid "GUI"
 msgstr ""
@@ -6138,10 +6138,10 @@ msgid "Gateway"
 msgstr "Gateway"
 
 msgid "Gathering data"
-msgstr ""
+msgstr "Samlar in data"
 
 msgid "Gathering data..."
-msgstr ""
+msgstr "Samlar in data …"
 
 msgid "General"
 msgstr "Allmänt"
@@ -6192,7 +6192,7 @@ msgid "Generate idmap low range based on same algorithm that SSSD uses by defaul
 msgstr "Generera det lägre idmap-intervallet med samma algoritm som SSSD använder som standard."
 
 msgid "Get Started"
-msgstr ""
+msgstr "Kom igång"
 
 msgid "GiB"
 msgstr ""
@@ -6224,7 +6224,7 @@ msgid "Global password to unlock SEDs."
 msgstr "Globalt lösenord för att låsa upp SED-diskar."
 
 msgid "Go Back to Jails"
-msgstr ""
+msgstr "Gå tillbaka till jail-miljöer"
 
 msgid "Go to ACL Manager"
 msgstr "Gå till ACL-hanteraren"
@@ -6236,10 +6236,10 @@ msgid "Go to Admin Portal"
 msgstr "Gå till administratörsportalen"
 
 msgid "Go to HA settings"
-msgstr ""
+msgstr "Gå till HA-inställningarna"
 
 msgid "Go to Portal"
-msgstr ""
+msgstr "Gå till portalen"
 
 msgid "Graph Age in Months"
 msgstr ""
