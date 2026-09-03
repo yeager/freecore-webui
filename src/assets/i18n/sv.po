@@ -1849,7 +1849,7 @@ msgid "Auxiliary parameters"
 msgstr ""
 
 msgid "Available"
-msgstr ""
+msgstr "Tillgänglig"
 
 msgid "Available Disks"
 msgstr ""
@@ -2209,7 +2209,7 @@ msgid "COPY TO CLIPBOARD"
 msgstr ""
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "CPU Details"
 msgstr ""
@@ -2270,7 +2270,7 @@ msgid ""
 msgstr ""
 
 msgid "Capacity"
-msgstr ""
+msgstr "Kapacitet"
 
 msgid "Case Sensitivity"
 msgstr ""
@@ -7779,7 +7779,7 @@ msgid ""
 msgstr ""
 
 msgid "Memory"
-msgstr ""
+msgstr "Minne"
 
 msgid "Memory Reports"
 msgstr ""
@@ -12078,7 +12078,7 @@ msgid "Stats/Settings"
 msgstr ""
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Status of TrueCommand"
 msgstr ""
@@ -12484,7 +12484,7 @@ msgid "Team Drive ID"
 msgstr ""
 
 msgid "Temperature"
-msgstr ""
+msgstr "Temperatur"
 
 msgid "Template"
 msgstr ""
@@ -13811,7 +13811,7 @@ msgid "Uptime"
 msgstr ""
 
 msgid "Usage"
-msgstr ""
+msgstr "Användning"
 
 msgid "Usage collection"
 msgstr ""
@@ -13947,7 +13947,7 @@ msgid "Use unencrypted connection."
 msgstr ""
 
 msgid "Used"
-msgstr ""
+msgstr "Använd"
 
 msgid ""
 "Used by clients in PASV mode. A default of <i>0</i> means any port above "
