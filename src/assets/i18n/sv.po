@@ -16959,7 +16959,7 @@ msgid "sysvshm"
 msgstr ""
 
 msgid "template"
-msgstr ""
+msgstr "mall"
 
 msgid "threads"
 msgstr ""
