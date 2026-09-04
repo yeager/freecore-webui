@@ -16609,7 +16609,7 @@ msgid "coredumpsize"
 msgstr ""
 
 msgid "cpuset"
-msgstr ""
+msgstr "processoruppsättning"
 
 msgid "cputime"
 msgstr "processortid"
