@@ -16839,7 +16839,7 @@ msgid "name"
 msgstr "namn"
 
 msgid "nmsgq"
-msgstr ""
+msgstr "antal meddelandeköer"
 
 msgid "no"
 msgstr ""
