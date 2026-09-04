@@ -16956,7 +16956,7 @@ msgid "sysvsem"
 msgstr "SYSV-semaforer"
 
 msgid "sysvshm"
-msgstr ""
+msgstr "SYSV-delat minne"
 
 msgid "template"
 msgstr "mall"
