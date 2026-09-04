@@ -16953,7 +16953,7 @@ msgid "sysvmsg"
 msgstr "SYSV-meddelanden"
 
 msgid "sysvsem"
-msgstr ""
+msgstr "SYSV-semaforer"
 
 msgid "sysvshm"
 msgstr ""
