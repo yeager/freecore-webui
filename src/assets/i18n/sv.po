@@ -16848,7 +16848,7 @@ msgid "nsemop"
 msgstr "antal semaforåtgärder"
 
 msgid "nshm"
-msgstr ""
+msgstr "antal delade minnessegment"
 
 msgid "nthr"
 msgstr ""
