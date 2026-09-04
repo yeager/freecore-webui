@@ -6837,7 +6837,7 @@ msgstr ""
 "datamängder utom <i>child1</i>. Separera poster med <code>Retur</code>."
 
 msgid "Exec"
-msgstr ""
+msgstr "Kör"
 
 msgid "Execute"
 msgstr "Kör"
@@ -6993,7 +6993,7 @@ msgid "Features"
 msgstr "Funktioner"
 
 msgid "Feb"
-msgstr ""
+msgstr "feb"
 
 msgid "Fetch DataStores"
 msgstr "Hämta datalager"
@@ -7123,7 +7123,7 @@ msgstr ""
 "funktionen <b>konsol</b>."
 
 msgid "Flip"
-msgstr ""
+msgstr "Vänd"
 
 msgid "Folder"
 msgstr "Mapp"
@@ -7292,13 +7292,13 @@ msgid "GENERAL"
 msgstr "ALLMÄNT"
 
 msgid "GID"
-msgstr ""
+msgstr "GID"
 
 msgid "GMail OAuth"
 msgstr "GMail OAuth"
 
 msgid "GUI"
-msgstr ""
+msgstr "GUI"
 
 msgid "GUI SSL Certificate"
 msgstr "SSL-certifikat för gränssnittet"
@@ -7370,7 +7370,7 @@ msgid "Get Started"
 msgstr "Kom igång"
 
 msgid "GiB"
-msgstr ""
+msgstr "GiB"
 
 msgid ""
 "Give this user permission to use <a  href=\"https://www.sudo.ws/\" "
@@ -7428,7 +7428,7 @@ msgid "Graphite Separate Instances"
 msgstr "Separata Graphite-instanser"
 
 msgid "Green"
-msgstr ""
+msgstr "Grön"
 
 msgid "Group"
 msgstr "Grupp"
@@ -7818,10 +7818,10 @@ msgid "IBurst"
 msgstr "IBurst"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "IDMAP"
-msgstr ""
+msgstr "IDMAP"
 
 msgid "INSTALL"
 msgstr "INSTALLERA"
@@ -7940,7 +7940,7 @@ msgid ""
 msgstr ""
 
 msgid "Id"
-msgstr ""
+msgstr "Id"
 
 msgid "Identification"
 msgstr "Identifiering"
@@ -7990,7 +7990,7 @@ msgid "Idle"
 msgstr "Vilande"
 
 msgid "Idmap"
-msgstr ""
+msgstr "Idmap"
 
 msgid "Idmap Backend"
 msgstr "Idmap-bakände"
@@ -8108,7 +8108,7 @@ msgid "Importing pools."
 msgstr "Importerar pooler."
 
 msgid "In"
-msgstr ""
+msgstr "In"
 
 msgid "In KiBs or greater. A default of <i>0 KiB</i> means unlimited. "
 msgstr "I KiB eller mer. Standardvärdet <i>0 KiB</i> betyder obegränsat. "
@@ -8377,7 +8377,7 @@ msgid "Items deleted"
 msgstr "Objekt har tagits bort"
 
 msgid "JID"
-msgstr ""
+msgstr "JID"
 
 msgid "Jail"
 msgstr "Jail-miljö"
@@ -8424,7 +8424,7 @@ msgid "Jail stack size in bytes."
 msgstr "Stackstorlek för jail-miljö i byte."
 
 msgid "Jails"
-msgstr ""
+msgstr "Jail-miljöer"
 
 msgid "Jails Started"
 msgstr "Jail-miljöer startade"
@@ -8442,13 +8442,13 @@ msgid "Jan"
 msgstr "Jan"
 
 msgid "Jul"
-msgstr ""
+msgstr "jul"
 
 msgid "Jun"
-msgstr ""
+msgstr "jun"
 
 msgid "KDC"
-msgstr ""
+msgstr "KDC"
 
 msgid "KMIP"
 msgstr "KMIP"
@@ -8542,7 +8542,7 @@ msgstr ""
 "för instruktioner om hur nyckeln genereras."
 
 msgid "KiB"
-msgstr ""
+msgstr "KiB"
 
 msgid "LAGG Ports"
 msgstr "LAGG-portar"
@@ -8746,7 +8746,7 @@ msgid "Linked Service"
 msgstr "Länkad tjänst"
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "List any dataset properties that will not be included with the replication."
 msgstr "Lista datamängdsegenskaper som inte ska ingå i replikeringen."
@@ -8904,7 +8904,7 @@ msgid "MSDOSFS locale"
 msgstr "MSDOSFS-språkversion"
 
 msgid "MTU"
-msgstr ""
+msgstr "MTU"
 
 msgid "Mac Address"
 msgstr "MAC-adress"
@@ -8976,7 +8976,7 @@ msgid "Maproot User"
 msgstr "Mappa root till användare"
 
 msgid "Mar"
-msgstr ""
+msgstr "mar"
 
 msgid "Mask"
 msgstr "Mask"
@@ -9105,7 +9105,7 @@ msgid ""
 msgstr ""
 
 msgid "May"
-msgstr ""
+msgstr "maj"
 
 msgid "Media Subtype"
 msgstr "Medieundertyp"
@@ -9208,7 +9208,7 @@ msgid "Metrics"
 msgstr "Mätvärden"
 
 msgid "MiB"
-msgstr ""
+msgstr "MiB"
 
 msgid "MiB. Units  smaller than MiB are not allowed."
 msgstr "MiB. Enheter mindre än MiB tillåts inte."
@@ -9300,7 +9300,7 @@ msgid "Module name that matches the name requested by  the rsync client."
 msgstr "Modulnamn som motsvarar namnet som rsync-klienten begär."
 
 msgid "Mon"
-msgstr ""
+msgstr "mån"
 
 msgid "Monitor"
 msgstr "Övervaka"
@@ -9390,10 +9390,10 @@ msgid ""
 msgstr ""
 
 msgid "NAA"
-msgstr ""
+msgstr "NAA"
 
 msgid "NAT"
-msgstr ""
+msgstr "NAT"
 
 msgid "NAT Autoconfigure IPv4"
 msgstr "Konfigurera IPv4 för NAT automatiskt"
@@ -9414,7 +9414,7 @@ msgid "NFSv4"
 msgstr "NFSv4"
 
 msgid "NIC"
-msgstr ""
+msgstr "NIC"
 
 msgid "NIS"
 msgstr "NIS"
@@ -9426,13 +9426,13 @@ msgid "NIS Servers"
 msgstr "NIS-servrar"
 
 msgid "NO"
-msgstr ""
+msgstr "NEJ"
 
 msgid "NOT RUN SINCE LAST BOOT"
 msgstr "HAR INTE KÖRTS SEDAN SENASTE UPPSTART"
 
 msgid "NSS"
-msgstr ""
+msgstr "NSS"
 
 msgid "NTLMv1 Auth"
 msgstr "NTLMv1-autentisering"
@@ -9868,7 +9868,7 @@ msgid "Notice"
 msgstr "Meddelande"
 
 msgid "Nov"
-msgstr ""
+msgstr "nov"
 
 msgid "Number of CPUs"
 msgstr "Antal processorer"
@@ -10012,7 +10012,7 @@ msgid "OAuth Client Secret"
 msgstr "OAuth-klienthemlighet"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "OQ % Used"
 msgstr "OQ % använt"
@@ -10030,7 +10030,7 @@ msgid "Objects Used"
 msgstr "Använda objekt"
 
 msgid "Oct"
-msgstr ""
+msgstr "okt"
 
 msgid "Off"
 msgstr "Av"
@@ -10060,7 +10060,7 @@ msgid "Offline disk "
 msgstr "Koppla från disk "
 
 msgid "Ok"
-msgstr ""
+msgstr "OK"
 
 msgid "On"
 msgstr "På"
@@ -10542,7 +10542,7 @@ msgid "Permit Sudo"
 msgstr "Tillåt sudo"
 
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 msgid "Phone Number"
 msgstr "Telefonnummer"
@@ -10551,7 +10551,7 @@ msgid "Physical interface of the selected member."
 msgstr "Fysiskt gränssnitt för den valda medlemmen."
 
 msgid "PiB"
-msgstr ""
+msgstr "PiB"
 
 msgid "Plain (No Encryption)"
 msgstr "Okrypterad (ingen kryptering)"
@@ -10941,10 +10941,10 @@ msgid "Purpose"
 msgstr "Syfte"
 
 msgid "Quick"
-msgstr ""
+msgstr "Snabb"
 
 msgid "Quiet"
-msgstr ""
+msgstr "Tyst"
 
 msgid "Quota critical alert at, %"
 msgstr "Kritiskt kvotlarm vid, %"
@@ -10981,7 +10981,7 @@ msgid "RFC2307"
 msgstr "RFC2307"
 
 msgid "RID"
-msgstr ""
+msgstr "RID"
 
 msgid "Raid-z"
 msgstr "RAID-Z"
@@ -11134,7 +11134,7 @@ msgid "Recursive"
 msgstr "Rekursiv"
 
 msgid "Red"
-msgstr ""
+msgstr "Röd"
 
 msgid ""
 "Redirect <i>HTTP</i> connections to <i>HTTPS</i>. A  <i>GUI SSL "
@@ -11277,7 +11277,7 @@ msgid "Rename"
 msgstr "Byt namn"
 
 msgid "Renew"
-msgstr ""
+msgstr "Förnya"
 
 msgid "Renew Certificate Days"
 msgstr "Förnya certifikat, dagar"
@@ -11592,7 +11592,7 @@ msgid "Rollback"
 msgstr "Återställning"
 
 msgid "Room"
-msgstr ""
+msgstr "Rum"
 
 msgid "Root CA"
 msgstr "Rot-CA"
@@ -11714,13 +11714,13 @@ msgid "SFTP Log Level"
 msgstr "SFTP-loggnivå"
 
 msgid "SFU"
-msgstr ""
+msgstr "SFU"
 
 msgid "SFU20"
-msgstr ""
+msgstr "SFU20"
 
 msgid "SID"
-msgstr ""
+msgstr "SID"
 
 msgid "SIGNUP"
 msgstr "REGISTRERA DIG"
@@ -11823,7 +11823,7 @@ msgid "Same as Source"
 msgstr "Samma som källa"
 
 msgid "Sat"
-msgstr ""
+msgstr "lör"
 
 msgid "Save"
 msgstr "Spara"
@@ -12634,7 +12634,7 @@ msgid "Send initial debug."
 msgstr "Skicka inledande felsökningsinformation."
 
 msgid "Sep"
-msgstr ""
+msgstr "sep"
 
 msgid "Separate multiple values by pressing <code>Enter</code>."
 msgstr "Separera flera värden genom att trycka på <code>Retur</code>."
@@ -13663,7 +13663,7 @@ msgid ""
 msgstr ""
 
 msgid "Show"
-msgstr ""
+msgstr "Visa"
 
 msgid "Show Advanced Fields by Default"
 msgstr "Visa avancerade fält som standard"
@@ -13782,7 +13782,7 @@ msgid ""
 msgstr ""
 
 msgid "Sleep"
-msgstr ""
+msgstr "Vila"
 
 msgid "Slide me!"
 msgstr "Dra mig!"
@@ -13842,7 +13842,7 @@ msgid "Source Location"
 msgstr "Källplats"
 
 msgid "Space"
-msgstr ""
+msgstr "Utrymme"
 
 msgid ""
 "Space-delimited list of allowed IP addresses <i>(192.168.1.10)</i> or "
@@ -14158,7 +14158,7 @@ msgid "Suggest Layout"
 msgstr "Föreslå layout"
 
 msgid "Sun"
-msgstr ""
+msgstr "sön"
 
 msgid "Support"
 msgstr "Support"
@@ -14290,7 +14290,7 @@ msgid "System-Generated Settings"
 msgstr "Systemgenererade inställningar"
 
 msgid "TCP"
-msgstr ""
+msgstr "TCP"
 
 msgid "TCP Port"
 msgstr "TCP-port"
@@ -14302,7 +14302,7 @@ msgid "TCP port used to access the iSCSI target. Default is <i>3260</i>."
 msgstr "TCP-port som används för åtkomst till iSCSI-målet. Standardvärdet är <i>3260</i>."
 
 msgid "TDB"
-msgstr ""
+msgstr "TDB"
 
 msgid "TEST CHANGES"
 msgstr "TESTA ÄNDRINGAR"
@@ -14362,7 +14362,7 @@ msgid "TLS Server Hostname"
 msgstr "TLS-servervärdnamn"
 
 msgid "Tag"
-msgstr ""
+msgstr "Tagg"
 
 msgid "Take Snapshot"
 msgstr "Ta ögonblicksbild"
@@ -15397,10 +15397,10 @@ msgid ""
 msgstr ""
 
 msgid "Thu"
-msgstr ""
+msgstr "tors"
 
 msgid "TiB"
-msgstr ""
+msgstr "TiB"
 
 msgid "Ticket"
 msgstr "Ärende"
@@ -15432,7 +15432,7 @@ msgid "Timezone"
 msgstr "Tidszon"
 
 msgid "Title"
-msgstr ""
+msgstr "Rubrik"
 
 msgid "Title "
 msgstr "Titel "
@@ -15489,7 +15489,7 @@ msgid "Topology"
 msgstr "Topologi"
 
 msgid "Train"
-msgstr ""
+msgstr "Gren"
 
 msgid "Transfer"
 msgstr "Överföring"
@@ -15557,7 +15557,7 @@ msgid "TrueNAS controllers"
 msgstr "TrueNAS-styrenheter"
 
 msgid "Tue"
-msgstr ""
+msgstr "tis"
 
 msgid "Tunable"
 msgstr "Justerbar parameter"
@@ -15605,7 +15605,7 @@ msgid "Type to search"
 msgstr "Skriv för att söka"
 
 msgid "UDP"
-msgstr ""
+msgstr "UDP"
 
 msgid ""
 "UDP port number on the system receiving  SNMP trap notifications. The "
@@ -15636,16 +15636,16 @@ msgid ""
 msgstr ""
 
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 msgid "URL of the HTTP host to connect to."
 msgstr "URL för HTTP-värden att ansluta till."
 
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 msgid ""
 "Umask is used for newly created files. Default is <i>000</i> (anyone can "
@@ -15758,7 +15758,7 @@ msgid "Unshare"
 msgstr "Sluta dela"
 
 msgid "Until"
-msgstr ""
+msgstr "Till"
 
 msgid "Upcoming tasks"
 msgstr "Kommande uppgifter"
@@ -16476,7 +16476,7 @@ msgid "Wallclock time in seconds."
 msgstr "Verklig tid i sekunder."
 
 msgid "Warn"
-msgstr ""
+msgstr "Varna"
 
 msgid "Warning"
 msgstr "Varning"
@@ -16539,13 +16539,13 @@ msgid "Webhook URL"
 msgstr "Webhook-URL"
 
 msgid "Wed"
-msgstr ""
+msgstr "ons"
 
 msgid "Weekly"
 msgstr "Varje vecka"
 
 msgid "Weeks"
-msgstr ""
+msgstr "Veckor"
 
 msgid "Welcome to your new NAS"
 msgstr "Välkommen till din nya NAS"
