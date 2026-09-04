@@ -16896,7 +16896,7 @@ msgid "resolver"
 msgstr ""
 
 msgid "rlimits"
-msgstr ""
+msgstr "resursgränser"
 
 msgid "rpc.lockd(8) bind port"
 msgstr "rpc.lockd(8)-bindningsport"
