@@ -16926,7 +16926,7 @@ msgid "service failed to stop."
 msgstr "tjänsten kunde inte stoppas."
 
 msgid "shmsize"
-msgstr ""
+msgstr "storlek på delat minne"
 
 msgid "snapshot"
 msgstr "ögonblicksbild"
