@@ -16618,7 +16618,7 @@ msgid "createcomputer"
 msgstr ""
 
 msgid "datasize"
-msgstr ""
+msgstr "datastorlek"
 
 msgid "days"
 msgstr ""
