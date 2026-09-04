@@ -16845,7 +16845,7 @@ msgid "no"
 msgstr ""
 
 msgid "nsemop"
-msgstr ""
+msgstr "antal semaforåtgärder"
 
 msgid "nshm"
 msgstr ""
