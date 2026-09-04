@@ -16833,7 +16833,7 @@ msgid "msgqqueued"
 msgstr ""
 
 msgid "msgqsize"
-msgstr ""
+msgstr "storlek på meddelandekö"
 
 msgid "name"
 msgstr "namn"
