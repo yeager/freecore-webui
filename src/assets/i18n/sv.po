@@ -16878,7 +16878,7 @@ msgid "pbkdf2iters"
 msgstr ""
 
 msgid "pcpu"
-msgstr ""
+msgstr "processorprocent"
 
 msgid "pool options for "
 msgstr "poolalternativ för "
