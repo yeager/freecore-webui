@@ -16851,7 +16851,7 @@ msgid "nshm"
 msgstr "antal delade minnessegment"
 
 msgid "nthr"
-msgstr ""
+msgstr "antal trådar"
 
 msgid "on Sundays at 00:00 (12:00 AM)"
 msgstr "på söndagar kl. 00:00"
