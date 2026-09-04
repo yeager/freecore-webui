@@ -16612,7 +16612,7 @@ msgid "cpuset"
 msgstr ""
 
 msgid "cputime"
-msgstr ""
+msgstr "processortid"
 
 msgid "createcomputer"
 msgstr ""
