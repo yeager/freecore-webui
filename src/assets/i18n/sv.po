@@ -17,10 +17,10 @@ msgid " Download Updates"
 msgstr " Hämta uppdateringar"
 
 msgid " First vdev has "
-msgstr ""
+msgstr " Första vdev har "
 
 msgid " First vdev is a "
-msgstr ""
+msgstr " Första vdev är en "
 
 msgid " KiB."
 msgstr " KiB."
@@ -74,7 +74,7 @@ msgid " builtin users (default setting is <i>hidden</i>)."
 msgstr " inbyggda användare (standardinställningen är <i>dold</i>)."
 
 msgid " but datastore "
-msgstr ""
+msgstr " men datalagret "
 
 msgid " day, "
 msgstr " dag, "
@@ -92,10 +92,10 @@ msgid ""
 msgstr " diskar med icke-unika serienummer är tillgängliga. Icke-unika serienummer kan orsakas av ett kablagefel, och om sådana diskar läggs till i en pool kan data gå förlorade."
 
 msgid " disks, new vdev has "
-msgstr ""
+msgstr " diskar, ny vdev har "
 
 msgid " is "
-msgstr ""
+msgstr " är "
 
 msgid " is a required field."
 msgstr " är ett obligatoriskt fält."
@@ -203,10 +203,10 @@ msgid "(System Dataset Pool)"
 msgstr "(Systemdatamängdspool)"
 
 msgid "(top-right), then"
-msgstr ""
+msgstr "(uppe till höger), sedan"
 
 msgid ", new vdev is "
-msgstr ""
+msgstr ", ny vdev är "
 
 msgid ". At least one is required."
 msgstr ". Minst en krävs."
@@ -222,7 +222,7 @@ msgid ". Is this correct?"
 msgstr ". Är detta korrekt?"
 
 msgid "... Make sure the "
-msgstr ""
+msgstr "... Kontrollera att "
 
 msgid "0=Disabled, blank=inherit"
 msgstr "0=Inaktiverad, tom=ärv"
@@ -240,7 +240,7 @@ msgid "</b> plugin deletes all data and snapshots stored with it."
 msgstr "</b>-insticksmodulen tar bort alla data och ögonblicksbilder som lagras med den."
 
 msgid "</b> with the keypair"
-msgstr ""
+msgstr "</b> med nyckelparet"
 
 msgid "</i> cannot be running when deleting a mountpoint."
 msgstr "</i> får inte köras när en monteringspunkt tas bort."
@@ -249,7 +249,7 @@ msgid "</i> has started."
 msgstr "</i> har startat."
 
 msgid "</i> keypair?</p>"
-msgstr ""
+msgstr "</i> nyckelpar?</p>"
 
 msgid "</i> now?"
 msgstr "</i> nu?"
@@ -702,7 +702,7 @@ msgstr ""
 "Ange ett annat delningsnamn."
 
 msgid "<p>Delete the <i>"
-msgstr ""
+msgstr "<p>Ta bort <i>"
 
 msgid ""
 "<p>Including the Password Secret Seed allows using this configuration file "
@@ -4645,7 +4645,7 @@ msgid "Deleting interfaces while HA is enabled is not allowed."
 msgstr "Det är inte tillåtet att ta bort gränssnitt när HA är aktiverat."
 
 msgid "Deleting the <b>"
-msgstr ""
+msgstr "Tar bort <b>"
 
 msgid "Deny"
 msgstr "Neka"
@@ -14488,7 +14488,7 @@ msgid "Textarea"
 msgstr "Textområde"
 
 msgid "The"
-msgstr ""
+msgstr "Den"
 
 msgid ""
 "The <a href=\"https://www.freebsd.org/cgi/man.cgi?query=devfs "
@@ -14511,7 +14511,7 @@ msgstr ""
 "omöjliga att komma åt eller radera."
 
 msgid "The AFP"
-msgstr ""
+msgstr "AFP-tjänsten"
 
 msgid ""
 "The API_KEY to use as the sender. This must be a valid UUID. It can be "
@@ -14736,7 +14736,7 @@ msgstr ""
 "<i>-manual-update-unsigned.tar</i>."
 
 msgid "The filesystem "
-msgstr ""
+msgstr "Filsystemet "
 
 msgid "The following datasets cannot be unlocked."
 msgstr "Följande datamängder kan inte låsas upp."
@@ -14789,7 +14789,7 @@ msgid ""
 msgstr ""
 
 msgid "The length of "
-msgstr ""
+msgstr "Längden på "
 
 msgid ""
 "The lifespan (in seconds) of each One-Time Password. Default is 30 seconds. "
@@ -14835,7 +14835,7 @@ msgid ""
 msgstr ""
 
 msgid "The name "
-msgstr ""
+msgstr "Namnet "
 
 msgid ""
 "The number of bits in the key used by the cryptographic algorithm. For "
@@ -14879,13 +14879,13 @@ msgid "The pasted string starts with a space"
 msgstr "Den inklistrade strängen börjar med ett blanksteg"
 
 msgid "The path"
-msgstr ""
+msgstr "Sökvägen"
 
 msgid "The physical location of the host."
 msgstr "Värdens fysiska plats."
 
 msgid "The pool <i>"
-msgstr ""
+msgstr "Poolen <i>"
 
 msgid ""
 "The pool name that appears in the <b>connect to server</b> dialog of the "
@@ -15139,7 +15139,7 @@ msgid "These datasets will be unlocked with the provided credentials."
 msgstr "Dessa datamängder låses upp med de angivna autentiseringsuppgifterna."
 
 msgid "These items will be <b>"
-msgstr ""
+msgstr "Dessa objekt kommer att <b>"
 
 msgid ""
 "These permissions are too complicated to be displayed and cannot be saved "
@@ -16554,7 +16554,7 @@ msgid "What and Where"
 msgstr "Vad och var"
 
 msgid "When"
-msgstr ""
+msgstr "När"
 
 msgid ""
 "When <code>tls_crypt_auth_enabled</code> is enabled and "
@@ -16994,10 +16994,10 @@ msgid "datasize"
 msgstr "datastorlek"
 
 msgid "days"
-msgstr ""
+msgstr "dagar"
 
 msgid "depends"
-msgstr ""
+msgstr "beror på"
 
 msgid "destroy"
 msgstr "förstör"
@@ -17096,10 +17096,10 @@ msgid "hostid_strict_check"
 msgstr "hostid_strict_check"
 
 msgid "hours"
-msgstr ""
+msgstr "timmar"
 
 msgid "iSCSI"
-msgstr ""
+msgstr "iSCSI"
 
 msgid "iSCSI Group"
 msgstr "iSCSI-grupp"
@@ -17117,7 +17117,7 @@ msgid "iXsystems for more information."
 msgstr "iXsystems för mer information."
 
 msgid "interfaces"
-msgstr ""
+msgstr "gränssnitt"
 
 msgid "ip4"
 msgstr "ip4"
@@ -17170,7 +17170,7 @@ msgid "lzjb (legacy, not recommended)"
 msgstr "lzjb (äldre, rekommenderas inte)"
 
 msgid "mDNS"
-msgstr ""
+msgstr "mDNS"
 
 msgid "mac_prefix"
 msgstr "mac_prefix"
@@ -17185,7 +17185,7 @@ msgid "memoryuse"
 msgstr "minnesanvändning"
 
 msgid "minutes"
-msgstr ""
+msgstr "minuter"
 
 msgid "mount_devfs"
 msgstr "mount_devfs"
@@ -17215,7 +17215,7 @@ msgid "nmsgq"
 msgstr "antal meddelandeköer"
 
 msgid "no"
-msgstr ""
+msgstr "nej"
 
 msgid "nsemop"
 msgstr "antal semaforåtgärder"
@@ -17266,7 +17266,7 @@ msgid "reset"
 msgstr "återställ"
 
 msgid "resolver"
-msgstr ""
+msgstr "resolver"
 
 msgid "rlimits"
 msgstr "resursgränser"
@@ -17386,7 +17386,7 @@ msgid "while pool is encrypted"
 msgstr "medan poolen är krypterad"
 
 msgid "yes"
-msgstr ""
+msgstr "ja"
 
 msgid "zle (runs of zeros)"
 msgstr "zle (följder av nollor)"
