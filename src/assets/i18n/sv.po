@@ -16950,7 +16950,7 @@ msgid "swapuse"
 msgstr "växlingsanvändning"
 
 msgid "sysvmsg"
-msgstr ""
+msgstr "SYSV-meddelanden"
 
 msgid "sysvsem"
 msgstr ""
