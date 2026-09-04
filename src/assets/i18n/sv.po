@@ -16941,7 +16941,7 @@ msgid "stacksize"
 msgstr "stackstorlek"
 
 msgid "stop_timeout"
-msgstr ""
+msgstr "tidsgräns för stopp"
 
 msgid "support and services? Contact"
 msgstr "support och tjänster? Kontakta"
