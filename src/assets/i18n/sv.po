@@ -16895,61 +16895,61 @@ msgid ""
 msgstr ""
 
 msgid "allow_chflags"
-msgstr ""
+msgstr "allow_chflags"
 
 msgid "allow_mlock"
-msgstr ""
+msgstr "allow_mlock"
 
 msgid "allow_mount"
-msgstr ""
+msgstr "allow_mount"
 
 msgid "allow_mount_*"
-msgstr ""
+msgstr "allow_mount_*"
 
 msgid "allow_mount_devfs"
-msgstr ""
+msgstr "allow_mount_devfs"
 
 msgid "allow_mount_fusefs"
-msgstr ""
+msgstr "allow_mount_fusefs"
 
 msgid "allow_mount_nullfs"
-msgstr ""
+msgstr "allow_mount_nullfs"
 
 msgid "allow_mount_procfs"
-msgstr ""
+msgstr "allow_mount_procfs"
 
 msgid "allow_mount_tmpfs"
-msgstr ""
+msgstr "allow_mount_tmpfs"
 
 msgid "allow_mount_zfs"
-msgstr ""
+msgstr "allow_mount_zfs"
 
 msgid "allow_quotas"
-msgstr ""
+msgstr "allow_quotas"
 
 msgid "allow_raw_sockets"
-msgstr ""
+msgstr "allow_raw_sockets"
 
 msgid "allow_set_hostname"
-msgstr ""
+msgstr "allow_set_hostname"
 
 msgid "allow_socket_af"
-msgstr ""
+msgstr "allow_socket_af"
 
 msgid "allow_sysvipc"
-msgstr ""
+msgstr "allow_sysvipc"
 
 msgid "allow_tun"
-msgstr ""
+msgstr "allow_tun"
 
 msgid "allow_vmm"
-msgstr ""
+msgstr "allow_vmm"
 
 msgid "are the best place to ask questions and interact with fellow TrueNAS"
 msgstr "är bästa platsen för att ställa frågor och ha kontakt med andra TrueNAS-användare"
 
 msgid "assign_localhost"
-msgstr ""
+msgstr "assign_localhost"
 
 msgid "at 00:00 (12:00 AM)"
 msgstr "kl. 00:00"
@@ -16967,7 +16967,7 @@ msgid "bytes."
 msgstr "byte."
 
 msgid "children_max"
-msgstr ""
+msgstr "children_max"
 
 msgid "click here"
 msgstr "klicka här"
@@ -16979,7 +16979,7 @@ msgid "comment"
 msgstr "kommentar"
 
 msgid "coredumpsize"
-msgstr ""
+msgstr "coredumpsize"
 
 msgid "cpuset"
 msgstr "processoruppsättning"
@@ -16988,7 +16988,7 @@ msgid "cputime"
 msgstr "processortid"
 
 msgid "createcomputer"
-msgstr ""
+msgstr "createcomputer"
 
 msgid "datasize"
 msgstr "datastorlek"
@@ -17006,7 +17006,7 @@ msgid "details"
 msgstr "detaljer"
 
 msgid "devfs_ruleset"
-msgstr ""
+msgstr "devfs_ruleset"
 
 msgid "email"
 msgstr "e-post"
@@ -17015,7 +17015,7 @@ msgid "empty"
 msgstr "tom"
 
 msgid "enforce_statfs"
-msgstr ""
+msgstr "enforce_statfs"
 
 msgid "error"
 msgstr "fel"
@@ -17024,40 +17024,40 @@ msgid "everyone@"
 msgstr "everyone@"
 
 msgid "exec_clean"
-msgstr ""
+msgstr "exec_clean"
 
 msgid "exec_fib"
-msgstr ""
+msgstr "exec_fib"
 
 msgid "exec_jail_user"
-msgstr ""
+msgstr "exec_jail_user"
 
 msgid "exec_poststart"
-msgstr ""
+msgstr "exec_poststart"
 
 msgid "exec_poststop"
-msgstr ""
+msgstr "exec_poststop"
 
 msgid "exec_prestart"
-msgstr ""
+msgstr "exec_prestart"
 
 msgid "exec_prestop"
-msgstr ""
+msgstr "exec_prestop"
 
 msgid "exec_start"
-msgstr ""
+msgstr "exec_start"
 
 msgid "exec_stop"
-msgstr ""
+msgstr "exec_stop"
 
 msgid "exec_system_jail_user"
-msgstr ""
+msgstr "exec_system_jail_user"
 
 msgid "exec_system_user"
-msgstr ""
+msgstr "exec_system_user"
 
 msgid "exec_timeout"
-msgstr ""
+msgstr "exec_timeout"
 
 msgid "expires in"
 msgstr "går ut om"
@@ -17081,19 +17081,19 @@ msgid "gzip (maximum, slow)"
 msgstr "gzip (maximal, långsam)"
 
 msgid "host_domainname"
-msgstr ""
+msgstr "host_domainname"
 
 msgid "host_hostname"
-msgstr ""
+msgstr "host_hostname"
 
 msgid "host_time"
-msgstr ""
+msgstr "host_time"
 
 msgid "hostid"
-msgstr ""
+msgstr "hostid"
 
 msgid "hostid_strict_check"
-msgstr ""
+msgstr "hostid_strict_check"
 
 msgid "hours"
 msgstr ""
@@ -17120,19 +17120,19 @@ msgid "interfaces"
 msgstr ""
 
 msgid "ip4"
-msgstr ""
+msgstr "ip4"
 
 msgid "ip4.saddrsel"
-msgstr ""
+msgstr "ip4.saddrsel"
 
 msgid "ip6"
-msgstr ""
+msgstr "ip6"
 
 msgid "ip6.saddrsel"
-msgstr ""
+msgstr "ip6.saddrsel"
 
 msgid "ip_hostname"
-msgstr ""
+msgstr "ip_hostname"
 
 msgid "is Free and"
 msgstr "är gratis och"
@@ -17149,19 +17149,19 @@ msgid "is in a locked dataset."
 msgstr "finns i en låst datamängd."
 
 msgid "jail_zfs"
-msgstr ""
+msgstr "jail_zfs"
 
 msgid "jail_zfs_dataset"
-msgstr ""
+msgstr "jail_zfs_dataset"
 
 msgid "jail_zfs_mountpoint"
-msgstr ""
+msgstr "jail_zfs_mountpoint"
 
 msgid "list"
 msgstr "lista"
 
 msgid "login_flags"
-msgstr ""
+msgstr "login_flags"
 
 msgid "lz4 (recommended)"
 msgstr "lz4 (rekommenderas)"
@@ -17173,7 +17173,7 @@ msgid "mDNS"
 msgstr ""
 
 msgid "mac_prefix"
-msgstr ""
+msgstr "mac_prefix"
 
 msgid "maxproc"
 msgstr "maximalt antal processer"
@@ -17188,22 +17188,22 @@ msgid "minutes"
 msgstr ""
 
 msgid "mount_devfs"
-msgstr ""
+msgstr "mount_devfs"
 
 msgid "mount_fdescfs"
-msgstr ""
+msgstr "mount_fdescfs"
 
 msgid "mount_linprocfs"
-msgstr ""
+msgstr "mount_linprocfs"
 
 msgid "mount_procfs"
-msgstr ""
+msgstr "mount_procfs"
 
 msgid "mountd(8) bind port"
 msgstr "mountd(8)-bindningsport"
 
 msgid "msgqqueued"
-msgstr ""
+msgstr "msgqqueued"
 
 msgid "msgqsize"
 msgstr "storlek på meddelandekö"
@@ -17248,7 +17248,7 @@ msgid "password"
 msgstr "lösenord"
 
 msgid "pbkdf2iters"
-msgstr ""
+msgstr "pbkdf2iters"
 
 msgid "pcpu"
 msgstr "processorprocent"
@@ -17287,7 +17287,7 @@ msgid "seconds unless SAVE CHANGES is chosen to make them permanent."
 msgstr "sekunder om inte SPARA ÄNDRINGAR väljs för att göra dem permanenta."
 
 msgid "securelevel"
-msgstr ""
+msgstr "securelevel"
 
 msgid "selected"
 msgstr "valda"
@@ -17356,22 +17356,22 @@ msgid "vmemoryuse"
 msgstr "användning av virtuellt minne"
 
 msgid "vnet0_mac"
-msgstr ""
+msgstr "vnet0_mac"
 
 msgid "vnet1_mac"
-msgstr ""
+msgstr "vnet1_mac"
 
 msgid "vnet2_mac"
-msgstr ""
+msgstr "vnet2_mac"
 
 msgid "vnet3_mac"
-msgstr ""
+msgstr "vnet3_mac"
 
 msgid "vnet_default_interface"
-msgstr ""
+msgstr "vnet_default_interface"
 
 msgid "vnet_interfaces"
-msgstr ""
+msgstr "vnet_interfaces"
 
 msgid "wallclock"
 msgstr "verklig tid"
