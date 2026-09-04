@@ -16806,7 +16806,7 @@ msgid "maxproc"
 msgstr "maximalt antal processer"
 
 msgid "memorylocked"
-msgstr ""
+msgstr "låst minne"
 
 msgid "memoryuse"
 msgstr "minnesanvändning"
